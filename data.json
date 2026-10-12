@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-11T11:41:25Z",
+ "updated": "2026-10-12T11:46:52Z",
  "league": {
   "title": "Thursday 2 Player BP Hand",
   "location": "6R2BPH"
  },
  "standings": [
   [
-   "Throwing Shade",
-   11,
-   4
+   "Scotts On The Rocks",
+   21,
+   9
   ],
   [
    "No Clue",
@@ -36,11 +36,6 @@
    15
   ],
   [
-   "Scotts On The Rocks",
-   7,
-   8
-  ],
-  [
    "TakingNamesTakingAim",
    7,
    8
@@ -61,6 +56,11 @@
    17
   ],
   [
+   "Throwing Shade",
+   12,
+   18
+  ],
+  [
    "Throw Bros",
    11,
    19
@@ -78,12 +78,12 @@
  ],
  "results": [
   [
+   "Scotts On The Rocks",
    "Throwing Shade",
-   "Tag Team Tami",
-   "10/01/2026",
-   1,
-   11,
-   4
+   "10/11/2026",
+   2,
+   14,
+   1
   ],
   [
    "Dart Bags",
@@ -126,14 +126,6 @@
    7
   ],
   [
-   "Scotts On The Rocks",
-   "Never Trust A Dart",
-   "10/01/2026",
-   1,
-   7,
-   8
-  ],
-  [
    "Revenge",
    "DoubleIn StumbleOut",
    "10/08/2026",
@@ -188,6 +180,14 @@
    1,
    4,
    11
+  ],
+  [
+   "Throwing Shade",
+   "Scotts On The Rocks",
+   "10/11/2026",
+   2,
+   1,
+   14
   ]
  ],
  "cricket": [
@@ -237,21 +237,6 @@
    0
   ],
   [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   3.0,
-   6,
-   4,
-   0,
-   0,
-   0,
-   7,
-   1,
-   1,
-   1,
-   0
-  ],
-  [
    "Matt Wagner",
    "Handjobs4thehomeless",
    3.0,
@@ -264,6 +249,21 @@
    2,
    3,
    0,
+   0
+  ],
+  [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   3.0,
+   6,
+   4,
+   0,
+   0,
+   0,
+   7,
+   1,
+   1,
+   1,
    0
   ],
   [
@@ -293,6 +293,21 @@
    3,
    0,
    3,
+   0,
+   0
+  ],
+  [
+   "Scott Etter",
+   "Scotts On The Rocks",
+   2.7,
+   12,
+   6,
+   3,
+   1,
+   0,
+   10,
+   3,
+   2,
    0,
    0
   ],
@@ -327,21 +342,6 @@
    0
   ],
   [
-   "Shawn Bentley",
-   "Throwing Shade",
-   2.67,
-   6,
-   3,
-   3,
-   0,
-   0,
-   3,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Kirk Santelli",
    "DoubleIn StumbleOut",
    2.66,
@@ -351,21 +351,6 @@
    3,
    0,
    7,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
-   "Scott Etter",
-   "Scotts On The Rocks",
-   2.62,
-   6,
-   2,
-   2,
-   1,
-   0,
-   5,
    1,
    2,
    0,
@@ -492,21 +477,6 @@
    0
   ],
   [
-   "Jason Arena",
-   "Throwing Shade",
-   2.44,
-   6,
-   4,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Alexander Blake",
    "Dart Bags",
    2.43,
@@ -517,6 +487,36 @@
    0,
    3,
    1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Shawn Bentley",
+   "Throwing Shade",
+   2.34,
+   12,
+   4,
+   3,
+   1,
+   0,
+   4,
+   3,
+   4,
+   0,
+   0
+  ],
+  [
+   "Scott King",
+   "Scotts On The Rocks",
+   2.33,
+   12,
+   5,
+   2,
+   0,
+   0,
+   3,
+   3,
    2,
    0,
    0
@@ -537,6 +537,21 @@
    0
   ],
   [
+   "Jason Arena",
+   "Throwing Shade",
+   2.21,
+   12,
+   4,
+   2,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Brandon Wheeler",
    "Never Trust A Dart",
    2.14,
@@ -550,21 +565,6 @@
    0,
    0,
    1
-  ],
-  [
-   "Scott King",
-   "Scotts On The Rocks",
-   2.1,
-   6,
-   2,
-   0,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
   ],
   [
    "Jamie Love",
@@ -812,18 +812,6 @@
    10
   ],
   [
-   "Kevin DeHollander",
-   "Draw Two",
-   21.29,
-   7,
-   0,
-   2,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Jamie Love",
    "Draw Two",
    21.29,
@@ -834,6 +822,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Kevin DeHollander",
+   "Draw Two",
+   21.29,
+   7,
+   0,
+   2,
+   0,
+   0,
+   0,
+   7
   ],
   [
    "Daniel Purpura",
@@ -850,26 +850,14 @@
   [
    "Shawn Bentley",
    "Throwing Shade",
-   20.81,
-   7,
+   20.53,
+   14,
    1,
-   1,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
-   "Jason Arena",
-   "Throwing Shade",
-   20.7,
-   7,
-   3,
    2,
    0,
    0,
    0,
-   8
+   13
   ],
   [
    "Brandon Wheeler",
@@ -882,6 +870,18 @@
    0,
    2,
    14
+  ],
+  [
+   "Jason Arena",
+   "Throwing Shade",
+   20.42,
+   14,
+   3,
+   2,
+   0,
+   0,
+   1,
+   17
   ],
   [
    "Mike Georgetti",
@@ -906,6 +906,30 @@
    0,
    0,
    13
+  ],
+  [
+   "Scott Etter",
+   "Scotts On The Rocks",
+   19.78,
+   14,
+   7,
+   3,
+   1,
+   0,
+   1,
+   10
+  ],
+  [
+   "Scott King",
+   "Scotts On The Rocks",
+   19.76,
+   14,
+   3,
+   2,
+   0,
+   0,
+   0,
+   20
   ],
   [
    "Archie Donaldson",
@@ -942,30 +966,6 @@
    0,
    0,
    10
-  ],
-  [
-   "Scott King",
-   "Scotts On The Rocks",
-   18.53,
-   7,
-   1,
-   0,
-   0,
-   0,
-   0,
-   10
-  ],
-  [
-   "Scott Etter",
-   "Scotts On The Rocks",
-   17.82,
-   7,
-   2,
-   0,
-   1,
-   0,
-   1,
-   4
   ],
   [
    "Alyxandria Weaver",
@@ -1019,13 +1019,19 @@
     2.67
    ],
    [
-    "Sean Liddle",
-    "DoubleIn StumbleOut",
-    2.87,
-    3.04
+    "Scott King",
+    "Scotts On The Rocks",
+    2.1,
+    2.33
    ]
   ],
   "x": [
+   [
+    "Scott Etter",
+    "Scotts On The Rocks",
+    17.82,
+    19.78
+   ],
    [
     "Mike Georgetti",
     "No Clue",
@@ -1033,15 +1039,9 @@
     20.32
    ],
    [
-    "Kirk Santelli",
-    "DoubleIn StumbleOut",
-    22.29,
-    23.25
-   ],
-   [
-    "Archie Donaldson",
-    "Revenge",
-    18.85,
+    "Scott King",
+    "Scotts On The Rocks",
+    18.53,
     19.76
    ]
   ]
