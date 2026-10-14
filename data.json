@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T11:45:48Z",
+ "updated": "2026-10-14T11:58:12Z",
  "league": {
   "title": "Thursday 2 Player BP Hand",
   "location": "6R2BPH"
@@ -237,21 +237,6 @@
    0
   ],
   [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   3.0,
-   6,
-   4,
-   0,
-   0,
-   0,
-   7,
-   1,
-   1,
-   1,
-   0
-  ],
-  [
    "Matt Wagner",
    "Handjobs4thehomeless",
    3.0,
@@ -264,6 +249,21 @@
    2,
    3,
    0,
+   0
+  ],
+  [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   3.0,
+   6,
+   4,
+   0,
+   0,
+   0,
+   7,
+   1,
+   1,
+   1,
    0
   ],
   [
@@ -357,21 +357,6 @@
    0
   ],
   [
-   "Kevin DeHollander",
-   "Draw Two",
-   2.6,
-   6,
-   3,
-   0,
-   0,
-   0,
-   4,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Anthony Kelly",
    "Throw Bros",
    2.6,
@@ -384,6 +369,21 @@
    1,
    1,
    1,
+   0
+  ],
+  [
+   "Kevin DeHollander",
+   "Draw Two",
+   2.6,
+   6,
+   3,
+   0,
+   0,
+   0,
+   4,
+   2,
+   1,
+   0,
    0
   ],
   [
@@ -920,18 +920,6 @@
    10
   ],
   [
-   "Scott King",
-   "Scotts On The Rocks",
-   19.76,
-   14,
-   3,
-   2,
-   0,
-   0,
-   0,
-   20
-  ],
-  [
    "Archie Donaldson",
    "Revenge",
    19.76,
@@ -942,6 +930,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Scott King",
+   "Scotts On The Rocks",
+   19.76,
+   14,
+   3,
+   2,
+   0,
+   0,
+   0,
+   20
   ],
   [
    "Eric Porte",
