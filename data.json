@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-16T01:37:00Z",
+ "updated": "2026-10-16T02:38:24Z",
  "league": {
   "title": "Thursday 2 Player BP Hand",
   "location": "6R2BPH"
  },
  "standings": [
   [
-   "Scotts On The Rocks",
-   21,
-   9
+   "No Clue",
+   31,
+   14
   ],
   [
-   "No Clue",
-   21,
-   9
+   "Scotts On The Rocks",
+   30,
+   15
   ],
   [
    "Dart Bags",
-   19,
-   11
+   26,
+   19
   ],
   [
    "DoubleIn StumbleOut",
@@ -46,66 +46,74 @@
    16
   ],
   [
+   "Throwing Shade",
+   20,
+   25
+  ],
+  [
    "Never Trust A Dart",
    13,
    17
   ],
   [
-   "Revenge",
-   13,
-   17
-  ],
-  [
-   "Throwing Shade",
-   12,
-   18
-  ],
-  [
    "Throw Bros",
+   19,
+   26
+  ],
+  [
+   "Revenge",
+   18,
+   27
+  ],
+  [
+   "Tag Team Tami",
    11,
    19
   ],
   [
    "Retreat",
-   4,
-   11
-  ],
-  [
-   "Tag Team Tami",
-   4,
-   11
+   10,
+   20
   ]
  ],
  "results": [
   [
-   "Scotts On The Rocks",
-   "Throwing Shade",
-   "10/11/2026",
-   2,
-   14,
-   1
-  ],
-  [
-   "Dart Bags",
-   "Never Trust A Dart",
-   "10/08/2026",
-   2,
-   10,
-   5
-  ],
-  [
    "No Clue",
-   "Throw Bros",
-   "10/08/2026",
-   2,
+   "Revenge",
+   "10/15/2026",
+   3,
    10,
    5
+  ],
+  [
+   "Scotts On The Rocks",
+   "Retreat",
+   "10/15/2026",
+   3,
+   9,
+   6
   ],
   [
    "DoubleIn StumbleOut",
    "Revenge",
    "10/08/2026",
    2,
+   8,
+   7
+  ],
+  [
+   "Throwing Shade",
+   "Dart Bags",
+   "10/15/2026",
+   3,
+   8,
+   7
+  ],
+  [
+   "Throw Bros",
+   "Tag Team Tami",
+   "10/15/2026",
+   3,
    8,
    7
   ],
@@ -126,10 +134,18 @@
    7
   ],
   [
-   "Revenge",
-   "DoubleIn StumbleOut",
-   "10/08/2026",
-   2,
+   "Dart Bags",
+   "Throwing Shade",
+   "10/15/2026",
+   3,
+   7,
+   8
+  ],
+  [
+   "Tag Team Tami",
+   "Throw Bros",
+   "10/15/2026",
+   3,
    7,
    8
   ],
@@ -150,6 +166,14 @@
    8
   ],
   [
+   "Retreat",
+   "Scotts On The Rocks",
+   "10/15/2026",
+   3,
+   6,
+   9
+  ],
+  [
    "Never Trust A Dart",
    "Dart Bags",
    "10/08/2026",
@@ -158,36 +182,12 @@
    10
   ],
   [
-   "Throw Bros",
+   "Revenge",
    "No Clue",
-   "10/08/2026",
-   2,
+   "10/15/2026",
+   3,
    5,
    10
-  ],
-  [
-   "Retreat",
-   "No Clue",
-   "10/01/2026",
-   1,
-   4,
-   11
-  ],
-  [
-   "Tag Team Tami",
-   "Throwing Shade",
-   "10/01/2026",
-   1,
-   4,
-   11
-  ],
-  [
-   "Throwing Shade",
-   "Scotts On The Rocks",
-   "10/11/2026",
-   2,
-   1,
-   14
   ]
  ],
  "cricket": [
@@ -207,21 +207,6 @@
    1
   ],
   [
-   "Carlton Smith",
-   "Revenge",
-   3.14,
-   12,
-   6,
-   3,
-   1,
-   0,
-   7,
-   6,
-   5,
-   0,
-   0
-  ],
-  [
    "Sean Liddle",
    "DoubleIn StumbleOut",
    3.04,
@@ -233,6 +218,21 @@
    10,
    6,
    2,
+   0,
+   0
+  ],
+  [
+   "Matt Wagner",
+   "Handjobs4thehomeless",
+   3.0,
+   6,
+   1,
+   2,
+   1,
+   0,
+   3,
+   2,
+   3,
    0,
    0
   ],
@@ -252,32 +252,17 @@
    0
   ],
   [
-   "Matt Wagner",
-   "Handjobs4thehomeless",
-   3.0,
-   6,
-   1,
-   2,
-   1,
-   0,
-   3,
-   2,
-   3,
-   0,
-   0
-  ],
-  [
-   "Andy Georgetti",
-   "No Clue",
-   2.97,
-   12,
-   5,
-   5,
-   1,
-   0,
-   7,
+   "Carlton Smith",
+   "Revenge",
+   2.96,
+   18,
    7,
    4,
+   2,
+   0,
+   12,
+   6,
+   6,
    0,
    0
   ],
@@ -297,31 +282,46 @@
    0
   ],
   [
+   "Andy Georgetti",
+   "No Clue",
+   2.89,
+   18,
+   8,
+   6,
+   2,
+   0,
+   9,
+   8,
+   5,
+   0,
+   1
+  ],
+  [
    "Scott Etter",
    "Scotts On The Rocks",
-   2.7,
-   12,
-   6,
-   3,
-   1,
-   0,
+   2.85,
+   18,
    10,
    3,
    2,
    0,
+   16,
+   4,
+   4,
+   1,
    0
   ],
   [
    "Mark Sennett",
    "Dart Bags",
-   2.68,
-   12,
-   6,
+   2.7,
+   18,
+   7,
    3,
    0,
    0,
-   8,
-   4,
+   10,
+   5,
    3,
    1,
    0
@@ -372,63 +372,63 @@
    0
   ],
   [
-   "Anthony Kelly",
-   "Throw Bros",
-   2.6,
+   "Shawn Bentley",
+   "Throwing Shade",
+   2.58,
+   18,
+   5,
    6,
    1,
    0,
+   5,
+   5,
+   7,
    0,
-   0,
+   0
+  ],
+  [
+   "Alexander Blake",
+   "Dart Bags",
+   2.57,
+   18,
+   7,
    4,
    1,
-   1,
-   1,
+   0,
+   6,
+   4,
+   4,
+   0,
    0
   ],
   [
    "Daniel Purpura",
    "Retreat",
-   2.59,
-   6,
-   1,
-   0,
-   0,
-   0,
-   3,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
-   "Archie Donaldson",
-   "Revenge",
    2.57,
    12,
-   4,
-   3,
-   0,
-   0,
-   7,
-   2,
    3,
    1,
+   0,
+   0,
+   8,
+   4,
+   2,
+   0,
    0
   ],
   [
-   "John Salamone",
-   "Tag Team Tami",
+   "Anthony Kelly",
+   "Throw Bros",
    2.52,
-   6,
-   1,
-   0,
-   0,
-   0,
-   2,
-   1,
+   12,
    3,
    0,
+   0,
+   0,
+   9,
+   1,
+   1,
+   1,
    0
   ],
   [
@@ -449,16 +449,31 @@
   [
    "Mike Georgetti",
    "No Clue",
-   2.49,
-   12,
-   7,
-   2,
-   0,
-   0,
-   6,
-   3,
+   2.5,
+   18,
+   9,
+   4,
    1,
    0,
+   9,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
+   "Archie Donaldson",
+   "Revenge",
+   2.49,
+   18,
+   6,
+   3,
+   0,
+   0,
+   10,
+   4,
+   4,
+   1,
    0
   ],
   [
@@ -477,79 +492,64 @@
    0
   ],
   [
-   "Alexander Blake",
-   "Dart Bags",
-   2.43,
-   12,
-   5,
-   3,
-   0,
-   0,
-   3,
+   "Jason Bateman",
+   "Retreat",
+   2.44,
+   6,
    1,
+   0,
+   1,
+   0,
    2,
-   0,
-   0
-  ],
-  [
-   "Shawn Bentley",
-   "Throwing Shade",
-   2.34,
-   12,
-   4,
-   3,
    1,
    0,
-   4,
-   3,
-   4,
    0,
    0
   ],
   [
    "Scott King",
    "Scotts On The Rocks",
-   2.33,
-   12,
+   2.37,
+   18,
+   6,
    5,
    2,
    0,
-   0,
+   6,
    3,
    3,
-   2,
    0,
    0
   ],
   [
-   "Chris Contrera",
-   "Throw Bros",
-   2.26,
+   "John Salamone",
+   "Tag Team Tami",
+   2.29,
    12,
-   2,
-   2,
-   0,
-   0,
-   7,
-   0,
+   3,
    1,
+   0,
+   0,
+   4,
+   3,
+   3,
    0,
    0
   ],
   [
    "Jason Arena",
    "Throwing Shade",
-   2.21,
-   12,
-   4,
+   2.28,
+   18,
+   8,
    2,
    0,
    0,
    1,
-   1,
+   4,
    1,
    0,
-   0
+   1
   ],
   [
    "Brandon Wheeler",
@@ -567,6 +567,21 @@
    1
   ],
   [
+   "Chris Contrera",
+   "Throw Bros",
+   2.13,
+   18,
+   3,
+   3,
+   1,
+   0,
+   8,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Jamie Love",
    "Draw Two",
    2.09,
@@ -580,6 +595,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Mike Ronzo",
+   "Tag Team Tami",
+   2.09,
+   12,
+   3,
+   2,
+   0,
+   0,
+   6,
+   4,
+   1,
+   0,
+   0
   ],
   [
    "Chris Dote",
@@ -625,36 +655,9 @@
    0,
    0,
    0
-  ],
-  [
-   "Mike Ronzo",
-   "Tag Team Tami",
-   1.67,
-   6,
-   0,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
   ]
  ],
  "x01": [
-  [
-   "Carlton Smith",
-   "Revenge",
-   28.06,
-   14,
-   7,
-   8,
-   0,
-   1,
-   2,
-   23
-  ],
   [
    "Rich Allen",
    "Wags To Richs",
@@ -680,6 +683,18 @@
    16
   ],
   [
+   "Carlton Smith",
+   "Revenge",
+   27.54,
+   21,
+   8,
+   10,
+   0,
+   1,
+   2,
+   37
+  ],
+  [
    "Matt Wagner",
    "Handjobs4thehomeless",
    24.91,
@@ -692,16 +707,16 @@
    19
   ],
   [
-   "Mark Sennett",
-   "Dart Bags",
-   24.46,
-   14,
-   4,
-   4,
+   "Andy Georgetti",
+   "No Clue",
+   24.54,
+   21,
+   5,
+   6,
    0,
    0,
-   0,
-   27
+   1,
+   45
   ],
   [
    "Erica Wall",
@@ -728,16 +743,16 @@
    11
   ],
   [
-   "Andy Georgetti",
-   "No Clue",
-   24.23,
-   14,
+   "Mark Sennett",
+   "Dart Bags",
+   24.17,
+   21,
    4,
-   3,
+   7,
    0,
    0,
-   1,
-   32
+   0,
+   39
   ],
   [
    "Kirk Santelli",
@@ -754,14 +769,14 @@
   [
    "Alexander Blake",
    "Dart Bags",
-   22.29,
-   14,
-   4,
-   2,
+   22.98,
+   21,
+   8,
+   3,
    0,
    0,
    0,
-   24
+   40
   ],
   [
    "Sean Liddle",
@@ -788,28 +803,28 @@
    22
   ],
   [
-   "Mike Ronzo",
-   "Tag Team Tami",
-   21.87,
-   7,
-   1,
-   1,
-   0,
-   0,
-   0,
-   12
-  ],
-  [
    "Anthony Kelly",
    "Throw Bros",
-   21.58,
-   7,
+   22.03,
+   14,
+   3,
+   3,
    0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Daniel Purpura",
+   "Retreat",
+   21.78,
+   14,
+   2,
    1,
    0,
    0,
-   0,
-   10
+   1,
+   24
   ],
   [
    "Kevin DeHollander",
@@ -824,16 +839,40 @@
    18
   ],
   [
-   "Daniel Purpura",
-   "Retreat",
-   21.01,
+   "Scott Etter",
+   "Scotts On The Rocks",
+   21.47,
+   21,
+   11,
    7,
    1,
    0,
+   1,
+   23
+  ],
+  [
+   "Mike Georgetti",
+   "No Clue",
+   20.9,
+   21,
+   9,
+   3,
+   0,
+   0,
+   1,
+   31
+  ],
+  [
+   "Shawn Bentley",
+   "Throwing Shade",
+   20.89,
+   21,
+   2,
+   4,
    0,
    0,
    0,
-   15
+   21
   ],
   [
    "Jamie Love",
@@ -848,16 +887,16 @@
    18
   ],
   [
-   "Shawn Bentley",
-   "Throwing Shade",
-   20.53,
-   14,
-   1,
+   "Archie Donaldson",
+   "Revenge",
+   20.48,
+   21,
    2,
+   3,
    0,
    0,
    0,
-   13
+   26
   ],
   [
    "Brandon Wheeler",
@@ -872,76 +911,52 @@
    14
   ],
   [
-   "Jason Arena",
-   "Throwing Shade",
-   20.42,
-   14,
-   3,
-   2,
-   0,
-   0,
-   1,
-   17
-  ],
-  [
-   "Mike Georgetti",
-   "No Clue",
-   20.32,
-   14,
-   5,
-   2,
-   0,
-   0,
-   1,
-   18
-  ],
-  [
    "Chris Contrera",
    "Throw Bros",
-   20.29,
-   14,
-   5,
-   2,
+   20.45,
+   21,
+   7,
+   4,
    0,
    0,
    0,
-   13
+   23
   ],
   [
-   "Scott Etter",
-   "Scotts On The Rocks",
-   19.78,
+   "John Salamone",
+   "Tag Team Tami",
+   20.37,
    14,
-   7,
+   4,
    3,
-   1,
    0,
-   1,
-   10
+   0,
+   0,
+   17
   ],
   [
    "Scott King",
    "Scotts On The Rocks",
-   19.76,
-   14,
+   20.28,
+   21,
    3,
-   2,
+   5,
    0,
    0,
    0,
-   20
+   27
   ],
   [
-   "Archie Donaldson",
-   "Revenge",
+   "Jason Arena",
+   "Throwing Shade",
    19.76,
-   14,
-   1,
+   21,
+   5,
    2,
    0,
    0,
-   0,
-   15
+   1,
+   24
   ],
   [
    "Eric Porte",
@@ -956,15 +971,27 @@
    16
   ],
   [
-   "John Salamone",
+   "Mike Ronzo",
    "Tag Team Tami",
-   19.41,
+   19.1,
+   14,
+   1,
+   2,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Jason Bateman",
+   "Retreat",
+   18.28,
    7,
    2,
+   0,
+   0,
+   0,
    1,
-   0,
-   0,
-   0,
    10
   ],
   [
@@ -1007,36 +1034,42 @@
  "improved": {
   "c": [
    [
+    "Mike Ronzo",
+    "Tag Team Tami",
+    1.67,
+    2.09
+   ],
+   [
     "Jamie Love",
     "Draw Two",
     1.78,
     2.09
    ],
    [
-    "Carol Bartell",
-    "Wags To Richs",
-    1.7,
-    1.73
-   ],
-   [
-    "Kevin DeHollander",
-    "Draw Two",
-    2.6,
-    2.62
+    "Shawn Bentley",
+    "Throwing Shade",
+    2.34,
+    2.58
    ]
   ],
   "x": [
    [
-    "Kevin DeHollander",
-    "Draw Two",
-    21.29,
-    21.55
+    "Scott Etter",
+    "Scotts On The Rocks",
+    19.78,
+    21.47
    ],
    [
-    "Carol Bartell",
-    "Wags To Richs",
-    14.86,
-    15.0
+    "John Salamone",
+    "Tag Team Tami",
+    19.41,
+    20.37
+   ],
+   [
+    "Daniel Purpura",
+    "Retreat",
+    21.01,
+    21.78
    ]
   ]
  },
