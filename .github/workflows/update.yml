@@ -2,9 +2,7 @@ name: Update league data
 
 on:
   schedule:
-    - cron: "15 22-23 * * 4"   # Thursday evening (US Eastern), hourly
-    - cron: "15 0-5 * * 5"     # late Thursday night, hourly
-    - cron: "30 11 * * *"      # once a day
+    - cron: "5,35 * * * *"     # every 30 minutes (at :05 and :35)
   workflow_dispatch:           # "Run workflow" button
   push:
     branches: [main]
@@ -41,7 +39,7 @@ jobs:
           git add data.json
           git diff --cached --quiet || (git commit -m "Update league data" && git push)
       - name: Build site folder
-        run: mkdir site && cp index.html data.json site/
+        run: mkdir site && cp index.html data.json manifest.webmanifest sw.js icon-192.png icon-512.png apple-touch-icon.png site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
