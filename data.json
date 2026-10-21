@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T11:37:16Z",
+ "updated": "2026-10-21T13:40:06Z",
  "league": {
   "title": "Thursday 2 Player BP Hand",
   "location": "6R2BPH"
@@ -21,7 +21,7 @@
    16
   ],
   [
-   "Dart Bags",
+   "Dart Bags T",
    26,
    19
   ],
@@ -103,7 +103,7 @@
   ],
   [
    "Throwing Shade",
-   "Dart Bags",
+   "Dart Bags T",
    "10/15/2026",
    3,
    8,
@@ -134,7 +134,7 @@
    7
   ],
   [
-   "Dart Bags",
+   "Dart Bags T",
    "Throwing Shade",
    "10/15/2026",
    3,
@@ -167,7 +167,7 @@
   ],
   [
    "Never Trust A Dart",
-   "Dart Bags",
+   "Dart Bags T",
    "10/08/2026",
    2,
    5,
@@ -313,7 +313,7 @@
   ],
   [
    "Mark Sennett",
-   "Dart Bags",
+   "Dart Bags T",
    2.7,
    18,
    7,
@@ -387,6 +387,21 @@
    0
   ],
   [
+   "Alexander Blake",
+   "Dart Bags T",
+   2.57,
+   18,
+   7,
+   4,
+   1,
+   0,
+   6,
+   4,
+   4,
+   0,
+   0
+  ],
+  [
    "Daniel Purpura",
    "Retreat",
    2.57,
@@ -398,21 +413,6 @@
    8,
    4,
    2,
-   0,
-   0
-  ],
-  [
-   "Alexander Blake",
-   "Dart Bags",
-   2.57,
-   18,
-   7,
-   4,
-   1,
-   0,
-   6,
-   4,
-   4,
    0,
    0
   ],
@@ -432,21 +432,6 @@
    0
   ],
   [
-   "Mike Georgetti",
-   "No Clue",
-   2.5,
-   18,
-   9,
-   4,
-   1,
-   0,
-   9,
-   4,
-   3,
-   0,
-   0
-  ],
-  [
    "Eric Porte",
    "Never Trust A Dart",
    2.5,
@@ -458,6 +443,21 @@
    10,
    4,
    0,
+   0,
+   0
+  ],
+  [
+   "Mike Georgetti",
+   "No Clue",
+   2.5,
+   18,
+   9,
+   4,
+   1,
+   0,
+   9,
+   4,
+   3,
    0,
    0
   ],
@@ -747,7 +747,7 @@
   ],
   [
    "Mark Sennett",
-   "Dart Bags",
+   "Dart Bags T",
    24.17,
    21,
    4,
@@ -795,7 +795,7 @@
   ],
   [
    "Alexander Blake",
-   "Dart Bags",
+   "Dart Bags T",
    22.98,
    21,
    8,
@@ -1102,7 +1102,7 @@
  },
  "teams": [
   {
-   "name": "Dart Bags",
+   "name": "Dart Bags T",
    "site": "Tryon City Tavern",
    "captain": "Alexander Blake",
    "phone": "585-737-2583"
@@ -1193,7 +1193,7 @@
    "note": "",
    "matches": [
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Handjobs4thehomeless"
     ],
     [
@@ -1253,7 +1253,7 @@
     ],
     [
      "Never Trust A Dart",
-     "Dart Bags"
+     "Dart Bags T"
     ]
    ]
   },
@@ -1267,7 +1267,7 @@
      "Never Trust A Dart"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Throwing Shade"
     ],
     [
@@ -1319,7 +1319,7 @@
     ],
     [
      "Retreat",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "Throwing Shade",
@@ -1341,7 +1341,7 @@
      "Retreat"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Throw Bros"
     ],
     [
@@ -1385,7 +1385,7 @@
     ],
     [
      "Revenge",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "Throw Bros",
@@ -1415,7 +1415,7 @@
      "Revenge"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "TakingNamesTakingAim"
     ],
     [
@@ -1451,7 +1451,7 @@
     ],
     [
      "Wags To Richs",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "TakingNamesTakingAim",
@@ -1489,7 +1489,7 @@
      "Wags To Richs"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Draw Two"
     ],
     [
@@ -1517,7 +1517,7 @@
     ],
     [
      "DoubleIn StumbleOut",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "Draw Two",
@@ -1563,7 +1563,7 @@
      "DoubleIn StumbleOut"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "No Clue"
     ],
     [
@@ -1583,7 +1583,7 @@
     ],
     [
      "Tag Team Tami",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "No Clue",
@@ -1637,7 +1637,7 @@
      "Tag Team Tami"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Scotts On The Rocks"
     ]
    ]
