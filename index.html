@@ -96,13 +96,18 @@ button,a,tr[data-p]{-webkit-tap-highlight-color:transparent;touch-action:manipul
 nav{grid-template-columns:repeat(5,1fr)}nav button{font-size:13px}
 button,select,input{min-height:44px}
 }
+#ib{position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom,0px));z-index:9;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px;box-shadow:0 6px 24px rgba(0,0,0,.35);max-width:520px;margin:0 auto}
+#ib[hidden]{display:none}#ib p{margin:4px 0 0}#ib .ibb{display:flex;gap:8px;margin-top:12px;flex-wrap:wrap}
+svg.ic{width:20px;height:20px;vertical-align:-4px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+ol.st{padding-left:20px;line-height:2}
 </style></head><body><div class="wrap">
 <header><div><h1 id="h1">League stats</h1><div class="sub" id="s1">Cap Darts</div><div class="sub" id="s2"></div></div>
 <button class="theme" id="theme">Change to dark theme</button></header>
 <nav id="nav"></nav>
 <main id="main"></main>
-<footer class="foot"><button class="theme" id="a2hs">Add to Home Screen</button><div class="sub">Stats refresh about every 30 minutes from LeagueLeader.</div></footer></div>
+<footer class="foot"><button class="theme" id="a2hs">Add to Home Screen</button></footer></div>
 <button id="up" aria-label="Back to top">↑</button>
+<div id="ib" hidden></div>
 <dialog id="dlg"><div class="dl" id="dlb"></div></dialog>
 <script>
 const cols={c:[["Player",0,1],["Team",1,1],["MPR",2],["Games",3],["Wins",4],["Win%",-1],["Assist",5],["Hat",6],["Whrse",7],["5MR",8],["6MR",9],["7MR",10],["8MR",11],["9MR",12]],
@@ -229,9 +234,25 @@ fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}
 setInterval(()=>{if(document.hidden)return;fetch("data.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{if(d&&d.updated!==lastUpd){init(d);render()}}).catch(()=>{})},600000);
 
 const up_=document.getElementById("up");addEventListener("scroll",()=>up_.classList.toggle("on",scrollY>600),{passive:true});up_.onclick=()=>scrollTo({top:0,behavior:"smooth"});
-let dip;addEventListener("beforeinstallprompt",e=>{e.preventDefault();dip=e});
-const a2=document.getElementById("a2hs");
-if(matchMedia("(display-mode: standalone)").matches||(typeof navigator!="undefined"&&navigator.standalone))a2.style.display="none";
-a2.onclick=()=>{if(dip){dip.prompt();dip=null;return}document.getElementById("dlb").innerHTML=`<h3>Add to Home Screen</h3><p><b>iPhone or iPad (Safari):</b> tap the Share button, then <b>Add to Home Screen</b>.</p><p><b>Android (Chrome):</b> tap the ⋮ menu, then <b>Add to Home screen</b> or <b>Install app</b>.</p><button class="theme" onclick="dlg.close()">Close</button>`;dlg.showModal()};
+const UA=navigator.userAgent||"",iOS=/iPad|iPhone|iPod/.test(UA)||(navigator.platform=="MacIntel"&&navigator.maxTouchPoints>1),inApp=/FBAN|FBAV|Instagram|Line\/|MicroMessenger|Messenger|Snapchat|TikTok|GSA\//.test(UA);
+const isApp=()=>matchMedia("(display-mode: standalone)").matches||navigator.standalone;
+const IC={share:'<svg class="ic" viewBox="0 0 24 24"><path d="M12 15V3M8 7l4-4 4 4M5 11v9h14v-9"/></svg>',add:'<svg class="ic" viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M12 8v8M8 12h8"/></svg>'};
+let dip;const a2=document.getElementById("a2hs"),ib=document.getElementById("ib");
+function hideAll(){a2.style.display="none";ib.hidden=true}
+if(isApp())hideAll();
+function help(){let h;
+ if(inApp)h=`<p>This page is open inside another app, which can't add it to your Home Screen. Open it in ${iOS?"Safari":"Chrome"} first.</p><button class="theme" id="cp">Copy link</button>`;
+ else if(iOS)h=`<ol class="st"><li>Tap the Share button ${IC.share} in Safari's toolbar or menu.</li><li>Scroll down and tap <b>Add to Home Screen</b> ${IC.add}.</li><li>Tap <b>Add</b>.</li></ol>`;
+ else h=`<p>Open your browser menu (⋮) and choose <b>Install app</b> or <b>Add to Home screen</b>. On a computer, look for the install icon in the address bar.</p>`;
+ document.getElementById("dlb").innerHTML=`<h3>Add to Home Screen</h3>${h}<div style="margin-top:14px"><button class="theme" onclick="dlg.close()">Close</button></div>`;dlg.showModal();
+ const cp=document.getElementById("cp");if(cp)cp.onclick=()=>{(navigator.clipboard?navigator.clipboard.writeText(location.href):Promise.reject()).then(()=>cp.textContent="Link copied").catch(()=>cp.textContent="Copy failed")}}
+async function doInstall(){if(dip){dip.prompt();try{await dip.userChoice}catch(e){}dip=null;a2.textContent="Add to Home Screen";ib.hidden=true;return}help()}
+function showBanner(){if(isApp()||ls.get("dt_ib")=="1")return;
+ ib.innerHTML=dip?`<b>Install Dart Stats</b><p>Add it to your Home Screen to open it like an app.</p><div class="ibb"><button class="theme" data-a="inst">Install</button><button class="theme" data-a="no">Not now</button></div>`:`<b>Add Dart Stats to your Home Screen</b><p>Tap Share ${IC.share}, then <b>Add to Home Screen</b> ${IC.add}.</p><div class="ibb"><button class="theme" data-a="how">Show me how</button><button class="theme" data-a="no">Not now</button></div>`;ib.hidden=false}
+ib.onclick=e=>{const a=e.target.closest("[data-a]");if(!a)return;const k=a.dataset.a;if(k=="no"){ls.set("dt_ib","1");ib.hidden=true}else if(k=="inst")doInstall();else help()};
+a2.onclick=doInstall;
+addEventListener("beforeinstallprompt",e=>{e.preventDefault();dip=e;a2.textContent="Install app";if(matchMedia("(pointer: coarse)").matches)showBanner()});
+addEventListener("appinstalled",()=>{dip=null;hideAll()});
+if(iOS&&!inApp&&!isApp())setTimeout(showBanner,2500);
 if(typeof navigator!="undefined"&&"serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script></body></html>
