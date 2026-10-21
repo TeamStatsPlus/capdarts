@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#eef1ee" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#0e141f" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Dart Stats">
 <title>Cap Darts · Thursday 2 Player BP Hand</title>
 <style>
-:root{--bg:#eef1ee;--card:#fff;--ink:#11201a;--mute:#5d6b64;--line:#d8dfda;--red:#c8372d;--grn:#1f6b4a;--soft:#e3e9e5;--bar:#1f6b4a;
+:root{--bg:#eef1ee;--card:#fff;--ink:#11201a;--mute:#5d6b64;--line:#d8dfda;--red:#c8372d;--grn:#1f6b4a;--soft:#e3e9e5;--bar:#1f6b4a;--mine:#d9efe3;
 box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e141f;--card:#161f2e;--ink:#e8edf5;--mute:#94a3b8;--line:#263349;--red:#ef6a5f;--grn:#6aa8f2;--soft:#1e2a3d;--bar:#6aa8f2}}
-:root[data-theme="dark"]{--bg:#0e141f;--card:#161f2e;--ink:#e8edf5;--mute:#94a3b8;--line:#263349;--red:#ef6a5f;--grn:#6aa8f2;--soft:#1e2a3d;--bar:#6aa8f2}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#0e141f;--card:#161f2e;--ink:#e8edf5;--mute:#94a3b8;--line:#263349;--red:#ef6a5f;--grn:#6aa8f2;--soft:#1e2a3d;--bar:#6aa8f2;--mine:#1b3552}}
+:root[data-theme="dark"]{--bg:#0e141f;--card:#161f2e;--ink:#e8edf5;--mute:#94a3b8;--line:#263349;--red:#ef6a5f;--grn:#6aa8f2;--soft:#1e2a3d;--bar:#6aa8f2;--mine:#1b3552}
 *{box-sizing:border-box}html{scroll-padding-top:env(safe-area-inset-top,0px)}
 body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
 h1,h2,h3,.num{font-family:inherit;margin:0}
@@ -59,11 +63,46 @@ dialog::backdrop{background:rgba(0,0,0,.5)}
 .wh{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap;margin-bottom:8px}.wh small{color:var(--mute)}
 .nx{background:var(--red);color:#fff}.hl td{background:var(--soft);font-weight:600}
 a{color:var(--grn)}.loc h3{font-size:19px;margin-bottom:2px}.loc p{margin:2px 0}.tm{cursor:pointer;display:inline-block;margin:2px 10px 2px 0}.tm:hover{text-decoration:underline}
+
+nav{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg)}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);background:var(--bg);z-index:10}
+input,select{font-size:16px}
+.scroll{-webkit-overflow-scrolling:touch}
+.scroll th:first-child,.scroll td:first-child{position:sticky;left:0;z-index:1;background:var(--card);box-shadow:1px 0 0 var(--line)}
+tbody tr:hover td:first-child{background:var(--soft)}
+dialog{max-height:90vh;overflow:auto}
+@media(max-width:640px){
+.wrap{padding:12px 12px 48px}
+header{padding:4px 0 12px}
+h1{font-size:26px}
+nav{display:grid;grid-template-columns:repeat(4,1fr);overflow:visible}
+nav button{padding:12px 2px;text-align:center;font-size:14px;min-height:44px}
+th,td{padding:9px 8px;font-size:13.5px}
+h2{font-size:19px;margin:22px 0 10px}
+.tools>*{flex:1 1 100%}.tools .seg,.tools label{flex:none}
+.card{padding:14px}.theme{padding:8px 12px}
+dialog{margin:auto 0 0;width:100%;max-width:none;border-radius:16px 16px 0 0}
+.stats{grid-template-columns:repeat(2,1fr)}
+}
+
+.jump{display:flex;gap:8px;overflow-x:auto;padding:0 0 12px}.jump button{flex:none;border:1px solid var(--line);background:var(--card);border-radius:20px;padding:8px 14px;min-height:40px}
+tr.mine td,tr.mine td:first-child{background:var(--mine)}
+#up{position:fixed;right:14px;bottom:calc(14px + env(safe-area-inset-bottom,0px));width:44px;height:44px;border-radius:50%;border:1px solid var(--line);background:var(--card);box-shadow:0 2px 8px rgba(0,0,0,.25);z-index:8;opacity:0;pointer-events:none;transition:opacity .2s;font-size:20px;padding:0}
+#up.on{opacity:1;pointer-events:auto}
+.foot{margin-top:36px;text-align:center}.foot .sub{margin-top:8px}
+h2{scroll-margin-top:64px}.big{font-size:15px}
+button,a,tr[data-p]{-webkit-tap-highlight-color:transparent;touch-action:manipulation}
+@media(max-width:640px){
+nav{grid-template-columns:repeat(5,1fr)}nav button{font-size:13px}
+button,select,input{min-height:44px}
+}
 </style></head><body><div class="wrap">
 <header><div><h1 id="h1">League stats</h1><div class="sub" id="s1">Cap Darts</div><div class="sub" id="s2"></div></div>
 <button class="theme" id="theme">Change to dark theme</button></header>
 <nav id="nav"></nav>
-<main id="main"></main></div>
+<main id="main"></main>
+<footer class="foot"><button class="theme" id="a2hs">Add to Home Screen</button><div class="sub">Stats refresh about every 30 minutes from LeagueLeader.</div></footer></div>
+<button id="up" aria-label="Back to top">↑</button>
 <dialog id="dlg"><div class="dl" id="dlb"></div></dialog>
 <script>
 const cols={c:[["Player",0,1],["Team",1,1],["MPR",2],["Games",3],["Wins",4],["Win%",-1],["Assist",5],["Hat",6],["Whrse",7],["5MR",8],["6MR",9],["7MR",10],["8MR",11],["9MR",12]],
@@ -72,7 +111,14 @@ let standings,standings_,T,cr,xr,results,improved,TM,WK,SITES,D;const S={c:"MPR"
 const pw=(m,r)=>r[3]?r[4]/r[3]*100:0;
 const f=(n,d=0)=>Number(n).toFixed(d);
 const dot=t=>`<span class="dot" style="background:${T[t]}"></span>`;
-let sorts={c:{c:2,d:-1},x:{c:2,d:-1}},q="",team="";
+let sorts={c:{c:2,d:-1},x:{c:2,d:-1}},q="",team="",myTeam="",curWk=0;
+const ls={get:k=>{try{return localStorage.getItem(k)}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,v)}catch(e){}}};
+const medals=["🥇","🥈","🥉"],mine=t=>t&&t==myTeam?"mine":"";
+const todayS=()=>{const d=new Date();return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0")};
+const fd=(d,o)=>new Date(d+"T12:00:00").toLocaleDateString("en-US",o||{weekday:"short",month:"short",day:"numeric"});
+const cd=d=>{const n=Math.round((new Date(d+"T00:00:00")-new Date(todayS()+"T00:00:00"))/864e5);return n<=0?"Today":n==1?"Tomorrow":"In "+n+" days"};
+const maps=a=>"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(a);
+const addr=n=>((SITES||[]).find(x=>x[0]==n)||[])[3]||n;
 const main=document.getElementById("main"),dlg=document.getElementById("dlg");
 const tb=document.getElementById("theme"),isDark=()=>{const t=document.documentElement.dataset.theme;return t?t=="dark":matchMedia("(prefers-color-scheme: dark)").matches};
 const setLbl=()=>tb.textContent=isDark()?"Change to light theme":"Change to dark theme";
@@ -81,36 +127,42 @@ matchMedia("(prefers-color-scheme: dark)").addEventListener("change",setLbl);set
 const who=n=>`<span class="who" data-p="${n}" style="cursor:pointer;font-weight:600">${n}</span>`;
 const tbl=(head,body)=>`<div class="scroll"><table><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table></div>`;
 function standingsV(){
- return `<h2 style="margin-top:0">Team standings</h2><div class="sub" style="margin:-6px 0 10px">Division A, sorted by win %</div>`+tbl(["Team","Win %","Games","Wins","Losses","Forfeits"].map(h=>`<th>${h}</th>`).join(""),
- standings.map(s=>`<tr style="cursor:default"><td>${dot(s[0])}${s[0]}</td><td><b>${f(s[1]/(s[1]+s[2])*100,1)}</b></td><td>${s[1]+s[2]}</td><td>${s[1]}</td><td>${s[2]}</td><td>0</td></tr>`).join(""))}
+ return `<h2 id="sec-standings" style="margin-top:0">Team standings</h2><div class="sub" style="margin:-6px 0 10px">Sorted by win %</div>`+tbl(["Team","Win %","Games","Wins","Losses","Forfeits"].map(h=>`<th>${h}</th>`).join(""),
+ standings.map((s,i)=>`<tr class="${mine(s[0])}" style="cursor:default"><td>${i<3?medals[i]+" ":""}${dot(s[0])}${s[0]}</td><td><b>${f(s[1]/(s[1]+s[2])*100,1)}</b></td><td>${s[1]+s[2]}</td><td>${s[1]}</td><td>${s[2]}</td><td>0</td></tr>`).join(""))}
 function resultsV(){
- return `<h2>Last match results</h2>`+tbl(["Team","Against","Date","Week","Games","Wins","Losses","Forfeits"].map((h,i)=>`<th class="${i<2?"l":""}">${h}</th>`).join(""),
- results.map(r=>`<tr style="cursor:default"><td>${dot(r[0])}${r[0]}</td><td class="l">${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>15</td><td class="${r[4]>r[5]?"win":"loss"}">${r[4]}</td><td>${r[5]}</td><td>0</td></tr>`).join(""))}
+ return `<h2 id="sec-results">Last match results</h2>`+tbl(["Team","Against","Date","Week","Games","Wins","Losses","Forfeits"].map((h,i)=>`<th class="${i<2?"l":""}">${h}</th>`).join(""),
+ results.map(r=>`<tr class="${mine(r[0])}" style="cursor:default"><td>${dot(r[0])}${r[0]}</td><td class="l">${r[1]}</td><td>${r[2]}</td><td>${r[3]}</td><td>15</td><td class="${r[4]>r[5]?"win":"loss"}">${r[4]}</td><td>${r[5]}</td><td>0</td></tr>`).join(""))}
 function improvedV(m){
- if(!improved[m].length)return "";
+ if(!improved[m].length){if(m=="x"||improved.x.length)return "";return `<h2 id="sec-imp-c">Most improved players</h2><div class="card sub">Most improved players will show up here starting with the second week of results, once there is a previous week to compare against.</div>`}
  const l=m=="c"?["MPR","Cricket"]:["PPD","X01"];
- return `<h2>Most improved players, week 21: all ${l[1]} games</h2>`+tbl(["Player","Team","Previous "+l[0],l[0],l[0]+" improvement"].map((h,i)=>`<th class="${i<2?"l":""}">${h}</th>`).join(""),
- improved[m].map(r=>`<tr data-p="${r[0]}"><td>${r[0]}</td><td class="l">${dot(r[1])}${r[1]}</td><td>${f(r[2],2)}</td><td>${f(r[3],2)}</td><td class="win">+${f(r[3]-r[2],2)}</td></tr>`).join(""))}
+ return `<h2 id="sec-imp-${m}">Most improved players${curWk?", week "+curWk:""}: all ${l[1]} games</h2>`+tbl(["Player","Team","Previous "+l[0],l[0],l[0]+" improvement"].map((h,i)=>`<th class="${i<2?"l":""}">${h}</th>`).join(""),
+ improved[m].map(r=>`<tr data-p="${r[0]}" class="${mine(r[1])}"><td>${r[0]}</td><td class="l">${dot(r[1])}${r[1]}</td><td>${f(r[2],2)}</td><td>${f(r[3],2)}</td><td class="win">+${f(r[3]-r[2],2)}</td></tr>`).join(""))}
 function playersV(m){
  const cs=cols[m],st=sorts[m],val=(r,c)=>c[1]===-1?pw(0,r):r[c[1]];
  const data=D[m].filter(r=>r[0].toLowerCase().includes(q)&&(!team||r[1]==team)),sc=cs[st.c];
  data.sort((a,b)=>{const x=val(a,sc),y=val(b,sc);return (typeof x=="string"?x.localeCompare(y):x-y)*st.d});
- return `<h2>All ${m=="c"?"Cricket":"X01"} games, sorted by ${S[m]}</h2>`+tbl(cs.map((c,i)=>`<th data-t="${m}" data-s="${i}" class="${i==st.c?"s":""}" data-d="${st.d<0?" ▼":" ▲"}">${c[0]}</th>`).join(""),
- data.map(r=>`<tr data-p="${r[0]}">${cs.map((c,i)=>{const v=val(r,c);return `<td>${i==1?dot(v)+v:c[1]===-1?f(v,1)+"%":c[1]===2?`<b>${f(v,2)}</b>`:v}</td>`}).join("")}</tr>`).join("")||`<tr><td colspan="14">No players match. Clear the search or team filter.</td></tr>`)}
+ return `<h2 id="sec-${m}">All ${m=="c"?"Cricket":"X01"} games, sorted by ${S[m]}</h2>`+tbl(cs.map((c,i)=>`<th data-t="${m}" data-s="${i}" class="${i==st.c?"s":""}" data-d="${st.d<0?" ▼":" ▲"}">${c[0]}</th>`).join(""),
+ data.map(r=>`<tr data-p="${r[0]}" class="${mine(r[1])}">${cs.map((c,i)=>{const v=val(r,c);return `<td>${i==1?dot(v)+v:c[1]===-1?f(v,1)+"%":c[1]===2?`<b>${f(v,2)}</b>`:v}</td>`}).join("")}</tr>`).join("")||`<tr><td colspan="14">No players match. Clear the search or team filter.</td></tr>`)}
 function compareV(){
  const sel=(id,v)=>`<select id="${id}">${names.map(n=>`<option ${n==v?"selected":""}>${n}</option>`).join("")}</select>`;
  const a=window.A||"Carlton Smith",b=window.B||"Rich Allen",g=(n,m)=>D[m].find(r=>r[0]==n);
  const L=[["MPR",r=>g(r,"c")[2],2],["PPD",r=>g(r,"x")[2],2],["Cricket win %",r=>pw(0,g(r,"c")),1],["X01 win %",r=>pw(0,g(r,"x")),1],["Cricket hats",r=>g(r,"c")[6],0],["X01 hats",r=>g(r,"x")[5],0],["9-mark rounds",r=>g(r,"c")[12],0],["High tons",r=>g(r,"x")[8],0],["Assists",r=>g(r,"c")[5],0]];
  return `<h2>Compare players</h2><div class="tools">${sel("pa",a)}<span style="align-self:center">vs</span>${sel("pb",b)}</div><div class="card cmp"><b>${a}</b><span></span><b>${b}</b>${L.map(([k,fn,d])=>{const x=fn(a),y=fn(b),m=Math.max(x,y)||1;return `<div class="v">${f(x,d)}</div><small>${k}</small><div class="v">${f(y,d)}</div><div class="a"><i style="width:${x/m*100}%"></i></div><span></span><div class="b"><i style="width:${y/m*100}%"></i></div>`}).join("")}</div>`}
 function filterV(){return `<div class="tools" style="margin-top:28px"><input id="q" placeholder="Search players" value="${q}"><select id="tf"><option value="">All teams</option>${Object.keys(T).map(t=>`<option ${t==team?"selected":""}>${t}</option>`).join("")}</select><span class="sub" style="align-self:center">Filters the player tables below. Click a player for their profile.</span></div>`}
-const tabs=["Stats","Schedule","Locations","Captains"];let tab=0,stTeam="",showPast=false,cq="";
+const tabs=["My Team","Stats","Schedule","Locations","Captains"];let tab=1,stTeam="",showPast=false,cq="";
+function loadState(){myTeam=ls.get("dt_my")||"";team=ls.get("dt_tf")||"";stTeam=ls.get("dt_st")||"";showPast=ls.get("dt_sp")=="1";const t=parseInt(ls.get("dt_tab"));tab=t>=0&&t<=4?t:(myTeam?0:1)}
+function saveState(){ls.set("dt_tab",tab);ls.set("dt_my",myTeam);ls.set("dt_tf",team);ls.set("dt_st",stTeam);ls.set("dt_sp",showPast?1:0)}
 const nav=document.getElementById("nav");
 nav.innerHTML=tabs.map((t,i)=>`<button data-i="${i}">${t}</button>`).join("");
 nav.onclick=e=>{if(e.target.dataset.i){tab=+e.target.dataset.i;render();scrollTo(0,0)}};
 const tel=p=>p?`<a href="tel:${p.replace(/\D/g,"")}">${p}</a>`:"Not listed";
 const nm=c=>(TM[c]||[c])[0],site=c=>(TM[c]||[])[3]||"TBA";
+function nextFor(t){for(const w of WK){if(w[1]<todayS())continue;const ms=w[2]||[];if(!ms.length)continue;const m=t?ms.find(x=>x.includes(t)):ms[0];if(m)return{w,m,n:ms.length}}return null}
+function nextUpV(){const t=stTeam||myTeam,nx=nextFor(t);if(!nx)return "";const{w,m}=nx;
+ const line=t?`${m[0]==t?"vs":"@"} <b>${nm(m[0]==t?m[1]:m[0])}</b> · ${site(m[0])}`:`${nx.n} matches scheduled`;
+ return `<div class="card" style="margin-bottom:14px;border-color:var(--red)"><div class="wh"><h3>Next up${t?" for "+nm(t):""}</h3><span class="pill nx">${cd(w[1])}</span></div><div><b>${fd(w[1])}</b> · Week ${w[0]}</div><div>${line}</div></div>`}
 function scheduleV(){
- const today=new Date().toISOString().slice(0,10);let nextDone=false;
+ const today=todayS();let nextDone=false;
  const opts=Object.keys(TM).sort((a,b)=>nm(a).localeCompare(nm(b))).map(c=>`<option value="${c}" ${c==stTeam?"selected":""}>${nm(c)}</option>`).join("");
  const cards=WK.filter(w=>showPast||w[1]>=today).map(w=>{
   let ms=w[2]||[];if(stTeam)ms=ms.filter(m=>m.includes(stTeam));
@@ -118,7 +170,7 @@ function scheduleV(){
   const d=new Date(w[1]+"T12:00:00").toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric",year:"numeric"});
   const body=ms.length?tbl((stTeam?["Opponent","Site"]:["Home","Away","Site"]).map(h=>`<th class="l">${h}</th>`).join(""),ms.map(m=>stTeam?`<tr style="cursor:default"><td class="l">${m[0]==stTeam?"vs":"@"} ${nm(m[0]==stTeam?m[1]:m[0])}</td><td class="l">${site(m[0])}</td></tr>`:`<tr style="cursor:default"><td class="l">${dot0(m[0])}${nm(m[0])}</td><td class="l">${nm(m[1])}</td><td class="l">${site(m[0])}</td></tr>`).join("")):"";
   return `<div class="card" style="margin-bottom:14px"><div class="wh"><h3>Week ${w[0]}</h3><span>${d}</span>${nx?'<span class="pill nx">Next</span>':w[1]<today?'<span class="pill">Played</span>':""}${w[3]?`<small>${w[3]}</small>`:""}</div>${body}</div>`}).join("");
- return `<h2 style="margin-top:0">Schedule</h2><div class="tools"><select id="st"><option value="">All teams</option>${opts}</select><label style="align-self:center"><input type="checkbox" id="sp" ${showPast?"checked":""}> Show past weeks</label></div>${cards||'<div class="card">No weeks to show. Tick "Show past weeks".</div>'}`}
+ return `<h2 style="margin-top:0">Schedule</h2>${nextUpV()}<div class="tools"><select id="st"><option value="">All teams</option>${opts}</select><label style="align-self:center"><input type="checkbox" id="sp" ${showPast?"checked":""}> Show past weeks</label></div>${cards||'<div class="card">No weeks to show. Tick "Show past weeks".</div>'}`}
 const dot0=c=>dot(nm(c));
 function locationsV(){
  return `<h2 style="margin-top:0">Locations</h2><div class="grid">${SITES.map(s=>{const t=Object.keys(TM).filter(c=>TM[c][3]==s[0]);
@@ -126,33 +178,60 @@ function locationsV(){
 function captainsV(){
  const rows=Object.keys(TM).sort((a,b)=>nm(a).localeCompare(nm(b))).filter(c=>(nm(c)+TM[c][1]).toLowerCase().includes(cq));
  return `<h2 style="margin-top:0">Captains</h2><div class="tools"><input id="cq" placeholder="Search team or captain" value="${cq}"></div>`+tbl(["Team","Captain","Phone","Home site"].map(h=>`<th class="l">${h}</th>`).join(""),rows.map(c=>`<tr style="cursor:default"><td class="l">${dot0(c)}${nm(c)}</td><td class="l">${TM[c][1]}</td><td class="l">${tel(TM[c][2])}</td><td class="l">${TM[c][3]}</td></tr>`).join("")||`<tr><td colspan="4">No matches. Clear the search.</td></tr>`)}
+const jumpV=()=>`<div class="jump">${[["sec-standings","Standings"],["sec-results","Results"],["sec-imp-c","Most improved"],["sec-c","Cricket"],["sec-x","X01"]].map(([i,l])=>`<button data-j="${i}">${l}</button>`).join("")}</div>`;
+const statsV=()=>jumpV()+standingsV()+resultsV()+improvedV("c")+filterV()+playersV("c")+improvedV("x")+playersV("x");
+function myV(){
+ const opts=Object.keys(TM).sort().map(c=>`<option ${c==myTeam?"selected":""}>${c}</option>`).join("");
+ const pick=`<div class="tools"><select id="mt" aria-label="Choose your team"><option value="">Choose your team…</option>${opts}</select></div>`;
+ if(!myTeam)return `<h2 style="margin-top:0">My Team</h2><p class="sub">Pick your team and this device will remember it. You will see your next match, record and teammates, and your team is highlighted across the app.</p>`+pick;
+ const t=myTeam,i=standings.findIndex(x=>x[0]==t),s=standings[i]||[t,0,0],g=s[1]+s[2],cap=TM[t]||[],nx=nextFor(t),last=results.find(r=>r[0]==t);
+ const hdr=`<div class="card" style="margin-bottom:14px"><h3>${dot(t)}${t}</h3><div class="stats" style="grid-template-columns:repeat(3,1fr)"><div><b>${s[1]}–${s[2]}</b><span>Record</span></div><div><b>${g?f(s[1]/g*100,1):"0.0"}%</b><span>Win %</span></div><div><b>${i<0?"–":"#"+(i+1)}</b><span>of ${standings.length} teams</span></div></div><div>Captain: ${cap[1]||"TBA"} · ${tel(cap[2])}</div><div>Home site: <a target="_blank" rel="noopener" href="${maps(addr(cap[3]||""))}">${cap[3]||"TBA"}</a></div></div>`;
+ let nxt;if(nx){const{w,m}=nx,home=m[0]==t,opp=home?m[1]:m[0],oc=TM[opp]||[];nxt=`<div class="card" style="margin-bottom:14px;border-color:var(--red)"><div class="wh"><h3>Next match</h3><span class="pill nx">${cd(w[1])}</span></div><div><b>${home?"vs":"@"} ${opp}</b></div><div>${fd(w[1],{weekday:"long",month:"long",day:"numeric"})} · Week ${w[0]}</div><div>Site: <a target="_blank" rel="noopener" href="${maps(addr(site(m[0])))}">${site(m[0])}</a></div>${oc[1]?`<div class="sub">Their captain: ${oc[1]} · ${tel(oc[2])}</div>`:""}</div>`}else nxt='<div class="card sub" style="margin-bottom:14px">No upcoming matches are scheduled yet.</div>';
+ const lr=last?`<div class="card" style="margin-bottom:14px"><b>Last match:</b> <span class="${last[4]>last[5]?"win":"loss"}">${last[4]>last[5]?"Won":"Lost"} ${last[4]}–${last[5]}</span> vs ${last[1]} (week ${last[3]})</div>`:"";
+ const up=[];for(const w of WK){if(w[1]<todayS())continue;const m=(w[2]||[]).find(x=>x.includes(t));if(m)up.push(`<tr style="cursor:default"><td class="l">${fd(w[1])}</td><td class="l">${m[0]==t?"vs":"@"} ${m[0]==t?m[1]:m[0]}</td><td class="l">${site(m[0])}</td></tr>`);if(up.length>=6)break}
+ const pl=cr.filter(r=>r[1]==t).sort((a,b)=>b[2]-a[2]).map(r=>{const x=xr.find(y=>y[0]==r[0])||[];return `<tr data-p="${r[0]}"><td>${r[0]}</td><td><b>${f(r[2],2)}</b></td><td>${f(pw(0,r),0)}%</td><td><b>${x[2]!=null?f(x[2],2):"–"}</b></td><td>${x.length?f(pw(0,x),0)+"%":"–"}</td></tr>`}).join("");
+ return `<h2 style="margin-top:0">My Team</h2>${pick}${hdr}${nxt}${lr}`+(up.length?`<h2>Upcoming matches</h2>`+tbl(["Date","Opponent","Site"].map(h=>`<th class="l">${h}</th>`).join(""),up.join("")):"")+`<h2>Players</h2>`+tbl(["Player","MPR","Cricket win","PPD","X01 win"].map(h=>`<th>${h}</th>`).join(""),pl||'<tr><td colspan="5">No players found for this team.</td></tr>')+'<p class="sub">Tap a player for their full profile.</p>'}
 function render(){
  const y=scrollY,fid=document.activeElement&&document.activeElement.id;
  [...nav.children].forEach((b,i)=>b.classList.toggle("on",i==tab));
- main.innerHTML=tab==0?standingsV()+resultsV()+improvedV("c")+filterV()+playersV("c")+improvedV("x")+playersV("x"):[0,scheduleV,locationsV,captainsV][tab]();
- if(tab==0){document.getElementById("q").oninput=e=>{q=e.target.value.toLowerCase();render()};
-  document.getElementById("tf").onchange=e=>{team=e.target.value;render()};}
- if(tab==1){document.getElementById("st").onchange=e=>{stTeam=e.target.value;render()};document.getElementById("sp").onchange=e=>{showPast=e.target.checked;render()}}
- if(tab==3)document.getElementById("cq").oninput=e=>{cq=e.target.value.toLowerCase();render()};
+ main.innerHTML=[myV,statsV,scheduleV,locationsV,captainsV][tab]();
+ if(tab==0)document.getElementById("mt").onchange=e=>{myTeam=e.target.value;render()};
+ if(tab==1){document.getElementById("q").oninput=e=>{q=e.target.value.toLowerCase();render()};
+  document.getElementById("tf").onchange=e=>{team=e.target.value;render()}}
+ if(tab==2){document.getElementById("st").onchange=e=>{stTeam=e.target.value;render()};document.getElementById("sp").onchange=e=>{showPast=e.target.checked;render()}}
+ if(tab==4)document.getElementById("cq").oninput=e=>{cq=e.target.value.toLowerCase();render()};
+ saveState();
  const el=fid&&document.getElementById(fid);if(el&&(fid=="q"||fid=="cq")){el.focus();el.setSelectionRange(99,99)}scrollTo(0,y)}
-main.onclick=e=>{const tm=e.target.closest("[data-tm]");if(tm){stTeam=tm.dataset.tm;tab=1;render();return scrollTo(0,0)}const h=e.target.closest("th[data-s]");if(h){const m=h.dataset.t,i=+h.dataset.s,st=sorts[m];sorts[m]=st.c==i?{c:i,d:-st.d}:{c:i,d:cols[m][i][2]?-1:1};return render()}const p=e.target.closest("[data-p]");if(p)profile(p.dataset.p)};
+main.onclick=e=>{const jb=e.target.closest("[data-j]");if(jb){const t=document.getElementById(jb.dataset.j)||document.getElementById("sec-imp-x");if(t)t.scrollIntoView({behavior:"smooth"});return}const tm=e.target.closest("[data-tm]");if(tm){stTeam=tm.dataset.tm;tab=2;render();return scrollTo(0,0)}const h=e.target.closest("th[data-s]");if(h){const m=h.dataset.t,i=+h.dataset.s,st=sorts[m];sorts[m]=st.c==i?{c:i,d:-st.d}:{c:i,d:cols[m][i][2]?-1:1};return render()}const p=e.target.closest("[data-p]");if(p)profile(p.dataset.p)};
 function profile(n){
  const c=cr.find(r=>r[0]==n),x=xr.find(r=>r[0]==n),rk=(a,i)=>[...a].sort((p,q)=>q[i]-p[i]).findIndex(r=>r[0]==n)+1;
  document.getElementById("dlb").innerHTML=`<h3>${n}</h3><div class="sub">${dot(c[1])}${c[1]}</div>
  <b>Cricket</b><div class="stats"><div><b>${f(c[2],2)}</b><span>MPR · #${rk(cr,2)}</span></div><div><b>${f(pw(0,c),1)}%</b><span>${c[4]}W of ${c[3]}</span></div><div><b>${c[12]}</b><span>9-mark rounds</span></div><div><b>${c[6]}</b><span>Hat tricks</span></div><div><b>${c[5]}</b><span>Assists</span></div><div><b>${c[8]}</b><span>5-mark rounds</span></div></div>
  <b>X01</b><div class="stats"><div><b>${f(x[2],2)}</b><span>PPD · #${rk(xr,2)}</span></div><div><b>${f(pw(0,x),1)}%</b><span>${x[4]}W of ${x[3]}</span></div><div><b>${x[5]}</b><span>Hat tricks</span></div><div><b>${x[8]}</b><span>High tons</span></div><div><b>${x[9]}</b><span>Low tons</span></div><div><b>${x[7]}</b><span>Ton 80s</span></div></div>
  <button class="theme" onclick="dlg.close()">Close</button>`;dlg.showModal()}
+let lastUpd;
 function init(d){
+ lastUpd=d.updated;
  standings=d.standings;cr=d.cricket;xr=d.x01;results=d.results;improved=d.improved||{c:[],x:[]};D={c:cr,x:xr};
  TM=Object.fromEntries(d.teams.map(t=>[t.name,[t.name,t.captain,t.phone,t.site]]));
  WK=d.schedule.map(w=>[w.week,w.date,w.matches,w.note||""]);SITES=d.sites.map(s=>[s.name,s.machines,s.phone,s.address]);
  const all=[...new Set([...standings.map(x=>x[0]),...Object.keys(TM)])];standings_=all;
  T=Object.fromEntries(all.map((n,i)=>[n,`hsl(${Math.round(i*360/all.length)} 55% 45%)`]));
- const L=d.league||{},wk=Math.max(0,...results.map(r=>r[3]));
+ const L=d.league||{},wk=Math.max(0,...results.map(r=>r[3]));curWk=wk;
+ if(myTeam&&!all.includes(myTeam))myTeam="";if(team&&!all.includes(team))team="";if(stTeam&&!all.includes(stTeam))stTeam="";
  document.title="Cap Darts · "+(L.title||"League stats");
  document.getElementById("h1").textContent=L.title||"League stats";
  document.getElementById("s1").textContent="Cap Darts"+(L.location?" · Location "+L.location:"")+(wk?" · Week "+wk:"");
  const u=new Date(d.updated),old=Date.now()-u>14*864e5;
  document.getElementById("s2").textContent=isNaN(u)?"":"Last updated "+u.toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"})+(old?" · Data may be out of date":"")}
+loadState();
 fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{init(d);render()}).catch(()=>{main.innerHTML='<div class="card">Could not load the league data. Refresh the page, or try again later.</div>'});
+setInterval(()=>{if(document.hidden)return;fetch("data.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{if(d&&d.updated!==lastUpd){init(d);render()}}).catch(()=>{})},600000);
+
+const up_=document.getElementById("up");addEventListener("scroll",()=>up_.classList.toggle("on",scrollY>600),{passive:true});up_.onclick=()=>scrollTo({top:0,behavior:"smooth"});
+let dip;addEventListener("beforeinstallprompt",e=>{e.preventDefault();dip=e});
+const a2=document.getElementById("a2hs");
+if(matchMedia("(display-mode: standalone)").matches||(typeof navigator!="undefined"&&navigator.standalone))a2.style.display="none";
+a2.onclick=()=>{if(dip){dip.prompt();dip=null;return}document.getElementById("dlb").innerHTML=`<h3>Add to Home Screen</h3><p><b>iPhone or iPad (Safari):</b> tap the Share button, then <b>Add to Home Screen</b>.</p><p><b>Android (Chrome):</b> tap the ⋮ menu, then <b>Add to Home screen</b> or <b>Install app</b>.</p><button class="theme" onclick="dlg.close()">Close</button>`;dlg.showModal()};
+if(typeof navigator!="undefined"&&"serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script></body></html>
