@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Scott Prince",
-   "The Four Horseman",
-   2.3,
-   12,
-   1,
-   4,
-   1,
-   0,
-   7,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Joel Diaz",
    "RamRod",
    2.3,
@@ -363,6 +348,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Scott Prince",
+   "The Four Horseman",
+   2.3,
+   12,
+   1,
+   4,
+   1,
+   0,
+   7,
+   2,
+   0,
+   0,
+   0
   ],
   [
    "Chris Jones",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-22T08:38:55Z"
+ "updated": "2026-10-22T09:35:12Z"
 }

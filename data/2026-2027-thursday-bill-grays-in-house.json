@@ -290,6 +290,21 @@
    0
   ],
   [
+   "AJ Dibo",
+   "Gotti And Hynes",
+   1.41,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Alex Stathopoulos",
    "Alex And Lawlor",
    1.41,
@@ -314,21 +329,6 @@
    0,
    0,
    2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "AJ Dibo",
-   "Gotti And Hynes",
-   1.41,
-   4,
-   2,
-   0,
-   0,
-   0,
-   0,
    1,
    0,
    0,
@@ -759,5 +759,5 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-22T08:40:00Z"
+ "updated": "2026-10-22T09:36:09Z"
 }
