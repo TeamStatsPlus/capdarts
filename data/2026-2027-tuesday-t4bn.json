@@ -492,21 +492,6 @@
    0
   ],
   [
-   "Mike Bisig",
-   "Trippin On Trips",
-   1.96,
-   9,
-   3,
-   5,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "David Rogers",
    "Truckin Bulls",
    1.96,
@@ -518,6 +503,21 @@
    1,
    3,
    2,
+   0,
+   0
+  ],
+  [
+   "Mike Bisig",
+   "Trippin On Trips",
+   1.96,
+   9,
+   3,
+   5,
+   0,
+   0,
+   4,
+   0,
+   1,
    0,
    0
   ],
@@ -687,21 +687,6 @@
    0
   ],
   [
-   "Pat Turco",
-   "Trippin On Trips",
-   1.71,
-   6,
-   1,
-   3,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Leach",
    "Truckin Bulls",
    1.71,
@@ -712,6 +697,21 @@
    0,
    0,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Pat Turco",
+   "Trippin On Trips",
+   1.71,
+   6,
+   1,
+   3,
+   0,
+   0,
+   1,
+   0,
    1,
    0,
    0
@@ -2572,7 +2572,7 @@
   },
   {
    "name": "Gameday",
-   "machines": 4,
+   "machines": 5,
    "phone": "",
    "address": "730 Elmgrove Rd, Rochester, NY 14624"
   },
@@ -2601,5 +2601,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-22T19:15:41Z"
+ "updated": "2026-10-22T20:27:32Z"
 }

@@ -126,10 +126,10 @@
     1.42
    ],
    [
-    "Mike Ribis",
-    "Gameday",
-    1.81,
-    1.89
+    "Willie Szabo",
+    "Yearoff",
+    2.3,
+    2.38
    ]
   ],
   "x": [
@@ -185,12 +185,12 @@
    0
   ],
   [
-   "Jojo Goodrell",
-   "Gameday",
+   "Jeff Every",
+   "FTO",
    2.42,
    3,
    1,
-   1,
+   2,
    1,
    0,
    1,
@@ -200,12 +200,12 @@
    0
   ],
   [
-   "Jeff Every",
-   "FTO",
+   "Jojo Goodrell",
+   "Gameday",
    2.42,
    3,
    1,
-   2,
+   1,
    1,
    0,
    1,
@@ -260,21 +260,6 @@
    0
   ],
   [
-   "Tom Barnard",
-   "Tip Deep",
-   2.21,
-   12,
-   2,
-   7,
-   0,
-   0,
-   8,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Matt Horst",
    "FTO",
    2.21,
@@ -286,6 +271,21 @@
    3,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Tom Barnard",
+   "Tip Deep",
+   2.21,
+   12,
+   2,
+   7,
+   0,
+   0,
+   8,
+   0,
+   0,
    0,
    0
   ],
@@ -365,21 +365,6 @@
    0
   ],
   [
-   "Donovan Caraballo",
-   "BullsHitters",
-   1.95,
-   12,
-   2,
-   5,
-   1,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Dean Nicosia",
    "BullsHitters",
    1.95,
@@ -390,6 +375,21 @@
    0,
    2,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Donovan Caraballo",
+   "BullsHitters",
+   1.95,
+   12,
+   2,
+   5,
+   1,
+   0,
+   4,
+   1,
    0,
    0,
    0
@@ -1051,18 +1051,6 @@
    5
   ],
   [
-   "Dennis Obrien",
-   "Almost There",
-   15.82,
-   16,
-   1,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Dan Brocht",
    "BullsHitters",
    15.82,
@@ -1073,6 +1061,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Dennis Obrien",
+   "Almost There",
+   15.82,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Robert Crew",
@@ -1757,7 +1757,7 @@
   },
   {
    "name": "Gameday",
-   "machines": 4,
+   "machines": 5,
    "phone": "",
    "address": "730 Elmgrove Rd, Rochester, NY 14624"
   },
@@ -1780,5 +1780,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-10-22T19:16:00Z"
+ "updated": "2026-10-22T20:27:50Z"
 }
