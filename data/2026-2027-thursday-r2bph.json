@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:35:00Z",
+ "updated": "2026-10-22T01:41:31Z",
  "standings": [
   [
    "No Clue",
@@ -17,7 +17,7 @@
    16
   ],
   [
-   "Dart Bags",
+   "Dart Bags T",
    26,
    19
   ],
@@ -33,18 +33,18 @@
   ],
   [
    "Handjobs4thehomeless",
-   14,
-   16
+   22,
+   23
+  ],
+  [
+   "Never Trust A Dart",
+   20,
+   25
   ],
   [
    "Throwing Shade",
    20,
    25
-  ],
-  [
-   "Never Trust A Dart",
-   13,
-   17
   ],
   [
    "Throw Bros",
@@ -76,7 +76,7 @@
   [
    "DoubleIn StumbleOut",
    "TakingNamesTakingAim",
-   "10/22/2026",
+   "10/15/2026",
    3,
    12,
    3
@@ -84,7 +84,7 @@
   [
    "No Clue",
    "Revenge",
-   "10/22/2026",
+   "10/15/2026",
    3,
    10,
    5
@@ -92,15 +92,15 @@
   [
    "Scotts On The Rocks",
    "Retreat",
-   "10/22/2026",
+   "10/15/2026",
    3,
    9,
    6
   ],
   [
    "Throwing Shade",
-   "Dart Bags",
-   "10/22/2026",
+   "Dart Bags T",
+   "10/15/2026",
    3,
    8,
    7
@@ -108,7 +108,7 @@
   [
    "Throw Bros",
    "Tag Team Tami",
-   "10/22/2026",
+   "10/15/2026",
    3,
    8,
    7
@@ -116,23 +116,31 @@
   [
    "Draw Two",
    "Wags To Richs",
-   "10/22/2026",
+   "10/15/2026",
    3,
    8,
    7
   ],
   [
    "Handjobs4thehomeless",
-   "Wags To Richs",
-   "10/15/2026",
-   2,
+   "Never Trust A Dart",
+   "10/21/2026",
+   3,
    8,
    7
   ],
   [
-   "Dart Bags",
+   "Dart Bags T",
    "Throwing Shade",
-   "10/22/2026",
+   "10/15/2026",
+   3,
+   7,
+   8
+  ],
+  [
+   "Never Trust A Dart",
+   "Handjobs4thehomeless",
+   "10/21/2026",
    3,
    7,
    8
@@ -140,7 +148,7 @@
   [
    "Tag Team Tami",
    "Throw Bros",
-   "10/22/2026",
+   "10/15/2026",
    3,
    7,
    8
@@ -148,7 +156,7 @@
   [
    "Wags To Richs",
    "Draw Two",
-   "10/22/2026",
+   "10/15/2026",
    3,
    7,
    8
@@ -156,23 +164,15 @@
   [
    "Retreat",
    "Scotts On The Rocks",
-   "10/22/2026",
+   "10/15/2026",
    3,
    6,
    9
   ],
   [
-   "Never Trust A Dart",
-   "Dart Bags",
-   "10/15/2026",
-   2,
-   5,
-   10
-  ],
-  [
    "Revenge",
    "No Clue",
-   "10/22/2026",
+   "10/15/2026",
    3,
    5,
    10
@@ -180,7 +180,7 @@
   [
    "TakingNamesTakingAim",
    "DoubleIn StumbleOut",
-   "10/22/2026",
+   "10/15/2026",
    3,
    3,
    12
@@ -214,21 +214,6 @@
    15,
    7,
    4,
-   0,
-   0
-  ],
-  [
-   "Matt Wagner",
-   "Handjobs4thehomeless",
-   3.0,
-   6,
-   1,
-   2,
-   1,
-   0,
-   3,
-   2,
-   3,
    0,
    0
   ],
@@ -278,6 +263,21 @@
    1
   ],
   [
+   "Matt Wagner",
+   "Handjobs4thehomeless",
+   2.86,
+   12,
+   4,
+   2,
+   1,
+   0,
+   8,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
    "Scott Etter",
    "Scotts On The Rocks",
    2.85,
@@ -309,7 +309,7 @@
   ],
   [
    "Mark Sennett",
-   "Dart Bags",
+   "Dart Bags T",
    2.7,
    18,
    7,
@@ -320,6 +320,21 @@
    5,
    3,
    1,
+   0
+  ],
+  [
+   "Todd Wagner",
+   "Handjobs4thehomeless",
+   2.69,
+   18,
+   5,
+   2,
+   0,
+   0,
+   9,
+   5,
+   3,
+   0,
    0
   ],
   [
@@ -336,21 +351,6 @@
    2,
    0,
    1
-  ],
-  [
-   "Todd Wagner",
-   "Handjobs4thehomeless",
-   2.67,
-   12,
-   4,
-   0,
-   0,
-   0,
-   6,
-   4,
-   2,
-   0,
-   0
   ],
   [
    "Kevin DeHollander",
@@ -383,6 +383,21 @@
    0
   ],
   [
+   "Alexander Blake",
+   "Dart Bags T",
+   2.57,
+   18,
+   7,
+   4,
+   1,
+   0,
+   6,
+   4,
+   4,
+   0,
+   0
+  ],
+  [
    "Daniel Purpura",
    "Retreat",
    2.57,
@@ -394,21 +409,6 @@
    8,
    4,
    2,
-   0,
-   0
-  ],
-  [
-   "Alexander Blake",
-   "Dart Bags",
-   2.57,
-   18,
-   7,
-   4,
-   1,
-   0,
-   6,
-   4,
-   4,
    0,
    0
   ],
@@ -428,6 +428,21 @@
    0
   ],
   [
+   "Eric Porte",
+   "Never Trust A Dart",
+   2.51,
+   18,
+   6,
+   3,
+   1,
+   0,
+   13,
+   6,
+   0,
+   0,
+   0
+  ],
+  [
    "Mike Georgetti",
    "No Clue",
    2.5,
@@ -439,21 +454,6 @@
    9,
    4,
    3,
-   0,
-   0
-  ],
-  [
-   "Eric Porte",
-   "Never Trust A Dart",
-   2.5,
-   12,
-   4,
-   2,
-   1,
-   0,
-   10,
-   4,
-   0,
    0,
    0
   ],
@@ -550,15 +550,15 @@
   [
    "Brandon Wheeler",
    "Never Trust A Dart",
-   2.14,
-   12,
-   3,
+   2.21,
+   18,
+   5,
+   2,
    1,
    0,
-   0,
-   6,
+   8,
+   3,
    2,
-   0,
    0,
    1
   ],
@@ -708,14 +708,14 @@
   [
    "Matt Wagner",
    "Handjobs4thehomeless",
-   24.91,
-   7,
-   3,
+   26.09,
+   14,
+   4,
+   1,
    0,
    0,
-   0,
-   3,
-   19
+   6,
+   35
   ],
   [
    "Andy Georgetti",
@@ -743,7 +743,7 @@
   ],
   [
    "Mark Sennett",
-   "Dart Bags",
+   "Dart Bags T",
    24.17,
    21,
    4,
@@ -791,7 +791,7 @@
   ],
   [
    "Alexander Blake",
-   "Dart Bags",
+   "Dart Bags T",
    22.98,
    21,
    8,
@@ -804,14 +804,14 @@
   [
    "Todd Wagner",
    "Handjobs4thehomeless",
-   22.14,
-   14,
-   4,
+   22.64,
+   21,
+   7,
    2,
    0,
    0,
    2,
-   22
+   33
   ],
   [
    "Anthony Kelly",
@@ -910,18 +910,6 @@
    26
   ],
   [
-   "Brandon Wheeler",
-   "Never Trust A Dart",
-   20.46,
-   14,
-   4,
-   4,
-   0,
-   0,
-   2,
-   14
-  ],
-  [
    "Chris Contrera",
    "Throw Bros",
    20.45,
@@ -958,6 +946,30 @@
    27
   ],
   [
+   "Brandon Wheeler",
+   "Never Trust A Dart",
+   20.22,
+   21,
+   5,
+   6,
+   0,
+   0,
+   2,
+   20
+  ],
+  [
+   "Eric Porte",
+   "Never Trust A Dart",
+   19.79,
+   21,
+   4,
+   1,
+   0,
+   0,
+   1,
+   23
+  ],
+  [
    "Jason Arena",
    "Throwing Shade",
    19.76,
@@ -968,18 +980,6 @@
    0,
    1,
    24
-  ],
-  [
-   "Eric Porte",
-   "Never Trust A Dart",
-   19.58,
-   14,
-   2,
-   1,
-   0,
-   0,
-   0,
-   16
   ],
   [
    "Mike Ronzo",
@@ -1089,97 +1089,97 @@
     21.47
    ],
    [
-    "John Salamone",
-    "Tag Team Tami",
-    19.41,
-    20.37
+    "Matt Wagner",
+    "Handjobs4thehomeless",
+    24.91,
+    26.09
    ]
   ]
  },
  "teams": [
   {
-   "name": "Dart Bags",
+   "name": "Dart Bags T",
+   "site": "Tryon City Tavern",
    "captain": "Alexander Blake",
-   "phone": "585-737-2583",
-   "site": "Tryon City Tavern"
+   "phone": "585-737-2583"
   },
   {
    "name": "DoubleIn StumbleOut",
+   "site": "Dougies",
    "captain": "Sean Liddle",
-   "phone": "585-259-7326",
-   "site": "Dougies"
+   "phone": "585-259-7326"
   },
   {
    "name": "Draw Two",
+   "site": "Gameday",
    "captain": "Kevin DeHollander",
-   "phone": "585-703-4068",
-   "site": "Gameday"
+   "phone": "585-703-4068"
   },
   {
    "name": "Handjobs4thehomeless",
+   "site": "Back To My Place",
    "captain": "Matt Wagner",
-   "phone": "585-313-3582",
-   "site": "Back To My Place"
+   "phone": "585-313-3582"
   },
   {
    "name": "Never Trust A Dart",
+   "site": "BLVD Grill",
    "captain": "Eric Porte",
-   "phone": "585-766-0352",
-   "site": "BLVD Grill"
+   "phone": "585-766-0352"
   },
   {
    "name": "No Clue",
+   "site": "Gameday",
    "captain": "Andy Georgetti",
-   "phone": "585-470-8447",
-   "site": "Gameday"
+   "phone": "585-470-8447"
   },
   {
    "name": "Retreat",
+   "site": "Retreat",
    "captain": "Daniel Purpura",
-   "phone": "585-369-6966",
-   "site": "Retreat"
+   "phone": "585-369-6966"
   },
   {
    "name": "Revenge",
+   "site": "My Apartment Bar",
    "captain": "Archie Donaldson",
-   "phone": "585-967-0499",
-   "site": "My Apartment Bar"
+   "phone": "585-967-0499"
   },
   {
    "name": "Scotts On The Rocks",
+   "site": "My Apartment Bar",
    "captain": "Scott King",
-   "phone": "585-667-4378",
-   "site": "My Apartment Bar"
+   "phone": "585-667-4378"
   },
   {
    "name": "Tag Team Tami",
+   "site": "My Apartment Bar",
    "captain": "Mike Ronzo",
-   "phone": "585-764-3896",
-   "site": "My Apartment Bar"
+   "phone": "585-764-3896"
   },
   {
    "name": "TakingNamesTakingAim",
+   "site": "Tryon City Tavern",
    "captain": "Jessica Mitrano",
-   "phone": "585-704-5365",
-   "site": "Tryon City Tavern"
+   "phone": "585-704-5365"
   },
   {
    "name": "Throw Bros",
+   "site": "My Apartment Bar",
    "captain": "Anthony Kelly",
-   "phone": "585-424-0134",
-   "site": "My Apartment Bar"
+   "phone": "585-424-0134"
   },
   {
    "name": "Throwing Shade",
+   "site": "Drs Inn",
    "captain": "Shawn Bentley",
-   "phone": "585-709-4900",
-   "site": "Drs Inn"
+   "phone": "585-709-4900"
   },
   {
    "name": "Wags To Richs",
+   "site": "My Apartment Bar",
    "captain": "Rich Allen",
-   "phone": "585-750-4028",
-   "site": "My Apartment Bar"
+   "phone": "585-750-4028"
   }
  ],
  "schedule": [
@@ -1189,7 +1189,7 @@
    "note": "",
    "matches": [
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Handjobs4thehomeless"
     ],
     [
@@ -1249,7 +1249,7 @@
     ],
     [
      "Never Trust A Dart",
-     "Dart Bags"
+     "Dart Bags T"
     ]
    ]
   },
@@ -1263,7 +1263,7 @@
      "Never Trust A Dart"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Throwing Shade"
     ],
     [
@@ -1315,7 +1315,7 @@
     ],
     [
      "Retreat",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "Throwing Shade",
@@ -1337,7 +1337,7 @@
      "Retreat"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Throw Bros"
     ],
     [
@@ -1381,7 +1381,7 @@
     ],
     [
      "Revenge",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "Throw Bros",
@@ -1411,7 +1411,7 @@
      "Revenge"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "TakingNamesTakingAim"
     ],
     [
@@ -1447,7 +1447,7 @@
     ],
     [
      "Wags To Richs",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "TakingNamesTakingAim",
@@ -1466,7 +1466,7 @@
   {
    "week": 9,
    "date": "2026-12-03",
-   "note": "Off 11/26 for Thanksgiving",
+   "note": "Off 11/26- Thanskgiving",
    "matches": [
     [
      "Handjobs4thehomeless",
@@ -1485,7 +1485,7 @@
      "Wags To Richs"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Draw Two"
     ],
     [
@@ -1513,7 +1513,7 @@
     ],
     [
      "DoubleIn StumbleOut",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "Draw Two",
@@ -1559,7 +1559,7 @@
      "DoubleIn StumbleOut"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "No Clue"
     ],
     [
@@ -1571,7 +1571,7 @@
   {
    "week": 12,
    "date": "2027-01-07",
-   "note": "Off 12/24 and 12/31 for the holidays",
+   "note": "Off 12/24 & 12/31- Holidays",
    "matches": [
     [
      "Scotts On The Rocks",
@@ -1579,7 +1579,7 @@
     ],
     [
      "Tag Team Tami",
-     "Dart Bags"
+     "Dart Bags T"
     ],
     [
      "No Clue",
@@ -1633,7 +1633,7 @@
      "Tag Team Tami"
     ],
     [
-     "Dart Bags",
+     "Dart Bags T",
      "Scotts On The Rocks"
     ]
    ]
@@ -1641,67 +1641,67 @@
   {
    "week": 14,
    "date": "2027-01-21",
-   "note": "Makeup matches",
+   "note": "Use 1/21 for Makeup Matches",
    "matches": []
   },
   {
    "week": 15,
    "date": "2027-01-28",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 16,
    "date": "2027-02-04",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 17,
    "date": "2027-02-11",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 18,
    "date": "2027-02-18",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 19,
    "date": "2027-02-25",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 20,
    "date": "2027-03-04",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 21,
    "date": "2027-03-11",
-   "note": "Matches TBA. Top 7 and bottom 7.",
+   "note": "Matches TBA. Top 7 & Bottom 7.",
    "matches": []
   },
   {
    "week": 22,
    "date": "2027-03-18",
-   "note": "Makeup matches",
+   "note": "Use 3/18 for Makeup Matches",
    "matches": []
   },
   {
    "week": 23,
    "date": "2027-03-25",
-   "note": "Makeup matches",
+   "note": "Use 3/25 for Makeup Matches",
    "matches": []
   },
   {
    "week": 24,
    "date": "2027-04-01",
-   "note": "Makeup matches",
+   "note": "Use 4/1 for Makeup Matches",
    "matches": []
   },
   {

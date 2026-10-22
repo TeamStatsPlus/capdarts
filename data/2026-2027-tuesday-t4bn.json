@@ -1,0 +1,2605 @@
+{
+ "league": {
+  "title": "Tuesday 4 Player B North",
+  "location": "6T4BN"
+ },
+ "standings": [
+  [
+   "AM Lumber",
+   32,
+   7
+  ],
+  [
+   "Trippin On Trips",
+   29,
+   10
+  ],
+  [
+   "Is It In",
+   27,
+   12
+  ],
+  [
+   "Dartbags",
+   35,
+   17
+  ],
+  [
+   "Fat Bastards",
+   29,
+   23
+  ],
+  [
+   "New Wave",
+   28,
+   24
+  ],
+  [
+   "Chicks And Dicks",
+   23,
+   29
+  ],
+  [
+   "Points And Pints",
+   22,
+   30
+  ],
+  [
+   "Aiming Fluid",
+   21,
+   31
+  ],
+  [
+   "Truckin Bulls",
+   21,
+   31
+  ],
+  [
+   "Show Your Tips",
+   13,
+   26
+  ],
+  [
+   "Peppers And Onions",
+   6,
+   46
+  ]
+ ],
+ "results": [
+  [
+   "Trippin On Trips",
+   "Show Your Tips",
+   "10/20/2026",
+   4,
+   13,
+   0
+  ],
+  [
+   "AM Lumber",
+   "Peppers And Onions",
+   "10/20/2026",
+   4,
+   11,
+   2
+  ],
+  [
+   "Chicks And Dicks",
+   "Aiming Fluid",
+   "10/20/2026",
+   4,
+   9,
+   4
+  ],
+  [
+   "Is It In",
+   "Truckin Bulls",
+   "10/20/2026",
+   4,
+   9,
+   4
+  ],
+  [
+   "Dartbags",
+   "Fat Bastards",
+   "10/20/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "New Wave",
+   "Points And Pints",
+   "10/20/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Fat Bastards",
+   "Dartbags",
+   "10/20/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Points And Pints",
+   "New Wave",
+   "10/20/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Aiming Fluid",
+   "Chicks And Dicks",
+   "10/20/2026",
+   4,
+   4,
+   9
+  ],
+  [
+   "Truckin Bulls",
+   "Is It In",
+   "10/20/2026",
+   4,
+   4,
+   9
+  ],
+  [
+   "Peppers And Onions",
+   "AM Lumber",
+   "10/20/2026",
+   4,
+   2,
+   11
+  ],
+  [
+   "Show Your Tips",
+   "Trippin On Trips",
+   "10/20/2026",
+   4,
+   0,
+   13
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Dan Spencer",
+    "Peppers And Onions",
+    1.43,
+    1.75
+   ],
+   [
+    "Hector Hernandez",
+    "Fat Bastards",
+    2.18,
+    2.4
+   ],
+   [
+    "Joel Mattison",
+    "Truckin Bulls",
+    1.33,
+    1.52
+   ]
+  ],
+  "x": [
+   [
+    "Lauri Earle",
+    "Peppers And Onions",
+    12.31,
+    13.42
+   ],
+   [
+    "Mike Mucci",
+    "Dartbags",
+    18.02,
+    19.12
+   ],
+   [
+    "Chris Contrera",
+    "AM Lumber",
+    20.44,
+    21.53
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Andy Horton",
+   "AM Lumber",
+   2.78,
+   9,
+   3,
+   6,
+   0,
+   1,
+   1,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Chris Show Your Tips",
+   "Show Your Tips",
+   2.72,
+   3,
+   3,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   1,
+   0
+  ],
+  [
+   "Hector Hernandez",
+   "Fat Bastards",
+   2.4,
+   12,
+   6,
+   1,
+   1,
+   0,
+   6,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Will Zimmer",
+   "AM Lumber",
+   2.38,
+   9,
+   5,
+   3,
+   1,
+   0,
+   8,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Tantalo",
+   "AM Lumber",
+   2.35,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Zack Fee",
+   "Trippin On Trips",
+   2.35,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris Contrera",
+   "AM Lumber",
+   2.35,
+   9,
+   6,
+   2,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ricky Karre",
+   "Is It In",
+   2.34,
+   9,
+   4,
+   2,
+   0,
+   0,
+   8,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dave Grouse",
+   "New Wave",
+   2.33,
+   3,
+   1,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tino Aiming Fluid",
+   "Aiming Fluid",
+   2.2,
+   9,
+   4,
+   1,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Desmond Parris",
+   "Fat Bastards",
+   2.18,
+   12,
+   2,
+   4,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Michael Bell",
+   "Is It In",
+   2.15,
+   9,
+   3,
+   3,
+   1,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Scott Tartaglia",
+   "New Wave",
+   2.13,
+   12,
+   4,
+   4,
+   0,
+   0,
+   3,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jose Santiago",
+   "Dartbags",
+   2.11,
+   12,
+   4,
+   3,
+   0,
+   0,
+   1,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "John Bailey",
+   "Chicks And Dicks",
+   2.08,
+   12,
+   5,
+   1,
+   1,
+   0,
+   3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brad Paradise",
+   "Dartbags",
+   2.06,
+   12,
+   4,
+   6,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tyler Giorgione",
+   "Trippin On Trips",
+   2.03,
+   9,
+   6,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Mucci",
+   "Dartbags",
+   2.0,
+   12,
+   8,
+   2,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Alex Riley",
+   "New Wave",
+   1.99,
+   12,
+   4,
+   5,
+   1,
+   0,
+   5,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Mike Bisig",
+   "Trippin On Trips",
+   1.96,
+   9,
+   3,
+   5,
+   0,
+   0,
+   4,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "David Rogers",
+   "Truckin Bulls",
+   1.96,
+   12,
+   3,
+   1,
+   0,
+   0,
+   1,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Jake Preston",
+   "Show Your Tips",
+   1.95,
+   9,
+   2,
+   2,
+   0,
+   1,
+   3,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Anthony Kelly",
+   "AM Lumber",
+   1.94,
+   3,
+   0,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Barry Barklund",
+   "Dartbags",
+   1.92,
+   12,
+   1,
+   6,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jasen Torres",
+   "Trippin On Trips",
+   1.92,
+   9,
+   5,
+   3,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Zach Zeek Smith",
+   "Is It In",
+   1.92,
+   9,
+   5,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dale Pickens",
+   "Points And Pints",
+   1.81,
+   12,
+   3,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1
+  ],
+  [
+   "Scott Stipulski",
+   "Chicks And Dicks",
+   1.81,
+   12,
+   1,
+   2,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   1.76,
+   12,
+   2,
+   5,
+   0,
+   0,
+   2,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Kevin Moses",
+   "Is It In",
+   1.76,
+   9,
+   0,
+   5,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dan Spencer",
+   "Peppers And Onions",
+   1.75,
+   12,
+   2,
+   1,
+   0,
+   0,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jamie Rialdi",
+   "Show Your Tips",
+   1.74,
+   9,
+   0,
+   3,
+   0,
+   0,
+   3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Pat Turco",
+   "Trippin On Trips",
+   1.71,
+   6,
+   1,
+   3,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Leach",
+   "Truckin Bulls",
+   1.71,
+   12,
+   3,
+   3,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Chris New Wave",
+   "New Wave",
+   1.68,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joe Tortora",
+   "Points And Pints",
+   1.67,
+   12,
+   5,
+   1,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Mike Coyle",
+   "Fat Bastards",
+   1.66,
+   12,
+   1,
+   3,
+   0,
+   0,
+   1,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris Laloggia",
+   "Fat Bastards",
+   1.65,
+   12,
+   2,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bill Bradburn",
+   "Truckin Bulls",
+   1.62,
+   12,
+   1,
+   2,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Eric Smith",
+   "Show Your Tips",
+   1.6,
+   9,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Adams",
+   "Aiming Fluid",
+   1.58,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sean New Wave",
+   "New Wave",
+   1.54,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joel Mattison",
+   "Truckin Bulls",
+   1.52,
+   9,
+   2,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "John Dole",
+   "Aiming Fluid",
+   1.49,
+   12,
+   1,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "TJ Leverett",
+   "New Wave",
+   1.49,
+   12,
+   3,
+   2,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kathy Bailey",
+   "Chicks And Dicks",
+   1.47,
+   12,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tricia Busardo",
+   "Aiming Fluid",
+   1.46,
+   12,
+   1,
+   2,
+   0,
+   0,
+   2,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Joey Tortora",
+   "Points And Pints",
+   1.42,
+   12,
+   2,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Paul Cottingham",
+   "AM Lumber",
+   1.39,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Earl",
+   "Peppers And Onions",
+   1.36,
+   12,
+   1,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Pal New Wave",
+   "New Wave",
+   1.35,
+   3,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jennifer Wright",
+   "Aiming Fluid",
+   1.35,
+   12,
+   1,
+   3,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Julie Stipulski",
+   "Chicks And Dicks",
+   1.34,
+   12,
+   1,
+   3,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Billy Bradburn",
+   "Truckin Bulls",
+   1.18,
+   3,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Greg Cotchiti",
+   "Peppers And Onions",
+   1.11,
+   9,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Lauri Earle",
+   "Peppers And Onions",
+   1.1,
+   12,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Fischer",
+   "Show Your Tips",
+   1.09,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kev Peppers And Onions",
+   "Peppers And Onions",
+   0.77,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Anthony Kelly",
+   "AM Lumber",
+   26.09,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Desmond Parris",
+   "Fat Bastards",
+   25.91,
+   16,
+   8,
+   3,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Zack Fee",
+   "Trippin On Trips",
+   25.3,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Mike Tantalo",
+   "AM Lumber",
+   24.97,
+   4,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Will Zimmer",
+   "AM Lumber",
+   23.84,
+   12,
+   4,
+   2,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Tino Aiming Fluid",
+   "Aiming Fluid",
+   22.36,
+   12,
+   7,
+   2,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Andy Horton",
+   "AM Lumber",
+   21.98,
+   12,
+   6,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Jasen Torres",
+   "Trippin On Trips",
+   21.63,
+   12,
+   3,
+   2,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Chris Contrera",
+   "AM Lumber",
+   21.53,
+   12,
+   3,
+   2,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "John Bailey",
+   "Chicks And Dicks",
+   21.48,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Hector Hernandez",
+   "Fat Bastards",
+   21.43,
+   16,
+   3,
+   2,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Tyler Giorgione",
+   "Trippin On Trips",
+   21.19,
+   12,
+   4,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Ricky Karre",
+   "Is It In",
+   20.86,
+   12,
+   5,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Alex Riley",
+   "New Wave",
+   20.4,
+   16,
+   6,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Zach Zeek Smith",
+   "Is It In",
+   19.85,
+   12,
+   6,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Jose Santiago",
+   "Dartbags",
+   19.77,
+   16,
+   4,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Mike Bisig",
+   "Trippin On Trips",
+   19.6,
+   12,
+   5,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Eric Smith",
+   "Show Your Tips",
+   19.51,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Scott Stipulski",
+   "Chicks And Dicks",
+   19.19,
+   16,
+   8,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Mike Mucci",
+   "Dartbags",
+   19.12,
+   16,
+   7,
+   0,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Paul Cottingham",
+   "AM Lumber",
+   19.0,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Michael Bell",
+   "Is It In",
+   18.73,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Jake Preston",
+   "Show Your Tips",
+   18.34,
+   12,
+   1,
+   1,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Dale Pickens",
+   "Points And Pints",
+   18.14,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "David Rogers",
+   "Truckin Bulls",
+   17.76,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Barry Barklund",
+   "Dartbags",
+   17.63,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Scott Tartaglia",
+   "New Wave",
+   17.54,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Jennifer Wright",
+   "Aiming Fluid",
+   17.49,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Chris Laloggia",
+   "Fat Bastards",
+   17.47,
+   16,
+   4,
+   2,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Brad Paradise",
+   "Dartbags",
+   17.46,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Mike Coyle",
+   "Fat Bastards",
+   17.38,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Chris Show Your Tips",
+   "Show Your Tips",
+   17.17,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Mike Fischer",
+   "Show Your Tips",
+   17.16,
+   8,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Bill Bradburn",
+   "Truckin Bulls",
+   16.85,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Brian Leach",
+   "Truckin Bulls",
+   16.82,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Dave Grouse",
+   "New Wave",
+   16.72,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Joe Tortora",
+   "Points And Pints",
+   16.42,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "TJ Leverett",
+   "New Wave",
+   16.25,
+   16,
+   1,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Julie Stipulski",
+   "Chicks And Dicks",
+   15.89,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Chris New Wave",
+   "New Wave",
+   15.76,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Dan Spencer",
+   "Peppers And Onions",
+   15.75,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Pal New Wave",
+   "New Wave",
+   15.74,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Kevin Moses",
+   "Is It In",
+   15.55,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Jamie Rialdi",
+   "Show Your Tips",
+   15.48,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Pat Turco",
+   "Trippin On Trips",
+   15.32,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joey Tortora",
+   "Points And Pints",
+   15.3,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   15.3,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "John Dole",
+   "Aiming Fluid",
+   14.73,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Joel Mattison",
+   "Truckin Bulls",
+   14.41,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Rob Earl",
+   "Peppers And Onions",
+   14.39,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kev Peppers And Onions",
+   "Peppers And Onions",
+   14.19,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Tricia Busardo",
+   "Aiming Fluid",
+   13.96,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Sean New Wave",
+   "New Wave",
+   13.49,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kathy Bailey",
+   "Chicks And Dicks",
+   13.47,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Lauri Earle",
+   "Peppers And Onions",
+   13.42,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Billy Bradburn",
+   "Truckin Bulls",
+   12.99,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Greg Cotchiti",
+   "Peppers And Onions",
+   12.95,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Adams",
+   "Aiming Fluid",
+   12.63,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Aiming Fluid",
+   "site": "My Apartment Bar",
+   "captain": "Kevin Adams",
+   "phone": "585-203-7642"
+  },
+  {
+   "name": "AM Lumber",
+   "site": "BRU",
+   "captain": "Paul Cottingham",
+   "phone": "585-233-0237"
+  },
+  {
+   "name": "Chicks And Dicks",
+   "site": "Noonans",
+   "captain": "Julie Stipulski",
+   "phone": "585-749-4109"
+  },
+  {
+   "name": "Dartbags",
+   "site": "The Willow",
+   "captain": "Jose Santiago",
+   "phone": "585-261-9710"
+  },
+  {
+   "name": "Fat Bastards",
+   "site": "Russell Station",
+   "captain": "Chris Laloggia",
+   "phone": "585-750-9943"
+  },
+  {
+   "name": "Is It In",
+   "site": "Russell Station",
+   "captain": "Kevin Moses",
+   "phone": "585-474-6264"
+  },
+  {
+   "name": "New Wave",
+   "site": "Gameday",
+   "captain": "Scott Tartaglia",
+   "phone": "585-224-6782"
+  },
+  {
+   "name": "Peppers And Onions",
+   "site": "My Apartment Bar",
+   "captain": "Dan Spencer",
+   "phone": "585-944-3382"
+  },
+  {
+   "name": "Points And Pints",
+   "site": "Russell Station",
+   "captain": "Dale Pickens",
+   "phone": "585-303-2373"
+  },
+  {
+   "name": "Show Your Tips",
+   "site": "Gameday",
+   "captain": "Mike Fischer",
+   "phone": "585-747-6226"
+  },
+  {
+   "name": "Trippin On Trips",
+   "site": "BTB Bar And Grill",
+   "captain": "Pat Turco",
+   "phone": "585-967-5972"
+  },
+  {
+   "name": "Truckin Bulls",
+   "site": "The Willow",
+   "captain": "David Rogers",
+   "phone": "585-478-2672"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-29",
+   "note": "",
+   "matches": [
+    [
+     "Fat Bastards",
+     "Trippin On Trips"
+    ],
+    [
+     "Points And Pints",
+     "AM Lumber"
+    ],
+    [
+     "Truckin Bulls",
+     "Peppers And Onions"
+    ],
+    [
+     "Aiming Fluid",
+     "Dartbags"
+    ],
+    [
+     "Show Your Tips",
+     "New Wave"
+    ],
+    [
+     "Chicks And Dicks",
+     "Is It In"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-06",
+   "note": "",
+   "matches": [
+    [
+     "Chicks And Dicks",
+     "Trippin On Trips"
+    ],
+    [
+     "Is It In",
+     "Show Your Tips"
+    ],
+    [
+     "New Wave",
+     "Aiming Fluid"
+    ],
+    [
+     "Dartbags",
+     "Truckin Bulls"
+    ],
+    [
+     "Peppers And Onions",
+     "Points And Pints"
+    ],
+    [
+     "AM Lumber",
+     "Fat Bastards"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-13",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "AM Lumber"
+    ],
+    [
+     "Fat Bastards",
+     "Peppers And Onions"
+    ],
+    [
+     "Points And Pints",
+     "Dartbags"
+    ],
+    [
+     "Truckin Bulls",
+     "New Wave"
+    ],
+    [
+     "Aiming Fluid",
+     "Is It In"
+    ],
+    [
+     "Show Your Tips",
+     "Chicks And Dicks"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-20",
+   "note": "",
+   "matches": [
+    [
+     "Show Your Tips",
+     "Trippin On Trips"
+    ],
+    [
+     "Chicks And Dicks",
+     "Aiming Fluid"
+    ],
+    [
+     "Is It In",
+     "Truckin Bulls"
+    ],
+    [
+     "New Wave",
+     "Points And Pints"
+    ],
+    [
+     "Dartbags",
+     "Fat Bastards"
+    ],
+    [
+     "Peppers And Onions",
+     "AM Lumber"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-27",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "Peppers And Onions"
+    ],
+    [
+     "AM Lumber",
+     "Dartbags"
+    ],
+    [
+     "Fat Bastards",
+     "New Wave"
+    ],
+    [
+     "Points And Pints",
+     "Is It In"
+    ],
+    [
+     "Truckin Bulls",
+     "Chicks And Dicks"
+    ],
+    [
+     "Aiming Fluid",
+     "Show Your Tips"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-03",
+   "note": "",
+   "matches": [
+    [
+     "Aiming Fluid",
+     "Trippin On Trips"
+    ],
+    [
+     "Show Your Tips",
+     "Truckin Bulls"
+    ],
+    [
+     "Chicks And Dicks",
+     "Points And Pints"
+    ],
+    [
+     "Is It In",
+     "Fat Bastards"
+    ],
+    [
+     "New Wave",
+     "AM Lumber"
+    ],
+    [
+     "Dartbags",
+     "Peppers And Onions"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-10",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "Dartbags"
+    ],
+    [
+     "Peppers And Onions",
+     "New Wave"
+    ],
+    [
+     "AM Lumber",
+     "Is It In"
+    ],
+    [
+     "Fat Bastards",
+     "Chicks And Dicks"
+    ],
+    [
+     "Points And Pints",
+     "Show Your Tips"
+    ],
+    [
+     "Truckin Bulls",
+     "Aiming Fluid"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-17",
+   "note": "",
+   "matches": [
+    [
+     "Truckin Bulls",
+     "Trippin On Trips"
+    ],
+    [
+     "Aiming Fluid",
+     "Points And Pints"
+    ],
+    [
+     "Show Your Tips",
+     "Fat Bastards"
+    ],
+    [
+     "Chicks And Dicks",
+     "AM Lumber"
+    ],
+    [
+     "Is It In",
+     "Peppers And Onions"
+    ],
+    [
+     "New Wave",
+     "Dartbags"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-24",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "New Wave"
+    ],
+    [
+     "Dartbags",
+     "Is It In"
+    ],
+    [
+     "Peppers And Onions",
+     "Chicks And Dicks"
+    ],
+    [
+     "AM Lumber",
+     "Show Your Tips"
+    ],
+    [
+     "Fat Bastards",
+     "Aiming Fluid"
+    ],
+    [
+     "Points And Pints",
+     "Truckin Bulls"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-01",
+   "note": "",
+   "matches": [
+    [
+     "Points And Pints",
+     "Trippin On Trips"
+    ],
+    [
+     "Truckin Bulls",
+     "Fat Bastards"
+    ],
+    [
+     "Aiming Fluid",
+     "AM Lumber"
+    ],
+    [
+     "Show Your Tips",
+     "Peppers And Onions"
+    ],
+    [
+     "Chicks And Dicks",
+     "Dartbags"
+    ],
+    [
+     "Is It In",
+     "New Wave"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-08",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "Is It In"
+    ],
+    [
+     "New Wave",
+     "Chicks And Dicks"
+    ],
+    [
+     "Dartbags",
+     "Show Your Tips"
+    ],
+    [
+     "Peppers And Onions",
+     "Aiming Fluid"
+    ],
+    [
+     "AM Lumber",
+     "Truckin Bulls"
+    ],
+    [
+     "Fat Bastards",
+     "Points And Pints"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-15",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "Fat Bastards"
+    ],
+    [
+     "AM Lumber",
+     "Points And Pints"
+    ],
+    [
+     "Peppers And Onions",
+     "Truckin Bulls"
+    ],
+    [
+     "Dartbags",
+     "Aiming Fluid"
+    ],
+    [
+     "New Wave",
+     "Show Your Tips"
+    ],
+    [
+     "Is It In",
+     "Chicks And Dicks"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-05",
+   "note": "Off 12/22 & 12/29- Can be used for makeup matches",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "Chicks And Dicks"
+    ],
+    [
+     "Show Your Tips",
+     "Is It In"
+    ],
+    [
+     "Aiming Fluid",
+     "New Wave"
+    ],
+    [
+     "Truckin Bulls",
+     "Dartbags"
+    ],
+    [
+     "Points And Pints",
+     "Peppers And Onions"
+    ],
+    [
+     "Fat Bastards",
+     "AM Lumber"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-12",
+   "note": "",
+   "matches": [
+    [
+     "AM Lumber",
+     "Trippin On Trips"
+    ],
+    [
+     "Peppers And Onions",
+     "Fat Bastards"
+    ],
+    [
+     "Dartbags",
+     "Points And Pints"
+    ],
+    [
+     "New Wave",
+     "Truckin Bulls"
+    ],
+    [
+     "Is It In",
+     "Aiming Fluid"
+    ],
+    [
+     "Chicks And Dicks",
+     "Show Your Tips"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-19",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "Show Your Tips"
+    ],
+    [
+     "Aiming Fluid",
+     "Chicks And Dicks"
+    ],
+    [
+     "Truckin Bulls",
+     "Is It In"
+    ],
+    [
+     "Points And Pints",
+     "New Wave"
+    ],
+    [
+     "Fat Bastards",
+     "Dartbags"
+    ],
+    [
+     "AM Lumber",
+     "Peppers And Onions"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-26",
+   "note": "",
+   "matches": [
+    [
+     "Peppers And Onions",
+     "Trippin On Trips"
+    ],
+    [
+     "Dartbags",
+     "AM Lumber"
+    ],
+    [
+     "New Wave",
+     "Fat Bastards"
+    ],
+    [
+     "Is It In",
+     "Points And Pints"
+    ],
+    [
+     "Chicks And Dicks",
+     "Truckin Bulls"
+    ],
+    [
+     "Show Your Tips",
+     "Aiming Fluid"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-02",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "Aiming Fluid"
+    ],
+    [
+     "Truckin Bulls",
+     "Show Your Tips"
+    ],
+    [
+     "Points And Pints",
+     "Chicks And Dicks"
+    ],
+    [
+     "Fat Bastards",
+     "Is It In"
+    ],
+    [
+     "AM Lumber",
+     "New Wave"
+    ],
+    [
+     "Peppers And Onions",
+     "Dartbags"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-09",
+   "note": "",
+   "matches": [
+    [
+     "Dartbags",
+     "Trippin On Trips"
+    ],
+    [
+     "New Wave",
+     "Peppers And Onions"
+    ],
+    [
+     "Is It In",
+     "AM Lumber"
+    ],
+    [
+     "Chicks And Dicks",
+     "Fat Bastards"
+    ],
+    [
+     "Show Your Tips",
+     "Points And Pints"
+    ],
+    [
+     "Aiming Fluid",
+     "Truckin Bulls"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-16",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "Truckin Bulls"
+    ],
+    [
+     "Points And Pints",
+     "Aiming Fluid"
+    ],
+    [
+     "Fat Bastards",
+     "Show Your Tips"
+    ],
+    [
+     "AM Lumber",
+     "Chicks And Dicks"
+    ],
+    [
+     "Peppers And Onions",
+     "Is It In"
+    ],
+    [
+     "Dartbags",
+     "New Wave"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-02-23",
+   "note": "",
+   "matches": [
+    [
+     "New Wave",
+     "Trippin On Trips"
+    ],
+    [
+     "Is It In",
+     "Dartbags"
+    ],
+    [
+     "Chicks And Dicks",
+     "Peppers And Onions"
+    ],
+    [
+     "Show Your Tips",
+     "AM Lumber"
+    ],
+    [
+     "Aiming Fluid",
+     "Fat Bastards"
+    ],
+    [
+     "Truckin Bulls",
+     "Points And Pints"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-02",
+   "note": "",
+   "matches": [
+    [
+     "Trippin On Trips",
+     "Points And Pints"
+    ],
+    [
+     "Fat Bastards",
+     "Truckin Bulls"
+    ],
+    [
+     "AM Lumber",
+     "Aiming Fluid"
+    ],
+    [
+     "Peppers And Onions",
+     "Show Your Tips"
+    ],
+    [
+     "Dartbags",
+     "Chicks And Dicks"
+    ],
+    [
+     "New Wave",
+     "Is It In"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-09",
+   "note": "",
+   "matches": [
+    [
+     "Is It In",
+     "Trippin On Trips"
+    ],
+    [
+     "Chicks And Dicks",
+     "New Wave"
+    ],
+    [
+     "Show Your Tips",
+     "Dartbags"
+    ],
+    [
+     "Aiming Fluid",
+     "Peppers And Onions"
+    ],
+    [
+     "Truckin Bulls",
+     "AM Lumber"
+    ],
+    [
+     "Points And Pints",
+     "Fat Bastards"
+    ]
+   ]
+  },
+  {
+   "week": 23,
+   "date": "2027-03-16",
+   "note": "Use 3/16 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-23",
+   "note": "Use 3/23 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-03-30",
+   "note": "Use 3/30 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 26,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "BRU",
+   "machines": 1,
+   "phone": "585-227-7658",
+   "address": "3208 Latta Rd, Rochester, NY 14612"
+  },
+  {
+   "name": "BTB Bar And Grill",
+   "machines": 1,
+   "phone": "585-865-6510",
+   "address": "134 Greece Ridge Center Dr., Rochester, NY 14626"
+  },
+  {
+   "name": "Gameday",
+   "machines": 4,
+   "phone": "",
+   "address": "730 Elmgrove Rd, Rochester, NY 14624"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Noonans",
+   "machines": 2,
+   "phone": "585-865-7460",
+   "address": "3170 Lake Ave, Rochester, NY 14612"
+  },
+  {
+   "name": "Russell Station",
+   "machines": 4,
+   "phone": "585-270-8233",
+   "address": "4670 Dewey Ave, Rochester, NY 14612"
+  },
+  {
+   "name": "The Willow",
+   "machines": 4,
+   "phone": "585-366-4161",
+   "address": "428 Manitou Rd., Hilton, NY 14468"
+  }
+ ],
+ "updated": "2026-10-22T01:40:51Z"
+}

@@ -1,0 +1,1486 @@
+{
+ "league": {
+  "title": "Sunday 2 Player BP A",
+  "location": "6S2BPA"
+ },
+ "standings": [
+  [
+   "Pickled Turtles",
+   41,
+   4
+  ],
+  [
+   "Here For The BEER",
+   47,
+   13
+  ],
+  [
+   "Box Chevy",
+   39,
+   21
+  ],
+  [
+   "Ghost Bear",
+   28,
+   17
+  ],
+  [
+   "Straight 2 The Point",
+   34,
+   26
+  ],
+  [
+   "Rich And Tom",
+   21,
+   24
+  ],
+  [
+   "Water Off",
+   28,
+   32
+  ],
+  [
+   "Black And Brown",
+   14,
+   31
+  ],
+  [
+   "Brown Viper",
+   15,
+   45
+  ],
+  [
+   "Not Ready 4Primetime",
+   3,
+   57
+  ]
+ ],
+ "results": [
+  [
+   "Ghost Bear",
+   "Not Ready 4Primetime",
+   "10/18/2026",
+   4,
+   15,
+   0
+  ],
+  [
+   "Pickled Turtles",
+   "Straight 2 The Point",
+   "10/18/2026",
+   4,
+   14,
+   1
+  ],
+  [
+   "Box Chevy",
+   "Brown Viper",
+   "10/18/2026",
+   4,
+   11,
+   4
+  ],
+  [
+   "Here For The BEER",
+   "Black And Brown",
+   "10/18/2026",
+   4,
+   10,
+   5
+  ],
+  [
+   "Water Off",
+   "Rich And Tom",
+   "10/18/2026",
+   4,
+   8,
+   7
+  ],
+  [
+   "Rich And Tom",
+   "Water Off",
+   "10/18/2026",
+   4,
+   7,
+   8
+  ],
+  [
+   "Black And Brown",
+   "Here For The BEER",
+   "10/18/2026",
+   4,
+   5,
+   10
+  ],
+  [
+   "Brown Viper",
+   "Box Chevy",
+   "10/18/2026",
+   4,
+   4,
+   11
+  ],
+  [
+   "Straight 2 The Point",
+   "Pickled Turtles",
+   "10/18/2026",
+   4,
+   1,
+   14
+  ],
+  [
+   "Not Ready 4Primetime",
+   "Ghost Bear",
+   "10/18/2026",
+   4,
+   0,
+   15
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Chris Maloney",
+    "Pickled Turtles",
+    3.01,
+    3.39
+   ],
+   [
+    "Tom Ralston",
+    "Rich And Tom",
+    2.61,
+    2.75
+   ],
+   [
+    "Archie Donaldson",
+    "Box Chevy",
+    2.44,
+    2.57
+   ]
+  ],
+  "x": [
+   [
+    "Zach Morgan",
+    "Not Ready 4Primetime",
+    14.01,
+    15.28
+   ],
+   [
+    "Cory Humphries",
+    "Water Off",
+    22.61,
+    23.46
+   ],
+   [
+    "Fred James",
+    "Brown Viper",
+    22.62,
+    23.4
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Erika Mardo",
+   "Pickled Turtles",
+   3.82,
+   6,
+   4,
+   2,
+   0,
+   1,
+   3,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Alex Brant",
+   "Pickled Turtles",
+   3.69,
+   6,
+   6,
+   0,
+   1,
+   0,
+   4,
+   5,
+   3,
+   0,
+   0
+  ],
+  [
+   "Dave Wallace",
+   "Ghost Bear",
+   3.48,
+   18,
+   9,
+   4,
+   0,
+   0,
+   19,
+   5,
+   7,
+   1,
+   0
+  ],
+  [
+   "Glenn Wilson",
+   "Here For The BEER",
+   3.46,
+   18,
+   11,
+   6,
+   1,
+   1,
+   11,
+   9,
+   4,
+   1,
+   1
+  ],
+  [
+   "Chris Maloney",
+   "Pickled Turtles",
+   3.39,
+   18,
+   10,
+   7,
+   1,
+   0,
+   15,
+   5,
+   4,
+   2,
+   2
+  ],
+  [
+   "Rich Allen",
+   "Rich And Tom",
+   3.17,
+   18,
+   9,
+   1,
+   2,
+   0,
+   15,
+   4,
+   4,
+   0,
+   0
+  ],
+  [
+   "Devan Wilson",
+   "Here For The BEER",
+   3.15,
+   24,
+   15,
+   5,
+   1,
+   0,
+   17,
+   7,
+   14,
+   0,
+   0
+  ],
+  [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   3.07,
+   24,
+   7,
+   5,
+   2,
+   0,
+   14,
+   6,
+   9,
+   0,
+   1
+  ],
+  [
+   "Carlton Smith",
+   "Straight 2 The Point",
+   3.04,
+   24,
+   10,
+   5,
+   1,
+   0,
+   18,
+   8,
+   4,
+   1,
+   1
+  ],
+  [
+   "Ashton Maracle",
+   "Ghost Bear",
+   3.01,
+   18,
+   8,
+   4,
+   0,
+   0,
+   11,
+   5,
+   4,
+   0,
+   0
+  ],
+  [
+   "Justin Smith",
+   "Box Chevy",
+   2.9,
+   24,
+   13,
+   3,
+   3,
+   1,
+   11,
+   9,
+   11,
+   0,
+   0
+  ],
+  [
+   "Cory Humphries",
+   "Water Off",
+   2.82,
+   24,
+   9,
+   2,
+   1,
+   0,
+   21,
+   12,
+   2,
+   0,
+   1
+  ],
+  [
+   "Fred James",
+   "Brown Viper",
+   2.8,
+   24,
+   6,
+   1,
+   1,
+   0,
+   7,
+   5,
+   3,
+   0,
+   1
+  ],
+  [
+   "Tom Ralston",
+   "Rich And Tom",
+   2.75,
+   18,
+   2,
+   5,
+   1,
+   0,
+   11,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Efrain Figueroa",
+   "Black And Brown",
+   2.73,
+   18,
+   5,
+   1,
+   1,
+   0,
+   10,
+   7,
+   4,
+   0,
+   1
+  ],
+  [
+   "Mike Nicholls",
+   "Here For The BEER",
+   2.71,
+   6,
+   1,
+   3,
+   0,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Andy Mitrano",
+   "Pickled Turtles",
+   2.7,
+   6,
+   3,
+   3,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Ryan OFlynn",
+   "Box Chevy",
+   2.69,
+   6,
+   0,
+   2,
+   0,
+   0,
+   4,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Archie Donaldson",
+   "Box Chevy",
+   2.57,
+   18,
+   8,
+   4,
+   2,
+   1,
+   10,
+   0,
+   6,
+   0,
+   1
+  ],
+  [
+   "Dashay Earlsey",
+   "Water Off",
+   2.53,
+   24,
+   2,
+   4,
+   2,
+   0,
+   15,
+   2,
+   4,
+   1,
+   1
+  ],
+  [
+   "Judson Brown",
+   "Brown Viper",
+   2.25,
+   24,
+   2,
+   2,
+   1,
+   0,
+   8,
+   4,
+   2,
+   1,
+   0
+  ],
+  [
+   "Chris Nesci",
+   "Black And Brown",
+   1.96,
+   6,
+   0,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Branden Daniels",
+   "Black And Brown",
+   1.95,
+   12,
+   2,
+   1,
+   0,
+   0,
+   4,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Zach Morgan",
+   "Not Ready 4Primetime",
+   1.74,
+   24,
+   0,
+   1,
+   1,
+   0,
+   3,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Micheal Morgan",
+   "Not Ready 4Primetime",
+   1.74,
+   24,
+   2,
+   0,
+   0,
+   0,
+   7,
+   0,
+   2,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Alex Brant",
+   "Pickled Turtles",
+   28.89,
+   7,
+   3,
+   1,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
+   "Chris Maloney",
+   "Pickled Turtles",
+   28.06,
+   21,
+   10,
+   6,
+   0,
+   0,
+   1,
+   42
+  ],
+  [
+   "Rich Allen",
+   "Rich And Tom",
+   26.53,
+   21,
+   7,
+   13,
+   0,
+   0,
+   0,
+   27
+  ],
+  [
+   "Ryan OFlynn",
+   "Box Chevy",
+   26.51,
+   7,
+   3,
+   3,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Carlton Smith",
+   "Straight 2 The Point",
+   25.67,
+   28,
+   8,
+   10,
+   0,
+   0,
+   0,
+   49
+  ],
+  [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   25.61,
+   28,
+   9,
+   5,
+   0,
+   0,
+   0,
+   51
+  ],
+  [
+   "Dave Wallace",
+   "Ghost Bear",
+   25.52,
+   21,
+   6,
+   5,
+   0,
+   0,
+   1,
+   36
+  ],
+  [
+   "Glenn Wilson",
+   "Here For The BEER",
+   25.24,
+   21,
+   10,
+   9,
+   0,
+   1,
+   2,
+   26
+  ],
+  [
+   "Devan Wilson",
+   "Here For The BEER",
+   24.76,
+   28,
+   9,
+   7,
+   0,
+   0,
+   3,
+   38
+  ],
+  [
+   "Erika Mardo",
+   "Pickled Turtles",
+   23.78,
+   7,
+   3,
+   2,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Chris Nesci",
+   "Black And Brown",
+   23.61,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Cory Humphries",
+   "Water Off",
+   23.46,
+   28,
+   12,
+   4,
+   0,
+   0,
+   0,
+   47
+  ],
+  [
+   "Archie Donaldson",
+   "Box Chevy",
+   23.44,
+   21,
+   8,
+   7,
+   0,
+   0,
+   2,
+   27
+  ],
+  [
+   "Fred James",
+   "Brown Viper",
+   23.4,
+   28,
+   3,
+   7,
+   0,
+   0,
+   1,
+   41
+  ],
+  [
+   "Justin Smith",
+   "Box Chevy",
+   23.24,
+   28,
+   7,
+   5,
+   0,
+   0,
+   3,
+   35
+  ],
+  [
+   "Tom Ralston",
+   "Rich And Tom",
+   23.18,
+   21,
+   3,
+   5,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Mike Nicholls",
+   "Here For The BEER",
+   22.48,
+   7,
+   1,
+   2,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Ashton Maracle",
+   "Ghost Bear",
+   22.37,
+   21,
+   5,
+   6,
+   0,
+   0,
+   0,
+   29
+  ],
+  [
+   "Dashay Earlsey",
+   "Water Off",
+   22.22,
+   28,
+   5,
+   2,
+   0,
+   0,
+   1,
+   40
+  ],
+  [
+   "Andy Mitrano",
+   "Pickled Turtles",
+   22.05,
+   7,
+   2,
+   1,
+   0,
+   0,
+   1,
+   10
+  ],
+  [
+   "Efrain Figueroa",
+   "Black And Brown",
+   21.91,
+   21,
+   6,
+   7,
+   0,
+   0,
+   0,
+   27
+  ],
+  [
+   "Judson Brown",
+   "Brown Viper",
+   21.47,
+   28,
+   4,
+   2,
+   1,
+   0,
+   1,
+   20
+  ],
+  [
+   "Branden Daniels",
+   "Black And Brown",
+   18.82,
+   14,
+   1,
+   1,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Micheal Morgan",
+   "Not Ready 4Primetime",
+   15.76,
+   28,
+   1,
+   1,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Zach Morgan",
+   "Not Ready 4Primetime",
+   15.28,
+   28,
+   0,
+   0,
+   0,
+   0,
+   0,
+   15
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Black And Brown",
+   "site": "My Apartment Bar",
+   "captain": "Branden Daniels",
+   "phone": "585-576-0495"
+  },
+  {
+   "name": "Box Chevy",
+   "site": "My Apartment Bar",
+   "captain": "Justin Smith",
+   "phone": "585-705-7456"
+  },
+  {
+   "name": "Brown Viper",
+   "site": "My Apartment Bar",
+   "captain": "Judson Brown",
+   "phone": "585-576-9042"
+  },
+  {
+   "name": "Ghost Bear",
+   "site": "Bill Grays Webster",
+   "captain": "Dave Wallace",
+   "phone": "585-217-6632"
+  },
+  {
+   "name": "Here For The BEER",
+   "site": "My Apartment Bar",
+   "captain": "Glenn Wilson",
+   "phone": "585-690-7263"
+  },
+  {
+   "name": "Not Ready 4Primetime",
+   "site": "My Apartment Bar",
+   "captain": "Micheal Morgan",
+   "phone": "585-267-6963"
+  },
+  {
+   "name": "Pickled Turtles",
+   "site": "My Apartment Bar",
+   "captain": "Chris Maloney",
+   "phone": "585-329-9298"
+  },
+  {
+   "name": "Rich And Tom",
+   "site": "My Apartment Bar",
+   "captain": "Rich Allen",
+   "phone": "585-750-4028"
+  },
+  {
+   "name": "Straight 2 The Point",
+   "site": "My Apartment Bar",
+   "captain": "Tashawn Rucker",
+   "phone": "585-369-2207"
+  },
+  {
+   "name": "Water Off",
+   "site": "Pourin Joy",
+   "captain": "Cory Humphries",
+   "phone": "585-333-6886"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-27",
+   "note": "",
+   "matches": [
+    [
+     "Black And Brown",
+     "Water Off"
+    ],
+    [
+     "Brown Viper",
+     "Straight 2 The Point"
+    ],
+    [
+     "Not Ready 4Primetime",
+     "Pickled Turtles"
+    ],
+    [
+     "Rich And Tom",
+     "Here For The BEER"
+    ],
+    [
+     "Ghost Bear",
+     "Box Chevy"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-04",
+   "note": "",
+   "matches": [
+    [
+     "Ghost Bear",
+     "Water Off"
+    ],
+    [
+     "Box Chevy",
+     "Rich And Tom"
+    ],
+    [
+     "Here For The BEER",
+     "Not Ready 4Primetime"
+    ],
+    [
+     "Pickled Turtles",
+     "Brown Viper"
+    ],
+    [
+     "Straight 2 The Point",
+     "Black And Brown"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-11",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Straight 2 The Point"
+    ],
+    [
+     "Black And Brown",
+     "Pickled Turtles"
+    ],
+    [
+     "Brown Viper",
+     "Here For The BEER"
+    ],
+    [
+     "Not Ready 4Primetime",
+     "Box Chevy"
+    ],
+    [
+     "Rich And Tom",
+     "Ghost Bear"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-18",
+   "note": "",
+   "matches": [
+    [
+     "Rich And Tom",
+     "Water Off"
+    ],
+    [
+     "Ghost Bear",
+     "Not Ready 4Primetime"
+    ],
+    [
+     "Box Chevy",
+     "Brown Viper"
+    ],
+    [
+     "Here For The BEER",
+     "Black And Brown"
+    ],
+    [
+     "Pickled Turtles",
+     "Straight 2 The Point"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-25",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Pickled Turtles"
+    ],
+    [
+     "Straight 2 The Point",
+     "Here For The BEER"
+    ],
+    [
+     "Black And Brown",
+     "Box Chevy"
+    ],
+    [
+     "Brown Viper",
+     "Ghost Bear"
+    ],
+    [
+     "Not Ready 4Primetime",
+     "Rich And Tom"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-01",
+   "note": "",
+   "matches": [
+    [
+     "Not Ready 4Primetime",
+     "Water Off"
+    ],
+    [
+     "Rich And Tom",
+     "Brown Viper"
+    ],
+    [
+     "Ghost Bear",
+     "Black And Brown"
+    ],
+    [
+     "Box Chevy",
+     "Straight 2 The Point"
+    ],
+    [
+     "Here For The BEER",
+     "Pickled Turtles"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-08",
+   "note": "",
+   "matches": [
+    [
+     "Here For The BEER",
+     "Water Off"
+    ],
+    [
+     "Pickled Turtles",
+     "Box Chevy"
+    ],
+    [
+     "Straight 2 The Point",
+     "Ghost Bear"
+    ],
+    [
+     "Black And Brown",
+     "Rich And Tom"
+    ],
+    [
+     "Brown Viper",
+     "Not Ready 4Primetime"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-15",
+   "note": "",
+   "matches": [
+    [
+     "Brown Viper",
+     "Water Off"
+    ],
+    [
+     "Not Ready 4Primetime",
+     "Black And Brown"
+    ],
+    [
+     "Rich And Tom",
+     "Straight 2 The Point"
+    ],
+    [
+     "Ghost Bear",
+     "Pickled Turtles"
+    ],
+    [
+     "Box Chevy",
+     "Here For The BEER"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-22",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Box Chevy"
+    ],
+    [
+     "Here For The BEER",
+     "Ghost Bear"
+    ],
+    [
+     "Pickled Turtles",
+     "Rich And Tom"
+    ],
+    [
+     "Straight 2 The Point",
+     "Not Ready 4Primetime"
+    ],
+    [
+     "Black And Brown",
+     "Brown Viper"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-11-29",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Black And Brown"
+    ],
+    [
+     "Straight 2 The Point",
+     "Brown Viper"
+    ],
+    [
+     "Pickled Turtles",
+     "Not Ready 4Primetime"
+    ],
+    [
+     "Here For The BEER",
+     "Rich And Tom"
+    ],
+    [
+     "Box Chevy",
+     "Ghost Bear"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-06",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Ghost Bear"
+    ],
+    [
+     "Rich And Tom",
+     "Box Chevy"
+    ],
+    [
+     "Not Ready 4Primetime",
+     "Here For The BEER"
+    ],
+    [
+     "Brown Viper",
+     "Pickled Turtles"
+    ],
+    [
+     "Black And Brown",
+     "Straight 2 The Point"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-13",
+   "note": "",
+   "matches": [
+    [
+     "Straight 2 The Point",
+     "Water Off"
+    ],
+    [
+     "Pickled Turtles",
+     "Black And Brown"
+    ],
+    [
+     "Here For The BEER",
+     "Brown Viper"
+    ],
+    [
+     "Box Chevy",
+     "Not Ready 4Primetime"
+    ],
+    [
+     "Ghost Bear",
+     "Rich And Tom"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2026-12-20",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Rich And Tom"
+    ],
+    [
+     "Not Ready 4Primetime",
+     "Ghost Bear"
+    ],
+    [
+     "Brown Viper",
+     "Box Chevy"
+    ],
+    [
+     "Black And Brown",
+     "Here For The BEER"
+    ],
+    [
+     "Straight 2 The Point",
+     "Pickled Turtles"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-03",
+   "note": "No Matches 12/27- Holiday Break",
+   "matches": [
+    [
+     "Pickled Turtles",
+     "Water Off"
+    ],
+    [
+     "Here For The BEER",
+     "Straight 2 The Point"
+    ],
+    [
+     "Box Chevy",
+     "Black And Brown"
+    ],
+    [
+     "Ghost Bear",
+     "Brown Viper"
+    ],
+    [
+     "Rich And Tom",
+     "Not Ready 4Primetime"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-10",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Not Ready 4Primetime"
+    ],
+    [
+     "Brown Viper",
+     "Rich And Tom"
+    ],
+    [
+     "Black And Brown",
+     "Ghost Bear"
+    ],
+    [
+     "Straight 2 The Point",
+     "Box Chevy"
+    ],
+    [
+     "Pickled Turtles",
+     "Here For The BEER"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-17",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Here For The BEER"
+    ],
+    [
+     "Box Chevy",
+     "Pickled Turtles"
+    ],
+    [
+     "Ghost Bear",
+     "Straight 2 The Point"
+    ],
+    [
+     "Rich And Tom",
+     "Black And Brown"
+    ],
+    [
+     "Not Ready 4Primetime",
+     "Brown Viper"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-01-24",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Brown Viper"
+    ],
+    [
+     "Black And Brown",
+     "Not Ready 4Primetime"
+    ],
+    [
+     "Straight 2 The Point",
+     "Rich And Tom"
+    ],
+    [
+     "Pickled Turtles",
+     "Ghost Bear"
+    ],
+    [
+     "Here For The BEER",
+     "Box Chevy"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-01-31",
+   "note": "",
+   "matches": [
+    [
+     "Box Chevy",
+     "Water Off"
+    ],
+    [
+     "Ghost Bear",
+     "Here For The BEER"
+    ],
+    [
+     "Rich And Tom",
+     "Pickled Turtles"
+    ],
+    [
+     "Not Ready 4Primetime",
+     "Straight 2 The Point"
+    ],
+    [
+     "Brown Viper",
+     "Black And Brown"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-07",
+   "note": "Use 2/7 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 20,
+   "date": "2027-02-14",
+   "note": "No Matches 2/14- Super Bowl Sunday",
+   "matches": []
+  },
+  {
+   "week": 21,
+   "date": "2027-02-21",
+   "note": "MATCHES TBA. TOP 5/ BOTTOM 5",
+   "matches": []
+  },
+  {
+   "week": 22,
+   "date": "2027-02-28",
+   "note": "MATCHES TBA. TOP 5/ BOTTOM 5",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-07",
+   "note": "MATCHES TBA. TOP 5/ BOTTOM 5",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-14",
+   "note": "MATCHES TBA. TOP 5/ BOTTOM 5",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-03-21",
+   "note": "MATCHES TBA. TOP 5/ BOTTOM 5",
+   "matches": []
+  },
+  {
+   "week": 26,
+   "date": "2027-04-04",
+   "note": "Use 4/4 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 27,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Bill Grays Webster",
+   "machines": 4,
+   "phone": "585-671-0584",
+   "address": "964 Ridge Rd., Webster, NY 14580"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Pourin Joy",
+   "machines": 2,
+   "phone": "585-204-0473",
+   "address": "111 Park Ave., Rochester, NY 14607"
+  }
+ ],
+ "updated": "2026-10-22T01:40:19Z"
+}

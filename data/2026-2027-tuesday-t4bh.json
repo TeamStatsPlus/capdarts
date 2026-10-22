@@ -1,0 +1,1823 @@
+{
+ "league": {
+  "title": "Tuesday 4 Player B Hand",
+  "location": "6T4BH"
+ },
+ "standings": [
+  [
+   "Thunderbuddies",
+   33,
+   19
+  ],
+  [
+   "Gettin Looped",
+   30,
+   22
+  ],
+  [
+   "Lady And The Tramps",
+   28,
+   24
+  ],
+  [
+   "The Critters",
+   25,
+   27
+  ],
+  [
+   "Team Name",
+   24,
+   28
+  ],
+  [
+   "4 Of Clubs",
+   24,
+   28
+  ],
+  [
+   "Thats Bullshoot",
+   16,
+   23
+  ],
+  [
+   "No Sleep",
+   15,
+   24
+  ]
+ ],
+ "results": [
+  [
+   "Thunderbuddies",
+   "No Sleep",
+   "10/20/2026",
+   4,
+   9,
+   4
+  ],
+  [
+   "Gettin Looped",
+   "Thats Bullshoot",
+   "10/20/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "4 Of Clubs",
+   "Lady And The Tramps",
+   "10/20/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "The Critters",
+   "Team Name",
+   "10/20/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Team Name",
+   "The Critters",
+   "10/20/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Thats Bullshoot",
+   "Gettin Looped",
+   "10/20/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "Lady And The Tramps",
+   "4 Of Clubs",
+   "10/20/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "No Sleep",
+   "Thunderbuddies",
+   "10/20/2026",
+   4,
+   4,
+   9
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Lou Sanchez",
+    "Team Name",
+    1.0,
+    1.12
+   ],
+   [
+    "Tony Jackson",
+    "Gettin Looped",
+    1.41,
+    1.51
+   ],
+   [
+    "David Pearce",
+    "Thunderbuddies",
+    1.04,
+    1.13
+   ]
+  ],
+  "x": [
+   [
+    "Ian Heath",
+    "Lady And The Tramps",
+    16.88,
+    18.06
+   ],
+   [
+    "Brian Sloan",
+    "The Critters",
+    18.02,
+    19.18
+   ],
+   [
+    "Skylar DAmico",
+    "The Critters",
+    16.7,
+    17.73
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Scott Etter",
+   "Thunderbuddies",
+   2.81,
+   3,
+   3,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ian Heath",
+   "Lady And The Tramps",
+   2.06,
+   9,
+   4,
+   1,
+   0,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ben Deuel",
+   "Thunderbuddies",
+   2.0,
+   9,
+   0,
+   3,
+   0,
+   0,
+   4,
+   0,
+   2,
+   0,
+   0
+  ],
+  [
+   "Jordan Kiessling",
+   "Thats Bullshoot",
+   1.99,
+   9,
+   2,
+   2,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jim Barnard",
+   "4 Of Clubs",
+   1.94,
+   3,
+   3,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rick Ernst",
+   "Gettin Looped",
+   1.93,
+   12,
+   4,
+   2,
+   0,
+   0,
+   1,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Michael Justis",
+   "4 Of Clubs",
+   1.91,
+   12,
+   3,
+   4,
+   0,
+   0,
+   4,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "John Clark",
+   "Lady And The Tramps",
+   1.89,
+   9,
+   3,
+   2,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Chris Collins",
+   "Thats Bullshoot",
+   1.88,
+   9,
+   4,
+   1,
+   0,
+   0,
+   3,
+   0,
+   1,
+   1,
+   0
+  ],
+  [
+   "Steve Strowbridge",
+   "Team Name",
+   1.82,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Scott Fry",
+   "Thunderbuddies",
+   1.8,
+   12,
+   2,
+   4,
+   0,
+   0,
+   4,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Travis Hall",
+   "Lady And The Tramps",
+   1.8,
+   12,
+   4,
+   6,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.78,
+   12,
+   3,
+   1,
+   1,
+   0,
+   3,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joe Rowland",
+   "Team Name",
+   1.78,
+   12,
+   5,
+   0,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Phil Warney",
+   "Gettin Looped",
+   1.77,
+   12,
+   3,
+   1,
+   0,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brad Wight",
+   "Thunderbuddies",
+   1.73,
+   12,
+   7,
+   1,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Mike Montante",
+   "No Sleep",
+   1.69,
+   9,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Skylar DAmico",
+   "The Critters",
+   1.67,
+   12,
+   5,
+   2,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mitch Jag",
+   "Thats Bullshoot",
+   1.62,
+   3,
+   0,
+   2,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ben Vassallo",
+   "Lady And The Tramps",
+   1.6,
+   6,
+   1,
+   3,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   1.57,
+   9,
+   1,
+   4,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Tony Jackson",
+   "Gettin Looped",
+   1.51,
+   12,
+   2,
+   7,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Emily Chard",
+   "Thats Bullshoot",
+   1.48,
+   9,
+   3,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   1.36,
+   12,
+   3,
+   5,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Debbie Olyer",
+   "Gettin Looped",
+   1.35,
+   12,
+   3,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   1.34,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Rowland",
+   "Team Name",
+   1.33,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jimmy Mietus",
+   "Team Name",
+   1.31,
+   9,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Casey Birch",
+   "The Critters",
+   1.31,
+   12,
+   0,
+   3,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Debbie Lillie",
+   "Lady And The Tramps",
+   1.31,
+   12,
+   4,
+   4,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Molly Stanziano",
+   "4 Of Clubs",
+   1.27,
+   9,
+   3,
+   1,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sue Fuhry",
+   "4 Of Clubs",
+   1.25,
+   12,
+   1,
+   3,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rik Sawyer",
+   "The Critters",
+   1.18,
+   12,
+   1,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "David Pearce",
+   "Thunderbuddies",
+   1.13,
+   12,
+   2,
+   6,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Lou Sanchez",
+   "Team Name",
+   1.12,
+   12,
+   0,
+   5,
+   0,
+   0,
+   2,
+   0,
+   2,
+   0,
+   0
+  ],
+  [
+   "Brett Harling",
+   "No Sleep",
+   1.08,
+   9,
+   3,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kim Derbini",
+   "No Sleep",
+   1.04,
+   9,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Garrity",
+   "Thats Bullshoot",
+   1.02,
+   6,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Star Mattice",
+   "Team Name",
+   0.42,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Scott Etter",
+   "Thunderbuddies",
+   24.02,
+   4,
+   1,
+   2,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Joe Rowland",
+   "Team Name",
+   21.12,
+   16,
+   7,
+   3,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Ben Deuel",
+   "Thunderbuddies",
+   19.41,
+   12,
+   7,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   19.18,
+   16,
+   9,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Rick Ernst",
+   "Gettin Looped",
+   18.66,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Kevin Rowland",
+   "Team Name",
+   18.38,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Phil Warney",
+   "Gettin Looped",
+   18.33,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "John Clark",
+   "Lady And The Tramps",
+   18.1,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Ian Heath",
+   "Lady And The Tramps",
+   18.06,
+   12,
+   5,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Jordan Kiessling",
+   "Thats Bullshoot",
+   17.97,
+   12,
+   4,
+   0,
+   1,
+   0,
+   1,
+   4
+  ],
+  [
+   "Skylar DAmico",
+   "The Critters",
+   17.73,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Brad Wight",
+   "Thunderbuddies",
+   17.65,
+   16,
+   6,
+   2,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Jim Barnard",
+   "4 Of Clubs",
+   17.52,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Jimmy Mietus",
+   "Team Name",
+   17.37,
+   12,
+   4,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Steve Strowbridge",
+   "Team Name",
+   17.37,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Scott Fry",
+   "Thunderbuddies",
+   17.37,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Michael Justis",
+   "4 Of Clubs",
+   17.29,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Chris Collins",
+   "Thats Bullshoot",
+   16.81,
+   12,
+   1,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Sue Fuhry",
+   "4 Of Clubs",
+   16.08,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   15.81,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   15.04,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Ben Vassallo",
+   "Lady And The Tramps",
+   14.99,
+   8,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Travis Hall",
+   "Lady And The Tramps",
+   14.83,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Tony Jackson",
+   "Gettin Looped",
+   14.75,
+   16,
+   7,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Mike Montante",
+   "No Sleep",
+   14.64,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Debbie Lillie",
+   "Lady And The Tramps",
+   14.61,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Star Mattice",
+   "Team Name",
+   14.53,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Mike Garrity",
+   "Thats Bullshoot",
+   14.47,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Casey Birch",
+   "The Critters",
+   14.43,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   14.33,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Debbie Olyer",
+   "Gettin Looped",
+   14.03,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Mitch Jag",
+   "Thats Bullshoot",
+   13.67,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Emily Chard",
+   "Thats Bullshoot",
+   13.63,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Molly Stanziano",
+   "4 Of Clubs",
+   13.44,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Rik Sawyer",
+   "The Critters",
+   13.34,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Kim Derbini",
+   "No Sleep",
+   13.06,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Brett Harling",
+   "No Sleep",
+   12.64,
+   12,
+   2,
+   0,
+   0,
+   0,
+   1,
+   0
+  ],
+  [
+   "Lou Sanchez",
+   "Team Name",
+   12.54,
+   16,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "David Pearce",
+   "Thunderbuddies",
+   12.14,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ]
+ ],
+ "teams": [
+  {
+   "name": "4 Of Clubs",
+   "site": "Club Soda",
+   "captain": "Sue Fuhry",
+   "phone": "585-259-5113"
+  },
+  {
+   "name": "Gettin Looped",
+   "site": "Caverlys",
+   "captain": "Phil Warney",
+   "phone": "585-319-7306"
+  },
+  {
+   "name": "Lady And The Tramps",
+   "site": "Prince Georges",
+   "captain": "John Clark",
+   "phone": "585-953-3586"
+  },
+  {
+   "name": "No Sleep",
+   "site": "Gameday",
+   "captain": "Chris DiStasio",
+   "phone": "585-415-6395"
+  },
+  {
+   "name": "Team Name",
+   "site": "Romigs Tavern",
+   "captain": "Joe Rowland",
+   "phone": "585-287-3196"
+  },
+  {
+   "name": "Thats Bullshoot",
+   "site": "Marshall St Bar",
+   "captain": "Chris Collins",
+   "phone": "585-697-4289"
+  },
+  {
+   "name": "The Critters",
+   "site": "Angry Goat",
+   "captain": "Brian Sloan",
+   "phone": "585-303-1299"
+  },
+  {
+   "name": "Thunderbuddies",
+   "site": "Old Stone Tavern",
+   "captain": "Ben Deuel",
+   "phone": "585-766-8267"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-29",
+   "note": "",
+   "matches": [
+    [
+     "Team Name",
+     "4 Of Clubs"
+    ],
+    [
+     "Thats Bullshoot",
+     "No Sleep"
+    ],
+    [
+     "Lady And The Tramps",
+     "Thunderbuddies"
+    ],
+    [
+     "Gettin Looped",
+     "The Critters"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-06",
+   "note": "",
+   "matches": [
+    [
+     "The Critters",
+     "4 Of Clubs"
+    ],
+    [
+     "Thunderbuddies",
+     "Gettin Looped"
+    ],
+    [
+     "No Sleep",
+     "Lady And The Tramps"
+    ],
+    [
+     "Team Name",
+     "Thats Bullshoot"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-13",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "Gettin Looped"
+    ],
+    [
+     "The Critters",
+     "Lady And The Tramps"
+    ],
+    [
+     "Thunderbuddies",
+     "Thats Bullshoot"
+    ],
+    [
+     "No Sleep",
+     "Team Name"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-20",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "Lady And The Tramps"
+    ],
+    [
+     "Gettin Looped",
+     "Thats Bullshoot"
+    ],
+    [
+     "The Critters",
+     "Team Name"
+    ],
+    [
+     "Thunderbuddies",
+     "No Sleep"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-27",
+   "note": "",
+   "matches": [
+    [
+     "No Sleep",
+     "4 Of Clubs"
+    ],
+    [
+     "Team Name",
+     "Thunderbuddies"
+    ],
+    [
+     "Thats Bullshoot",
+     "The Critters"
+    ],
+    [
+     "Lady And The Tramps",
+     "Gettin Looped"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-03",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "Thats Bullshoot"
+    ],
+    [
+     "Lady And The Tramps",
+     "Team Name"
+    ],
+    [
+     "Gettin Looped",
+     "No Sleep"
+    ],
+    [
+     "The Critters",
+     "Thunderbuddies"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-10",
+   "note": "",
+   "matches": [
+    [
+     "Thunderbuddies",
+     "4 Of Clubs"
+    ],
+    [
+     "No Sleep",
+     "The Critters"
+    ],
+    [
+     "Team Name",
+     "Gettin Looped"
+    ],
+    [
+     "Thats Bullshoot",
+     "Lady And The Tramps"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-17",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "The Critters"
+    ],
+    [
+     "Gettin Looped",
+     "Thunderbuddies"
+    ],
+    [
+     "Lady And The Tramps",
+     "No Sleep"
+    ],
+    [
+     "Thats Bullshoot",
+     "Team Name"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-24",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "Team Name"
+    ],
+    [
+     "No Sleep",
+     "Thats Bullshoot"
+    ],
+    [
+     "Thunderbuddies",
+     "Lady And The Tramps"
+    ],
+    [
+     "The Critters",
+     "Gettin Looped"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-01",
+   "note": "",
+   "matches": [
+    [
+     "Gettin Looped",
+     "4 Of Clubs"
+    ],
+    [
+     "Lady And The Tramps",
+     "The Critters"
+    ],
+    [
+     "Thats Bullshoot",
+     "Thunderbuddies"
+    ],
+    [
+     "Team Name",
+     "No Sleep"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-08",
+   "note": "",
+   "matches": [
+    [
+     "Lady And The Tramps",
+     "4 Of Clubs"
+    ],
+    [
+     "Thats Bullshoot",
+     "Gettin Looped"
+    ],
+    [
+     "Team Name",
+     "The Critters"
+    ],
+    [
+     "No Sleep",
+     "Thunderbuddies"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-15",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "No Sleep"
+    ],
+    [
+     "Thunderbuddies",
+     "Team Name"
+    ],
+    [
+     "The Critters",
+     "Thats Bullshoot"
+    ],
+    [
+     "Gettin Looped",
+     "Lady And The Tramps"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-05",
+   "note": "Off 12/22 & 12/29- Can be used for makeups",
+   "matches": [
+    [
+     "Thats Bullshoot",
+     "4 Of Clubs"
+    ],
+    [
+     "Team Name",
+     "Lady And The Tramps"
+    ],
+    [
+     "No Sleep",
+     "Gettin Looped"
+    ],
+    [
+     "Thunderbuddies",
+     "The Critters"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-12",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "Thunderbuddies"
+    ],
+    [
+     "The Critters",
+     "No Sleep"
+    ],
+    [
+     "Gettin Looped",
+     "Team Name"
+    ],
+    [
+     "Lady And The Tramps",
+     "Thats Bullshoot"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-19",
+   "note": "",
+   "matches": [
+    [
+     "The Critters",
+     "4 Of Clubs"
+    ],
+    [
+     "Thunderbuddies",
+     "Gettin Looped"
+    ],
+    [
+     "No Sleep",
+     "Lady And The Tramps"
+    ],
+    [
+     "Team Name",
+     "Thats Bullshoot"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-26",
+   "note": "",
+   "matches": [
+    [
+     "Team Name",
+     "4 Of Clubs"
+    ],
+    [
+     "Thats Bullshoot",
+     "No Sleep"
+    ],
+    [
+     "Lady And The Tramps",
+     "Thunderbuddies"
+    ],
+    [
+     "Gettin Looped",
+     "The Critters"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-02",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "Gettin Looped"
+    ],
+    [
+     "The Critters",
+     "Lady And The Tramps"
+    ],
+    [
+     "Thunderbuddies",
+     "Thats Bullshoot"
+    ],
+    [
+     "No Sleep",
+     "Team Name"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-09",
+   "note": "",
+   "matches": [
+    [
+     "No Sleep",
+     "4 Of Clubs"
+    ],
+    [
+     "Team Name",
+     "Thunderbuddies"
+    ],
+    [
+     "Thats Bullshoot",
+     "The Critters"
+    ],
+    [
+     "Lady And The Tramps",
+     "Gettin Looped"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-16",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "Lady And The Tramps"
+    ],
+    [
+     "Gettin Looped",
+     "Thats Bullshoot"
+    ],
+    [
+     "The Critters",
+     "Team Name"
+    ],
+    [
+     "Thunderbuddies",
+     "No Sleep"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-02-23",
+   "note": "",
+   "matches": [
+    [
+     "Thunderbuddies",
+     "4 Of Clubs"
+    ],
+    [
+     "No Sleep",
+     "The Critters"
+    ],
+    [
+     "Team Name",
+     "Gettin Looped"
+    ],
+    [
+     "Thats Bullshoot",
+     "Lady And The Tramps"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-02",
+   "note": "",
+   "matches": [
+    [
+     "4 Of Clubs",
+     "Thats Bullshoot"
+    ],
+    [
+     "Lady And The Tramps",
+     "Team Name"
+    ],
+    [
+     "Gettin Looped",
+     "No Sleep"
+    ],
+    [
+     "The Critters",
+     "Thunderbuddies"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-09",
+   "note": "Use 3/9 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-16",
+   "note": "Use 3/16 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-23",
+   "note": "Use 3/23 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Angry Goat",
+   "machines": 2,
+   "phone": "585-413-1125",
+   "address": "938 South Clinton Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Caverlys",
+   "machines": 2,
+   "phone": "585-278-1289",
+   "address": "741 South Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Club Soda",
+   "machines": 1,
+   "phone": "585-288-9982",
+   "address": "1830 East Main St, Rochester, NY 14609"
+  },
+  {
+   "name": "Gameday",
+   "machines": 4,
+   "phone": "",
+   "address": "730 Elmgrove Rd, Rochester, NY 14624"
+  },
+  {
+   "name": "Marshall St Bar",
+   "machines": 2,
+   "phone": "585-325-2191",
+   "address": "81 Marshall, Rochester, NY 14607"
+  },
+  {
+   "name": "Old Stone Tavern",
+   "machines": 1,
+   "phone": "585-448-1148",
+   "address": "758 South Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Prince Georges",
+   "machines": 1,
+   "phone": "585-383-1430",
+   "address": "104 Main St, E Rochester, NY 14445"
+  },
+  {
+   "name": "Romigs Tavern",
+   "machines": 2,
+   "phone": "585-663-1518",
+   "address": "18 Bennington Green, Rochester, NY 14616"
+  }
+ ],
+ "updated": "2026-10-22T01:40:47Z"
+}

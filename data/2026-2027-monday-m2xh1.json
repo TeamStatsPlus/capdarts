@@ -1,0 +1,1573 @@
+{
+ "league": {
+  "title": "Monday 2 Player X Hand 1",
+  "location": "6M2XH1"
+ },
+ "standings": [
+  [
+   "Who Darted",
+   28,
+   11
+  ],
+  [
+   "Dark Sharts",
+   36,
+   16
+  ],
+  [
+   "No Bulls",
+   31,
+   21
+  ],
+  [
+   "Your In Treble",
+   29,
+   23
+  ],
+  [
+   "Ballsagna",
+   21,
+   18
+  ],
+  [
+   "Bulleye Bandits",
+   24,
+   28
+  ],
+  [
+   "Couples Terapy",
+   23,
+   29
+  ],
+  [
+   "Double Trouble",
+   23,
+   29
+  ],
+  [
+   "636ers",
+   21,
+   31
+  ],
+  [
+   "Girls Wanna Have Fun",
+   11,
+   41
+  ]
+ ],
+ "results": [
+  [
+   "Who Darted",
+   "636ers",
+   "10/19/2026",
+   4,
+   10,
+   3
+  ],
+  [
+   "No Bulls",
+   "Girls Wanna Have Fun",
+   "10/19/2026",
+   4,
+   10,
+   3
+  ],
+  [
+   "Bulleye Bandits",
+   "Ballsagna",
+   "10/19/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Dark Sharts",
+   "Double Trouble",
+   "10/19/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Your In Treble",
+   "Couples Terapy",
+   "10/19/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Ballsagna",
+   "Bulleye Bandits",
+   "10/19/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Couples Terapy",
+   "Your In Treble",
+   "10/19/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Double Trouble",
+   "Dark Sharts",
+   "10/19/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "636ers",
+   "Who Darted",
+   "10/19/2026",
+   4,
+   3,
+   10
+  ],
+  [
+   "Girls Wanna Have Fun",
+   "No Bulls",
+   "10/19/2026",
+   4,
+   3,
+   10
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Benjamin Gill",
+    "Who Darted",
+    1.43,
+    1.65
+   ],
+   [
+    "Jessica Zimmerman",
+    "Dark Sharts",
+    1.22,
+    1.35
+   ],
+   [
+    "Paul Humennyj",
+    "Couples Terapy",
+    1.11,
+    1.21
+   ]
+  ],
+  "x": [
+   [
+    "Alyssa Rank",
+    "Dark Sharts",
+    16.96,
+    17.56
+   ],
+   [
+    "Pat Cocchiara",
+    "Bulleye Bandits",
+    17.39,
+    17.88
+   ],
+   [
+    "Shawn Thurley",
+    "Your In Treble",
+    16.41,
+    16.7
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Jeff Wagner",
+   "636ers",
+   2.12,
+   12,
+   1,
+   2,
+   1,
+   0,
+   3,
+   1,
+   1,
+   1,
+   0
+  ],
+  [
+   "Chris Wagner",
+   "636ers",
+   2.08,
+   12,
+   4,
+   2,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Zach Gooding",
+   "Ballsagna",
+   1.99,
+   18,
+   10,
+   1,
+   0,
+   0,
+   6,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Zicari",
+   "No Bulls",
+   1.87,
+   24,
+   8,
+   9,
+   0,
+   0,
+   12,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Pat Cocchiara",
+   "Bulleye Bandits",
+   1.85,
+   24,
+   7,
+   2,
+   1,
+   0,
+   4,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jimmy Mietus",
+   "Double Trouble",
+   1.76,
+   18,
+   7,
+   0,
+   0,
+   0,
+   6,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Thurley",
+   "Your In Treble",
+   1.75,
+   24,
+   6,
+   4,
+   0,
+   0,
+   2,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Nick Gatti",
+   "Your In Treble",
+   1.7,
+   24,
+   4,
+   6,
+   0,
+   0,
+   3,
+   1,
+   1,
+   0,
+   1
+  ],
+  [
+   "Jordyn Sullivan",
+   "Girls Wanna Have Fun",
+   1.68,
+   12,
+   1,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2,
+   1,
+   0
+  ],
+  [
+   "Benjamin Gill",
+   "Who Darted",
+   1.65,
+   18,
+   10,
+   3,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Carrie Shaw",
+   "Couples Terapy",
+   1.55,
+   24,
+   10,
+   3,
+   1,
+   0,
+   4,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Todd Cornell",
+   "Ballsagna",
+   1.49,
+   18,
+   1,
+   10,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kendra Loya",
+   "Who Darted",
+   1.48,
+   18,
+   3,
+   10,
+   0,
+   0,
+   2,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Alyssa Rank",
+   "Dark Sharts",
+   1.45,
+   24,
+   15,
+   4,
+   0,
+   0,
+   2,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Ed Rowland",
+   "Double Trouble",
+   1.37,
+   6,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Gallwey",
+   "636ers",
+   1.35,
+   24,
+   4,
+   5,
+   0,
+   0,
+   5,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jessica Zimmerman",
+   "Dark Sharts",
+   1.35,
+   24,
+   4,
+   15,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ted Temple",
+   "No Bulls",
+   1.31,
+   24,
+   9,
+   8,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Georgia Ennis",
+   "Girls Wanna Have Fun",
+   1.29,
+   6,
+   0,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Melissa Cocchiara",
+   "Bulleye Bandits",
+   1.27,
+   24,
+   2,
+   7,
+   0,
+   0,
+   5,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kristen Hall",
+   "Girls Wanna Have Fun",
+   1.23,
+   24,
+   4,
+   1,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Paul Humennyj",
+   "Couples Terapy",
+   1.21,
+   24,
+   3,
+   10,
+   0,
+   0,
+   3,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Hall",
+   "Girls Wanna Have Fun",
+   1.21,
+   6,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Lou Sanchez",
+   "Double Trouble",
+   1.04,
+   24,
+   0,
+   8,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Jeff Wagner",
+   "636ers",
+   21.57,
+   14,
+   5,
+   1,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Zach Gooding",
+   "Ballsagna",
+   20.55,
+   21,
+   8,
+   5,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Jordyn Sullivan",
+   "Girls Wanna Have Fun",
+   17.96,
+   14,
+   2,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Pat Cocchiara",
+   "Bulleye Bandits",
+   17.88,
+   28,
+   10,
+   1,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Alyssa Rank",
+   "Dark Sharts",
+   17.56,
+   28,
+   12,
+   0,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Benjamin Gill",
+   "Who Darted",
+   17.42,
+   21,
+   7,
+   2,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Brian Zicari",
+   "No Bulls",
+   17.35,
+   28,
+   8,
+   3,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Nick Gatti",
+   "Your In Treble",
+   17.11,
+   28,
+   10,
+   1,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "Shawn Thurley",
+   "Your In Treble",
+   16.7,
+   28,
+   9,
+   0,
+   1,
+   0,
+   1,
+   16
+  ],
+  [
+   "Ed Rowland",
+   "Double Trouble",
+   16.52,
+   7,
+   4,
+   1,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Chris Wagner",
+   "636ers",
+   16.34,
+   14,
+   4,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Jimmy Mietus",
+   "Double Trouble",
+   15.92,
+   21,
+   7,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Ted Temple",
+   "No Bulls",
+   15.79,
+   28,
+   6,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Kendra Loya",
+   "Who Darted",
+   15.77,
+   21,
+   7,
+   0,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "Jessica Zimmerman",
+   "Dark Sharts",
+   15.12,
+   28,
+   5,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Todd Cornell",
+   "Ballsagna",
+   15.05,
+   21,
+   2,
+   1,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Rob Hall",
+   "Girls Wanna Have Fun",
+   14.93,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Carrie Shaw",
+   "Couples Terapy",
+   14.89,
+   28,
+   5,
+   1,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Steve Gallwey",
+   "636ers",
+   14.61,
+   28,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Lou Sanchez",
+   "Double Trouble",
+   14.1,
+   28,
+   4,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Melissa Cocchiara",
+   "Bulleye Bandits",
+   13.78,
+   28,
+   5,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Georgia Ennis",
+   "Girls Wanna Have Fun",
+   13.15,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kristen Hall",
+   "Girls Wanna Have Fun",
+   13.02,
+   28,
+   4,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Paul Humennyj",
+   "Couples Terapy",
+   12.35,
+   28,
+   5,
+   0,
+   0,
+   0,
+   0,
+   3
+  ]
+ ],
+ "teams": [
+  {
+   "name": "636ers",
+   "site": "JD Oxfords",
+   "captain": "Steve Gallwey",
+   "phone": "585-330-8531"
+  },
+  {
+   "name": "Ballsagna",
+   "site": "JJs Pub",
+   "captain": "Todd Cornell",
+   "phone": "585-813-4651"
+  },
+  {
+   "name": "Bulleye Bandits",
+   "site": "Pats Twice Baked",
+   "captain": "Pat Cocchiara",
+   "phone": "585-351-1726"
+  },
+  {
+   "name": "Couples Terapy",
+   "site": "Drs Inn",
+   "captain": "Carrie Shaw",
+   "phone": "315-729-0476"
+  },
+  {
+   "name": "Dark Sharts",
+   "site": "Bill Grays Webster",
+   "captain": "Alyssa Rank",
+   "phone": "585-200-4621"
+  },
+  {
+   "name": "Double Trouble",
+   "site": "Stones Pub",
+   "captain": "Jimmy Mietus",
+   "phone": "585-281-7277"
+  },
+  {
+   "name": "Girls Wanna Have Fun",
+   "site": "Empire Pub",
+   "captain": "Jordyn Sullivan",
+   "phone": "585-739-0414"
+  },
+  {
+   "name": "No Bulls",
+   "site": "My Apartment Bar",
+   "captain": "Brian Zicari",
+   "phone": "706-504-5957"
+  },
+  {
+   "name": "Who Darted",
+   "site": "Romigs Tavern",
+   "captain": "Benjamin Gill",
+   "phone": "401-304-7598"
+  },
+  {
+   "name": "Your In Treble",
+   "site": "Pineapple Jacks",
+   "captain": "Nick Gatti",
+   "phone": "585-200-1320"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-28",
+   "note": "",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "Your In Treble"
+    ],
+    [
+     "Dark Sharts",
+     "Couples Terapy"
+    ],
+    [
+     "Bulleye Bandits",
+     "Double Trouble"
+    ],
+    [
+     "636ers",
+     "Ballsagna"
+    ],
+    [
+     "No Bulls",
+     "Who Darted"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-05",
+   "note": "",
+   "matches": [
+    [
+     "Who Darted",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Ballsagna",
+     "No Bulls"
+    ],
+    [
+     "Double Trouble",
+     "636ers"
+    ],
+    [
+     "Couples Terapy",
+     "Bulleye Bandits"
+    ],
+    [
+     "Your In Treble",
+     "Dark Sharts"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-12",
+   "note": "",
+   "matches": [
+    [
+     "Dark Sharts",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Bulleye Bandits",
+     "Your In Treble"
+    ],
+    [
+     "636ers",
+     "Couples Terapy"
+    ],
+    [
+     "No Bulls",
+     "Double Trouble"
+    ],
+    [
+     "Ballsagna",
+     "Who Darted"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-19",
+   "note": "",
+   "matches": [
+    [
+     "No Bulls",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Who Darted",
+     "636ers"
+    ],
+    [
+     "Ballsagna",
+     "Bulleye Bandits"
+    ],
+    [
+     "Double Trouble",
+     "Dark Sharts"
+    ],
+    [
+     "Couples Terapy",
+     "Your In Treble"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-26",
+   "note": "",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "Couples Terapy"
+    ],
+    [
+     "Your In Treble",
+     "Double Trouble"
+    ],
+    [
+     "Dark Sharts",
+     "Ballsagna"
+    ],
+    [
+     "Bulleye Bandits",
+     "Who Darted"
+    ],
+    [
+     "636ers",
+     "No Bulls"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-02",
+   "note": "",
+   "matches": [
+    [
+     "636ers",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "No Bulls",
+     "Bulleye Bandits"
+    ],
+    [
+     "Who Darted",
+     "Dark Sharts"
+    ],
+    [
+     "Ballsagna",
+     "Your In Treble"
+    ],
+    [
+     "Double Trouble",
+     "Couples Terapy"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-09",
+   "note": "",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "Double Trouble"
+    ],
+    [
+     "Couples Terapy",
+     "Ballsagna"
+    ],
+    [
+     "Your In Treble",
+     "Who Darted"
+    ],
+    [
+     "Dark Sharts",
+     "No Bulls"
+    ],
+    [
+     "Bulleye Bandits",
+     "636ers"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-16",
+   "note": "",
+   "matches": [
+    [
+     "Bulleye Bandits",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "636ers",
+     "Dark Sharts"
+    ],
+    [
+     "No Bulls",
+     "Your In Treble"
+    ],
+    [
+     "Who Darted",
+     "Couples Terapy"
+    ],
+    [
+     "Ballsagna",
+     "Double Trouble"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-23",
+   "note": "",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "Ballsagna"
+    ],
+    [
+     "Double Trouble",
+     "Who Darted"
+    ],
+    [
+     "Couples Terapy",
+     "No Bulls"
+    ],
+    [
+     "Your In Treble",
+     "636ers"
+    ],
+    [
+     "Dark Sharts",
+     "Bulleye Bandits"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-11-30",
+   "note": "",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "Dark Sharts"
+    ],
+    [
+     "Your In Treble",
+     "Bulleye Bandits"
+    ],
+    [
+     "Couples Terapy",
+     "636ers"
+    ],
+    [
+     "Double Trouble",
+     "No Bulls"
+    ],
+    [
+     "Who Darted",
+     "Ballsagna"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-07",
+   "note": "",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "Who Darted"
+    ],
+    [
+     "No Bulls",
+     "Ballsagna"
+    ],
+    [
+     "636ers",
+     "Double Trouble"
+    ],
+    [
+     "Bulleye Bandits",
+     "Couples Terapy"
+    ],
+    [
+     "Dark Sharts",
+     "Your In Treble"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-14",
+   "note": "",
+   "matches": [
+    [
+     "Your In Treble",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Couples Terapy",
+     "Dark Sharts"
+    ],
+    [
+     "Double Trouble",
+     "Bulleye Bandits"
+    ],
+    [
+     "Ballsagna",
+     "636ers"
+    ],
+    [
+     "Who Darted",
+     "No Bulls"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-04",
+   "note": "Off 12/21 & 12/28- Can be used for makeups",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "No Bulls"
+    ],
+    [
+     "636ers",
+     "Who Darted"
+    ],
+    [
+     "Bulleye Bandits",
+     "Ballsagna"
+    ],
+    [
+     "Dark Sharts",
+     "Double Trouble"
+    ],
+    [
+     "Your In Treble",
+     "Couples Terapy"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-11",
+   "note": "",
+   "matches": [
+    [
+     "Couples Terapy",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Double Trouble",
+     "Your In Treble"
+    ],
+    [
+     "Ballsagna",
+     "Dark Sharts"
+    ],
+    [
+     "Who Darted",
+     "Bulleye Bandits"
+    ],
+    [
+     "No Bulls",
+     "636ers"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-18",
+   "note": "",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "636ers"
+    ],
+    [
+     "Bulleye Bandits",
+     "No Bulls"
+    ],
+    [
+     "Dark Sharts",
+     "Who Darted"
+    ],
+    [
+     "Your In Treble",
+     "Ballsagna"
+    ],
+    [
+     "Couples Terapy",
+     "Double Trouble"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-25",
+   "note": "",
+   "matches": [
+    [
+     "Double Trouble",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Ballsagna",
+     "Couples Terapy"
+    ],
+    [
+     "Who Darted",
+     "Your In Treble"
+    ],
+    [
+     "No Bulls",
+     "Dark Sharts"
+    ],
+    [
+     "636ers",
+     "Bulleye Bandits"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-08",
+   "note": "Off 2/1- Midseason Tournament",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "Bulleye Bandits"
+    ],
+    [
+     "Dark Sharts",
+     "636ers"
+    ],
+    [
+     "Your In Treble",
+     "No Bulls"
+    ],
+    [
+     "Couples Terapy",
+     "Who Darted"
+    ],
+    [
+     "Double Trouble",
+     "Ballsagna"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-15",
+   "note": "",
+   "matches": [
+    [
+     "Ballsagna",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Who Darted",
+     "Double Trouble"
+    ],
+    [
+     "No Bulls",
+     "Couples Terapy"
+    ],
+    [
+     "636ers",
+     "Your In Treble"
+    ],
+    [
+     "Bulleye Bandits",
+     "Dark Sharts"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-22",
+   "note": "",
+   "matches": [
+    [
+     "Dark Sharts",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Bulleye Bandits",
+     "Your In Treble"
+    ],
+    [
+     "636ers",
+     "Couples Terapy"
+    ],
+    [
+     "No Bulls",
+     "Double Trouble"
+    ],
+    [
+     "Who Darted",
+     "Ballsagna"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-01",
+   "note": "",
+   "matches": [
+    [
+     "Who Darted",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Ballsagna",
+     "No Bulls"
+    ],
+    [
+     "Double Trouble",
+     "636ers"
+    ],
+    [
+     "Couples Terapy",
+     "Bulleye Bandits"
+    ],
+    [
+     "Your In Treble",
+     "Dark Sharts"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-08",
+   "note": "",
+   "matches": [
+    [
+     "Girls Wanna Have Fun",
+     "Your In Treble"
+    ],
+    [
+     "Dark Sharts",
+     "Couples Terapy"
+    ],
+    [
+     "Bulleye Bandits",
+     "Double Trouble"
+    ],
+    [
+     "636ers",
+     "Ballsagna"
+    ],
+    [
+     "No Bulls",
+     "Who Darted"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-15",
+   "note": "",
+   "matches": [
+    [
+     "No Bulls",
+     "Girls Wanna Have Fun"
+    ],
+    [
+     "Who Darted",
+     "636ers"
+    ],
+    [
+     "Ballsagna",
+     "Bulleye Bandits"
+    ],
+    [
+     "Double Trouble",
+     "Dark Sharts"
+    ],
+    [
+     "Couples Terapy",
+     "Your In Treble"
+    ]
+   ]
+  },
+  {
+   "week": 23,
+   "date": "2027-03-22",
+   "note": "Use 3/22 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-29",
+   "note": "Use 3/29 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Bill Grays Webster",
+   "machines": 4,
+   "phone": "585-671-0584",
+   "address": "964 Ridge Rd., Webster, NY 14580"
+  },
+  {
+   "name": "Drs Inn",
+   "machines": 3,
+   "phone": "271-0820",
+   "address": "1743 East Ave, Rochester, NY 14610"
+  },
+  {
+   "name": "Empire Pub",
+   "machines": 2,
+   "phone": "585-671-4386",
+   "address": "2014 Empire Blvd., Webster, NY 14580"
+  },
+  {
+   "name": "JD Oxfords",
+   "machines": 3,
+   "phone": "585-256-0580",
+   "address": "636 Monroe Ave, Rochester, NY 14607"
+  },
+  {
+   "name": "JJs Pub",
+   "machines": 1,
+   "phone": "704-5204",
+   "address": "669 Winton Rd, Rochester, NY 14610"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Pats Twice Baked",
+   "machines": 1,
+   "phone": "585-340-6419",
+   "address": "1551 Mt Hope Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Pineapple Jacks",
+   "machines": 1,
+   "phone": "585-247-5225",
+   "address": "507 Spencerport Rd., Rochester, NY 14606"
+  },
+  {
+   "name": "Romigs Tavern",
+   "machines": 2,
+   "phone": "585-663-1518",
+   "address": "18 Bennington Green, Rochester, NY 14616"
+  },
+  {
+   "name": "Stones Pub",
+   "machines": 2,
+   "phone": "585-486-4937",
+   "address": "3115 East Henrietta Rd, Rochester, NY 14610"
+  }
+ ],
+ "updated": "2026-10-22T01:40:26Z"
+}

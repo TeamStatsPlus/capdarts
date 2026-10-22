@@ -1,0 +1,763 @@
+{
+ "league": {
+  "title": "Thursday Bill Grays IH",
+  "location": "6RBGIH"
+ },
+ "standings": [
+  [
+   "Dyl Piccles",
+   32,
+   12
+  ],
+  [
+   "Just The Tip",
+   27,
+   17
+  ],
+  [
+   "Gotti And Hynes",
+   26,
+   18
+  ],
+  [
+   "Sweet Pickles",
+   26,
+   18
+  ],
+  [
+   "Alex And Lawlor",
+   20,
+   24
+  ],
+  [
+   "Nuch And Rich",
+   18,
+   26
+  ],
+  [
+   "BadDarts StankyFarts",
+   15,
+   29
+  ],
+  [
+   "Austin And Joe",
+   12,
+   32
+  ]
+ ],
+ "results": [
+  [
+   "Nuch And Rich",
+   "Just The Tip",
+   "10/15/2026",
+   4,
+   8,
+   3
+  ],
+  [
+   "Dyl Piccles",
+   "Gotti And Hynes",
+   "10/15/2026",
+   4,
+   7,
+   4
+  ],
+  [
+   "Sweet Pickles",
+   "BadDarts StankyFarts",
+   "10/15/2026",
+   4,
+   7,
+   4
+  ],
+  [
+   "Austin And Joe",
+   "Alex And Lawlor",
+   "10/15/2026",
+   4,
+   6,
+   5
+  ],
+  [
+   "Alex And Lawlor",
+   "Austin And Joe",
+   "10/15/2026",
+   4,
+   5,
+   6
+  ],
+  [
+   "Gotti And Hynes",
+   "Dyl Piccles",
+   "10/15/2026",
+   4,
+   4,
+   7
+  ],
+  [
+   "BadDarts StankyFarts",
+   "Sweet Pickles",
+   "10/15/2026",
+   4,
+   4,
+   7
+  ],
+  [
+   "Just The Tip",
+   "Nuch And Rich",
+   "10/15/2026",
+   4,
+   3,
+   8
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Ben Coffey",
+    "Sweet Pickles",
+    1.51,
+    1.6
+   ],
+   [
+    "Justin Yokajty",
+    "Gotti And Hynes",
+    1.55,
+    1.64
+   ],
+   [
+    "Michael Nuccitelli",
+    "Nuch And Rich",
+    1.16,
+    1.24
+   ]
+  ],
+  "x": [
+   [
+    "Rick Falvo",
+    "Sweet Pickles",
+    13.6,
+    14.25
+   ],
+   [
+    "Nick DelGaizo",
+    "BadDarts StankyFarts",
+    14.78,
+    15.42
+   ],
+   [
+    "Joe Gravino",
+    "Austin And Joe",
+    15.56,
+    16.19
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Jim Murray",
+   "Just The Tip",
+   2.48,
+   4,
+   2,
+   2,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dylan Julian",
+   "Dyl Piccles",
+   2.01,
+   16,
+   8,
+   5,
+   0,
+   0,
+   7,
+   3,
+   2,
+   1,
+   0
+  ],
+  [
+   "Caleb Lee",
+   "Just The Tip",
+   1.87,
+   12,
+   8,
+   1,
+   0,
+   0,
+   4,
+   3,
+   1,
+   1,
+   0
+  ],
+  [
+   "Nick Lawlor",
+   "Alex And Lawlor",
+   1.82,
+   16,
+   7,
+   1,
+   0,
+   0,
+   4,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Justin Yokajty",
+   "Gotti And Hynes",
+   1.64,
+   16,
+   6,
+   4,
+   0,
+   0,
+   6,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ben Coffey",
+   "Sweet Pickles",
+   1.6,
+   16,
+   10,
+   2,
+   0,
+   0,
+   3,
+   5,
+   1,
+   0,
+   0
+  ],
+  [
+   "Michael Hynes",
+   "Gotti And Hynes",
+   1.58,
+   12,
+   6,
+   1,
+   0,
+   0,
+   2,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Josh Krause",
+   "BadDarts StankyFarts",
+   1.52,
+   16,
+   4,
+   1,
+   0,
+   0,
+   5,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Michael Piccarreto",
+   "Dyl Piccles",
+   1.51,
+   16,
+   11,
+   1,
+   1,
+   0,
+   2,
+   3,
+   0,
+   1,
+   0
+  ],
+  [
+   "AJ Dibo",
+   "Gotti And Hynes",
+   1.41,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Stathopoulos",
+   "Alex And Lawlor",
+   1.41,
+   12,
+   5,
+   1,
+   0,
+   0,
+   2,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rick Falvo",
+   "Sweet Pickles",
+   1.41,
+   16,
+   6,
+   4,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joe Gravino",
+   "Austin And Joe",
+   1.38,
+   12,
+   2,
+   0,
+   0,
+   0,
+   1,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rich Ciaccio",
+   "Nuch And Rich",
+   1.37,
+   8,
+   3,
+   0,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Nick DelGaizo",
+   "BadDarts StankyFarts",
+   1.35,
+   16,
+   4,
+   1,
+   0,
+   0,
+   4,
+   2,
+   0,
+   0,
+   1
+  ],
+  [
+   "Ryan Brown",
+   "Just The Tip",
+   1.27,
+   12,
+   3,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Michael Nuccitelli",
+   "Nuch And Rich",
+   1.24,
+   16,
+   5,
+   1,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Austin Julian",
+   "Austin And Joe",
+   1.2,
+   16,
+   3,
+   1,
+   0,
+   0,
+   1,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Miceli",
+   "Just The Tip",
+   1.14,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Becca Gresens",
+   "Alex And Lawlor",
+   1.09,
+   4,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Cody Spade",
+   "Nuch And Rich",
+   1.03,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ashton Julian",
+   "Nuch And Rich",
+   0.91,
+   8,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Jim Murray",
+   "Just The Tip",
+   19.64,
+   5,
+   2,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Nick Lawlor",
+   "Alex And Lawlor",
+   17.63,
+   20,
+   7,
+   0,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Dylan Julian",
+   "Dyl Piccles",
+   17.02,
+   20,
+   6,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Ryan Brown",
+   "Just The Tip",
+   16.88,
+   15,
+   4,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Justin Yokajty",
+   "Gotti And Hynes",
+   16.41,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Joe Gravino",
+   "Austin And Joe",
+   16.19,
+   15,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Ben Coffey",
+   "Sweet Pickles",
+   16.08,
+   20,
+   6,
+   0,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Becca Gresens",
+   "Alex And Lawlor",
+   15.91,
+   5,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Nick DelGaizo",
+   "BadDarts StankyFarts",
+   15.42,
+   20,
+   3,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Caleb Lee",
+   "Just The Tip",
+   15.41,
+   15,
+   6,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "AJ Dibo",
+   "Gotti And Hynes",
+   15.05,
+   5,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Josh Krause",
+   "BadDarts StankyFarts",
+   15.01,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Austin Julian",
+   "Austin And Joe",
+   14.88,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rich Ciaccio",
+   "Nuch And Rich",
+   14.75,
+   10,
+   4,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Michael Piccarreto",
+   "Dyl Piccles",
+   14.71,
+   20,
+   7,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Alex Stathopoulos",
+   "Alex And Lawlor",
+   14.53,
+   15,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Michael Hynes",
+   "Gotti And Hynes",
+   14.5,
+   15,
+   7,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Mike Miceli",
+   "Just The Tip",
+   14.3,
+   5,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Rick Falvo",
+   "Sweet Pickles",
+   14.25,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Ashton Julian",
+   "Nuch And Rich",
+   13.51,
+   10,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Michael Nuccitelli",
+   "Nuch And Rich",
+   12.86,
+   20,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Cody Spade",
+   "Nuch And Rich",
+   12.07,
+   5,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "sites": [
+  {
+   "name": "Bill Grays Webster",
+   "machines": 4,
+   "phone": "585-671-0584",
+   "address": "964 Ridge Rd., Webster, NY 14580"
+  }
+ ],
+ "updated": "2026-10-22T01:41:21Z"
+}

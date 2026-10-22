@@ -1,0 +1,1340 @@
+{
+ "league": {
+  "title": "Wednesday 4 Player BP",
+  "location": "6W4BP"
+ },
+ "standings": [
+  [
+   "Fingerblasters",
+   42,
+   18
+  ],
+  [
+   "Satchel Of Richards",
+   34,
+   26
+  ],
+  [
+   "We Made The Cut",
+   32,
+   28
+  ],
+  [
+   "Water Off",
+   28,
+   32
+  ],
+  [
+   "Ryans Renegades",
+   23,
+   37
+  ],
+  [
+   "Bigg Darts",
+   21,
+   39
+  ]
+ ],
+ "results": [
+  [
+   "Fingerblasters",
+   "Water Off",
+   "10/21/2026",
+   4,
+   13,
+   2
+  ],
+  [
+   "Bigg Darts",
+   "Ryans Renegades",
+   "10/21/2026",
+   4,
+   8,
+   7
+  ],
+  [
+   "We Made The Cut",
+   "Satchel Of Richards",
+   "10/21/2026",
+   4,
+   8,
+   7
+  ],
+  [
+   "Ryans Renegades",
+   "Bigg Darts",
+   "10/21/2026",
+   4,
+   7,
+   8
+  ],
+  [
+   "Satchel Of Richards",
+   "We Made The Cut",
+   "10/21/2026",
+   4,
+   7,
+   8
+  ],
+  [
+   "Water Off",
+   "Fingerblasters",
+   "10/21/2026",
+   4,
+   2,
+   13
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "TJ Lucey",
+    "Ryans Renegades",
+    2.18,
+    2.37
+   ],
+   [
+    "Jeff Childs",
+    "Fingerblasters",
+    3.25,
+    3.39
+   ],
+   [
+    "Pat Childs",
+    "Fingerblasters",
+    1.79,
+    1.91
+   ]
+  ],
+  "x": [
+   [
+    "Pat Childs",
+    "Fingerblasters",
+    16.38,
+    18.47
+   ],
+   [
+    "Ashton Maracle",
+    "Ryans Renegades",
+    20.46,
+    22.4
+   ],
+   [
+    "James Samuelson",
+    "Satchel Of Richards",
+    21.13,
+    22.37
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Ashton Maracle",
+   "Ryans Renegades",
+   3.45,
+   9,
+   4,
+   2,
+   1,
+   0,
+   14,
+   5,
+   1,
+   0,
+   1
+  ],
+  [
+   "Jeff Childs",
+   "Fingerblasters",
+   3.39,
+   12,
+   5,
+   5,
+   4,
+   2,
+   10,
+   5,
+   2,
+   0,
+   0
+  ],
+  [
+   "Cory Humphries",
+   "Water Off",
+   3.32,
+   12,
+   9,
+   1,
+   0,
+   1,
+   11,
+   5,
+   5,
+   0,
+   1
+  ],
+  [
+   "Joe Kinney III",
+   "Fingerblasters",
+   3.22,
+   12,
+   7,
+   1,
+   1,
+   1,
+   6,
+   6,
+   2,
+   0,
+   0
+  ],
+  [
+   "Justin Southwick",
+   "Satchel Of Richards",
+   3.15,
+   12,
+   6,
+   1,
+   2,
+   0,
+   12,
+   5,
+   4,
+   0,
+   0
+  ],
+  [
+   "Rich ODonnell",
+   "We Made The Cut",
+   3.07,
+   12,
+   6,
+   2,
+   1,
+   0,
+   3,
+   6,
+   2,
+   0,
+   1
+  ],
+  [
+   "James Samuelson",
+   "Satchel Of Richards",
+   3.01,
+   12,
+   5,
+   2,
+   2,
+   0,
+   10,
+   4,
+   3,
+   0,
+   2
+  ],
+  [
+   "Nick Wahal",
+   "Ryans Renegades",
+   2.93,
+   6,
+   1,
+   0,
+   0,
+   0,
+   6,
+   2,
+   3,
+   0,
+   1
+  ],
+  [
+   "Fred James",
+   "We Made The Cut",
+   2.92,
+   12,
+   4,
+   1,
+   1,
+   0,
+   10,
+   3,
+   3,
+   0,
+   1
+  ],
+  [
+   "Dashay Earlsey",
+   "Water Off",
+   2.76,
+   12,
+   4,
+   4,
+   0,
+   0,
+   6,
+   6,
+   0,
+   0,
+   0
+  ],
+  [
+   "Desmond Parris",
+   "Water Off",
+   2.74,
+   12,
+   2,
+   4,
+   1,
+   0,
+   8,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Justin Burdett",
+   "We Made The Cut",
+   2.66,
+   12,
+   3,
+   3,
+   0,
+   0,
+   9,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Joseph Shiner",
+   "Satchel Of Richards",
+   2.62,
+   12,
+   6,
+   1,
+   3,
+   0,
+   4,
+   3,
+   3,
+   0,
+   0
+  ],
+  [
+   "Jason Davis",
+   "Bigg Darts",
+   2.59,
+   6,
+   3,
+   0,
+   1,
+   0,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Chris Hattala",
+   "Bigg Darts",
+   2.55,
+   12,
+   1,
+   1,
+   1,
+   0,
+   8,
+   3,
+   3,
+   0,
+   1
+  ],
+  [
+   "Bob Conant",
+   "Bigg Darts",
+   2.51,
+   6,
+   3,
+   0,
+   0,
+   0,
+   4,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dave Hofstetter",
+   "Satchel Of Richards",
+   2.48,
+   12,
+   3,
+   4,
+   0,
+   0,
+   4,
+   5,
+   3,
+   0,
+   2
+  ],
+  [
+   "Scott Ingham",
+   "Bigg Darts",
+   2.44,
+   12,
+   1,
+   2,
+   0,
+   0,
+   3,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Joe Dibernardo",
+   "Fingerblasters",
+   2.39,
+   12,
+   5,
+   2,
+   1,
+   0,
+   7,
+   3,
+   3,
+   0,
+   0
+  ],
+  [
+   "TJ Lucey",
+   "Ryans Renegades",
+   2.37,
+   12,
+   7,
+   0,
+   0,
+   0,
+   5,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Luis Rodriguez",
+   "We Made The Cut",
+   2.34,
+   12,
+   3,
+   0,
+   0,
+   0,
+   7,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jake Maracle",
+   "Ryans Renegades",
+   2.26,
+   9,
+   0,
+   3,
+   1,
+   0,
+   2,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Alan Porteous",
+   "Ryans Renegades",
+   2.23,
+   12,
+   1,
+   2,
+   1,
+   0,
+   5,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "James Walsh",
+   "Water Off",
+   2.2,
+   12,
+   4,
+   3,
+   1,
+   0,
+   2,
+   2,
+   3,
+   0,
+   1
+  ],
+  [
+   "Pat Childs",
+   "Fingerblasters",
+   1.91,
+   12,
+   2,
+   3,
+   0,
+   0,
+   4,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Tom Walter",
+   "Bigg Darts",
+   1.88,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Pat Fagan",
+   "Bigg Darts",
+   1.75,
+   6,
+   0,
+   1,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Jeff Childs",
+   "Fingerblasters",
+   30.46,
+   16,
+   9,
+   9,
+   0,
+   0,
+   0,
+   27
+  ],
+  [
+   "Rich ODonnell",
+   "We Made The Cut",
+   23.98,
+   16,
+   6,
+   1,
+   0,
+   0,
+   1,
+   17
+  ],
+  [
+   "Cory Humphries",
+   "Water Off",
+   23.38,
+   16,
+   2,
+   2,
+   0,
+   0,
+   0,
+   22
+  ],
+  [
+   "Justin Southwick",
+   "Satchel Of Richards",
+   22.91,
+   16,
+   4,
+   2,
+   0,
+   0,
+   0,
+   22
+  ],
+  [
+   "Justin Burdett",
+   "We Made The Cut",
+   22.88,
+   16,
+   3,
+   6,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Joe Kinney III",
+   "Fingerblasters",
+   22.83,
+   16,
+   9,
+   4,
+   0,
+   0,
+   0,
+   17
+  ],
+  [
+   "Bob Conant",
+   "Bigg Darts",
+   22.68,
+   8,
+   3,
+   2,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Fred James",
+   "We Made The Cut",
+   22.49,
+   16,
+   7,
+   2,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Ashton Maracle",
+   "Ryans Renegades",
+   22.4,
+   12,
+   2,
+   1,
+   0,
+   0,
+   1,
+   15
+  ],
+  [
+   "James Samuelson",
+   "Satchel Of Richards",
+   22.37,
+   16,
+   4,
+   1,
+   0,
+   0,
+   1,
+   18
+  ],
+  [
+   "Luis Rodriguez",
+   "We Made The Cut",
+   21.97,
+   16,
+   0,
+   3,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Pat Fagan",
+   "Bigg Darts",
+   21.7,
+   8,
+   0,
+   1,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Nick Wahal",
+   "Ryans Renegades",
+   21.31,
+   8,
+   1,
+   2,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Joe Dibernardo",
+   "Fingerblasters",
+   21.27,
+   16,
+   2,
+   4,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Jake Maracle",
+   "Ryans Renegades",
+   20.49,
+   12,
+   0,
+   2,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "Dave Hofstetter",
+   "Satchel Of Richards",
+   20.26,
+   16,
+   5,
+   3,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Jason Davis",
+   "Bigg Darts",
+   20.12,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Desmond Parris",
+   "Water Off",
+   20.07,
+   16,
+   3,
+   4,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "TJ Lucey",
+   "Ryans Renegades",
+   19.71,
+   16,
+   4,
+   0,
+   0,
+   0,
+   2,
+   12
+  ],
+  [
+   "Joseph Shiner",
+   "Satchel Of Richards",
+   19.61,
+   16,
+   1,
+   1,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
+   "James Walsh",
+   "Water Off",
+   19.46,
+   16,
+   0,
+   1,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
+   "Dashay Earlsey",
+   "Water Off",
+   18.57,
+   16,
+   4,
+   2,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Pat Childs",
+   "Fingerblasters",
+   18.47,
+   16,
+   3,
+   3,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Chris Hattala",
+   "Bigg Darts",
+   18.47,
+   16,
+   4,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Scott Ingham",
+   "Bigg Darts",
+   18.05,
+   16,
+   3,
+   2,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Alan Porteous",
+   "Ryans Renegades",
+   15.77,
+   16,
+   3,
+   2,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Tom Walter",
+   "Bigg Darts",
+   15.54,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Bigg Darts",
+   "site": "The Willow",
+   "captain": "Chris Hattala",
+   "phone": "585-764-1500"
+  },
+  {
+   "name": "Fingerblasters",
+   "site": "JJs Pub",
+   "captain": "Joe Kinney III",
+   "phone": "585-794-2083"
+  },
+  {
+   "name": "Ryans Renegades",
+   "site": "TJ Ryans",
+   "captain": "Alan Porteous",
+   "phone": "585-737-8166"
+  },
+  {
+   "name": "Satchel Of Richards",
+   "site": "JD Oxfords",
+   "captain": "Dave Hofstetter",
+   "phone": "585-704-7633"
+  },
+  {
+   "name": "Water Off",
+   "site": "Parlays Inn",
+   "captain": "Cory Humphries",
+   "phone": "585-333-6886"
+  },
+  {
+   "name": "We Made The Cut",
+   "site": "Back To My Place",
+   "captain": "Justin Burdett",
+   "phone": "585-613-5512"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-30",
+   "note": "",
+   "matches": [
+    [
+     "We Made The Cut",
+     "Ryans Renegades"
+    ],
+    [
+     "Bigg Darts",
+     "Fingerblasters"
+    ],
+    [
+     "Satchel Of Richards",
+     "Water Off"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-07",
+   "note": "",
+   "matches": [
+    [
+     "Satchel Of Richards",
+     "Ryans Renegades"
+    ],
+    [
+     "Water Off",
+     "Bigg Darts"
+    ],
+    [
+     "Fingerblasters",
+     "We Made The Cut"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-14",
+   "note": "",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "Fingerblasters"
+    ],
+    [
+     "We Made The Cut",
+     "Water Off"
+    ],
+    [
+     "Bigg Darts",
+     "Satchel Of Richards"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-21",
+   "note": "",
+   "matches": [
+    [
+     "Bigg Darts",
+     "Ryans Renegades"
+    ],
+    [
+     "Satchel Of Richards",
+     "We Made The Cut"
+    ],
+    [
+     "Water Off",
+     "Fingerblasters"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-28",
+   "note": "",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "Water Off"
+    ],
+    [
+     "Fingerblasters",
+     "Satchel Of Richards"
+    ],
+    [
+     "We Made The Cut",
+     "Bigg Darts"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-04",
+   "note": "",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "We Made The Cut"
+    ],
+    [
+     "Fingerblasters",
+     "Bigg Darts"
+    ],
+    [
+     "Water Off",
+     "Satchel Of Richards"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-11",
+   "note": "",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "Satchel Of Richards"
+    ],
+    [
+     "Bigg Darts",
+     "Water Off"
+    ],
+    [
+     "We Made The Cut",
+     "Fingerblasters"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-18",
+   "note": "",
+   "matches": [
+    [
+     "Fingerblasters",
+     "Ryans Renegades"
+    ],
+    [
+     "Water Off",
+     "We Made The Cut"
+    ],
+    [
+     "Satchel Of Richards",
+     "Bigg Darts"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-12-02",
+   "note": "Off 11/25- Thanksgiving Eve",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "Bigg Darts"
+    ],
+    [
+     "We Made The Cut",
+     "Satchel Of Richards"
+    ],
+    [
+     "Fingerblasters",
+     "Water Off"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-09",
+   "note": "",
+   "matches": [
+    [
+     "Water Off",
+     "Ryans Renegades"
+    ],
+    [
+     "Satchel Of Richards",
+     "Fingerblasters"
+    ],
+    [
+     "Bigg Darts",
+     "We Made The Cut"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2027-01-06",
+   "note": "Use 12/16-12/30 for Makeups. ALL TEAMS HAVE A MATCH 1/6.",
+   "matches": []
+  },
+  {
+   "week": 12,
+   "date": "2027-01-13",
+   "note": "",
+   "matches": [
+    [
+     "We Made The Cut",
+     "Ryans Renegades"
+    ],
+    [
+     "Bigg Darts",
+     "Fingerblasters"
+    ],
+    [
+     "Satchel Of Richards",
+     "Water Off"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-20",
+   "note": "",
+   "matches": [
+    [
+     "Satchel Of Richards",
+     "Ryans Renegades"
+    ],
+    [
+     "Water Off",
+     "Bigg Darts"
+    ],
+    [
+     "Fingerblasters",
+     "We Made The Cut"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-27",
+   "note": "",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "Fingerblasters"
+    ],
+    [
+     "We Made The Cut",
+     "Water Off"
+    ],
+    [
+     "Bigg Darts",
+     "Satchel Of Richards"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-02-03",
+   "note": "",
+   "matches": [
+    [
+     "Bigg Darts",
+     "Ryans Renegades"
+    ],
+    [
+     "Satchel Of Richards",
+     "We Made The Cut"
+    ],
+    [
+     "Water Off",
+     "Fingerblasters"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-02-10",
+   "note": "",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "Water Off"
+    ],
+    [
+     "Fingerblasters",
+     "Satchel Of Richards"
+    ],
+    [
+     "We Made The Cut",
+     "Bigg Darts"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-17",
+   "note": "",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "We Made The Cut"
+    ],
+    [
+     "Fingerblasters",
+     "Bigg Darts"
+    ],
+    [
+     "Water Off",
+     "Satchel Of Richards"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-24",
+   "note": "",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "Satchel Of Richards"
+    ],
+    [
+     "Bigg Darts",
+     "Water Off"
+    ],
+    [
+     "We Made The Cut",
+     "Fingerblasters"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-03-03",
+   "note": "",
+   "matches": [
+    [
+     "Fingerblasters",
+     "Ryans Renegades"
+    ],
+    [
+     "Water Off",
+     "We Made The Cut"
+    ],
+    [
+     "Satchel Of Richards",
+     "Bigg Darts"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-10",
+   "note": "",
+   "matches": [
+    [
+     "Ryans Renegades",
+     "Bigg Darts"
+    ],
+    [
+     "We Made The Cut",
+     "Satchel Of Richards"
+    ],
+    [
+     "Fingerblasters",
+     "Water Off"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-24",
+   "note": "Off 3/17- St. Patrick's Day",
+   "matches": [
+    [
+     "Water Off",
+     "Ryans Renegades"
+    ],
+    [
+     "Satchel Of Richards",
+     "Fingerblasters"
+    ],
+    [
+     "Bigg Darts",
+     "We Made The Cut"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-31",
+   "note": "Use 3/31 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "JD Oxfords",
+   "machines": 3,
+   "phone": "585-256-0580",
+   "address": "636 Monroe Ave, Rochester, NY 14607"
+  },
+  {
+   "name": "JJs Pub",
+   "machines": 1,
+   "phone": "704-5204",
+   "address": "669 Winton Rd, Rochester, NY 14610"
+  },
+  {
+   "name": "Parlays Inn",
+   "machines": 3,
+   "phone": "",
+   "address": "250 Monroe Ave, Rochester, NY 14610"
+  },
+  {
+   "name": "The Willow",
+   "machines": 4,
+   "phone": "585-366-4161",
+   "address": "428 Manitou Rd., Hilton, NY 14468"
+  },
+  {
+   "name": "TJ Ryans",
+   "machines": 2,
+   "phone": "585-388-1305",
+   "address": "49 N Main St, Fairport, NY 14610"
+  }
+ ],
+ "updated": "2026-10-22T01:41:18Z"
+}

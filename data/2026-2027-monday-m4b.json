@@ -1,0 +1,2977 @@
+{
+ "league": {
+  "title": "Monday 4 Player B",
+  "location": "6M4B"
+ },
+ "standings": [
+  [
+   "Money Shot",
+   42,
+   10
+  ],
+  [
+   "Bad News Beers",
+   39,
+   13
+  ],
+  [
+   "ChJokers",
+   38,
+   14
+  ],
+  [
+   "Slow Mother Chuckers",
+   35,
+   17
+  ],
+  [
+   "Here 4 The Beer",
+   32,
+   20
+  ],
+  [
+   "IDF NightCaps",
+   21,
+   18
+  ],
+  [
+   "Wired",
+   26,
+   26
+  ],
+  [
+   "Tegridy",
+   18,
+   21
+  ],
+  [
+   "Off Target",
+   18,
+   21
+  ],
+  [
+   "Good Smoke BBQ",
+   23,
+   29
+  ],
+  [
+   "RedEye",
+   13,
+   26
+  ],
+  [
+   "The Shockers",
+   17,
+   35
+  ],
+  [
+   "Halluciminatin",
+   9,
+   43
+  ],
+  [
+   "The Happy Accidents",
+   7,
+   45
+  ]
+ ],
+ "results": [
+  [
+   "ChJokers",
+   "The Happy Accidents",
+   "10/19/2026",
+   4,
+   11,
+   2
+  ],
+  [
+   "Wired",
+   "Halluciminatin",
+   "10/19/2026",
+   4,
+   11,
+   2
+  ],
+  [
+   "Bad News Beers",
+   "RedEye",
+   "10/19/2026",
+   4,
+   10,
+   3
+  ],
+  [
+   "Slow Mother Chuckers",
+   "Here 4 The Beer",
+   "10/19/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "IDF NightCaps",
+   "Off Target",
+   "10/19/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "Tegridy",
+   "The Shockers",
+   "10/19/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Money Shot",
+   "Good Smoke BBQ",
+   "10/19/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "The Shockers",
+   "Tegridy",
+   "10/19/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Good Smoke BBQ",
+   "Money Shot",
+   "10/19/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Off Target",
+   "IDF NightCaps",
+   "10/19/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "Here 4 The Beer",
+   "Slow Mother Chuckers",
+   "10/19/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "RedEye",
+   "Bad News Beers",
+   "10/19/2026",
+   4,
+   3,
+   10
+  ],
+  [
+   "Halluciminatin",
+   "Wired",
+   "10/19/2026",
+   4,
+   2,
+   11
+  ],
+  [
+   "The Happy Accidents",
+   "ChJokers",
+   "10/19/2026",
+   4,
+   2,
+   11
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Ben Kulikowski",
+    "Good Smoke BBQ",
+    1.96,
+    2.24
+   ],
+   [
+    "David Caesar",
+    "IDF NightCaps",
+    1.62,
+    1.89
+   ],
+   [
+    "Alan Porteous",
+    "Slow Mother Chuckers",
+    1.99,
+    2.19
+   ]
+  ],
+  "x": [
+   [
+    "Steve Wemett",
+    "Good Smoke BBQ",
+    15.16,
+    17.13
+   ],
+   [
+    "Ryan Cuer",
+    "RedEye",
+    16.5,
+    17.77
+   ],
+   [
+    "Nick Wahal",
+    "Slow Mother Chuckers",
+    22.83,
+    24.09
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Jeff Hunt",
+   "Bad News Beers",
+   2.96,
+   12,
+   7,
+   4,
+   1,
+   0,
+   9,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Chad Newbauer",
+   "Money Shot",
+   2.76,
+   12,
+   6,
+   4,
+   0,
+   0,
+   4,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Nick Wahal",
+   "Slow Mother Chuckers",
+   2.71,
+   12,
+   7,
+   4,
+   1,
+   0,
+   6,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matt Greenough",
+   "Slow Mother Chuckers",
+   2.5,
+   3,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Eric Westrich",
+   "Money Shot",
+   2.4,
+   9,
+   2,
+   6,
+   0,
+   0,
+   7,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brett W Here For The Beer",
+   "Here 4 The Beer",
+   2.39,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Philip Rowland",
+   "ChJokers",
+   2.39,
+   12,
+   9,
+   3,
+   0,
+   0,
+   3,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "David Wills",
+   "Tegridy",
+   2.38,
+   9,
+   4,
+   1,
+   0,
+   0,
+   4,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Joe Rowland",
+   "ChJokers",
+   2.35,
+   12,
+   3,
+   6,
+   1,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jon Vallone",
+   "Good Smoke BBQ",
+   2.29,
+   12,
+   3,
+   3,
+   0,
+   0,
+   3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Mark Quill",
+   "Money Shot",
+   2.28,
+   12,
+   6,
+   4,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   1
+  ],
+  [
+   "Shondell Kirton",
+   "IDF NightCaps",
+   2.26,
+   9,
+   2,
+   4,
+   0,
+   0,
+   2,
+   4,
+   0,
+   0,
+   1
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   2.24,
+   9,
+   1,
+   1,
+   0,
+   0,
+   4,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tim Smith",
+   "ChJokers",
+   2.21,
+   12,
+   2,
+   7,
+   0,
+   0,
+   1,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chad Pike",
+   "Here 4 The Beer",
+   2.2,
+   9,
+   4,
+   2,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alan Porteous",
+   "Slow Mother Chuckers",
+   2.19,
+   12,
+   2,
+   6,
+   0,
+   0,
+   4,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Wemett",
+   "Good Smoke BBQ",
+   2.17,
+   9,
+   5,
+   2,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joe Soriano",
+   "The Shockers",
+   2.14,
+   3,
+   0,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Hodgeman",
+   "Here 4 The Beer",
+   2.13,
+   12,
+   6,
+   3,
+   1,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Steve Wemett",
+   "Good Smoke BBQ",
+   2.13,
+   6,
+   1,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Randy Cook",
+   "Money Shot",
+   2.13,
+   12,
+   5,
+   4,
+   0,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dave Biedrzycki",
+   "Here 4 The Beer",
+   2.08,
+   12,
+   4,
+   3,
+   0,
+   0,
+   5,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Leonardo Silva",
+   "The Happy Accidents",
+   2.07,
+   3,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Joe Scalise",
+   "Off Target",
+   2.05,
+   3,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Neal Kenyon",
+   "The Happy Accidents",
+   2.03,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Steve Wright",
+   "Wired",
+   2.03,
+   12,
+   4,
+   1,
+   1,
+   0,
+   4,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mischa Herendeen",
+   "Good Smoke BBQ",
+   1.97,
+   3,
+   1,
+   1,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rory Doran",
+   "Bad News Beers",
+   1.94,
+   12,
+   5,
+   5,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Matt Cortese",
+   "Off Target",
+   1.94,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Scott Musial",
+   "The Shockers",
+   1.92,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Rowland",
+   "Off Target",
+   1.92,
+   9,
+   0,
+   4,
+   0,
+   0,
+   0,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "David Caesar",
+   "IDF NightCaps",
+   1.89,
+   9,
+   3,
+   1,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dean Nicosia",
+   "Money Shot",
+   1.88,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Steve Strowbridge",
+   "Off Target",
+   1.87,
+   9,
+   6,
+   2,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Sherman",
+   "The Shockers",
+   1.84,
+   9,
+   1,
+   4,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bill Fitzgerald",
+   "Wired",
+   1.83,
+   12,
+   4,
+   1,
+   1,
+   0,
+   1,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake Maracle",
+   "Slow Mother Chuckers",
+   1.82,
+   9,
+   5,
+   1,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rick Ernst",
+   "Bad News Beers",
+   1.78,
+   12,
+   4,
+   4,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ryan Cuer",
+   "RedEye",
+   1.76,
+   9,
+   2,
+   0,
+   0,
+   0,
+   3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Danny Zysman",
+   "The Shockers",
+   1.74,
+   12,
+   5,
+   2,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Darrin Costantini",
+   "Wired",
+   1.71,
+   6,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Taylor Koffenberger",
+   "Tegridy",
+   1.7,
+   9,
+   1,
+   1,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chuck Marchbanks",
+   "Wired",
+   1.68,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Johnny Golas",
+   "Halluciminatin",
+   1.67,
+   12,
+   2,
+   0,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "John Mitrano",
+   "Here 4 The Beer",
+   1.64,
+   12,
+   0,
+   6,
+   0,
+   0,
+   2,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Orion Wilkerson",
+   "IDF NightCaps",
+   1.64,
+   9,
+   2,
+   3,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chuck Coates",
+   "Wired",
+   1.62,
+   12,
+   0,
+   5,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bill Greenough",
+   "Slow Mother Chuckers",
+   1.62,
+   12,
+   3,
+   3,
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Wills",
+   "Tegridy",
+   1.62,
+   9,
+   0,
+   3,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Judson Brown",
+   "Wired",
+   1.61,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Amanda Paige",
+   "The Happy Accidents",
+   1.59,
+   12,
+   1,
+   2,
+   0,
+   0,
+   3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Keven Hagen",
+   "Tegridy",
+   1.58,
+   6,
+   2,
+   2,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Michelle Nguyen",
+   "Bad News Beers",
+   1.56,
+   12,
+   2,
+   5,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Rey Tajon",
+   "RedEye",
+   1.55,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tyrell Carver",
+   "IDF NightCaps",
+   1.54,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Whitney Sawyer",
+   "RedEye",
+   1.52,
+   9,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Mike Wemett",
+   "Good Smoke BBQ",
+   1.49,
+   9,
+   1,
+   3,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   1.47,
+   12,
+   5,
+   3,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake Halluciminatin",
+   "Halluciminatin",
+   1.46,
+   12,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "John Seward",
+   "RedEye",
+   1.44,
+   9,
+   0,
+   4,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Smith",
+   "Halluciminatin",
+   1.36,
+   12,
+   0,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brandon English",
+   "The Shockers",
+   1.3,
+   12,
+   1,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Debbie Luce",
+   "The Happy Accidents",
+   1.24,
+   12,
+   0,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Exa Hebing",
+   "The Happy Accidents",
+   1.15,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ryder Crouch",
+   "Halluciminatin",
+   1.14,
+   12,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   1,
+   0
+  ],
+  [
+   "Erin Cuer",
+   "RedEye",
+   1.12,
+   6,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Tegridy",
+   1.05,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tanya Trevett",
+   "The Happy Accidents",
+   1.03,
+   9,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Cortese",
+   "Off Target",
+   0.93,
+   9,
+   1,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Matt Greenough",
+   "Slow Mother Chuckers",
+   25.45,
+   4,
+   2,
+   1,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Nick Wahal",
+   "Slow Mother Chuckers",
+   24.09,
+   16,
+   6,
+   3,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Jeff Hunt",
+   "Bad News Beers",
+   23.83,
+   16,
+   8,
+   1,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Chad Newbauer",
+   "Money Shot",
+   23.48,
+   16,
+   5,
+   1,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
+   "Chad Pike",
+   "Here 4 The Beer",
+   22.45,
+   12,
+   4,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Jon Vallone",
+   "Good Smoke BBQ",
+   22.34,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
+   "Judson Brown",
+   "Wired",
+   22.15,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Philip Rowland",
+   "ChJokers",
+   21.55,
+   16,
+   6,
+   0,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Jake Maracle",
+   "Slow Mother Chuckers",
+   21.47,
+   12,
+   7,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Tim Smith",
+   "ChJokers",
+   21.13,
+   16,
+   6,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Matt Cortese",
+   "Off Target",
+   20.85,
+   8,
+   3,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "David Wills",
+   "Tegridy",
+   20.85,
+   12,
+   3,
+   1,
+   1,
+   0,
+   1,
+   5
+  ],
+  [
+   "Shondell Kirton",
+   "IDF NightCaps",
+   20.65,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Mark Quill",
+   "Money Shot",
+   20.62,
+   16,
+   5,
+   2,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Brian Wemett",
+   "Good Smoke BBQ",
+   20.51,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Alan Porteous",
+   "Slow Mother Chuckers",
+   20.41,
+   16,
+   1,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Darrin Costantini",
+   "Wired",
+   20.29,
+   8,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Shawn Hodgeman",
+   "Here 4 The Beer",
+   19.87,
+   16,
+   5,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Joe Rowland",
+   "ChJokers",
+   19.83,
+   16,
+   6,
+   1,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "David Caesar",
+   "IDF NightCaps",
+   19.81,
+   12,
+   5,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Neal Kenyon",
+   "The Happy Accidents",
+   19.7,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Jason Sherman",
+   "The Shockers",
+   19.65,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Eric Westrich",
+   "Money Shot",
+   19.46,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Randy Cook",
+   "Money Shot",
+   19.07,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Steve Wright",
+   "Wired",
+   18.81,
+   16,
+   7,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Dean Nicosia",
+   "Money Shot",
+   18.68,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Joe Soriano",
+   "The Shockers",
+   18.63,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Mischa Herendeen",
+   "Good Smoke BBQ",
+   18.6,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Dave Biedrzycki",
+   "Here 4 The Beer",
+   18.28,
+   16,
+   5,
+   0,
+   1,
+   0,
+   1,
+   6
+  ],
+  [
+   "Rory Doran",
+   "Bad News Beers",
+   18.21,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Rick Ernst",
+   "Bad News Beers",
+   18.2,
+   16,
+   6,
+   0,
+   0,
+   0,
+   1,
+   3
+  ],
+  [
+   "Bill Fitzgerald",
+   "Wired",
+   18.13,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Taylor Koffenberger",
+   "Tegridy",
+   17.94,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Scott Musial",
+   "The Shockers",
+   17.84,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Ryan Cuer",
+   "RedEye",
+   17.77,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Leonardo Silva",
+   "The Happy Accidents",
+   17.73,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Mike Wemett",
+   "Good Smoke BBQ",
+   17.72,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Danny Zysman",
+   "The Shockers",
+   17.51,
+   16,
+   2,
+   2,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Whitney Sawyer",
+   "RedEye",
+   17.44,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Erin Cuer",
+   "RedEye",
+   17.26,
+   8,
+   2,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   17.24,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Brian Wills",
+   "Tegridy",
+   17.23,
+   12,
+   2,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Steve Wemett",
+   "Good Smoke BBQ",
+   17.13,
+   8,
+   1,
+   1,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   16.84,
+   16,
+   1,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Brett W Here For The Beer",
+   "Here 4 The Beer",
+   16.65,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Keven Hagen",
+   "Tegridy",
+   16.56,
+   8,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Tyrell Carver",
+   "IDF NightCaps",
+   16.49,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Johnny Golas",
+   "Halluciminatin",
+   16.47,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Steve Strowbridge",
+   "Off Target",
+   16.25,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Chuck Coates",
+   "Wired",
+   16.17,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Bill Greenough",
+   "Slow Mother Chuckers",
+   16.09,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Orion Wilkerson",
+   "IDF NightCaps",
+   15.91,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Jill Calvert",
+   "Tegridy",
+   15.9,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Joe Scalise",
+   "Off Target",
+   15.89,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rey Tajon",
+   "RedEye",
+   15.82,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Kevin Rowland",
+   "Off Target",
+   15.77,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Michelle Nguyen",
+   "Bad News Beers",
+   15.39,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Chuck Marchbanks",
+   "Wired",
+   15.39,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "John Mitrano",
+   "Here 4 The Beer",
+   15.05,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Jake Halluciminatin",
+   "Halluciminatin",
+   15.03,
+   16,
+   1,
+   1,
+   0,
+   0,
+   1,
+   2
+  ],
+  [
+   "Brandon English",
+   "The Shockers",
+   15.02,
+   16,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "John Seward",
+   "RedEye",
+   14.96,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Adam Smith",
+   "Halluciminatin",
+   14.85,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Amanda Paige",
+   "The Happy Accidents",
+   14.12,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Dave Cortese",
+   "Off Target",
+   14.01,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Exa Hebing",
+   "The Happy Accidents",
+   13.92,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Debbie Luce",
+   "The Happy Accidents",
+   13.54,
+   16,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Ryder Crouch",
+   "Halluciminatin",
+   13.4,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Tanya Trevett",
+   "The Happy Accidents",
+   12.48,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Bad News Beers",
+   "site": "Caverlys",
+   "captain": "Jeff Hunt",
+   "phone": "585-269-1696"
+  },
+  {
+   "name": "ChJokers",
+   "site": "Stones Pub",
+   "captain": "Philip Rowland",
+   "phone": "585-313-7790"
+  },
+  {
+   "name": "Good Smoke BBQ",
+   "site": "Good Smoke BBQ",
+   "captain": "Jon Vallone",
+   "phone": "585-953-1122"
+  },
+  {
+   "name": "Halluciminatin",
+   "site": "OCallaghans Pub",
+   "captain": "Steve Miller",
+   "phone": "585-285-9954"
+  },
+  {
+   "name": "Here 4 The Beer",
+   "site": "Romigs Tavern",
+   "captain": "Shawn Hodgeman",
+   "phone": "585-899-9248"
+  },
+  {
+   "name": "IDF NightCaps",
+   "site": "Nightcap Blues",
+   "captain": "Orion Wilkerson",
+   "phone": "585-260-5630"
+  },
+  {
+   "name": "Money Shot",
+   "site": "Romigs Tavern",
+   "captain": "Chad Newbauer",
+   "phone": "585-353-3767"
+  },
+  {
+   "name": "Off Target",
+   "site": "Coach",
+   "captain": "Kevin Rowland",
+   "phone": "585-354-6929"
+  },
+  {
+   "name": "RedEye",
+   "site": "Tryon City Tavern",
+   "captain": "Whitney Sawyer",
+   "phone": "585-615-5475"
+  },
+  {
+   "name": "Slow Mother Chuckers",
+   "site": "TJ Ryans",
+   "captain": "Alan Porteous",
+   "phone": "585-737-8166"
+  },
+  {
+   "name": "Tegridy",
+   "site": "Firehouse Saloon",
+   "captain": "Brian Wills",
+   "phone": "585-314-8171"
+  },
+  {
+   "name": "The Happy Accidents",
+   "site": "Back To My Place",
+   "captain": "Amanda Paige",
+   "phone": "585-553-8790"
+  },
+  {
+   "name": "The Shockers",
+   "site": "Toasted Bear",
+   "captain": "Jason Sherman",
+   "phone": "716-316-6705"
+  },
+  {
+   "name": "Wired",
+   "site": "Shamrock Inn",
+   "captain": "Darrin Costantini",
+   "phone": "585-530-9273"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-28",
+   "note": "",
+   "matches": [
+    [
+     "Here 4 The Beer",
+     "Off Target"
+    ],
+    [
+     "The Happy Accidents",
+     "RedEye"
+    ],
+    [
+     "The Shockers",
+     "Bad News Beers"
+    ],
+    [
+     "Good Smoke BBQ",
+     "Slow Mother Chuckers"
+    ],
+    [
+     "Wired",
+     "ChJokers"
+    ],
+    [
+     "IDF NightCaps",
+     "Tegridy"
+    ],
+    [
+     "Halluciminatin",
+     "Money Shot"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-05",
+   "note": "",
+   "matches": [
+    [
+     "Halluciminatin",
+     "Off Target"
+    ],
+    [
+     "Money Shot",
+     "IDF NightCaps"
+    ],
+    [
+     "Tegridy",
+     "Wired"
+    ],
+    [
+     "ChJokers",
+     "Good Smoke BBQ"
+    ],
+    [
+     "Slow Mother Chuckers",
+     "The Shockers"
+    ],
+    [
+     "Bad News Beers",
+     "The Happy Accidents"
+    ],
+    [
+     "RedEye",
+     "Here 4 The Beer"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-12",
+   "note": "",
+   "matches": [
+    [
+     "Off Target",
+     "RedEye"
+    ],
+    [
+     "Here 4 The Beer",
+     "Bad News Beers"
+    ],
+    [
+     "The Happy Accidents",
+     "Slow Mother Chuckers"
+    ],
+    [
+     "The Shockers",
+     "ChJokers"
+    ],
+    [
+     "Good Smoke BBQ",
+     "Tegridy"
+    ],
+    [
+     "Wired",
+     "Money Shot"
+    ],
+    [
+     "IDF NightCaps",
+     "Halluciminatin"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-19",
+   "note": "",
+   "matches": [
+    [
+     "IDF NightCaps",
+     "Off Target"
+    ],
+    [
+     "Halluciminatin",
+     "Wired"
+    ],
+    [
+     "Money Shot",
+     "Good Smoke BBQ"
+    ],
+    [
+     "Tegridy",
+     "The Shockers"
+    ],
+    [
+     "ChJokers",
+     "The Happy Accidents"
+    ],
+    [
+     "Slow Mother Chuckers",
+     "Here 4 The Beer"
+    ],
+    [
+     "Bad News Beers",
+     "RedEye"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-26",
+   "note": "",
+   "matches": [
+    [
+     "Off Target",
+     "Bad News Beers"
+    ],
+    [
+     "RedEye",
+     "Slow Mother Chuckers"
+    ],
+    [
+     "Here 4 The Beer",
+     "ChJokers"
+    ],
+    [
+     "The Happy Accidents",
+     "Tegridy"
+    ],
+    [
+     "The Shockers",
+     "Money Shot"
+    ],
+    [
+     "Good Smoke BBQ",
+     "Halluciminatin"
+    ],
+    [
+     "Wired",
+     "IDF NightCaps"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-02",
+   "note": "",
+   "matches": [
+    [
+     "Wired",
+     "Off Target"
+    ],
+    [
+     "IDF NightCaps",
+     "Good Smoke BBQ"
+    ],
+    [
+     "Halluciminatin",
+     "The Shockers"
+    ],
+    [
+     "Money Shot",
+     "The Happy Accidents"
+    ],
+    [
+     "Tegridy",
+     "Here 4 The Beer"
+    ],
+    [
+     "ChJokers",
+     "RedEye"
+    ],
+    [
+     "Slow Mother Chuckers",
+     "Bad News Beers"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-09",
+   "note": "",
+   "matches": [
+    [
+     "Off Target",
+     "Slow Mother Chuckers"
+    ],
+    [
+     "Bad News Beers",
+     "ChJokers"
+    ],
+    [
+     "RedEye",
+     "Tegridy"
+    ],
+    [
+     "Here 4 The Beer",
+     "Money Shot"
+    ],
+    [
+     "The Happy Accidents",
+     "Halluciminatin"
+    ],
+    [
+     "The Shockers",
+     "IDF NightCaps"
+    ],
+    [
+     "Good Smoke BBQ",
+     "Wired"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-16",
+   "note": "",
+   "matches": [
+    [
+     "Good Smoke BBQ",
+     "Off Target"
+    ],
+    [
+     "Wired",
+     "The Shockers"
+    ],
+    [
+     "IDF NightCaps",
+     "The Happy Accidents"
+    ],
+    [
+     "Halluciminatin",
+     "Here 4 The Beer"
+    ],
+    [
+     "Money Shot",
+     "RedEye"
+    ],
+    [
+     "Tegridy",
+     "Bad News Beers"
+    ],
+    [
+     "ChJokers",
+     "Slow Mother Chuckers"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-23",
+   "note": "",
+   "matches": [
+    [
+     "Off Target",
+     "ChJokers"
+    ],
+    [
+     "Slow Mother Chuckers",
+     "Tegridy"
+    ],
+    [
+     "Bad News Beers",
+     "Money Shot"
+    ],
+    [
+     "RedEye",
+     "Halluciminatin"
+    ],
+    [
+     "Here 4 The Beer",
+     "IDF NightCaps"
+    ],
+    [
+     "The Happy Accidents",
+     "Wired"
+    ],
+    [
+     "The Shockers",
+     "Good Smoke BBQ"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-11-30",
+   "note": "",
+   "matches": [
+    [
+     "The Shockers",
+     "Off Target"
+    ],
+    [
+     "Good Smoke BBQ",
+     "The Happy Accidents"
+    ],
+    [
+     "Wired",
+     "Here 4 The Beer"
+    ],
+    [
+     "IDF NightCaps",
+     "RedEye"
+    ],
+    [
+     "Halluciminatin",
+     "Bad News Beers"
+    ],
+    [
+     "Money Shot",
+     "Slow Mother Chuckers"
+    ],
+    [
+     "Tegridy",
+     "ChJokers"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-07",
+   "note": "",
+   "matches": [
+    [
+     "Off Target",
+     "Tegridy"
+    ],
+    [
+     "ChJokers",
+     "Money Shot"
+    ],
+    [
+     "Slow Mother Chuckers",
+     "Halluciminatin"
+    ],
+    [
+     "Bad News Beers",
+     "IDF NightCaps"
+    ],
+    [
+     "RedEye",
+     "Wired"
+    ],
+    [
+     "Here 4 The Beer",
+     "Good Smoke BBQ"
+    ],
+    [
+     "The Happy Accidents",
+     "The Shockers"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-14",
+   "note": "",
+   "matches": [
+    [
+     "The Happy Accidents",
+     "Off Target"
+    ],
+    [
+     "The Shockers",
+     "Here 4 The Beer"
+    ],
+    [
+     "Good Smoke BBQ",
+     "RedEye"
+    ],
+    [
+     "Wired",
+     "Bad News Beers"
+    ],
+    [
+     "IDF NightCaps",
+     "Slow Mother Chuckers"
+    ],
+    [
+     "Halluciminatin",
+     "ChJokers"
+    ],
+    [
+     "Money Shot",
+     "Tegridy"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-04",
+   "note": "Off 12/21 & 12/28- Can be used for Makeup Matches",
+   "matches": [
+    [
+     "Off Target",
+     "Money Shot"
+    ],
+    [
+     "Tegridy",
+     "Halluciminatin"
+    ],
+    [
+     "ChJokers",
+     "IDF NightCaps"
+    ],
+    [
+     "Slow Mother Chuckers",
+     "Wired"
+    ],
+    [
+     "Bad News Beers",
+     "Good Smoke BBQ"
+    ],
+    [
+     "RedEye",
+     "The Shockers"
+    ],
+    [
+     "Here 4 The Beer",
+     "The Happy Accidents"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-11",
+   "note": "",
+   "matches": [
+    [
+     "Off Target",
+     "Here 4 The Beer"
+    ],
+    [
+     "RedEye",
+     "The Happy Accidents"
+    ],
+    [
+     "Bad News Beers",
+     "The Shockers"
+    ],
+    [
+     "Slow Mother Chuckers",
+     "Good Smoke BBQ"
+    ],
+    [
+     "ChJokers",
+     "Wired"
+    ],
+    [
+     "Tegridy",
+     "IDF NightCaps"
+    ],
+    [
+     "Money Shot",
+     "Halluciminatin"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-18",
+   "note": "",
+   "matches": [
+    [
+     "Off Target",
+     "Halluciminatin"
+    ],
+    [
+     "IDF NightCaps",
+     "Money Shot"
+    ],
+    [
+     "Wired",
+     "Tegridy"
+    ],
+    [
+     "Good Smoke BBQ",
+     "ChJokers"
+    ],
+    [
+     "The Shockers",
+     "Slow Mother Chuckers"
+    ],
+    [
+     "The Happy Accidents",
+     "Bad News Beers"
+    ],
+    [
+     "Here 4 The Beer",
+     "RedEye"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-25",
+   "note": "",
+   "matches": [
+    [
+     "RedEye",
+     "Off Target"
+    ],
+    [
+     "Bad News Beers",
+     "Here 4 The Beer"
+    ],
+    [
+     "Slow Mother Chuckers",
+     "The Happy Accidents"
+    ],
+    [
+     "ChJokers",
+     "The Shockers"
+    ],
+    [
+     "Tegridy",
+     "Good Smoke BBQ"
+    ],
+    [
+     "Money Shot",
+     "Wired"
+    ],
+    [
+     "Halluciminatin",
+     "IDF NightCaps"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-08",
+   "note": "Off 2/1- Midseason Tournament",
+   "matches": [
+    [
+     "Off Target",
+     "IDF NightCaps"
+    ],
+    [
+     "Wired",
+     "Halluciminatin"
+    ],
+    [
+     "Good Smoke BBQ",
+     "Money Shot"
+    ],
+    [
+     "The Shockers",
+     "Tegridy"
+    ],
+    [
+     "The Happy Accidents",
+     "ChJokers"
+    ],
+    [
+     "Here 4 The Beer",
+     "Slow Mother Chuckers"
+    ],
+    [
+     "RedEye",
+     "Bad News Beers"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-15",
+   "note": "",
+   "matches": [
+    [
+     "Bad News Beers",
+     "Off Target"
+    ],
+    [
+     "Slow Mother Chuckers",
+     "RedEye"
+    ],
+    [
+     "ChJokers",
+     "Here 4 The Beer"
+    ],
+    [
+     "Tegridy",
+     "The Happy Accidents"
+    ],
+    [
+     "Money Shot",
+     "The Shockers"
+    ],
+    [
+     "Halluciminatin",
+     "Good Smoke BBQ"
+    ],
+    [
+     "IDF NightCaps",
+     "Wired"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-22",
+   "note": "",
+   "matches": [
+    [
+     "Off Target",
+     "Wired"
+    ],
+    [
+     "Good Smoke BBQ",
+     "IDF NightCaps"
+    ],
+    [
+     "The Shockers",
+     "Halluciminatin"
+    ],
+    [
+     "The Happy Accidents",
+     "Money Shot"
+    ],
+    [
+     "Here 4 The Beer",
+     "Tegridy"
+    ],
+    [
+     "RedEye",
+     "ChJokers"
+    ],
+    [
+     "Bad News Beers",
+     "Slow Mother Chuckers"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-01",
+   "note": "Use 3/1 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 21,
+   "date": "2027-03-08",
+   "note": "Use 3/8 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 22,
+   "date": "2027-03-15",
+   "note": "PLAYOFF ROUND 1- Top 12 Teams",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-22",
+   "note": "PLAYOFF ROUND 2",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-29",
+   "note": "PLAYOFF ROUND 3",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-05",
+   "note": "PLAYOFF CHAMPIONSHIP MATCH",
+   "matches": []
+  },
+  {
+   "week": 26,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "Caverlys",
+   "machines": 2,
+   "phone": "585-278-1289",
+   "address": "741 South Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Coach",
+   "machines": 2,
+   "phone": "585-872-2910",
+   "address": "19 W Main St, Webster, NY 14580"
+  },
+  {
+   "name": "Firehouse Saloon",
+   "machines": 2,
+   "phone": "585-319-3832",
+   "address": "814 S Clinton Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Good Smoke BBQ",
+   "machines": 1,
+   "phone": "585-203-1576",
+   "address": "135 W Commercial St., Rochester, NY 14445"
+  },
+  {
+   "name": "Nightcap Blues",
+   "machines": 2,
+   "phone": "",
+   "address": "233 Mill St., Rochester, NY 14614"
+  },
+  {
+   "name": "OCallaghans Pub",
+   "machines": 3,
+   "phone": "585-271-7190",
+   "address": "470 Monroe Ave, Rochester, NY 14607"
+  },
+  {
+   "name": "Romigs Tavern",
+   "machines": 2,
+   "phone": "585-663-1518",
+   "address": "18 Bennington Green, Rochester, NY 14616"
+  },
+  {
+   "name": "Shamrock Inn",
+   "machines": 2,
+   "phone": "585-500-9683",
+   "address": "300 Jefferson Rd., Rochester, NY 14623"
+  },
+  {
+   "name": "Stones Pub",
+   "machines": 2,
+   "phone": "585-486-4937",
+   "address": "3115 East Henrietta Rd, Rochester, NY 14610"
+  },
+  {
+   "name": "TJ Ryans",
+   "machines": 2,
+   "phone": "585-388-1305",
+   "address": "49 N Main St, Fairport, NY 14610"
+  },
+  {
+   "name": "Toasted Bear",
+   "machines": 2,
+   "phone": "585-434-3784",
+   "address": "989 S Clinton Ave., Rochester, NY 14620"
+  },
+  {
+   "name": "Tryon City Tavern",
+   "machines": 1,
+   "phone": "585-654-9122",
+   "address": "2300 East Main St., Rochester, NY 14609"
+  }
+ ],
+ "updated": "2026-10-22T01:40:33Z"
+}

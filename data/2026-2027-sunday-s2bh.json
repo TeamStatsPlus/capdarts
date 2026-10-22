@@ -1,0 +1,2263 @@
+{
+ "league": {
+  "title": "Sunday 2 Player B Hand",
+  "location": "6S2BH"
+ },
+ "standings": [
+  [
+   "We Dem Boyz",
+   29,
+   10
+  ],
+  [
+   "TWINS",
+   34,
+   18
+  ],
+  [
+   "Tintins",
+   33,
+   19
+  ],
+  [
+   "One Hole Off",
+   24,
+   15
+  ],
+  [
+   "Fing The Neighbors",
+   23,
+   16
+  ],
+  [
+   "Docs Crew",
+   22,
+   17
+  ],
+  [
+   "Night Shot",
+   29,
+   23
+  ],
+  [
+   "Brothas",
+   18,
+   21
+  ],
+  [
+   "Talk Darty To Me",
+   23,
+   29
+  ],
+  [
+   "Team Titos",
+   23,
+   29
+  ],
+  [
+   "Glass N Stache",
+   11,
+   15
+  ],
+  [
+   "Tipsy Tossers",
+   11,
+   15
+  ],
+  [
+   "Tires And Soda",
+   22,
+   30
+  ],
+  [
+   "Ones Are Closed",
+   21,
+   31
+  ],
+  [
+   "Double 1s",
+   16,
+   36
+  ],
+  [
+   "The Dartbags",
+   12,
+   27
+  ]
+ ],
+ "results": [
+  [
+   "One Hole Off",
+   "Tires And Soda",
+   "10/18/2026",
+   4,
+   11,
+   2
+  ],
+  [
+   "Talk Darty To Me",
+   "Brothas",
+   "10/18/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "We Dem Boyz",
+   "Ones Are Closed",
+   "10/18/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "Docs Crew",
+   "TWINS",
+   "10/18/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "Double 1s",
+   "The Dartbags",
+   "10/18/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Team Titos",
+   "Fing The Neighbors",
+   "10/18/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Tintins",
+   "Night Shot",
+   "10/18/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Fing The Neighbors",
+   "Team Titos",
+   "10/18/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Glass N Stache",
+   "Team Titos",
+   "10/11/2026",
+   3,
+   6,
+   7
+  ],
+  [
+   "The Dartbags",
+   "Double 1s",
+   "10/18/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Night Shot",
+   "Tintins",
+   "10/18/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Ones Are Closed",
+   "We Dem Boyz",
+   "10/18/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "TWINS",
+   "Docs Crew",
+   "10/18/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "Brothas",
+   "Talk Darty To Me",
+   "10/18/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "Tipsy Tossers",
+   "Talk Darty To Me",
+   "10/04/2026",
+   2,
+   4,
+   9
+  ],
+  [
+   "Tires And Soda",
+   "One Hole Off",
+   "10/18/2026",
+   4,
+   2,
+   11
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Dave Coin",
+    "We Dem Boyz",
+    2.51,
+    2.78
+   ],
+   [
+    "Dave Heschke",
+    "Fing The Neighbors",
+    1.86,
+    1.98
+   ],
+   [
+    "Donovan Caraballo",
+    "Talk Darty To Me",
+    1.72,
+    1.84
+   ]
+  ],
+  "x": [
+   [
+    "Brian Kea",
+    "TWINS",
+    17.68,
+    19.41
+   ],
+   [
+    "Neal Kenyon",
+    "One Hole Off",
+    17.84,
+    19.51
+   ],
+   [
+    "Dustin Nelson",
+    "TWINS",
+    16.25,
+    17.62
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Justin Southwick",
+   "Tintins",
+   2.88,
+   24,
+   11,
+   5,
+   3,
+   0,
+   10,
+   6,
+   11,
+   0,
+   1
+  ],
+  [
+   "Dave Coin",
+   "We Dem Boyz",
+   2.78,
+   12,
+   6,
+   2,
+   1,
+   0,
+   4,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Enzo Maiola",
+   "Docs Crew",
+   2.42,
+   18,
+   4,
+   6,
+   1,
+   0,
+   3,
+   1,
+   3,
+   0,
+   1
+  ],
+  [
+   "Austin Wamser",
+   "Tipsy Tossers",
+   2.41,
+   12,
+   3,
+   1,
+   0,
+   0,
+   4,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Sean Crowell",
+   "The Dartbags",
+   2.37,
+   18,
+   7,
+   1,
+   0,
+   0,
+   8,
+   1,
+   3,
+   0,
+   0
+  ],
+  [
+   "Andrew Williams",
+   "One Hole Off",
+   2.35,
+   18,
+   5,
+   7,
+   1,
+   1,
+   2,
+   3,
+   2,
+   0,
+   1
+  ],
+  [
+   "John Salamone",
+   "Brothas",
+   2.34,
+   18,
+   2,
+   5,
+   1,
+   0,
+   5,
+   4,
+   2,
+   0,
+   1
+  ],
+  [
+   "Neal Kenyon",
+   "One Hole Off",
+   2.29,
+   18,
+   7,
+   5,
+   0,
+   0,
+   4,
+   1,
+   2,
+   0,
+   1
+  ],
+  [
+   "Claude Yeoumas",
+   "Brothas",
+   2.23,
+   18,
+   5,
+   2,
+   1,
+   1,
+   5,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   2.17,
+   12,
+   2,
+   6,
+   1,
+   0,
+   6,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "David Caesar",
+   "Night Shot",
+   2.09,
+   24,
+   9,
+   6,
+   0,
+   0,
+   9,
+   5,
+   2,
+   0,
+   0
+  ],
+  [
+   "Steve Bauman",
+   "Docs Crew",
+   2.07,
+   18,
+   6,
+   4,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   1
+  ],
+  [
+   "James Davis",
+   "Ones Are Closed",
+   2.06,
+   24,
+   6,
+   2,
+   0,
+   0,
+   8,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Karl Taylor",
+   "Tires And Soda",
+   2.02,
+   24,
+   7,
+   5,
+   2,
+   0,
+   9,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Miles",
+   "Fing The Neighbors",
+   2.02,
+   18,
+   6,
+   5,
+   0,
+   0,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   1.98,
+   18,
+   5,
+   6,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "TJ Vay",
+   "Tintins",
+   1.9,
+   12,
+   3,
+   5,
+   1,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Cameron Giles",
+   "Team Titos",
+   1.88,
+   24,
+   8,
+   3,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Donovan Caraballo",
+   "Talk Darty To Me",
+   1.84,
+   18,
+   8,
+   4,
+   0,
+   0,
+   4,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jeff Bush",
+   "Tires And Soda",
+   1.83,
+   24,
+   5,
+   7,
+   1,
+   0,
+   8,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Kea",
+   "TWINS",
+   1.82,
+   18,
+   6,
+   4,
+   0,
+   0,
+   1,
+   5,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Martinez",
+   "Talk Darty To Me",
+   1.81,
+   18,
+   4,
+   8,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dustin Nelson",
+   "TWINS",
+   1.78,
+   18,
+   4,
+   6,
+   1,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Chaz Carley",
+   "Night Shot",
+   1.77,
+   24,
+   6,
+   9,
+   0,
+   0,
+   5,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Ethan Glashauser",
+   "Glass N Stache",
+   1.77,
+   12,
+   3,
+   1,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "James Lee",
+   "Double 1s",
+   1.64,
+   18,
+   2,
+   0,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kenny Williams",
+   "Glass N Stache",
+   1.64,
+   12,
+   1,
+   3,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Charles Adger",
+   "Team Titos",
+   1.52,
+   24,
+   3,
+   8,
+   0,
+   0,
+   5,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tyler Bishop",
+   "Double 1s",
+   1.43,
+   18,
+   0,
+   2,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ken Azzarello",
+   "Ones Are Closed",
+   1.33,
+   18,
+   2,
+   5,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kristin Southwick",
+   "Tintins",
+   1.32,
+   12,
+   2,
+   6,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jenna Roelle",
+   "The Dartbags",
+   1.27,
+   18,
+   1,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Margaret Rife",
+   "Tipsy Tossers",
+   0.96,
+   12,
+   1,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Aaron Davis",
+   "Ones Are Closed",
+   0.87,
+   6,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Enzo Maiola",
+   "Docs Crew",
+   26.04,
+   21,
+   7,
+   10,
+   0,
+   0,
+   0,
+   20
+  ],
+  [
+   "Justin Southwick",
+   "Tintins",
+   23.91,
+   28,
+   14,
+   1,
+   0,
+   1,
+   1,
+   35
+  ],
+  [
+   "John Salamone",
+   "Brothas",
+   22.64,
+   21,
+   5,
+   2,
+   0,
+   0,
+   0,
+   20
+  ],
+  [
+   "Dave Coin",
+   "We Dem Boyz",
+   22.58,
+   14,
+   7,
+   3,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Andrew Williams",
+   "One Hole Off",
+   21.85,
+   21,
+   5,
+   2,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Steve Bauman",
+   "Docs Crew",
+   21.63,
+   21,
+   5,
+   0,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Cameron Giles",
+   "Team Titos",
+   21.46,
+   28,
+   9,
+   8,
+   0,
+   0,
+   0,
+   20
+  ],
+  [
+   "Sean Crowell",
+   "The Dartbags",
+   20.33,
+   21,
+   3,
+   1,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Austin Wamser",
+   "Tipsy Tossers",
+   19.59,
+   14,
+   5,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Claude Yeoumas",
+   "Brothas",
+   19.57,
+   21,
+   6,
+   1,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Neal Kenyon",
+   "One Hole Off",
+   19.51,
+   21,
+   7,
+   2,
+   0,
+   0,
+   1,
+   10
+  ],
+  [
+   "Brian Kea",
+   "TWINS",
+   19.41,
+   21,
+   7,
+   3,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Adam Martinez",
+   "Talk Darty To Me",
+   19.17,
+   21,
+   8,
+   0,
+   0,
+   0,
+   0,
+   17
+  ],
+  [
+   "Donovan Caraballo",
+   "Talk Darty To Me",
+   18.82,
+   21,
+   3,
+   0,
+   0,
+   0,
+   0,
+   17
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   18.73,
+   14,
+   1,
+   2,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Karl Taylor",
+   "Tires And Soda",
+   18.69,
+   28,
+   4,
+   0,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "David Caesar",
+   "Night Shot",
+   18.55,
+   28,
+   6,
+   3,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "TJ Vay",
+   "Tintins",
+   18.4,
+   14,
+   1,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Jason Miles",
+   "Fing The Neighbors",
+   18.31,
+   21,
+   7,
+   1,
+   0,
+   0,
+   1,
+   7
+  ],
+  [
+   "Kenny Williams",
+   "Glass N Stache",
+   18.29,
+   14,
+   4,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Jeff Bush",
+   "Tires And Soda",
+   17.94,
+   28,
+   6,
+   3,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Dustin Nelson",
+   "TWINS",
+   17.62,
+   21,
+   4,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "James Davis",
+   "Ones Are Closed",
+   17.53,
+   28,
+   13,
+   1,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "Chaz Carley",
+   "Night Shot",
+   17.2,
+   28,
+   8,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   16.25,
+   21,
+   5,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "James Lee",
+   "Double 1s",
+   15.59,
+   21,
+   9,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Charles Adger",
+   "Team Titos",
+   15.51,
+   28,
+   3,
+   2,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Ethan Glashauser",
+   "Glass N Stache",
+   15.18,
+   14,
+   3,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Margaret Rife",
+   "Tipsy Tossers",
+   15.16,
+   14,
+   1,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Tyler Bishop",
+   "Double 1s",
+   15.07,
+   21,
+   5,
+   0,
+   0,
+   0,
+   1,
+   6
+  ],
+  [
+   "Kristin Southwick",
+   "Tintins",
+   14.89,
+   14,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Ken Azzarello",
+   "Ones Are Closed",
+   13.72,
+   21,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Aaron Davis",
+   "Ones Are Closed",
+   13.5,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Jenna Roelle",
+   "The Dartbags",
+   13.28,
+   21,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Brothas",
+   "site": "Linwood",
+   "captain": "John Salamone",
+   "phone": "585-313-9503"
+  },
+  {
+   "name": "Docs Crew",
+   "site": "Drs Inn",
+   "captain": "Enzo Maiola",
+   "phone": "585-755-0277"
+  },
+  {
+   "name": "Double 1s",
+   "site": "Russell Station",
+   "captain": "James Lee",
+   "phone": "585-737-0516"
+  },
+  {
+   "name": "Fing The Neighbors",
+   "site": "Russell Station",
+   "captain": "Jason Miles",
+   "phone": "585-230-3355"
+  },
+  {
+   "name": "Glass N Stache",
+   "site": "Pourin Joy",
+   "captain": "Kenny Williams",
+   "phone": "315-730-9264"
+  },
+  {
+   "name": "Night Shot",
+   "site": "Nightcap Blues",
+   "captain": "David Caesar",
+   "phone": "585-465-6171"
+  },
+  {
+   "name": "One Hole Off",
+   "site": "Back To My Place",
+   "captain": "Andrew Williams",
+   "phone": "585-309-0616"
+  },
+  {
+   "name": "Ones Are Closed",
+   "site": "Blitz Bar Room",
+   "captain": "James Davis",
+   "phone": "702-285-6247"
+  },
+  {
+   "name": "Talk Darty To Me",
+   "site": "MCs Dugout",
+   "captain": "Adam Martinez",
+   "phone": "585-957-2875"
+  },
+  {
+   "name": "Team Titos",
+   "site": "Yagers Pub",
+   "captain": "Charles Adger",
+   "phone": "585-537-2414"
+  },
+  {
+   "name": "The Dartbags",
+   "site": "Bar Bill",
+   "captain": "Sean Crowell",
+   "phone": "585-481-0568"
+  },
+  {
+   "name": "Tintins",
+   "site": "Shamrock Jacks",
+   "captain": "Justin Southwick",
+   "phone": "585-315-7610"
+  },
+  {
+   "name": "Tipsy Tossers",
+   "site": "Bar Bill",
+   "captain": "Austin Wamser",
+   "phone": "585-371-0867"
+  },
+  {
+   "name": "Tires And Soda",
+   "site": "BRU",
+   "captain": "Jeff Bush",
+   "phone": "585-469-8031"
+  },
+  {
+   "name": "TWINS",
+   "site": "MCs Dugout",
+   "captain": "Brian Kea",
+   "phone": "585-469-3942"
+  },
+  {
+   "name": "We Dem Boyz",
+   "site": "My Apartment Bar",
+   "captain": "Robyn Ralston",
+   "phone": "585-733-1440"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-27",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "One Hole Off"
+    ],
+    [
+     "The Dartbags",
+     "Tires And Soda"
+    ],
+    [
+     "Fing The Neighbors",
+     "Double 1s"
+    ],
+    [
+     "TWINS",
+     "Team Titos"
+    ],
+    [
+     "Tintins",
+     "Docs Crew"
+    ],
+    [
+     "Glass N Stache",
+     "Night Shot"
+    ],
+    [
+     "Ones Are Closed",
+     "Tipsy Tossers"
+    ],
+    [
+     "Talk Darty To Me",
+     "We Dem Boyz"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-04",
+   "note": "",
+   "matches": [
+    [
+     "We Dem Boyz",
+     "Brothas"
+    ],
+    [
+     "Tipsy Tossers",
+     "Talk Darty To Me"
+    ],
+    [
+     "Night Shot",
+     "Ones Are Closed"
+    ],
+    [
+     "Docs Crew",
+     "Glass N Stache"
+    ],
+    [
+     "Team Titos",
+     "Tintins"
+    ],
+    [
+     "Double 1s",
+     "TWINS"
+    ],
+    [
+     "Tires And Soda",
+     "Fing The Neighbors"
+    ],
+    [
+     "One Hole Off",
+     "The Dartbags"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-11",
+   "note": "",
+   "matches": [
+    [
+     "The Dartbags",
+     "Brothas"
+    ],
+    [
+     "Fing The Neighbors",
+     "One Hole Off"
+    ],
+    [
+     "TWINS",
+     "Tires And Soda"
+    ],
+    [
+     "Tintins",
+     "Double 1s"
+    ],
+    [
+     "Glass N Stache",
+     "Team Titos"
+    ],
+    [
+     "Ones Are Closed",
+     "Docs Crew"
+    ],
+    [
+     "Talk Darty To Me",
+     "Night Shot"
+    ],
+    [
+     "We Dem Boyz",
+     "Tipsy Tossers"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-18",
+   "note": "",
+   "matches": [
+    [
+     "Talk Darty To Me",
+     "Brothas"
+    ],
+    [
+     "We Dem Boyz",
+     "Ones Are Closed"
+    ],
+    [
+     "Tipsy Tossers",
+     "Glass N Stache"
+    ],
+    [
+     "Night Shot",
+     "Tintins"
+    ],
+    [
+     "Docs Crew",
+     "TWINS"
+    ],
+    [
+     "Team Titos",
+     "Fing The Neighbors"
+    ],
+    [
+     "Double 1s",
+     "The Dartbags"
+    ],
+    [
+     "Tires And Soda",
+     "One Hole Off"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-25",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "Tires And Soda"
+    ],
+    [
+     "One Hole Off",
+     "Double 1s"
+    ],
+    [
+     "The Dartbags",
+     "Team Titos"
+    ],
+    [
+     "Fing The Neighbors",
+     "Docs Crew"
+    ],
+    [
+     "TWINS",
+     "Night Shot"
+    ],
+    [
+     "Tintins",
+     "Tipsy Tossers"
+    ],
+    [
+     "We Dem Boyz",
+     "Glass N Stache"
+    ],
+    [
+     "Ones Are Closed",
+     "Talk Darty To Me"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-01",
+   "note": "",
+   "matches": [
+    [
+     "Ones Are Closed",
+     "Brothas"
+    ],
+    [
+     "Talk Darty To Me",
+     "Glass N Stache"
+    ],
+    [
+     "We Dem Boyz",
+     "Tintins"
+    ],
+    [
+     "Tipsy Tossers",
+     "TWINS"
+    ],
+    [
+     "Night Shot",
+     "Fing The Neighbors"
+    ],
+    [
+     "Docs Crew",
+     "The Dartbags"
+    ],
+    [
+     "Team Titos",
+     "One Hole Off"
+    ],
+    [
+     "Double 1s",
+     "Tires And Soda"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-08",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "Double 1s"
+    ],
+    [
+     "Tires And Soda",
+     "Team Titos"
+    ],
+    [
+     "One Hole Off",
+     "Docs Crew"
+    ],
+    [
+     "The Dartbags",
+     "Night Shot"
+    ],
+    [
+     "Fing The Neighbors",
+     "Tipsy Tossers"
+    ],
+    [
+     "TWINS",
+     "We Dem Boyz"
+    ],
+    [
+     "Tintins",
+     "Talk Darty To Me"
+    ],
+    [
+     "Glass N Stache",
+     "Ones Are Closed"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-15",
+   "note": "",
+   "matches": [
+    [
+     "Glass N Stache",
+     "Brothas"
+    ],
+    [
+     "Ones Are Closed",
+     "Tintins"
+    ],
+    [
+     "Talk Darty To Me",
+     "TWINS"
+    ],
+    [
+     "We Dem Boyz",
+     "Fing The Neighbors"
+    ],
+    [
+     "Tipsy Tossers",
+     "The Dartbags"
+    ],
+    [
+     "Night Shot",
+     "One Hole Off"
+    ],
+    [
+     "Docs Crew",
+     "Tires And Soda"
+    ],
+    [
+     "Team Titos",
+     "Double 1s"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-22",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "Team Titos"
+    ],
+    [
+     "Double 1s",
+     "Docs Crew"
+    ],
+    [
+     "Tires And Soda",
+     "Night Shot"
+    ],
+    [
+     "One Hole Off",
+     "Tipsy Tossers"
+    ],
+    [
+     "The Dartbags",
+     "We Dem Boyz"
+    ],
+    [
+     "Fing The Neighbors",
+     "Talk Darty To Me"
+    ],
+    [
+     "TWINS",
+     "Ones Are Closed"
+    ],
+    [
+     "Tintins",
+     "Glass N Stache"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-11-29",
+   "note": "",
+   "matches": [
+    [
+     "Tintins",
+     "Brothas"
+    ],
+    [
+     "Glass N Stache",
+     "TWINS"
+    ],
+    [
+     "Ones Are Closed",
+     "Fing The Neighbors"
+    ],
+    [
+     "Talk Darty To Me",
+     "The Dartbags"
+    ],
+    [
+     "We Dem Boyz",
+     "One Hole Off"
+    ],
+    [
+     "Tipsy Tossers",
+     "Tires And Soda"
+    ],
+    [
+     "Night Shot",
+     "Double 1s"
+    ],
+    [
+     "Docs Crew",
+     "Team Titos"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-06",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "Docs Crew"
+    ],
+    [
+     "Team Titos",
+     "Night Shot"
+    ],
+    [
+     "Double 1s",
+     "Tipsy Tossers"
+    ],
+    [
+     "Tires And Soda",
+     "We Dem Boyz"
+    ],
+    [
+     "One Hole Off",
+     "Talk Darty To Me"
+    ],
+    [
+     "The Dartbags",
+     "Ones Are Closed"
+    ],
+    [
+     "Fing The Neighbors",
+     "Glass N Stache"
+    ],
+    [
+     "TWINS",
+     "Tintins"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-13",
+   "note": "",
+   "matches": [
+    [
+     "TWINS",
+     "Brothas"
+    ],
+    [
+     "Tintins",
+     "Fing The Neighbors"
+    ],
+    [
+     "Glass N Stache",
+     "The Dartbags"
+    ],
+    [
+     "Ones Are Closed",
+     "One Hole Off"
+    ],
+    [
+     "Talk Darty To Me",
+     "Tires And Soda"
+    ],
+    [
+     "We Dem Boyz",
+     "Double 1s"
+    ],
+    [
+     "Tipsy Tossers",
+     "Team Titos"
+    ],
+    [
+     "Night Shot",
+     "Docs Crew"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2026-12-20",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "Night Shot"
+    ],
+    [
+     "Docs Crew",
+     "Tipsy Tossers"
+    ],
+    [
+     "Team Titos",
+     "We Dem Boyz"
+    ],
+    [
+     "Double 1s",
+     "Talk Darty To Me"
+    ],
+    [
+     "Tires And Soda",
+     "Ones Are Closed"
+    ],
+    [
+     "One Hole Off",
+     "Glass N Stache"
+    ],
+    [
+     "The Dartbags",
+     "Tintins"
+    ],
+    [
+     "Fing The Neighbors",
+     "TWINS"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-03",
+   "note": "Off 12/27- Can be used for makeup matches",
+   "matches": [
+    [
+     "Fing The Neighbors",
+     "Brothas"
+    ],
+    [
+     "TWINS",
+     "The Dartbags"
+    ],
+    [
+     "Tintins",
+     "One Hole Off"
+    ],
+    [
+     "Glass N Stache",
+     "Tires And Soda"
+    ],
+    [
+     "Ones Are Closed",
+     "Double 1s"
+    ],
+    [
+     "Talk Darty To Me",
+     "Team Titos"
+    ],
+    [
+     "We Dem Boyz",
+     "Docs Crew"
+    ],
+    [
+     "Tipsy Tossers",
+     "Night Shot"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-10",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "Tipsy Tossers"
+    ],
+    [
+     "Night Shot",
+     "We Dem Boyz"
+    ],
+    [
+     "Docs Crew",
+     "Talk Darty To Me"
+    ],
+    [
+     "Team Titos",
+     "Ones Are Closed"
+    ],
+    [
+     "Double 1s",
+     "Glass N Stache"
+    ],
+    [
+     "Tires And Soda",
+     "Tintins"
+    ],
+    [
+     "One Hole Off",
+     "TWINS"
+    ],
+    [
+     "The Dartbags",
+     "Fing The Neighbors"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-17",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "The Dartbags"
+    ],
+    [
+     "One Hole Off",
+     "Fing The Neighbors"
+    ],
+    [
+     "Tires And Soda",
+     "TWINS"
+    ],
+    [
+     "Double 1s",
+     "Tintins"
+    ],
+    [
+     "Team Titos",
+     "Glass N Stache"
+    ],
+    [
+     "Docs Crew",
+     "Ones Are Closed"
+    ],
+    [
+     "Night Shot",
+     "Talk Darty To Me"
+    ],
+    [
+     "Tipsy Tossers",
+     "We Dem Boyz"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-01-24",
+   "note": "",
+   "matches": [
+    [
+     "One Hole Off",
+     "Brothas"
+    ],
+    [
+     "Tires And Soda",
+     "The Dartbags"
+    ],
+    [
+     "Double 1s",
+     "Fing The Neighbors"
+    ],
+    [
+     "Team Titos",
+     "TWINS"
+    ],
+    [
+     "Docs Crew",
+     "Tintins"
+    ],
+    [
+     "Night Shot",
+     "Glass N Stache"
+    ],
+    [
+     "Tipsy Tossers",
+     "Ones Are Closed"
+    ],
+    [
+     "We Dem Boyz",
+     "Talk Darty To Me"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-01-31",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "We Dem Boyz"
+    ],
+    [
+     "Talk Darty To Me",
+     "Tipsy Tossers"
+    ],
+    [
+     "Ones Are Closed",
+     "Night Shot"
+    ],
+    [
+     "Glass N Stache",
+     "Docs Crew"
+    ],
+    [
+     "Tintins",
+     "Team Titos"
+    ],
+    [
+     "TWINS",
+     "Double 1s"
+    ],
+    [
+     "Fing The Neighbors",
+     "Tires And Soda"
+    ],
+    [
+     "The Dartbags",
+     "One Hole Off"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-07",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "Talk Darty To Me"
+    ],
+    [
+     "Ones Are Closed",
+     "We Dem Boyz"
+    ],
+    [
+     "Glass N Stache",
+     "Tipsy Tossers"
+    ],
+    [
+     "Tintins",
+     "Night Shot"
+    ],
+    [
+     "TWINS",
+     "Docs Crew"
+    ],
+    [
+     "Fing The Neighbors",
+     "Team Titos"
+    ],
+    [
+     "The Dartbags",
+     "Double 1s"
+    ],
+    [
+     "One Hole Off",
+     "Tires And Soda"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-02-21",
+   "note": "Off 2/14- Super Bowl Sunday",
+   "matches": [
+    [
+     "Tires And Soda",
+     "Brothas"
+    ],
+    [
+     "Double 1s",
+     "One Hole Off"
+    ],
+    [
+     "Team Titos",
+     "The Dartbags"
+    ],
+    [
+     "Docs Crew",
+     "Fing The Neighbors"
+    ],
+    [
+     "Night Shot",
+     "TWINS"
+    ],
+    [
+     "Tipsy Tossers",
+     "Tintins"
+    ],
+    [
+     "Glass N Stache",
+     "We Dem Boyz"
+    ],
+    [
+     "Talk Darty To Me",
+     "Ones Are Closed"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-02-28",
+   "note": "",
+   "matches": [
+    [
+     "Brothas",
+     "Ones Are Closed"
+    ],
+    [
+     "Glass N Stache",
+     "Talk Darty To Me"
+    ],
+    [
+     "Tintins",
+     "We Dem Boyz"
+    ],
+    [
+     "TWINS",
+     "Tipsy Tossers"
+    ],
+    [
+     "Fing The Neighbors",
+     "Night Shot"
+    ],
+    [
+     "The Dartbags",
+     "Docs Crew"
+    ],
+    [
+     "One Hole Off",
+     "Team Titos"
+    ],
+    [
+     "Tires And Soda",
+     "Double 1s"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-07",
+   "note": "",
+   "matches": [
+    [
+     "Double 1s",
+     "Brothas"
+    ],
+    [
+     "Team Titos",
+     "Tires And Soda"
+    ],
+    [
+     "Docs Crew",
+     "One Hole Off"
+    ],
+    [
+     "Night Shot",
+     "The Dartbags"
+    ],
+    [
+     "Tipsy Tossers",
+     "Fing The Neighbors"
+    ],
+    [
+     "We Dem Boyz",
+     "TWINS"
+    ],
+    [
+     "Talk Darty To Me",
+     "Tintins"
+    ],
+    [
+     "Ones Are Closed",
+     "Glass N Stache"
+    ]
+   ]
+  },
+  {
+   "week": 23,
+   "date": "2027-03-14",
+   "note": "Use 3/14 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-21",
+   "note": "Use 3/21 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-03-28",
+   "note": "3/28- Easter but can be used for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 26,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Angry Goat",
+   "machines": 2,
+   "phone": "585-413-1125",
+   "address": "938 South Clinton Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "Bar Bill",
+   "machines": 2,
+   "phone": "585-673-0070",
+   "address": "1129 Empire Blvd., Rochester, NY 14609"
+  },
+  {
+   "name": "Blitz Bar Room",
+   "machines": 2,
+   "phone": "585-364-0393",
+   "address": "6720 Pittsford Palmyra Rd., Faiport, NY 14450"
+  },
+  {
+   "name": "BRU",
+   "machines": 1,
+   "phone": "585-227-7658",
+   "address": "3208 Latta Rd, Rochester, NY 14612"
+  },
+  {
+   "name": "Drs Inn",
+   "machines": 3,
+   "phone": "271-0820",
+   "address": "1743 East Ave, Rochester, NY 14610"
+  },
+  {
+   "name": "Linwood",
+   "machines": 1,
+   "phone": "585-458-0047",
+   "address": "191 Lee Rd., Rochester, NY 14606"
+  },
+  {
+   "name": "MCs Dugout",
+   "machines": 2,
+   "phone": "585-448-0555",
+   "address": "1370 BUFFALO RD., ROCHESTER, NY 14624"
+  },
+  {
+   "name": "Murphys Law EastAve",
+   "machines": 1,
+   "phone": "585-232-7115",
+   "address": "370 East Ave, Rochester, NY 14604"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Nightcap Blues",
+   "machines": 2,
+   "phone": "",
+   "address": "233 Mill St., Rochester, NY 14614"
+  },
+  {
+   "name": "Pineapple Jacks",
+   "machines": 1,
+   "phone": "585-247-5225",
+   "address": "507 Spencerport Rd., Rochester, NY 14606"
+  },
+  {
+   "name": "Pourin Joy",
+   "machines": 2,
+   "phone": "585-204-0473",
+   "address": "111 Park Ave., Rochester, NY 14607"
+  },
+  {
+   "name": "Russell Station",
+   "machines": 4,
+   "phone": "585-270-8233",
+   "address": "4670 Dewey Ave, Rochester, NY 14612"
+  },
+  {
+   "name": "Shamrock Jacks",
+   "machines": 1,
+   "phone": "585-323-9310",
+   "address": "4554 Culver Rd., Rochester, NY 14622"
+  },
+  {
+   "name": "Yagers Pub",
+   "machines": 3,
+   "phone": "585-442-9165",
+   "address": "510 Monroe Ave, Rochester, NY 14607"
+  }
+ ],
+ "updated": "2026-10-22T01:40:15Z"
+}

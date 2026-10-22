@@ -1,0 +1,1567 @@
+{
+ "league": {
+  "title": "Wednesday 4Player BHand 3",
+  "location": "6W4BH3"
+ },
+ "standings": [
+  [
+   "Andycapped",
+   18,
+   8
+  ],
+  [
+   "Duckin Farts",
+   26,
+   13
+  ],
+  [
+   "Flight Phucked",
+   25,
+   14
+  ],
+  [
+   "One For The Ditch",
+   29,
+   23
+  ],
+  [
+   "Wasted Talent",
+   28,
+   24
+  ],
+  [
+   "Pig Roasters",
+   10,
+   29
+  ],
+  [
+   "TQMB",
+   7,
+   32
+  ]
+ ],
+ "results": [
+  [
+   "Andycapped",
+   "Pig Roasters",
+   "10/07/2026",
+   2,
+   10,
+   3
+  ],
+  [
+   "Duckin Farts",
+   "One For The Ditch",
+   "10/21/2026",
+   4,
+   9,
+   4
+  ],
+  [
+   "Wasted Talent",
+   "Flight Phucked",
+   "10/21/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "Flight Phucked",
+   "Wasted Talent",
+   "10/21/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "One For The Ditch",
+   "Duckin Farts",
+   "10/21/2026",
+   4,
+   4,
+   9
+  ],
+  [
+   "Pig Roasters",
+   "One For The Ditch",
+   "10/14/2026",
+   3,
+   1,
+   12
+  ],
+  [
+   "TQMB",
+   "Flight Phucked",
+   "10/14/2026",
+   3,
+   0,
+   13
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Jamie Johnson",
+    "Duckin Farts",
+    2.14,
+    2.39
+   ],
+   [
+    "Brian Faucher",
+    "Duckin Farts",
+    2.22,
+    2.37
+   ],
+   [
+    "Zach Baker",
+    "Flight Phucked",
+    2.5,
+    2.6
+   ]
+  ],
+  "x": [
+   [
+    "Chris Marquis",
+    "Wasted Talent",
+    25.07,
+    26.97
+   ],
+   [
+    "Zach Baker",
+    "Flight Phucked",
+    21.3,
+    21.66
+   ],
+   [
+    "Johnny Nichols",
+    "Wasted Talent",
+    18.39,
+    18.51
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Andy Georgetti",
+   "Andycapped",
+   2.87,
+   6,
+   4,
+   1,
+   1,
+   0,
+   2,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Chris Marquis",
+   "Wasted Talent",
+   2.85,
+   6,
+   3,
+   2,
+   0,
+   0,
+   3,
+   1,
+   3,
+   0,
+   0
+  ],
+  [
+   "Zach Baker",
+   "Flight Phucked",
+   2.6,
+   9,
+   2,
+   3,
+   0,
+   0,
+   1,
+   2,
+   2,
+   1,
+   0
+  ],
+  [
+   "Ken Geer",
+   "One For The Ditch",
+   2.48,
+   12,
+   1,
+   4,
+   0,
+   0,
+   3,
+   4,
+   1,
+   0,
+   1
+  ],
+  [
+   "Mike Georgetti",
+   "Flight Phucked",
+   2.45,
+   9,
+   4,
+   2,
+   1,
+   0,
+   5,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
+   "Jamie Johnson",
+   "Duckin Farts",
+   2.39,
+   9,
+   3,
+   3,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Faucher",
+   "Duckin Farts",
+   2.37,
+   9,
+   5,
+   1,
+   0,
+   0,
+   3,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dave Radner",
+   "Andycapped",
+   2.34,
+   6,
+   0,
+   4,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "TIMBER",
+   "{Substitutes}",
+   2.27,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Kevin Welling",
+   "One For The Ditch",
+   2.2,
+   12,
+   3,
+   3,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "John Bailey",
+   "One For The Ditch",
+   2.13,
+   12,
+   7,
+   1,
+   0,
+   0,
+   7,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tom Alletto",
+   "Pig Roasters",
+   2.1,
+   9,
+   0,
+   2,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dominick Posadni",
+   "Andycapped",
+   2.1,
+   6,
+   2,
+   1,
+   0,
+   0,
+   1,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Danzig",
+   "TQMB",
+   2.0,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Johnny Nichols",
+   "Wasted Talent",
+   1.99,
+   9,
+   3,
+   4,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bob Newell",
+   "Pig Roasters",
+   1.95,
+   9,
+   2,
+   2,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tim Terborg",
+   "Flight Phucked",
+   1.92,
+   6,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jay Musshafen",
+   "Wasted Talent",
+   1.92,
+   12,
+   6,
+   2,
+   0,
+   0,
+   6,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "John Clarke",
+   "Duckin Farts",
+   1.9,
+   9,
+   3,
+   3,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Christopher Welling",
+   "One For The Ditch",
+   1.81,
+   12,
+   2,
+   5,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jeff Brown",
+   "Flight Phucked",
+   1.8,
+   9,
+   2,
+   3,
+   0,
+   0,
+   1,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "John Frazer",
+   "Duckin Farts",
+   1.7,
+   6,
+   0,
+   4,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Aaron Lindenberg",
+   "Pig Roasters",
+   1.69,
+   9,
+   1,
+   1,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Pat Nichols",
+   "Wasted Talent",
+   1.68,
+   6,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Meyers",
+   "Pig Roasters",
+   1.66,
+   6,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Ron Pierce",
+   "TQMB",
+   1.65,
+   9,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jim Chodak",
+   "TQMB",
+   1.61,
+   9,
+   0,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Ruffino",
+   "Flight Phucked",
+   1.55,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ryan Musshafen",
+   "Wasted Talent",
+   1.53,
+   3,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matt Rothenburgh",
+   "Wasted Talent",
+   1.45,
+   12,
+   2,
+   6,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kayla Ross",
+   "Andycapped",
+   1.29,
+   6,
+   2,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jon Harrel",
+   "TQMB",
+   1.09,
+   9,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Angie Coville",
+   "Pig Roasters",
+   1.06,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Howie Revans",
+   "TQMB",
+   1.05,
+   6,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Chris Marquis",
+   "Wasted Talent",
+   26.97,
+   8,
+   3,
+   0,
+   0,
+   0,
+   1,
+   10
+  ],
+  [
+   "Mike Georgetti",
+   "Flight Phucked",
+   26.84,
+   12,
+   7,
+   2,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Dave Radner",
+   "Andycapped",
+   26.77,
+   8,
+   4,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Andy Georgetti",
+   "Andycapped",
+   24.66,
+   8,
+   3,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Jamie Johnson",
+   "Duckin Farts",
+   22.45,
+   12,
+   5,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Kevin Welling",
+   "One For The Ditch",
+   22.27,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "John Bailey",
+   "One For The Ditch",
+   21.78,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Brian Faucher",
+   "Duckin Farts",
+   21.66,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Zach Baker",
+   "Flight Phucked",
+   21.66,
+   12,
+   1,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Ken Geer",
+   "One For The Ditch",
+   21.41,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Dominick Posadni",
+   "Andycapped",
+   21.38,
+   8,
+   2,
+   2,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Steve Ruffino",
+   "Flight Phucked",
+   21.02,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Christopher Welling",
+   "One For The Ditch",
+   20.49,
+   16,
+   5,
+   0,
+   0,
+   0,
+   1,
+   9
+  ],
+  [
+   "Ron Pierce",
+   "TQMB",
+   20.34,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Aaron Lindenberg",
+   "Pig Roasters",
+   20.33,
+   12,
+   2,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Jay Musshafen",
+   "Wasted Talent",
+   20.31,
+   16,
+   4,
+   2,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "TIMBER",
+   "{Substitutes}",
+   20.02,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Bob Newell",
+   "Pig Roasters",
+   20.02,
+   12,
+   0,
+   0,
+   0,
+   0,
+   2,
+   4
+  ],
+  [
+   "Tim Terborg",
+   "Flight Phucked",
+   19.74,
+   8,
+   4,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Tom Alletto",
+   "Pig Roasters",
+   19.66,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "John Frazer",
+   "Duckin Farts",
+   19.5,
+   8,
+   5,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "John Clarke",
+   "Duckin Farts",
+   18.76,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Johnny Nichols",
+   "Wasted Talent",
+   18.51,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Mike Meyers",
+   "Pig Roasters",
+   18.47,
+   8,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Jeff Brown",
+   "Flight Phucked",
+   18.02,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Pat Nichols",
+   "Wasted Talent",
+   17.24,
+   8,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Kayla Ross",
+   "Andycapped",
+   15.99,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Matt Rothenburgh",
+   "Wasted Talent",
+   15.88,
+   16,
+   0,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Jim Chodak",
+   "TQMB",
+   14.94,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Jon Harrel",
+   "TQMB",
+   14.49,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Howie Revans",
+   "TQMB",
+   14.36,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Danzig",
+   "TQMB",
+   14.22,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ryan Musshafen",
+   "Wasted Talent",
+   14.08,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Angie Coville",
+   "Pig Roasters",
+   13.15,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Andycapped",
+   "site": "My Apartment Bar",
+   "captain": "Andy Georgetti",
+   "phone": "585-470-8447"
+  },
+  {
+   "name": "Duckin Farts",
+   "site": "Gameday",
+   "captain": "John Clarke",
+   "phone": "585-732-8034"
+  },
+  {
+   "name": "Flight Phucked",
+   "site": "MCs Dugout",
+   "captain": "Jeff Brown",
+   "phone": "585-329-0534"
+  },
+  {
+   "name": "One For The Ditch",
+   "site": "Russell Station",
+   "captain": "Christopher Welling",
+   "phone": "585-727-0386"
+  },
+  {
+   "name": "Pig Roasters",
+   "site": "Barnard Crossing",
+   "captain": "Tom Alletto",
+   "phone": "585-749-1762"
+  },
+  {
+   "name": "TQMB",
+   "site": "My Apartment Bar",
+   "captain": "Ron Pierce",
+   "phone": "585-261-8750"
+  },
+  {
+   "name": "Wasted Talent",
+   "site": "My Apartment Bar",
+   "captain": "Matt Rothenburgh",
+   "phone": "585-704-9408"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-30",
+   "note": "",
+   "matches": [
+    [
+     "Andycapped",
+     "One For The Ditch"
+    ],
+    [
+     "Flight Phucked",
+     "Pig Roasters"
+    ],
+    [
+     "Wasted Talent",
+     "TQMB"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-07",
+   "note": "",
+   "matches": [
+    [
+     "Wasted Talent",
+     "One For The Ditch"
+    ],
+    [
+     "TQMB",
+     "Duckin Farts"
+    ],
+    [
+     "Andycapped",
+     "Pig Roasters"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-14",
+   "note": "",
+   "matches": [
+    [
+     "One For The Ditch",
+     "Pig Roasters"
+    ],
+    [
+     "Flight Phucked",
+     "TQMB"
+    ],
+    [
+     "Duckin Farts",
+     "Wasted Talent"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-21",
+   "note": "",
+   "matches": [
+    [
+     "Duckin Farts",
+     "One For The Ditch"
+    ],
+    [
+     "Wasted Talent",
+     "Flight Phucked"
+    ],
+    [
+     "TQMB",
+     "Andycapped"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-28",
+   "note": "",
+   "matches": [
+    [
+     "Pig Roasters",
+     "TQMB"
+    ],
+    [
+     "Andycapped",
+     "Wasted Talent"
+    ],
+    [
+     "Flight Phucked",
+     "Duckin Farts"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-04",
+   "note": "",
+   "matches": [
+    [
+     "Flight Phucked",
+     "One For The Ditch"
+    ],
+    [
+     "Duckin Farts",
+     "Andycapped"
+    ],
+    [
+     "Wasted Talent",
+     "Pig Roasters"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-11",
+   "note": "",
+   "matches": [
+    [
+     "One For The Ditch",
+     "TQMB"
+    ],
+    [
+     "Duckin Farts",
+     "Pig Roasters"
+    ],
+    [
+     "Andycapped",
+     "Flight Phucked"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-18",
+   "note": "",
+   "matches": [
+    [
+     "One For The Ditch",
+     "Andycapped"
+    ],
+    [
+     "Pig Roasters",
+     "Flight Phucked"
+    ],
+    [
+     "TQMB",
+     "Wasted Talent"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-12-02",
+   "note": "Off 11/25- Thanksgiving Eve",
+   "matches": [
+    [
+     "One For The Ditch",
+     "Wasted Talent"
+    ],
+    [
+     "Duckin Farts",
+     "TQMB"
+    ],
+    [
+     "Pig Roasters",
+     "Andycapped"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-09",
+   "note": "",
+   "matches": [
+    [
+     "Pig Roasters",
+     "One For The Ditch"
+    ],
+    [
+     "TQMB",
+     "Flight Phucked"
+    ],
+    [
+     "Wasted Talent",
+     "Duckin Farts"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-16",
+   "note": "",
+   "matches": [
+    [
+     "One For The Ditch",
+     "Duckin Farts"
+    ],
+    [
+     "Flight Phucked",
+     "Wasted Talent"
+    ],
+    [
+     "Andycapped",
+     "TQMB"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2027-01-06",
+   "note": "Off 12/23 & 12/30- Can be used for makeup matches",
+   "matches": [
+    [
+     "TQMB",
+     "Pig Roasters"
+    ],
+    [
+     "Wasted Talent",
+     "Andycapped"
+    ],
+    [
+     "Duckin Farts",
+     "Flight Phucked"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-13",
+   "note": "",
+   "matches": [
+    [
+     "One For The Ditch",
+     "Flight Phucked"
+    ],
+    [
+     "Andycapped",
+     "Duckin Farts"
+    ],
+    [
+     "Pig Roasters",
+     "Wasted Talent"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-20",
+   "note": "",
+   "matches": [
+    [
+     "TQMB",
+     "One For The Ditch"
+    ],
+    [
+     "Pig Roasters",
+     "Duckin Farts"
+    ],
+    [
+     "Flight Phucked",
+     "Andycapped"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-27",
+   "note": "",
+   "matches": [
+    [
+     "Andycapped",
+     "One For The Ditch"
+    ],
+    [
+     "Flight Phucked",
+     "Pig Roasters"
+    ],
+    [
+     "Wasted Talent",
+     "TQMB"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-02-03",
+   "note": "",
+   "matches": [
+    [
+     "Wasted Talent",
+     "One For The Ditch"
+    ],
+    [
+     "TQMB",
+     "Duckin Farts"
+    ],
+    [
+     "Pig Roasters",
+     "Andycapped"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-10",
+   "note": "",
+   "matches": [
+    [
+     "One For The Ditch",
+     "Pig Roasters"
+    ],
+    [
+     "Flight Phucked",
+     "TQMB"
+    ],
+    [
+     "Duckin Farts",
+     "Wasted Talent"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-17",
+   "note": "",
+   "matches": [
+    [
+     "Duckin Farts",
+     "One For The Ditch"
+    ],
+    [
+     "Wasted Talent",
+     "Flight Phucked"
+    ],
+    [
+     "TQMB",
+     "Andycapped"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-24",
+   "note": "",
+   "matches": [
+    [
+     "Pig Roasters",
+     "TQMB"
+    ],
+    [
+     "Andycapped",
+     "Wasted Talent"
+    ],
+    [
+     "Flight Phucked",
+     "Duckin Farts"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-03",
+   "note": "",
+   "matches": [
+    [
+     "Flight Phucked",
+     "One For The Ditch"
+    ],
+    [
+     "Duckin Farts",
+     "Andycapped"
+    ],
+    [
+     "Wasted Talent",
+     "Pig Roasters"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-10",
+   "note": "",
+   "matches": [
+    [
+     "One For The Ditch",
+     "TQMB"
+    ],
+    [
+     "Pig Roasters",
+     "Duckin Farts"
+    ],
+    [
+     "Andycapped",
+     "Flight Phucked"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-17",
+   "note": "St. Patrick's Day",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-24",
+   "note": "Use 3/24 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-31",
+   "note": "Use 3/31 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Barnard Crossing",
+   "machines": 1,
+   "phone": "585-621-1720",
+   "address": "2435 Dewey Ave, Rochester, NY 14615"
+  },
+  {
+   "name": "Gameday",
+   "machines": 4,
+   "phone": "",
+   "address": "730 Elmgrove Rd, Rochester, NY 14624"
+  },
+  {
+   "name": "MCs Dugout",
+   "machines": 2,
+   "phone": "585-448-0555",
+   "address": "1370 BUFFALO RD., ROCHESTER, NY 14624"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Russell Station",
+   "machines": 4,
+   "phone": "585-270-8233",
+   "address": "4670 Dewey Ave, Rochester, NY 14612"
+  }
+ ],
+ "updated": "2026-10-22T01:41:14Z"
+}

@@ -1,0 +1,1265 @@
+{
+ "league": {
+  "title": "Wednesday 2 Player BP H",
+  "location": "6W2BPH"
+ },
+ "standings": [
+  [
+   "Brighton Bruins",
+   30,
+   15
+  ],
+  [
+   "Cheers For Bad Darts",
+   36,
+   24
+  ],
+  [
+   "Where The Bacon",
+   17,
+   13
+  ],
+  [
+   "Squishy Business",
+   16,
+   14
+  ],
+  [
+   "Dem BOYZ",
+   23,
+   22
+  ],
+  [
+   "We Dem Boyz",
+   19,
+   26
+  ],
+  [
+   "Carpet Cleaners",
+   17,
+   28
+  ],
+  [
+   "Tony And Julian",
+   7,
+   23
+  ]
+ ],
+ "results": [
+  [
+   "Squishy Business",
+   "We Dem Boyz",
+   "10/07/2026",
+   2,
+   10,
+   5
+  ],
+  [
+   "Cheers For Bad Darts",
+   "Dem BOYZ",
+   "10/21/2026",
+   4,
+   9,
+   6
+  ],
+  [
+   "We Dem Boyz",
+   "Carpet Cleaners",
+   "10/21/2026",
+   4,
+   9,
+   6
+  ],
+  [
+   "Brighton Bruins",
+   "Cheers For Bad Darts",
+   "10/14/2026",
+   3,
+   8,
+   7
+  ],
+  [
+   "Where The Bacon",
+   "Carpet Cleaners",
+   "10/07/2026",
+   2,
+   7,
+   8
+  ],
+  [
+   "Tony And Julian",
+   "Cheers For Bad Darts",
+   "10/07/2026",
+   2,
+   7,
+   8
+  ],
+  [
+   "Carpet Cleaners",
+   "We Dem Boyz",
+   "10/21/2026",
+   4,
+   6,
+   9
+  ],
+  [
+   "Dem BOYZ",
+   "Cheers For Bad Darts",
+   "10/21/2026",
+   4,
+   6,
+   9
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "James Mitchell",
+    "Dem BOYZ",
+    2.57,
+    2.65
+   ],
+   [
+    "Steven Haag",
+    "Carpet Cleaners",
+    2.09,
+    2.15
+   ],
+   [
+    "Shaun Stocking",
+    "Cheers For Bad Darts",
+    2.87,
+    2.9
+   ]
+  ],
+  "x": [
+   [
+    "Jason Miles",
+    "Cheers For Bad Darts",
+    17.49,
+    18.46
+   ],
+   [
+    "Shaun Stocking",
+    "Cheers For Bad Darts",
+    25.85,
+    26.55
+   ],
+   [
+    "Archie Donaldson",
+    "Dem BOYZ",
+    21.3,
+    21.9
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Carlton Smith",
+   "Where The Bacon",
+   3.6,
+   6,
+   2,
+   1,
+   1,
+   0,
+   6,
+   1,
+   2,
+   0,
+   1
+  ],
+  [
+   "Erika Mardo",
+   "Squishy Business",
+   3.25,
+   12,
+   8,
+   0,
+   1,
+   0,
+   13,
+   3,
+   2,
+   1,
+   1
+  ],
+  [
+   "Dave Wallace",
+   "We Dem Boyz",
+   3.18,
+   6,
+   5,
+   0,
+   0,
+   0,
+   1,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
+   "Shaun Stocking",
+   "Cheers For Bad Darts",
+   2.9,
+   24,
+   11,
+   4,
+   6,
+   0,
+   14,
+   7,
+   7,
+   0,
+   2
+  ],
+  [
+   "Brian Galletto",
+   "Where The Bacon",
+   2.77,
+   6,
+   4,
+   1,
+   0,
+   0,
+   6,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "James Mitchell",
+   "Dem BOYZ",
+   2.65,
+   18,
+   5,
+   3,
+   4,
+   0,
+   4,
+   5,
+   1,
+   0,
+   1
+  ],
+  [
+   "Tom Ralston",
+   "Carpet Cleaners",
+   2.56,
+   18,
+   4,
+   1,
+   2,
+   0,
+   8,
+   3,
+   5,
+   0,
+   0
+  ],
+  [
+   "Mark Sennett",
+   "Brighton Bruins",
+   2.53,
+   18,
+   7,
+   5,
+   4,
+   0,
+   8,
+   3,
+   3,
+   0,
+   0
+  ],
+  [
+   "Archie Donaldson",
+   "Dem BOYZ",
+   2.5,
+   18,
+   8,
+   1,
+   0,
+   0,
+   7,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Travis Perry",
+   "Brighton Bruins",
+   2.48,
+   18,
+   10,
+   4,
+   1,
+   0,
+   9,
+   7,
+   4,
+   0,
+   0
+  ],
+  [
+   "Dave Coin",
+   "We Dem Boyz",
+   2.33,
+   18,
+   5,
+   3,
+   1,
+   0,
+   9,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "William Lupiani",
+   "Cheers For Bad Darts",
+   2.24,
+   6,
+   2,
+   1,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Anthony Mineo",
+   "Tony And Julian",
+   2.21,
+   12,
+   2,
+   0,
+   1,
+   0,
+   5,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steven Haag",
+   "Carpet Cleaners",
+   2.15,
+   18,
+   4,
+   2,
+   0,
+   0,
+   5,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Jason Miles",
+   "Cheers For Bad Darts",
+   2.03,
+   18,
+   6,
+   6,
+   0,
+   0,
+   8,
+   2,
+   0,
+   0,
+   1
+  ],
+  [
+   "Kelli Nash",
+   "Where The Bacon",
+   1.86,
+   12,
+   3,
+   3,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   1.85,
+   12,
+   2,
+   3,
+   0,
+   0,
+   5,
+   0,
+   1,
+   0,
+   1
+  ],
+  [
+   "Julie DiGrazia",
+   "Squishy Business",
+   1.47,
+   12,
+   0,
+   5,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Julian Diaz",
+   "Tony And Julian",
+   1.41,
+   12,
+   0,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Carlton Smith",
+   "Where The Bacon",
+   27.61,
+   7,
+   2,
+   1,
+   0,
+   0,
+   1,
+   15
+  ],
+  [
+   "Erika Mardo",
+   "Squishy Business",
+   27.33,
+   14,
+   8,
+   11,
+   0,
+   0,
+   1,
+   31
+  ],
+  [
+   "Shaun Stocking",
+   "Cheers For Bad Darts",
+   26.55,
+   28,
+   13,
+   4,
+   0,
+   0,
+   5,
+   78
+  ],
+  [
+   "Dave Wallace",
+   "We Dem Boyz",
+   25.98,
+   7,
+   1,
+   0,
+   0,
+   1,
+   2,
+   11
+  ],
+  [
+   "Brian Galletto",
+   "Where The Bacon",
+   24.58,
+   7,
+   2,
+   5,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Mark Sennett",
+   "Brighton Bruins",
+   24.11,
+   21,
+   9,
+   8,
+   0,
+   0,
+   0,
+   32
+  ],
+  [
+   "Tom Ralston",
+   "Carpet Cleaners",
+   23.9,
+   21,
+   6,
+   6,
+   0,
+   0,
+   0,
+   30
+  ],
+  [
+   "James Mitchell",
+   "Dem BOYZ",
+   22.52,
+   21,
+   6,
+   4,
+   0,
+   0,
+   2,
+   36
+  ],
+  [
+   "Archie Donaldson",
+   "Dem BOYZ",
+   21.9,
+   21,
+   4,
+   2,
+   0,
+   0,
+   0,
+   32
+  ],
+  [
+   "Dave Coin",
+   "We Dem Boyz",
+   21.15,
+   21,
+   4,
+   8,
+   0,
+   0,
+   0,
+   22
+  ],
+  [
+   "Steven Haag",
+   "Carpet Cleaners",
+   20.76,
+   21,
+   3,
+   3,
+   0,
+   0,
+   0,
+   23
+  ],
+  [
+   "Kelli Nash",
+   "Where The Bacon",
+   18.55,
+   14,
+   4,
+   2,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Jason Miles",
+   "Cheers For Bad Darts",
+   18.46,
+   21,
+   3,
+   3,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Travis Perry",
+   "Brighton Bruins",
+   18.26,
+   21,
+   4,
+   2,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   17.57,
+   14,
+   2,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "William Lupiani",
+   "Cheers For Bad Darts",
+   17.43,
+   7,
+   0,
+   1,
+   0,
+   0,
+   1,
+   3
+  ],
+  [
+   "Anthony Mineo",
+   "Tony And Julian",
+   16.58,
+   14,
+   4,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Julie DiGrazia",
+   "Squishy Business",
+   14.49,
+   14,
+   0,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Julian Diaz",
+   "Tony And Julian",
+   12.67,
+   14,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Brighton Bruins",
+   "site": "Back To My Place",
+   "captain": "Travis Perry",
+   "phone": "585-314-6489"
+  },
+  {
+   "name": "Carpet Cleaners",
+   "site": "My Apartment Bar",
+   "captain": "Tom Ralston",
+   "phone": "585-734-0565"
+  },
+  {
+   "name": "Cheers For Bad Darts",
+   "site": "Russell Station",
+   "captain": "Jason Miles",
+   "phone": "585-230-3355"
+  },
+  {
+   "name": "Dem BOYZ",
+   "site": "My Apartment Bar",
+   "captain": "Archie Donaldson",
+   "phone": "585-967-0499"
+  },
+  {
+   "name": "Squishy Business",
+   "site": "Porto Roc",
+   "captain": "Erika Mardo",
+   "phone": "585-683-0675"
+  },
+  {
+   "name": "Tony And Julian",
+   "site": "Pourin Joy",
+   "captain": "Anthony Mineo",
+   "phone": "315-289-5602"
+  },
+  {
+   "name": "We Dem Boyz",
+   "site": "My Apartment Bar",
+   "captain": "Robyn Ralston",
+   "phone": "585-733-1440"
+  },
+  {
+   "name": "Where The Bacon",
+   "site": "Back To My Place",
+   "captain": "Brian Galletto",
+   "phone": "585-450-6211"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-30",
+   "note": "",
+   "matches": [
+    [
+     "Brighton Bruins",
+     "Tony And Julian"
+    ],
+    [
+     "Carpet Cleaners",
+     "Cheers For Bad Darts"
+    ],
+    [
+     "Squishy Business",
+     "Dem BOYZ"
+    ],
+    [
+     "We Dem Boyz",
+     "Where The Bacon"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-07",
+   "note": "",
+   "matches": [
+    [
+     "Tony And Julian",
+     "Cheers For Bad Darts"
+    ],
+    [
+     "Brighton Bruins",
+     "Dem BOYZ"
+    ],
+    [
+     "Carpet Cleaners",
+     "Where The Bacon"
+    ],
+    [
+     "Squishy Business",
+     "We Dem Boyz"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-14",
+   "note": "",
+   "matches": [
+    [
+     "We Dem Boyz",
+     "Tony And Julian"
+    ],
+    [
+     "Where The Bacon",
+     "Squishy Business"
+    ],
+    [
+     "Dem BOYZ",
+     "Carpet Cleaners"
+    ],
+    [
+     "Cheers For Bad Darts",
+     "Brighton Bruins"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-21",
+   "note": "",
+   "matches": [
+    [
+     "Squishy Business",
+     "Tony And Julian"
+    ],
+    [
+     "We Dem Boyz",
+     "Carpet Cleaners"
+    ],
+    [
+     "Where The Bacon",
+     "Brighton Bruins"
+    ],
+    [
+     "Dem BOYZ",
+     "Cheers For Bad Darts"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-28",
+   "note": "",
+   "matches": [
+    [
+     "Tony And Julian",
+     "Dem BOYZ"
+    ],
+    [
+     "Cheers For Bad Darts",
+     "Where The Bacon"
+    ],
+    [
+     "Brighton Bruins",
+     "We Dem Boyz"
+    ],
+    [
+     "Carpet Cleaners",
+     "Squishy Business"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-04",
+   "note": "",
+   "matches": [
+    [
+     "Carpet Cleaners",
+     "Tony And Julian"
+    ],
+    [
+     "Squishy Business",
+     "Brighton Bruins"
+    ],
+    [
+     "We Dem Boyz",
+     "Cheers For Bad Darts"
+    ],
+    [
+     "Where The Bacon",
+     "Dem BOYZ"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-11",
+   "note": "",
+   "matches": [
+    [
+     "Tony And Julian",
+     "Where The Bacon"
+    ],
+    [
+     "Dem BOYZ",
+     "We Dem Boyz"
+    ],
+    [
+     "Cheers For Bad Darts",
+     "Squishy Business"
+    ],
+    [
+     "Brighton Bruins",
+     "Carpet Cleaners"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-18",
+   "note": "",
+   "matches": [
+    [
+     "Tony And Julian",
+     "Brighton Bruins"
+    ],
+    [
+     "Cheers For Bad Darts",
+     "Carpet Cleaners"
+    ],
+    [
+     "Dem BOYZ",
+     "Squishy Business"
+    ],
+    [
+     "Where The Bacon",
+     "We Dem Boyz"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-12-02",
+   "note": "Off 11/25- Thanksgiving Eve",
+   "matches": [
+    [
+     "Tony And Julian",
+     "We Dem Boyz"
+    ],
+    [
+     "Squishy Business",
+     "Where The Bacon"
+    ],
+    [
+     "Carpet Cleaners",
+     "Dem BOYZ"
+    ],
+    [
+     "Brighton Bruins",
+     "Cheers For Bad Darts"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-09",
+   "note": "",
+   "matches": [
+    [
+     "Cheers For Bad Darts",
+     "Tony And Julian"
+    ],
+    [
+     "Dem BOYZ",
+     "Brighton Bruins"
+    ],
+    [
+     "Where The Bacon",
+     "Carpet Cleaners"
+    ],
+    [
+     "We Dem Boyz",
+     "Squishy Business"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-16",
+   "note": "",
+   "matches": [
+    [
+     "Tony And Julian",
+     "Squishy Business"
+    ],
+    [
+     "Carpet Cleaners",
+     "We Dem Boyz"
+    ],
+    [
+     "Brighton Bruins",
+     "Where The Bacon"
+    ],
+    [
+     "Cheers For Bad Darts",
+     "Dem BOYZ"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2027-01-06",
+   "note": "Off 12/23 & 12/30- Can be used for makeups",
+   "matches": [
+    [
+     "Dem BOYZ",
+     "Tony And Julian"
+    ],
+    [
+     "Where The Bacon",
+     "Cheers For Bad Darts"
+    ],
+    [
+     "We Dem Boyz",
+     "Brighton Bruins"
+    ],
+    [
+     "Squishy Business",
+     "Carpet Cleaners"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-13",
+   "note": "",
+   "matches": [
+    [
+     "Tony And Julian",
+     "Carpet Cleaners"
+    ],
+    [
+     "Brighton Bruins",
+     "Squishy Business"
+    ],
+    [
+     "Cheers For Bad Darts",
+     "We Dem Boyz"
+    ],
+    [
+     "Dem BOYZ",
+     "Where The Bacon"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-20",
+   "note": "",
+   "matches": [
+    [
+     "Where The Bacon",
+     "Tony And Julian"
+    ],
+    [
+     "We Dem Boyz",
+     "Dem BOYZ"
+    ],
+    [
+     "Squishy Business",
+     "Cheers For Bad Darts"
+    ],
+    [
+     "Carpet Cleaners",
+     "Brighton Bruins"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-27",
+   "note": "",
+   "matches": [
+    [
+     "Brighton Bruins",
+     "Tony And Julian"
+    ],
+    [
+     "Carpet Cleaners",
+     "Cheers For Bad Darts"
+    ],
+    [
+     "Squishy Business",
+     "Dem BOYZ"
+    ],
+    [
+     "We Dem Boyz",
+     "Where The Bacon"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-02-03",
+   "note": "",
+   "matches": [
+    [
+     "We Dem Boyz",
+     "Tony And Julian"
+    ],
+    [
+     "Where The Bacon",
+     "Squishy Business"
+    ],
+    [
+     "Dem BOYZ",
+     "Carpet Cleaners"
+    ],
+    [
+     "Cheers For Bad Darts",
+     "Brighton Bruins"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-10",
+   "note": "",
+   "matches": [
+    [
+     "Tony And Julian",
+     "Cheers For Bad Darts"
+    ],
+    [
+     "Brighton Bruins",
+     "Dem BOYZ"
+    ],
+    [
+     "Carpet Cleaners",
+     "Where The Bacon"
+    ],
+    [
+     "Squishy Business",
+     "We Dem Boyz"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-17",
+   "note": "",
+   "matches": [
+    [
+     "Squishy Business",
+     "Tony And Julian"
+    ],
+    [
+     "We Dem Boyz",
+     "Carpet Cleaners"
+    ],
+    [
+     "Where The Bacon",
+     "Brighton Bruins"
+    ],
+    [
+     "Dem BOYZ",
+     "Cheers For Bad Darts"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-24",
+   "note": "",
+   "matches": [
+    [
+     "Tony And Julian",
+     "Dem BOYZ"
+    ],
+    [
+     "Cheers For Bad Darts",
+     "Where The Bacon"
+    ],
+    [
+     "Brighton Bruins",
+     "We Dem Boyz"
+    ],
+    [
+     "Carpet Cleaners",
+     "Squishy Business"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-03",
+   "note": "",
+   "matches": [
+    [
+     "Carpet Cleaners",
+     "Tony And Julian"
+    ],
+    [
+     "Squishy Business",
+     "Brighton Bruins"
+    ],
+    [
+     "We Dem Boyz",
+     "Cheers For Bad Darts"
+    ],
+    [
+     "Where The Bacon",
+     "Dem BOYZ"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-10",
+   "note": "",
+   "matches": [
+    [
+     "Tony And Julian",
+     "Where The Bacon"
+    ],
+    [
+     "Dem BOYZ",
+     "We Dem Boyz"
+    ],
+    [
+     "Cheers For Bad Darts",
+     "Squishy Business"
+    ],
+    [
+     "Brighton Bruins",
+     "Carpet Cleaners"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-17",
+   "note": "St. Patrick's Day",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-24",
+   "note": "Use 3/24 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-31",
+   "note": "Use 3/31 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Porto Roc",
+   "machines": 2,
+   "phone": "585-434-0060",
+   "address": "4705 Lake Ave., Rochester, NY 14612"
+  },
+  {
+   "name": "Pourin Joy",
+   "machines": 2,
+   "phone": "585-204-0473",
+   "address": "111 Park Ave., Rochester, NY 14607"
+  },
+  {
+   "name": "Russell Station",
+   "machines": 4,
+   "phone": "585-270-8233",
+   "address": "4670 Dewey Ave, Rochester, NY 14612"
+  }
+ ],
+ "updated": "2026-10-22T01:41:01Z"
+}

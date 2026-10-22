@@ -1,0 +1,1844 @@
+{
+ "league": {
+  "title": "Monday 4 Player B BP Hand",
+  "location": "6M4XH"
+ },
+ "standings": [
+  [
+   "Take It Out",
+   37,
+   23
+  ],
+  [
+   "Right There",
+   35,
+   25
+  ],
+  [
+   "The Four Horseman",
+   35,
+   25
+  ],
+  [
+   "RamRod",
+   33,
+   27
+  ],
+  [
+   "Wrong Hole",
+   24,
+   21
+  ],
+  [
+   "Dartbags",
+   27,
+   33
+  ],
+  [
+   "Roasted Shenanigans",
+   18,
+   27
+  ],
+  [
+   "Connor And The Jets",
+   16,
+   44
+  ]
+ ],
+ "results": [
+  [
+   "Wrong Hole",
+   "Connor And The Jets",
+   "10/19/2026",
+   4,
+   11,
+   4
+  ],
+  [
+   "RamRod",
+   "Roasted Shenanigans",
+   "10/19/2026",
+   4,
+   10,
+   5
+  ],
+  [
+   "Right There",
+   "The Four Horseman",
+   "10/19/2026",
+   4,
+   8,
+   7
+  ],
+  [
+   "Take It Out",
+   "Dartbags",
+   "10/19/2026",
+   4,
+   8,
+   7
+  ],
+  [
+   "Dartbags",
+   "Take It Out",
+   "10/19/2026",
+   4,
+   7,
+   8
+  ],
+  [
+   "The Four Horseman",
+   "Right There",
+   "10/19/2026",
+   4,
+   7,
+   8
+  ],
+  [
+   "Roasted Shenanigans",
+   "RamRod",
+   "10/19/2026",
+   4,
+   5,
+   10
+  ],
+  [
+   "Connor And The Jets",
+   "Wrong Hole",
+   "10/19/2026",
+   4,
+   4,
+   11
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Brad Virkler",
+    "RamRod",
+    3.0,
+    3.25
+   ],
+   [
+    "Tom Reeder",
+    "Right There",
+    1.85,
+    2.09
+   ],
+   [
+    "Fred James",
+    "Right There",
+    2.64,
+    2.83
+   ]
+  ],
+  "x": [
+   [
+    "Chad Benedict",
+    "Wrong Hole",
+    20.7,
+    21.89
+   ],
+   [
+    "Joel Diaz",
+    "RamRod",
+    23.09,
+    23.98
+   ],
+   [
+    "Brad Virkler",
+    "RamRod",
+    25.17,
+    26.02
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Brad Virkler",
+   "RamRod",
+   3.25,
+   12,
+   5,
+   2,
+   1,
+   0,
+   11,
+   3,
+   4,
+   0,
+   0
+  ],
+  [
+   "Chad Benedict",
+   "Wrong Hole",
+   2.98,
+   9,
+   4,
+   2,
+   0,
+   0,
+   3,
+   3,
+   2,
+   0,
+   1
+  ],
+  [
+   "Fred James",
+   "Right There",
+   2.83,
+   12,
+   5,
+   2,
+   0,
+   0,
+   6,
+   7,
+   2,
+   0,
+   1
+  ],
+  [
+   "Jamie Johnson",
+   "RamRod",
+   2.77,
+   3,
+   1,
+   0,
+   0,
+   0,
+   1,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Ken Nicolay",
+   "Take It Out",
+   2.53,
+   6,
+   4,
+   2,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Greg Poltorak",
+   "Take It Out",
+   2.51,
+   12,
+   3,
+   4,
+   1,
+   0,
+   4,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Sean Clarke",
+   "Dartbags",
+   2.48,
+   12,
+   6,
+   5,
+   1,
+   0,
+   10,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Chris Nesci",
+   "Right There",
+   2.43,
+   12,
+   3,
+   4,
+   0,
+   0,
+   5,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
+   "Johnny Spinks",
+   "The Four Horseman",
+   2.39,
+   12,
+   2,
+   4,
+   0,
+   0,
+   3,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Mike Murphy",
+   "Wrong Hole",
+   2.38,
+   3,
+   1,
+   0,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Roger Furmanski",
+   "The Four Horseman",
+   2.38,
+   12,
+   7,
+   0,
+   1,
+   0,
+   7,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Sean Grimes",
+   "Wrong Hole",
+   2.32,
+   9,
+   2,
+   2,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joel Diaz",
+   "RamRod",
+   2.3,
+   12,
+   3,
+   2,
+   0,
+   0,
+   4,
+   4,
+   1,
+   0,
+   1
+  ],
+  [
+   "Scott Prince",
+   "The Four Horseman",
+   2.3,
+   12,
+   1,
+   4,
+   1,
+   0,
+   7,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris Jones",
+   "Right There",
+   2.28,
+   12,
+   7,
+   2,
+   1,
+   0,
+   2,
+   5,
+   2,
+   0,
+   0
+  ],
+  [
+   "Nick Pritchard",
+   "The Four Horseman",
+   2.27,
+   12,
+   6,
+   1,
+   1,
+   0,
+   3,
+   1,
+   4,
+   0,
+   0
+  ],
+  [
+   "Keith West",
+   "Take It Out",
+   2.26,
+   9,
+   4,
+   2,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "James Oneal",
+   "Roasted Shenanigans",
+   2.21,
+   3,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Todd Palmer",
+   "Take It Out",
+   2.19,
+   12,
+   3,
+   1,
+   0,
+   0,
+   3,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brett ONeal",
+   "Roasted Shenanigans",
+   2.18,
+   6,
+   4,
+   1,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bailey Plummer",
+   "Dartbags",
+   2.16,
+   12,
+   3,
+   3,
+   1,
+   0,
+   6,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Tom Reeder",
+   "Right There",
+   2.09,
+   12,
+   4,
+   2,
+   0,
+   0,
+   5,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Wehry",
+   "RamRod",
+   2.08,
+   9,
+   2,
+   2,
+   1,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tony Villani",
+   "Wrong Hole",
+   2.05,
+   9,
+   3,
+   1,
+   0,
+   0,
+   2,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Todd Hanley",
+   "Take It Out",
+   2.02,
+   6,
+   5,
+   0,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Pat Childs",
+   "Roasted Shenanigans",
+   1.96,
+   3,
+   1,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Faucher",
+   "RamRod",
+   1.94,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Marc Hinds",
+   "Roasted Shenanigans",
+   1.91,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Aaron Lindenberg",
+   "Roasted Shenanigans",
+   1.88,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matt Kraft",
+   "Wrong Hole",
+   1.87,
+   6,
+   2,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Connor Starr",
+   "Connor And The Jets",
+   1.78,
+   9,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Anthony Alletto",
+   "Dartbags",
+   1.77,
+   12,
+   5,
+   1,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tim Olmsted",
+   "Dartbags",
+   1.67,
+   12,
+   4,
+   0,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Samuel Gordinier",
+   "Connor And The Jets",
+   1.58,
+   12,
+   3,
+   2,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sarah McKnight",
+   "Take It Out",
+   1.55,
+   3,
+   2,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "John Wiemer",
+   "Connor And The Jets",
+   1.52,
+   12,
+   1,
+   1,
+   1,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Angie Coville",
+   "Roasted Shenanigans",
+   1.43,
+   9,
+   1,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Blake Stevenson",
+   "RamRod",
+   1.42,
+   9,
+   5,
+   1,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Harrison",
+   "Connor And The Jets",
+   1.35,
+   12,
+   2,
+   2,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brandon Gerritz",
+   "Connor And The Jets",
+   1.25,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Brad Virkler",
+   "RamRod",
+   26.02,
+   16,
+   6,
+   9,
+   0,
+   0,
+   1,
+   27
+  ],
+  [
+   "Joel Diaz",
+   "RamRod",
+   23.98,
+   16,
+   4,
+   8,
+   0,
+   0,
+   0,
+   17
+  ],
+  [
+   "Scott Prince",
+   "The Four Horseman",
+   23.79,
+   16,
+   6,
+   2,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Fred James",
+   "Right There",
+   23.13,
+   16,
+   5,
+   7,
+   0,
+   0,
+   1,
+   20
+  ],
+  [
+   "Nick Pritchard",
+   "The Four Horseman",
+   22.55,
+   16,
+   5,
+   1,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Chad Benedict",
+   "Wrong Hole",
+   21.89,
+   12,
+   2,
+   0,
+   0,
+   0,
+   3,
+   16
+  ],
+  [
+   "Todd Hanley",
+   "Take It Out",
+   21.74,
+   8,
+   3,
+   3,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Sean Clarke",
+   "Dartbags",
+   21.61,
+   16,
+   6,
+   4,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Mike Murphy",
+   "Wrong Hole",
+   21.58,
+   4,
+   1,
+   1,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Greg Poltorak",
+   "Take It Out",
+   21.11,
+   16,
+   2,
+   2,
+   0,
+   0,
+   0,
+   26
+  ],
+  [
+   "James Oneal",
+   "Roasted Shenanigans",
+   20.99,
+   4,
+   0,
+   1,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Johnny Spinks",
+   "The Four Horseman",
+   20.97,
+   16,
+   4,
+   1,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Jamie Johnson",
+   "RamRod",
+   20.88,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Chris Nesci",
+   "Right There",
+   20.58,
+   16,
+   4,
+   1,
+   0,
+   0,
+   1,
+   14
+  ],
+  [
+   "Pat Childs",
+   "Roasted Shenanigans",
+   20.49,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Marc Hinds",
+   "Roasted Shenanigans",
+   20.46,
+   8,
+   1,
+   0,
+   0,
+   0,
+   2,
+   8
+  ],
+  [
+   "Sean Grimes",
+   "Wrong Hole",
+   19.85,
+   12,
+   4,
+   0,
+   0,
+   0,
+   1,
+   16
+  ],
+  [
+   "Chris Jones",
+   "Right There",
+   19.41,
+   16,
+   5,
+   1,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Brian Faucher",
+   "RamRod",
+   18.65,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Steve Wehry",
+   "RamRod",
+   17.92,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Todd Palmer",
+   "Take It Out",
+   17.88,
+   16,
+   5,
+   1,
+   0,
+   1,
+   1,
+   17
+  ],
+  [
+   "Brett ONeal",
+   "Roasted Shenanigans",
+   17.85,
+   8,
+   3,
+   2,
+   0,
+   0,
+   1,
+   4
+  ],
+  [
+   "Roger Furmanski",
+   "The Four Horseman",
+   17.74,
+   16,
+   4,
+   1,
+   0,
+   0,
+   1,
+   7
+  ],
+  [
+   "Matt Kraft",
+   "Wrong Hole",
+   17.65,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Ken Nicolay",
+   "Take It Out",
+   16.84,
+   8,
+   1,
+   0,
+   0,
+   0,
+   1,
+   8
+  ],
+  [
+   "Connor Starr",
+   "Connor And The Jets",
+   16.66,
+   12,
+   2,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Aaron Lindenberg",
+   "Roasted Shenanigans",
+   16.34,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Tony Villani",
+   "Wrong Hole",
+   16.24,
+   12,
+   4,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Tim Olmsted",
+   "Dartbags",
+   15.9,
+   16,
+   1,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Bailey Plummer",
+   "Dartbags",
+   15.89,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Tom Reeder",
+   "Right There",
+   15.69,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Keith West",
+   "Take It Out",
+   15.1,
+   12,
+   5,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Anthony Alletto",
+   "Dartbags",
+   14.97,
+   16,
+   0,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Angie Coville",
+   "Roasted Shenanigans",
+   13.73,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Samuel Gordinier",
+   "Connor And The Jets",
+   13.34,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Blake Stevenson",
+   "RamRod",
+   12.88,
+   12,
+   2,
+   0,
+   1,
+   0,
+   0,
+   2
+  ],
+  [
+   "John Wiemer",
+   "Connor And The Jets",
+   12.67,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Mike Harrison",
+   "Connor And The Jets",
+   12.42,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Sarah McKnight",
+   "Take It Out",
+   10.28,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Brandon Gerritz",
+   "Connor And The Jets",
+   9.25,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Connor And The Jets",
+   "site": "Firehouse Saloon",
+   "captain": "Samuel Gordinier",
+   "phone": "585-766-8031"
+  },
+  {
+   "name": "Dartbags",
+   "site": "Parlays Inn",
+   "captain": "Sean Clarke",
+   "phone": "585-764-1205"
+  },
+  {
+   "name": "RamRod",
+   "site": "Thirstys",
+   "captain": "Brad Virkler",
+   "phone": "585-704-6178"
+  },
+  {
+   "name": "Right There",
+   "site": "My Apartment Bar",
+   "captain": "Chris Nesci",
+   "phone": "585-472-5805"
+  },
+  {
+   "name": "Roasted Shenanigans",
+   "site": "Linwood",
+   "captain": "Angie Coville",
+   "phone": "585-415-0428"
+  },
+  {
+   "name": "Take It Out",
+   "site": "JJs Pub",
+   "captain": "Keith West",
+   "phone": "585-469-0577"
+  },
+  {
+   "name": "The Four Horseman",
+   "site": "My Apartment Bar",
+   "captain": "Roger Furmanski",
+   "phone": "585-451-3794"
+  },
+  {
+   "name": "Wrong Hole",
+   "site": "Turcotts Taproom",
+   "captain": "Matt Kraft",
+   "phone": "585-703-1408"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-28",
+   "note": "",
+   "matches": [
+    [
+     "Roasted Shenanigans",
+     "Connor And The Jets"
+    ],
+    [
+     "The Four Horseman",
+     "Wrong Hole"
+    ],
+    [
+     "Dartbags",
+     "RamRod"
+    ],
+    [
+     "Take It Out",
+     "Right There"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-05",
+   "note": "",
+   "matches": [
+    [
+     "Right There",
+     "Connor And The Jets"
+    ],
+    [
+     "RamRod",
+     "Take It Out"
+    ],
+    [
+     "Wrong Hole",
+     "Dartbags"
+    ],
+    [
+     "Roasted Shenanigans",
+     "The Four Horseman"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-12",
+   "note": "",
+   "matches": [
+    [
+     "Connor And The Jets",
+     "Take It Out"
+    ],
+    [
+     "Right There",
+     "Dartbags"
+    ],
+    [
+     "RamRod",
+     "The Four Horseman"
+    ],
+    [
+     "Wrong Hole",
+     "Roasted Shenanigans"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-19",
+   "note": "",
+   "matches": [
+    [
+     "Wrong Hole",
+     "Connor And The Jets"
+    ],
+    [
+     "Roasted Shenanigans",
+     "RamRod"
+    ],
+    [
+     "The Four Horseman",
+     "Right There"
+    ],
+    [
+     "Dartbags",
+     "Take It Out"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-26",
+   "note": "",
+   "matches": [
+    [
+     "Connor And The Jets",
+     "Dartbags"
+    ],
+    [
+     "Take It Out",
+     "The Four Horseman"
+    ],
+    [
+     "Right There",
+     "Roasted Shenanigans"
+    ],
+    [
+     "RamRod",
+     "Wrong Hole"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-02",
+   "note": "",
+   "matches": [
+    [
+     "RamRod",
+     "Connor And The Jets"
+    ],
+    [
+     "Wrong Hole",
+     "Right There"
+    ],
+    [
+     "Roasted Shenanigans",
+     "Take It Out"
+    ],
+    [
+     "The Four Horseman",
+     "Dartbags"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-09",
+   "note": "",
+   "matches": [
+    [
+     "Connor And The Jets",
+     "The Four Horseman"
+    ],
+    [
+     "Dartbags",
+     "Roasted Shenanigans"
+    ],
+    [
+     "Take It Out",
+     "Wrong Hole"
+    ],
+    [
+     "Right There",
+     "RamRod"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-16",
+   "note": "",
+   "matches": [
+    [
+     "Roasted Shenanigans",
+     "Connor And The Jets"
+    ],
+    [
+     "Wrong Hole",
+     "The Four Horseman"
+    ],
+    [
+     "RamRod",
+     "Dartbags"
+    ],
+    [
+     "Right There",
+     "Take It Out"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-23",
+   "note": "",
+   "matches": [
+    [
+     "Connor And The Jets",
+     "Right There"
+    ],
+    [
+     "Take It Out",
+     "RamRod"
+    ],
+    [
+     "Dartbags",
+     "Wrong Hole"
+    ],
+    [
+     "The Four Horseman",
+     "Roasted Shenanigans"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-11-30",
+   "note": "",
+   "matches": [
+    [
+     "Take It Out",
+     "Connor And The Jets"
+    ],
+    [
+     "Dartbags",
+     "Right There"
+    ],
+    [
+     "The Four Horseman",
+     "RamRod"
+    ],
+    [
+     "Roasted Shenanigans",
+     "Wrong Hole"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-07",
+   "note": "",
+   "matches": [
+    [
+     "Connor And The Jets",
+     "Wrong Hole"
+    ],
+    [
+     "RamRod",
+     "Roasted Shenanigans"
+    ],
+    [
+     "Right There",
+     "The Four Horseman"
+    ],
+    [
+     "Take It Out",
+     "Dartbags"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-14",
+   "note": "",
+   "matches": [
+    [
+     "Dartbags",
+     "Connor And The Jets"
+    ],
+    [
+     "The Four Horseman",
+     "Take It Out"
+    ],
+    [
+     "Roasted Shenanigans",
+     "Right There"
+    ],
+    [
+     "Wrong Hole",
+     "RamRod"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-04",
+   "note": "Off 12/21 & 12/28- Can be used for makeups",
+   "matches": [
+    [
+     "Connor And The Jets",
+     "RamRod"
+    ],
+    [
+     "Right There",
+     "Wrong Hole"
+    ],
+    [
+     "Take It Out",
+     "Roasted Shenanigans"
+    ],
+    [
+     "Dartbags",
+     "The Four Horseman"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-11",
+   "note": "",
+   "matches": [
+    [
+     "The Four Horseman",
+     "Connor And The Jets"
+    ],
+    [
+     "Roasted Shenanigans",
+     "Dartbags"
+    ],
+    [
+     "Wrong Hole",
+     "Take It Out"
+    ],
+    [
+     "RamRod",
+     "Right There"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-18",
+   "note": "",
+   "matches": [
+    [
+     "Roasted Shenanigans",
+     "Connor And The Jets"
+    ],
+    [
+     "The Four Horseman",
+     "Wrong Hole"
+    ],
+    [
+     "Dartbags",
+     "RamRod"
+    ],
+    [
+     "Take It Out",
+     "Right There"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-25",
+   "note": "",
+   "matches": [
+    [
+     "Right There",
+     "Connor And The Jets"
+    ],
+    [
+     "RamRod",
+     "Take It Out"
+    ],
+    [
+     "Wrong Hole",
+     "Dartbags"
+    ],
+    [
+     "Roasted Shenanigans",
+     "The Four Horseman"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-08",
+   "note": "Off 2/1- Midseason Tournament",
+   "matches": [
+    [
+     "Connor And The Jets",
+     "Take It Out"
+    ],
+    [
+     "Right There",
+     "Dartbags"
+    ],
+    [
+     "RamRod",
+     "The Four Horseman"
+    ],
+    [
+     "Wrong Hole",
+     "Roasted Shenanigans"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-15",
+   "note": "",
+   "matches": [
+    [
+     "Wrong Hole",
+     "Connor And The Jets"
+    ],
+    [
+     "Roasted Shenanigans",
+     "RamRod"
+    ],
+    [
+     "The Four Horseman",
+     "Right There"
+    ],
+    [
+     "Dartbags",
+     "Take It Out"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-22",
+   "note": "",
+   "matches": [
+    [
+     "Connor And The Jets",
+     "Dartbags"
+    ],
+    [
+     "Take It Out",
+     "The Four Horseman"
+    ],
+    [
+     "Right There",
+     "Roasted Shenanigans"
+    ],
+    [
+     "RamRod",
+     "Wrong Hole"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-01",
+   "note": "",
+   "matches": [
+    [
+     "RamRod",
+     "Connor And The Jets"
+    ],
+    [
+     "Wrong Hole",
+     "Right There"
+    ],
+    [
+     "Roasted Shenanigans",
+     "Take It Out"
+    ],
+    [
+     "The Four Horseman",
+     "Dartbags"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-08",
+   "note": "",
+   "matches": [
+    [
+     "Connor And The Jets",
+     "The Four Horseman"
+    ],
+    [
+     "Dartbags",
+     "Roasted Shenanigans"
+    ],
+    [
+     "Take It Out",
+     "Wrong Hole"
+    ],
+    [
+     "Right There",
+     "RamRod"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-15",
+   "note": "Use 3/15 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-22",
+   "note": "Use 3/22 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-29",
+   "note": "Use 3/29 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Firehouse Saloon",
+   "machines": 2,
+   "phone": "585-319-3832",
+   "address": "814 S Clinton Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "JJs Pub",
+   "machines": 1,
+   "phone": "704-5204",
+   "address": "669 Winton Rd, Rochester, NY 14610"
+  },
+  {
+   "name": "Linwood",
+   "machines": 1,
+   "phone": "585-458-0047",
+   "address": "191 Lee Rd., Rochester, NY 14606"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Parlays Inn",
+   "machines": 3,
+   "phone": "",
+   "address": "250 Monroe Ave, Rochester, NY 14610"
+  },
+  {
+   "name": "Thirstys",
+   "machines": 2,
+   "phone": "585-820-9669",
+   "address": "8 State St, Pittsford, NY 14610"
+  },
+  {
+   "name": "Turcotts Taproom",
+   "machines": 2,
+   "phone": "585-271-0339",
+   "address": "630 Monroe Ave, Rochester, NY 14607"
+  }
+ ],
+ "updated": "2026-10-22T01:40:37Z"
+}

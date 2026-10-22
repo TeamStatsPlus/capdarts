@@ -1,0 +1,1990 @@
+{
+ "league": {
+  "title": "Tuesday 2 Player Mixed",
+  "location": "6T2MIX"
+ },
+ "standings": [
+  [
+   "Pusc Paninis",
+   46,
+   14
+  ],
+  [
+   "Turtle Time",
+   45,
+   15
+  ],
+  [
+   "Highmark Hitters",
+   33,
+   12
+  ],
+  [
+   "Better Together",
+   33,
+   12
+  ],
+  [
+   "Right There",
+   41,
+   19
+  ],
+  [
+   "Sprinkles On Top",
+   27,
+   18
+  ],
+  [
+   "Wags To Richs",
+   27,
+   18
+  ],
+  [
+   "Big And Little",
+   30,
+   30
+  ],
+  [
+   "Ya Know What I Mean",
+   29,
+   31
+  ],
+  [
+   "Drunken Squids",
+   26,
+   34
+  ],
+  [
+   "BetR WallaceMaloney",
+   26,
+   34
+  ],
+  [
+   "One Hole Away",
+   25,
+   35
+  ],
+  [
+   "Pointless",
+   21,
+   39
+  ],
+  [
+   "Dartaholicz",
+   17,
+   43
+  ],
+  [
+   "And Then There Was 2",
+   8,
+   37
+  ],
+  [
+   "Squeaky Wheel",
+   1,
+   44
+  ]
+ ],
+ "results": [
+  [
+   "Turtle Time",
+   "Squeaky Wheel",
+   "10/20/2026",
+   4,
+   15,
+   0
+  ],
+  [
+   "Better Together",
+   "Pointless",
+   "10/20/2026",
+   4,
+   14,
+   1
+  ],
+  [
+   "Pusc Paninis",
+   "And Then There Was 2",
+   "10/20/2026",
+   4,
+   13,
+   2
+  ],
+  [
+   "Highmark Hitters",
+   "BetR WallaceMaloney",
+   "10/20/2026",
+   4,
+   10,
+   5
+  ],
+  [
+   "Sprinkles On Top",
+   "Big And Little",
+   "10/20/2026",
+   4,
+   10,
+   5
+  ],
+  [
+   "Drunken Squids",
+   "Dartaholicz",
+   "10/20/2026",
+   4,
+   9,
+   6
+  ],
+  [
+   "One Hole Away",
+   "Ya Know What I Mean",
+   "10/20/2026",
+   4,
+   9,
+   6
+  ],
+  [
+   "Right There",
+   "Wags To Richs",
+   "10/20/2026",
+   4,
+   8,
+   7
+  ],
+  [
+   "Wags To Richs",
+   "Right There",
+   "10/20/2026",
+   4,
+   7,
+   8
+  ],
+  [
+   "Dartaholicz",
+   "Drunken Squids",
+   "10/20/2026",
+   4,
+   6,
+   9
+  ],
+  [
+   "Ya Know What I Mean",
+   "One Hole Away",
+   "10/20/2026",
+   4,
+   6,
+   9
+  ],
+  [
+   "Big And Little",
+   "Sprinkles On Top",
+   "10/20/2026",
+   4,
+   5,
+   10
+  ],
+  [
+   "BetR WallaceMaloney",
+   "Highmark Hitters",
+   "10/20/2026",
+   4,
+   5,
+   10
+  ],
+  [
+   "And Then There Was 2",
+   "Pusc Paninis",
+   "10/20/2026",
+   4,
+   2,
+   13
+  ],
+  [
+   "Pointless",
+   "Better Together",
+   "10/20/2026",
+   4,
+   1,
+   14
+  ],
+  [
+   "Squeaky Wheel",
+   "Turtle Time",
+   "10/20/2026",
+   4,
+   0,
+   15
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Robyn Ralston",
+    "Sprinkles On Top",
+    1.44,
+    1.79
+   ],
+   [
+    "Chris Diaz",
+    "Better Together",
+    3.4,
+    3.59
+   ],
+   [
+    "Ashley Gault",
+    "Right There",
+    1.95,
+    2.04
+   ]
+  ],
+  "x": [
+   [
+    "Jill Calvert",
+    "Squeaky Wheel",
+    11.44,
+    12.85
+   ],
+   [
+    "Robyn Ralston",
+    "Sprinkles On Top",
+    16.13,
+    17.38
+   ],
+   [
+    "Grace Maracle",
+    "Big And Little",
+    12.9,
+    13.77
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Chris Diaz",
+   "Better Together",
+   3.59,
+   18,
+   11,
+   2,
+   0,
+   0,
+   18,
+   9,
+   9,
+   0,
+   0
+  ],
+  [
+   "John Andolsek",
+   "Pusc Paninis",
+   3.39,
+   24,
+   17,
+   2,
+   4,
+   0,
+   19,
+   4,
+   13,
+   0,
+   4
+  ],
+  [
+   "Chris Maloney",
+   "Turtle Time",
+   3.26,
+   24,
+   12,
+   5,
+   1,
+   0,
+   18,
+   9,
+   5,
+   1,
+   2
+  ],
+  [
+   "Dave Wallace",
+   "BetR WallaceMaloney",
+   3.18,
+   24,
+   16,
+   1,
+   3,
+   1,
+   13,
+   9,
+   10,
+   0,
+   1
+  ],
+  [
+   "Tashawn Rucker",
+   "Big And Little",
+   3.15,
+   18,
+   7,
+   0,
+   3,
+   0,
+   15,
+   5,
+   7,
+   0,
+   1
+  ],
+  [
+   "Rich Allen",
+   "Wags To Richs",
+   3.11,
+   18,
+   7,
+   3,
+   2,
+   1,
+   12,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Brian Galletto",
+   "One Hole Away",
+   3.03,
+   24,
+   12,
+   1,
+   3,
+   0,
+   13,
+   16,
+   6,
+   0,
+   0
+  ],
+  [
+   "Dan Freese",
+   "Right There",
+   2.88,
+   24,
+   11,
+   4,
+   1,
+   1,
+   11,
+   6,
+   4,
+   0,
+   0
+  ],
+  [
+   "Justin Burdett",
+   "Highmark Hitters",
+   2.68,
+   18,
+   11,
+   3,
+   0,
+   0,
+   12,
+   5,
+   5,
+   0,
+   0
+  ],
+  [
+   "Jamie Labbate",
+   "Ya Know What I Mean",
+   2.62,
+   24,
+   8,
+   3,
+   3,
+   0,
+   15,
+   8,
+   2,
+   0,
+   0
+  ],
+  [
+   "Melissa Wallace",
+   "Turtle Time",
+   2.48,
+   24,
+   11,
+   8,
+   0,
+   0,
+   13,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Tom Ralston",
+   "Sprinkles On Top",
+   2.46,
+   18,
+   9,
+   1,
+   0,
+   0,
+   6,
+   5,
+   2,
+   0,
+   1
+  ],
+  [
+   "Daniela Houser",
+   "Sprinkles On Top",
+   2.28,
+   6,
+   1,
+   1,
+   0,
+   0,
+   4,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Melissa Miles",
+   "Pusc Paninis",
+   2.26,
+   24,
+   7,
+   9,
+   1,
+   0,
+   10,
+   5,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jason Miles",
+   "Drunken Squids",
+   2.26,
+   24,
+   7,
+   5,
+   0,
+   0,
+   7,
+   6,
+   3,
+   0,
+   0
+  ],
+  [
+   "Ashley Gault",
+   "Right There",
+   2.04,
+   24,
+   10,
+   5,
+   0,
+   0,
+   9,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Tyler CannonBailey",
+   "Squeaky Wheel",
+   1.96,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kelly Kilmer",
+   "Drunken Squids",
+   1.92,
+   24,
+   8,
+   3,
+   0,
+   0,
+   8,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Brian Zicari",
+   "Pointless",
+   1.89,
+   24,
+   7,
+   2,
+   1,
+   0,
+   5,
+   4,
+   1,
+   1,
+   0
+  ],
+  [
+   "Danae Diaz",
+   "Better Together",
+   1.88,
+   18,
+   5,
+   5,
+   0,
+   0,
+   4,
+   0,
+   2,
+   0,
+   0
+  ],
+  [
+   "Mark Dalberth",
+   "And Then There Was 2",
+   1.88,
+   18,
+   3,
+   1,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Kelli Nash",
+   "One Hole Away",
+   1.86,
+   24,
+   3,
+   7,
+   0,
+   0,
+   8,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Carol Bartell",
+   "Wags To Richs",
+   1.8,
+   18,
+   5,
+   3,
+   0,
+   0,
+   6,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Robyn Ralston",
+   "Sprinkles On Top",
+   1.79,
+   12,
+   4,
+   4,
+   0,
+   0,
+   1,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Grace Maracle",
+   "Big And Little",
+   1.79,
+   18,
+   0,
+   4,
+   0,
+   0,
+   3,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Sue Dalton",
+   "Ya Know What I Mean",
+   1.71,
+   24,
+   6,
+   5,
+   0,
+   0,
+   7,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Alyssa Ham",
+   "Highmark Hitters",
+   1.57,
+   18,
+   6,
+   6,
+   0,
+   0,
+   4,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
+   "James Shell",
+   "Dartaholicz",
+   1.53,
+   24,
+   6,
+   2,
+   0,
+   0,
+   4,
+   3,
+   2,
+   0,
+   1
+  ],
+  [
+   "Katrina ReedMullen",
+   "Pointless",
+   1.53,
+   24,
+   4,
+   4,
+   0,
+   0,
+   8,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shaunna Maloney",
+   "BetR WallaceMaloney",
+   1.48,
+   24,
+   3,
+   8,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Julie DiGrazia",
+   "And Then There Was 2",
+   1.39,
+   18,
+   2,
+   2,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jametta Boston",
+   "Dartaholicz",
+   1.38,
+   24,
+   4,
+   3,
+   0,
+   0,
+   3,
+   0,
+   2,
+   0,
+   0
+  ],
+  [
+   "Luke Barry",
+   "Squeaky Wheel",
+   1.32,
+   6,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Squeaky Wheel",
+   1.0,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "John Andolsek",
+   "Pusc Paninis",
+   29.38,
+   28,
+   19,
+   29,
+   0,
+   0,
+   1,
+   64
+  ],
+  [
+   "Tashawn Rucker",
+   "Big And Little",
+   29.23,
+   21,
+   7,
+   18,
+   0,
+   0,
+   1,
+   49
+  ],
+  [
+   "Chris Diaz",
+   "Better Together",
+   29.15,
+   21,
+   15,
+   25,
+   0,
+   0,
+   1,
+   38
+  ],
+  [
+   "Chris Maloney",
+   "Turtle Time",
+   28.3,
+   28,
+   11,
+   18,
+   0,
+   0,
+   4,
+   76
+  ],
+  [
+   "Rich Allen",
+   "Wags To Richs",
+   27.66,
+   21,
+   12,
+   15,
+   0,
+   0,
+   1,
+   55
+  ],
+  [
+   "Dan Freese",
+   "Right There",
+   24.96,
+   28,
+   16,
+   11,
+   0,
+   0,
+   1,
+   55
+  ],
+  [
+   "Dave Wallace",
+   "BetR WallaceMaloney",
+   24.46,
+   28,
+   7,
+   11,
+   0,
+   0,
+   1,
+   62
+  ],
+  [
+   "Justin Burdett",
+   "Highmark Hitters",
+   24.31,
+   21,
+   11,
+   9,
+   0,
+   0,
+   0,
+   47
+  ],
+  [
+   "Tom Ralston",
+   "Sprinkles On Top",
+   24.01,
+   21,
+   9,
+   6,
+   0,
+   0,
+   1,
+   37
+  ],
+  [
+   "Brian Galletto",
+   "One Hole Away",
+   22.75,
+   28,
+   7,
+   10,
+   0,
+   0,
+   2,
+   39
+  ],
+  [
+   "Jamie Labbate",
+   "Ya Know What I Mean",
+   21.57,
+   28,
+   12,
+   11,
+   0,
+   0,
+   0,
+   47
+  ],
+  [
+   "Melissa Wallace",
+   "Turtle Time",
+   20.27,
+   28,
+   11,
+   6,
+   0,
+   0,
+   0,
+   37
+  ],
+  [
+   "Daniela Houser",
+   "Sprinkles On Top",
+   19.9,
+   7,
+   3,
+   1,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Melissa Miles",
+   "Pusc Paninis",
+   19.85,
+   28,
+   3,
+   2,
+   0,
+   0,
+   0,
+   29
+  ],
+  [
+   "Danae Diaz",
+   "Better Together",
+   19.19,
+   21,
+   2,
+   2,
+   0,
+   0,
+   0,
+   17
+  ],
+  [
+   "Kelly Kilmer",
+   "Drunken Squids",
+   17.76,
+   28,
+   3,
+   3,
+   0,
+   0,
+   0,
+   32
+  ],
+  [
+   "Robyn Ralston",
+   "Sprinkles On Top",
+   17.38,
+   14,
+   1,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Jason Miles",
+   "Drunken Squids",
+   17.26,
+   28,
+   8,
+   1,
+   0,
+   0,
+   2,
+   24
+  ],
+  [
+   "Ashley Gault",
+   "Right There",
+   17.01,
+   28,
+   4,
+   3,
+   0,
+   0,
+   0,
+   20
+  ],
+  [
+   "Mark Dalberth",
+   "And Then There Was 2",
+   16.66,
+   21,
+   2,
+   0,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Kelli Nash",
+   "One Hole Away",
+   16.24,
+   28,
+   3,
+   1,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Brian Zicari",
+   "Pointless",
+   16.1,
+   28,
+   3,
+   1,
+   0,
+   0,
+   0,
+   23
+  ],
+  [
+   "Sue Dalton",
+   "Ya Know What I Mean",
+   16.04,
+   28,
+   3,
+   4,
+   0,
+   0,
+   0,
+   20
+  ],
+  [
+   "Carol Bartell",
+   "Wags To Richs",
+   14.96,
+   21,
+   3,
+   0,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Katrina ReedMullen",
+   "Pointless",
+   14.87,
+   28,
+   7,
+   1,
+   0,
+   0,
+   1,
+   20
+  ],
+  [
+   "Julie DiGrazia",
+   "And Then There Was 2",
+   14.28,
+   21,
+   0,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "James Shell",
+   "Dartaholicz",
+   14.06,
+   28,
+   3,
+   0,
+   0,
+   0,
+   0,
+   25
+  ],
+  [
+   "Grace Maracle",
+   "Big And Little",
+   13.77,
+   21,
+   1,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Tyler CannonBailey",
+   "Squeaky Wheel",
+   13.3,
+   7,
+   0,
+   1,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Alyssa Ham",
+   "Highmark Hitters",
+   13.3,
+   21,
+   3,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Jametta Boston",
+   "Dartaholicz",
+   12.97,
+   28,
+   4,
+   2,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Jill Calvert",
+   "Squeaky Wheel",
+   12.85,
+   14,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Shaunna Maloney",
+   "BetR WallaceMaloney",
+   12.79,
+   28,
+   0,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Luke Barry",
+   "Squeaky Wheel",
+   11.68,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   5
+  ]
+ ],
+ "teams": [
+  {
+   "name": "And Then There Was 2",
+   "site": "Romigs Tavern",
+   "captain": "Julie DiGrazia",
+   "phone": "585-200-8693"
+  },
+  {
+   "name": "BetR WallaceMaloney",
+   "site": "Romigs Tavern",
+   "captain": "Dave Wallace",
+   "phone": "585-217-6632"
+  },
+  {
+   "name": "Better Together",
+   "site": "Dragon Fly",
+   "captain": "Danae Diaz",
+   "phone": "585-775-7159"
+  },
+  {
+   "name": "Big And Little",
+   "site": "My Apartment Bar",
+   "captain": "Tashawn Rucker",
+   "phone": "585-369-2207"
+  },
+  {
+   "name": "Dartaholicz",
+   "site": "Hideout",
+   "captain": "Jametta Boston",
+   "phone": "585-369-3330"
+  },
+  {
+   "name": "Drunken Squids",
+   "site": "Russell Station",
+   "captain": "Jason Miles",
+   "phone": "585-230-3355"
+  },
+  {
+   "name": "Highmark Hitters",
+   "site": "Back To My Place",
+   "captain": "Justin Burdett",
+   "phone": "585-613-5512"
+  },
+  {
+   "name": "One Hole Away",
+   "site": "Back To My Place",
+   "captain": "Kelli Nash",
+   "phone": "843-847-1069"
+  },
+  {
+   "name": "Pointless",
+   "site": "Caverlys",
+   "captain": "Brian Zicari",
+   "phone": "706-504-5957"
+  },
+  {
+   "name": "Pusc Paninis",
+   "site": "Back To My Place",
+   "captain": "John Andolsek",
+   "phone": "716-982-5492"
+  },
+  {
+   "name": "Right There",
+   "site": "My Apartment Bar",
+   "captain": "Dan Freese",
+   "phone": "585-219-7863"
+  },
+  {
+   "name": "Sprinkles On Top",
+   "site": "My Apartment Bar",
+   "captain": "Tom Ralston",
+   "phone": "585-734-0565"
+  },
+  {
+   "name": "Squeaky Wheel",
+   "site": "Drs Inn",
+   "captain": "Jill Calvert",
+   "phone": "585-259-2545"
+  },
+  {
+   "name": "Turtle Time",
+   "site": "My Apartment Bar",
+   "captain": "Chris Maloney",
+   "phone": "585-329-9298"
+  },
+  {
+   "name": "Wags To Richs",
+   "site": "My Apartment Bar",
+   "captain": "Rich Allen",
+   "phone": "585-750-4028"
+  },
+  {
+   "name": "Ya Know What I Mean",
+   "site": "Dougies",
+   "captain": "Sue Dalton",
+   "phone": "585-397-6624"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-29",
+   "note": "",
+   "matches": [
+    [
+     "Highmark Hitters",
+     "Dartaholicz"
+    ],
+    [
+     "Turtle Time",
+     "Pointless"
+    ],
+    [
+     "Big And Little",
+     "Better Together"
+    ],
+    [
+     "Wags To Richs",
+     "BetR WallaceMaloney"
+    ],
+    [
+     "And Then There Was 2",
+     "Squeaky Wheel"
+    ],
+    [
+     "One Hole Away",
+     "Sprinkles On Top"
+    ],
+    [
+     "Drunken Squids",
+     "Right There"
+    ],
+    [
+     "Ya Know What I Mean",
+     "Pusc Paninis"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-06",
+   "note": "",
+   "matches": [
+    [
+     "Ya Know What I Mean",
+     "Dartaholicz"
+    ],
+    [
+     "Pusc Paninis",
+     "Drunken Squids"
+    ],
+    [
+     "Right There",
+     "One Hole Away"
+    ],
+    [
+     "Sprinkles On Top",
+     "And Then There Was 2"
+    ],
+    [
+     "Squeaky Wheel",
+     "Wags To Richs"
+    ],
+    [
+     "BetR WallaceMaloney",
+     "Big And Little"
+    ],
+    [
+     "Better Together",
+     "Turtle Time"
+    ],
+    [
+     "Pointless",
+     "Highmark Hitters"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-13",
+   "note": "",
+   "matches": [
+    [
+     "Dartaholicz",
+     "Pointless"
+    ],
+    [
+     "Highmark Hitters",
+     "Better Together"
+    ],
+    [
+     "Turtle Time",
+     "BetR WallaceMaloney"
+    ],
+    [
+     "Big And Little",
+     "Squeaky Wheel"
+    ],
+    [
+     "Wags To Richs",
+     "Sprinkles On Top"
+    ],
+    [
+     "And Then There Was 2",
+     "Right There"
+    ],
+    [
+     "One Hole Away",
+     "Pusc Paninis"
+    ],
+    [
+     "Drunken Squids",
+     "Ya Know What I Mean"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-20",
+   "note": "",
+   "matches": [
+    [
+     "Drunken Squids",
+     "Dartaholicz"
+    ],
+    [
+     "Ya Know What I Mean",
+     "One Hole Away"
+    ],
+    [
+     "Pusc Paninis",
+     "And Then There Was 2"
+    ],
+    [
+     "Right There",
+     "Wags To Richs"
+    ],
+    [
+     "Sprinkles On Top",
+     "Big And Little"
+    ],
+    [
+     "Squeaky Wheel",
+     "Turtle Time"
+    ],
+    [
+     "BetR WallaceMaloney",
+     "Highmark Hitters"
+    ],
+    [
+     "Better Together",
+     "Pointless"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-27",
+   "note": "",
+   "matches": [
+    [
+     "Dartaholicz",
+     "Better Together"
+    ],
+    [
+     "Pointless",
+     "BetR WallaceMaloney"
+    ],
+    [
+     "Highmark Hitters",
+     "Squeaky Wheel"
+    ],
+    [
+     "Turtle Time",
+     "Sprinkles On Top"
+    ],
+    [
+     "Big And Little",
+     "Right There"
+    ],
+    [
+     "Wags To Richs",
+     "Pusc Paninis"
+    ],
+    [
+     "And Then There Was 2",
+     "Ya Know What I Mean"
+    ],
+    [
+     "One Hole Away",
+     "Drunken Squids"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-03",
+   "note": "",
+   "matches": [
+    [
+     "One Hole Away",
+     "Dartaholicz"
+    ],
+    [
+     "Drunken Squids",
+     "And Then There Was 2"
+    ],
+    [
+     "Ya Know What I Mean",
+     "Wags To Richs"
+    ],
+    [
+     "Pusc Paninis",
+     "Big And Little"
+    ],
+    [
+     "Right There",
+     "Turtle Time"
+    ],
+    [
+     "Sprinkles On Top",
+     "Highmark Hitters"
+    ],
+    [
+     "Squeaky Wheel",
+     "Pointless"
+    ],
+    [
+     "BetR WallaceMaloney",
+     "Better Together"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-10",
+   "note": "",
+   "matches": [
+    [
+     "Dartaholicz",
+     "BetR WallaceMaloney"
+    ],
+    [
+     "Better Together",
+     "Squeaky Wheel"
+    ],
+    [
+     "Pointless",
+     "Sprinkles On Top"
+    ],
+    [
+     "Highmark Hitters",
+     "Right There"
+    ],
+    [
+     "Turtle Time",
+     "Pusc Paninis"
+    ],
+    [
+     "Big And Little",
+     "Ya Know What I Mean"
+    ],
+    [
+     "Wags To Richs",
+     "Drunken Squids"
+    ],
+    [
+     "And Then There Was 2",
+     "One Hole Away"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-17",
+   "note": "",
+   "matches": [
+    [
+     "And Then There Was 2",
+     "Dartaholicz"
+    ],
+    [
+     "One Hole Away",
+     "Wags To Richs"
+    ],
+    [
+     "Drunken Squids",
+     "Big And Little"
+    ],
+    [
+     "Ya Know What I Mean",
+     "Turtle Time"
+    ],
+    [
+     "Pusc Paninis",
+     "Highmark Hitters"
+    ],
+    [
+     "Right There",
+     "Pointless"
+    ],
+    [
+     "Sprinkles On Top",
+     "Better Together"
+    ],
+    [
+     "Squeaky Wheel",
+     "BetR WallaceMaloney"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-24",
+   "note": "",
+   "matches": [
+    [
+     "Dartaholicz",
+     "Squeaky Wheel"
+    ],
+    [
+     "BetR WallaceMaloney",
+     "Sprinkles On Top"
+    ],
+    [
+     "Better Together",
+     "Right There"
+    ],
+    [
+     "Pointless",
+     "Pusc Paninis"
+    ],
+    [
+     "Highmark Hitters",
+     "Ya Know What I Mean"
+    ],
+    [
+     "Turtle Time",
+     "Drunken Squids"
+    ],
+    [
+     "Big And Little",
+     "One Hole Away"
+    ],
+    [
+     "Wags To Richs",
+     "And Then There Was 2"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-01",
+   "note": "",
+   "matches": [
+    [
+     "Wags To Richs",
+     "Dartaholicz"
+    ],
+    [
+     "And Then There Was 2",
+     "Big And Little"
+    ],
+    [
+     "One Hole Away",
+     "Turtle Time"
+    ],
+    [
+     "Drunken Squids",
+     "Highmark Hitters"
+    ],
+    [
+     "Ya Know What I Mean",
+     "Pointless"
+    ],
+    [
+     "Pusc Paninis",
+     "Better Together"
+    ],
+    [
+     "Right There",
+     "BetR WallaceMaloney"
+    ],
+    [
+     "Sprinkles On Top",
+     "Squeaky Wheel"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-08",
+   "note": "",
+   "matches": [
+    [
+     "Dartaholicz",
+     "Sprinkles On Top"
+    ],
+    [
+     "Squeaky Wheel",
+     "Right There"
+    ],
+    [
+     "BetR WallaceMaloney",
+     "Pusc Paninis"
+    ],
+    [
+     "Better Together",
+     "Ya Know What I Mean"
+    ],
+    [
+     "Pointless",
+     "Drunken Squids"
+    ],
+    [
+     "Highmark Hitters",
+     "One Hole Away"
+    ],
+    [
+     "Turtle Time",
+     "And Then There Was 2"
+    ],
+    [
+     "Big And Little",
+     "Wags To Richs"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-15",
+   "note": "",
+   "matches": [
+    [
+     "Big And Little",
+     "Dartaholicz"
+    ],
+    [
+     "Wags To Richs",
+     "Turtle Time"
+    ],
+    [
+     "And Then There Was 2",
+     "Highmark Hitters"
+    ],
+    [
+     "One Hole Away",
+     "Pointless"
+    ],
+    [
+     "Drunken Squids",
+     "Better Together"
+    ],
+    [
+     "Ya Know What I Mean",
+     "BetR WallaceMaloney"
+    ],
+    [
+     "Pusc Paninis",
+     "Squeaky Wheel"
+    ],
+    [
+     "Right There",
+     "Sprinkles On Top"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-05",
+   "note": "Off 12/22 & 12/29- Can be used for makeups",
+   "matches": [
+    [
+     "Dartaholicz",
+     "Right There"
+    ],
+    [
+     "Sprinkles On Top",
+     "Pusc Paninis"
+    ],
+    [
+     "Squeaky Wheel",
+     "Ya Know What I Mean"
+    ],
+    [
+     "BetR WallaceMaloney",
+     "Drunken Squids"
+    ],
+    [
+     "Better Together",
+     "One Hole Away"
+    ],
+    [
+     "Pointless",
+     "And Then There Was 2"
+    ],
+    [
+     "Highmark Hitters",
+     "Wags To Richs"
+    ],
+    [
+     "Turtle Time",
+     "Big And Little"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-12",
+   "note": "",
+   "matches": [
+    [
+     "Turtle Time",
+     "Dartaholicz"
+    ],
+    [
+     "Big And Little",
+     "Highmark Hitters"
+    ],
+    [
+     "Wags To Richs",
+     "Pointless"
+    ],
+    [
+     "And Then There Was 2",
+     "Better Together"
+    ],
+    [
+     "One Hole Away",
+     "BetR WallaceMaloney"
+    ],
+    [
+     "Drunken Squids",
+     "Squeaky Wheel"
+    ],
+    [
+     "Ya Know What I Mean",
+     "Sprinkles On Top"
+    ],
+    [
+     "Pusc Paninis",
+     "Right There"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-19",
+   "note": "",
+   "matches": [
+    [
+     "Dartaholicz",
+     "Pusc Paninis"
+    ],
+    [
+     "Right There",
+     "Ya Know What I Mean"
+    ],
+    [
+     "Sprinkles On Top",
+     "Drunken Squids"
+    ],
+    [
+     "Squeaky Wheel",
+     "One Hole Away"
+    ],
+    [
+     "BetR WallaceMaloney",
+     "And Then There Was 2"
+    ],
+    [
+     "Better Together",
+     "Wags To Richs"
+    ],
+    [
+     "Pointless",
+     "Big And Little"
+    ],
+    [
+     "Highmark Hitters",
+     "Turtle Time"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-26",
+   "note": "Use 1/26 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 17,
+   "date": "2027-02-02",
+   "note": "Matches TBA. ALL TEAMS WILL HAVE A MATCH.",
+   "matches": []
+  },
+  {
+   "week": 18,
+   "date": "2027-02-09",
+   "note": "Matches TBA. ALL TEAMS WILL HAVE A MATCH.",
+   "matches": []
+  },
+  {
+   "week": 19,
+   "date": "2027-02-16",
+   "note": "Matches TBA. ALL TEAMS WILL HAVE A MATCH.",
+   "matches": []
+  },
+  {
+   "week": 20,
+   "date": "2027-02-23",
+   "note": "Matches TBA. ALL TEAMS WILL HAVE A MATCH.",
+   "matches": []
+  },
+  {
+   "week": 21,
+   "date": "2027-03-02",
+   "note": "Matches TBA. ALL TEAMS WILL HAVE A MATCH.",
+   "matches": []
+  },
+  {
+   "week": 22,
+   "date": "2027-03-09",
+   "note": "Matches TBA. ALL TEAMS WILL HAVE A MATCH.",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-16",
+   "note": "Matches TBA. ALL TEAMS WILL HAVE A MATCH.",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-23",
+   "note": "Use 3/23 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-03-30",
+   "note": "Use 3/30 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 26,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "Caverlys",
+   "machines": 2,
+   "phone": "585-278-1289",
+   "address": "741 South Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Dougies",
+   "machines": 2,
+   "phone": "585-430-1250",
+   "address": "80 N Main St., Fairport, NY 14450"
+  },
+  {
+   "name": "Dragon Fly",
+   "machines": 2,
+   "phone": "585-563-6333",
+   "address": "735 Park Ave, Rochester, NY 14607"
+  },
+  {
+   "name": "Drs Inn",
+   "machines": 3,
+   "phone": "271-0820",
+   "address": "1743 East Ave, Rochester, NY 14610"
+  },
+  {
+   "name": "Hideout",
+   "machines": 2,
+   "phone": "585-392-4141",
+   "address": "610 N Greece Rd, Hilton, NY 14468"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Romigs Tavern",
+   "machines": 2,
+   "phone": "585-663-1518",
+   "address": "18 Bennington Green, Rochester, NY 14616"
+  },
+  {
+   "name": "Russell Station",
+   "machines": 4,
+   "phone": "585-270-8233",
+   "address": "4670 Dewey Ave, Rochester, NY 14612"
+  }
+ ],
+ "updated": "2026-10-22T01:40:40Z"
+}

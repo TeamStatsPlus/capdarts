@@ -1,0 +1,2633 @@
+{
+ "league": {
+  "title": "Wednesday 4Player BHand 2",
+  "location": "6W4BH2"
+ },
+ "standings": [
+  [
+   "ReDarted",
+   38,
+   14
+  ],
+  [
+   "Bullshots",
+   35,
+   17
+  ],
+  [
+   "Dart Vaders",
+   34,
+   18
+  ],
+  [
+   "Toasted Darts",
+   31,
+   21
+  ],
+  [
+   "Liquor Box",
+   29,
+   23
+  ],
+  [
+   "Rizm With The Tizm",
+   28,
+   24
+  ],
+  [
+   "Average Joes",
+   27,
+   25
+  ],
+  [
+   "Wrong Hole",
+   23,
+   29
+  ],
+  [
+   "Team Stinky",
+   22,
+   30
+  ],
+  [
+   "RRP Crew",
+   15,
+   37
+  ],
+  [
+   "Ask Bobby",
+   9,
+   30
+  ],
+  [
+   "Id Hit That",
+   8,
+   31
+  ]
+ ],
+ "results": [
+  [
+   "Dart Vaders",
+   "RRP Crew",
+   "10/21/2026",
+   4,
+   10,
+   3
+  ],
+  [
+   "Bullshots",
+   "Toasted Darts",
+   "10/21/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "Average Joes",
+   "ReDarted",
+   "10/21/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "Liquor Box",
+   "Wrong Hole",
+   "10/21/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Team Stinky",
+   "Rizm With The Tizm",
+   "10/21/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Wrong Hole",
+   "Liquor Box",
+   "10/21/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Rizm With The Tizm",
+   "Team Stinky",
+   "10/21/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "ReDarted",
+   "Average Joes",
+   "10/21/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "Toasted Darts",
+   "Bullshots",
+   "10/21/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "Id Hit That",
+   "Dart Vaders",
+   "10/14/2026",
+   3,
+   3,
+   10
+  ],
+  [
+   "RRP Crew",
+   "Dart Vaders",
+   "10/21/2026",
+   4,
+   3,
+   10
+  ],
+  [
+   "Ask Bobby",
+   "Average Joes",
+   "10/14/2026",
+   3,
+   1,
+   12
+  ]
+ ],
+ "improved": {
+  "c": [],
+  "x": []
+ },
+ "cricket": [
+  [
+   "Jose Pantoja",
+   "Rizm With The Tizm",
+   2.84,
+   3,
+   0,
+   3,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Johnny DeSalvo",
+   "Dart Vaders",
+   2.79,
+   9,
+   2,
+   3,
+   1,
+   0,
+   4,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Feist",
+   "Toasted Darts",
+   2.73,
+   12,
+   4,
+   3,
+   0,
+   0,
+   8,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Zaccary Maguire",
+   "Team Stinky",
+   2.43,
+   12,
+   3,
+   1,
+   1,
+   0,
+   3,
+   0,
+   1,
+   0,
+   1
+  ],
+  [
+   "Mike Infantino",
+   "Wrong Hole",
+   2.43,
+   12,
+   2,
+   1,
+   0,
+   0,
+   8,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Jay Jaz",
+   "Ask Bobby",
+   2.39,
+   3,
+   2,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris Tapscott",
+   "ReDarted",
+   2.38,
+   9,
+   4,
+   2,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tony Villani",
+   "Wrong Hole",
+   2.36,
+   12,
+   2,
+   2,
+   0,
+   0,
+   4,
+   1,
+   3,
+   0,
+   0
+  ],
+  [
+   "Bob Fox",
+   "Toasted Darts",
+   2.32,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Michael TeWinkle",
+   "Bullshots",
+   2.32,
+   12,
+   2,
+   6,
+   0,
+   0,
+   4,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
+   "Toby Affronti",
+   "RRP Crew",
+   2.31,
+   9,
+   3,
+   0,
+   2,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "BJ Ashford",
+   "Rizm With The Tizm",
+   2.29,
+   12,
+   3,
+   4,
+   0,
+   0,
+   3,
+   3,
+   1,
+   0,
+   1
+  ],
+  [
+   "Steve Wemett",
+   "Dart Vaders",
+   2.24,
+   12,
+   3,
+   6,
+   0,
+   0,
+   4,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matthew Nesbitt",
+   "ReDarted",
+   2.19,
+   6,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Eric Porter",
+   "Liquor Box",
+   2.16,
+   12,
+   6,
+   5,
+   1,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kurt Krahenbuhl",
+   "Rizm With The Tizm",
+   2.16,
+   6,
+   3,
+   2,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Carlos Ortiz",
+   "ReDarted",
+   2.16,
+   9,
+   1,
+   3,
+   1,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jim Iorio",
+   "Average Joes",
+   2.12,
+   12,
+   3,
+   5,
+   1,
+   0,
+   3,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Frank Bancroft",
+   "Dart Vaders",
+   2.09,
+   12,
+   6,
+   3,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Keefe",
+   "Average Joes",
+   1.97,
+   9,
+   5,
+   2,
+   0,
+   0,
+   3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Juan Rosado",
+   "Liquor Box",
+   1.96,
+   12,
+   4,
+   3,
+   0,
+   0,
+   2,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Zach Gooding",
+   "Toasted Darts",
+   1.96,
+   9,
+   2,
+   2,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Robinson",
+   "Dart Vaders",
+   1.96,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam TeWinkle",
+   "Bullshots",
+   1.94,
+   12,
+   6,
+   4,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Frank DiCesare",
+   "Bullshots",
+   1.9,
+   12,
+   3,
+   5,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Robert Macomber",
+   "Ask Bobby",
+   1.89,
+   6,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Al Ask Bobby",
+   "Ask Bobby",
+   1.87,
+   3,
+   1,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Gonzalez",
+   "ReDarted",
+   1.86,
+   9,
+   3,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chester Mathis",
+   "Toasted Darts",
+   1.85,
+   12,
+   4,
+   3,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   1
+  ],
+  [
+   "Brian Lawler",
+   "Ask Bobby",
+   1.83,
+   9,
+   1,
+   2,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jessie Purdy",
+   "Team Stinky",
+   1.81,
+   12,
+   2,
+   3,
+   0,
+   0,
+   3,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Courtney Armstrong",
+   "Rizm With The Tizm",
+   1.8,
+   12,
+   4,
+   3,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Justin Gould",
+   "Average Joes",
+   1.79,
+   6,
+   1,
+   3,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Monster",
+   "Liquor Box",
+   1.79,
+   6,
+   0,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Ayotte",
+   "Liquor Box",
+   1.76,
+   6,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joe Porcaro",
+   "Dart Vaders",
+   1.76,
+   12,
+   4,
+   3,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Aaron Meeks",
+   "Bullshots",
+   1.71,
+   12,
+   6,
+   2,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jason Gould",
+   "Average Joes",
+   1.7,
+   9,
+   3,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jon Nolte",
+   "Average Joes",
+   1.69,
+   12,
+   3,
+   3,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Northrup",
+   "Wrong Hole",
+   1.67,
+   12,
+   4,
+   1,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Hale",
+   "Id Hit That",
+   1.65,
+   9,
+   3,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rick Nelson",
+   "Toasted Darts",
+   1.65,
+   12,
+   2,
+   4,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jeff Bush",
+   "Team Stinky",
+   1.59,
+   12,
+   2,
+   3,
+   1,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0
+  ],
+  [
+   "Dan Hall",
+   "RRP Crew",
+   1.58,
+   6,
+   1,
+   2,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Thomas Macomber",
+   "Ask Bobby",
+   1.57,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Miguel Carmona",
+   "RRP Crew",
+   1.54,
+   9,
+   2,
+   2,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Simpson",
+   "Rizm With The Tizm",
+   1.52,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Nick Maguire",
+   "Team Stinky",
+   1.51,
+   12,
+   2,
+   2,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Russ Baumbarger",
+   "Id Hit That",
+   1.49,
+   9,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matthew Griffith",
+   "Rizm With The Tizm",
+   1.47,
+   12,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mary Affronti",
+   "RRP Crew",
+   1.38,
+   9,
+   0,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Ask Bobby",
+   "Ask Bobby",
+   1.37,
+   3,
+   0,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Todd Albright",
+   "Id Hit That",
+   1.35,
+   9,
+   0,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ben Mostyn",
+   "Liquor Box",
+   1.34,
+   12,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ryan Anslinger",
+   "ReDarted",
+   1.33,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joe Arrajj",
+   "Ask Bobby",
+   1.29,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rik Fiordeliso",
+   "Wrong Hole",
+   1.28,
+   12,
+   0,
+   4,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Davids",
+   "Id Hit That",
+   1.24,
+   6,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dean Affronti",
+   "RRP Crew",
+   1.12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Davoli",
+   "Id Hit That",
+   1.11,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Toby Affronti",
+   "RRP Crew",
+   23.09,
+   12,
+   1,
+   2,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Jose Pantoja",
+   "Rizm With The Tizm",
+   22.43,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Dave Feist",
+   "Toasted Darts",
+   22.38,
+   16,
+   4,
+   3,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "Steve Gonzalez",
+   "ReDarted",
+   22.21,
+   12,
+   6,
+   4,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Kurt Krahenbuhl",
+   "Rizm With The Tizm",
+   21.99,
+   8,
+   1,
+   2,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Frank Bancroft",
+   "Dart Vaders",
+   21.52,
+   16,
+   5,
+   1,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Zaccary Maguire",
+   "Team Stinky",
+   21.33,
+   16,
+   4,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Bob Fox",
+   "Toasted Darts",
+   21.24,
+   4,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "BJ Ashford",
+   "Rizm With The Tizm",
+   21.09,
+   16,
+   8,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Eric Porter",
+   "Liquor Box",
+   20.97,
+   16,
+   5,
+   1,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Mike Infantino",
+   "Wrong Hole",
+   20.95,
+   16,
+   3,
+   1,
+   0,
+   0,
+   1,
+   17
+  ],
+  [
+   "Johnny DeSalvo",
+   "Dart Vaders",
+   20.88,
+   12,
+   5,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Carlos Ortiz",
+   "ReDarted",
+   20.59,
+   12,
+   4,
+   1,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Jim Iorio",
+   "Average Joes",
+   20.27,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Zach Gooding",
+   "Toasted Darts",
+   20.26,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Michael TeWinkle",
+   "Bullshots",
+   19.92,
+   16,
+   5,
+   1,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Dean Affronti",
+   "RRP Crew",
+   19.71,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Matthew Nesbitt",
+   "ReDarted",
+   19.2,
+   8,
+   1,
+   2,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Brian Simpson",
+   "Rizm With The Tizm",
+   19.11,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Chris Tapscott",
+   "ReDarted",
+   19.1,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Adam TeWinkle",
+   "Bullshots",
+   18.82,
+   16,
+   3,
+   0,
+   0,
+   0,
+   1,
+   6
+  ],
+  [
+   "Ryan Anslinger",
+   "ReDarted",
+   18.69,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Jeff Bush",
+   "Team Stinky",
+   18.51,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Aaron Meeks",
+   "Bullshots",
+   18.43,
+   16,
+   6,
+   0,
+   0,
+   0,
+   1,
+   7
+  ],
+  [
+   "Mike Monster",
+   "Liquor Box",
+   18.26,
+   8,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Steve Wemett",
+   "Dart Vaders",
+   18.13,
+   16,
+   4,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Frank DiCesare",
+   "Bullshots",
+   18.06,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Brian Lawler",
+   "Ask Bobby",
+   17.79,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Dan Hall",
+   "RRP Crew",
+   17.74,
+   8,
+   2,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Tony Villani",
+   "Wrong Hole",
+   17.61,
+   16,
+   8,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Thomas Macomber",
+   "Ask Bobby",
+   17.48,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Rick Nelson",
+   "Toasted Darts",
+   17.45,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Nick Maguire",
+   "Team Stinky",
+   17.44,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Joe Arrajj",
+   "Ask Bobby",
+   17.18,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Rob Ayotte",
+   "Liquor Box",
+   17.07,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Jason Gould",
+   "Average Joes",
+   16.84,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Adam Northrup",
+   "Wrong Hole",
+   16.84,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Jay Jaz",
+   "Ask Bobby",
+   16.78,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Brian Keefe",
+   "Average Joes",
+   16.72,
+   12,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Matthew Griffith",
+   "Rizm With The Tizm",
+   16.58,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Jon Nolte",
+   "Average Joes",
+   16.5,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Courtney Armstrong",
+   "Rizm With The Tizm",
+   16.41,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Juan Rosado",
+   "Liquor Box",
+   16.22,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Todd Albright",
+   "Id Hit That",
+   16.19,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Joe Porcaro",
+   "Dart Vaders",
+   16.03,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Justin Gould",
+   "Average Joes",
+   15.95,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Mike Ask Bobby",
+   "Ask Bobby",
+   15.57,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Jessie Purdy",
+   "Team Stinky",
+   15.52,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Jill Davids",
+   "Id Hit That",
+   15.43,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Robert Macomber",
+   "Ask Bobby",
+   15.31,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Mike Hale",
+   "Id Hit That",
+   14.97,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Miguel Carmona",
+   "RRP Crew",
+   14.89,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Russ Baumbarger",
+   "Id Hit That",
+   14.4,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Chester Mathis",
+   "Toasted Darts",
+   14.23,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Mary Affronti",
+   "RRP Crew",
+   14.06,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Al Ask Bobby",
+   "Ask Bobby",
+   13.74,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Rik Fiordeliso",
+   "Wrong Hole",
+   13.7,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Josh Davoli",
+   "Id Hit That",
+   13.51,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ben Mostyn",
+   "Liquor Box",
+   13.36,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Dave Robinson",
+   "Dart Vaders",
+   11.82,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Ask Bobby",
+   "site": "Colters",
+   "captain": "Thomas Macomber",
+   "phone": "585-351-8386"
+  },
+  {
+   "name": "Average Joes",
+   "site": "BRU",
+   "captain": "Jason Gould",
+   "phone": "585-224-6267"
+  },
+  {
+   "name": "Bullshots",
+   "site": "MCs Dugout",
+   "captain": "Michael TeWinkle",
+   "phone": "585-278-8360"
+  },
+  {
+   "name": "Dart Vaders",
+   "site": "Parlays Inn",
+   "captain": "Joe Porcaro",
+   "phone": "585-269-9655"
+  },
+  {
+   "name": "Id Hit That",
+   "site": "Coach",
+   "captain": "Russ Baumbarger",
+   "phone": "585-738-2404"
+  },
+  {
+   "name": "Liquor Box",
+   "site": "Noonans",
+   "captain": "Juan Rosado",
+   "phone": "585-729-3167"
+  },
+  {
+   "name": "ReDarted",
+   "site": "Merchants Grill",
+   "captain": "Carlos Ortiz",
+   "phone": "585-825-8660"
+  },
+  {
+   "name": "Rizm With The Tizm",
+   "site": "Kernys Pub",
+   "captain": "BJ Ashford",
+   "phone": "585-732-9238"
+  },
+  {
+   "name": "RRP Crew",
+   "site": "Empire Pub",
+   "captain": "Dean Affronti",
+   "phone": "585-576-6655"
+  },
+  {
+   "name": "Team Stinky",
+   "site": "Merchants Grill",
+   "captain": "Jeff Bush",
+   "phone": "585-469-8031"
+  },
+  {
+   "name": "Toasted Darts",
+   "site": "Toasted Bear",
+   "captain": "Dave Feist",
+   "phone": "585-749-7501"
+  },
+  {
+   "name": "Wrong Hole",
+   "site": "Turcotts Taproom",
+   "captain": "Tony Villani",
+   "phone": "585-743-0326"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-30",
+   "note": "",
+   "matches": [
+    [
+     "Liquor Box",
+     "Id Hit That"
+    ],
+    [
+     "Team Stinky",
+     "Bullshots"
+    ],
+    [
+     "Average Joes",
+     "Toasted Darts"
+    ],
+    [
+     "Dart Vaders",
+     "Wrong Hole"
+    ],
+    [
+     "Ask Bobby",
+     "Rizm With The Tizm"
+    ],
+    [
+     "RRP Crew",
+     "ReDarted"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-07",
+   "note": "",
+   "matches": [
+    [
+     "ReDarted",
+     "Id Hit That"
+    ],
+    [
+     "Rizm With The Tizm",
+     "RRP Crew"
+    ],
+    [
+     "Wrong Hole",
+     "Ask Bobby"
+    ],
+    [
+     "Toasted Darts",
+     "Dart Vaders"
+    ],
+    [
+     "Bullshots",
+     "Average Joes"
+    ],
+    [
+     "Liquor Box",
+     "Team Stinky"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-14",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "Dart Vaders"
+    ],
+    [
+     "Ask Bobby",
+     "Average Joes"
+    ],
+    [
+     "RRP Crew",
+     "Team Stinky"
+    ],
+    [
+     "ReDarted",
+     "Liquor Box"
+    ],
+    [
+     "Rizm With The Tizm",
+     "Bullshots"
+    ],
+    [
+     "Wrong Hole",
+     "Toasted Darts"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-21",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "Ask Bobby"
+    ],
+    [
+     "RRP Crew",
+     "Dart Vaders"
+    ],
+    [
+     "ReDarted",
+     "Average Joes"
+    ],
+    [
+     "Rizm With The Tizm",
+     "Team Stinky"
+    ],
+    [
+     "Wrong Hole",
+     "Liquor Box"
+    ],
+    [
+     "Toasted Darts",
+     "Bullshots"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-28",
+   "note": "",
+   "matches": [
+    [
+     "Bullshots",
+     "Id Hit That"
+    ],
+    [
+     "Liquor Box",
+     "Toasted Darts"
+    ],
+    [
+     "Team Stinky",
+     "Wrong Hole"
+    ],
+    [
+     "Average Joes",
+     "Rizm With The Tizm"
+    ],
+    [
+     "Dart Vaders",
+     "ReDarted"
+    ],
+    [
+     "Ask Bobby",
+     "RRP Crew"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-04",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "Average Joes"
+    ],
+    [
+     "Dart Vaders",
+     "Team Stinky"
+    ],
+    [
+     "Ask Bobby",
+     "Liquor Box"
+    ],
+    [
+     "RRP Crew",
+     "Bullshots"
+    ],
+    [
+     "ReDarted",
+     "Toasted Darts"
+    ],
+    [
+     "Rizm With The Tizm",
+     "Wrong Hole"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-11",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "RRP Crew"
+    ],
+    [
+     "ReDarted",
+     "Ask Bobby"
+    ],
+    [
+     "Rizm With The Tizm",
+     "Dart Vaders"
+    ],
+    [
+     "Wrong Hole",
+     "Average Joes"
+    ],
+    [
+     "Toasted Darts",
+     "Team Stinky"
+    ],
+    [
+     "Bullshots",
+     "Liquor Box"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-18",
+   "note": "",
+   "matches": [
+    [
+     "Wrong Hole",
+     "Id Hit That"
+    ],
+    [
+     "Toasted Darts",
+     "Rizm With The Tizm"
+    ],
+    [
+     "Bullshots",
+     "ReDarted"
+    ],
+    [
+     "Liquor Box",
+     "RRP Crew"
+    ],
+    [
+     "Team Stinky",
+     "Ask Bobby"
+    ],
+    [
+     "Average Joes",
+     "Dart Vaders"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-12-02",
+   "note": "Off 11/25- Thanksgiving Eve",
+   "matches": [
+    [
+     "Toasted Darts",
+     "Id Hit That"
+    ],
+    [
+     "Bullshots",
+     "Wrong Hole"
+    ],
+    [
+     "Liquor Box",
+     "Rizm With The Tizm"
+    ],
+    [
+     "Team Stinky",
+     "ReDarted"
+    ],
+    [
+     "Average Joes",
+     "RRP Crew"
+    ],
+    [
+     "Dart Vaders",
+     "Ask Bobby"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-09",
+   "note": "",
+   "matches": [
+    [
+     "Rizm With The Tizm",
+     "Id Hit That"
+    ],
+    [
+     "Wrong Hole",
+     "ReDarted"
+    ],
+    [
+     "Toasted Darts",
+     "RRP Crew"
+    ],
+    [
+     "Bullshots",
+     "Ask Bobby"
+    ],
+    [
+     "Liquor Box",
+     "Dart Vaders"
+    ],
+    [
+     "Team Stinky",
+     "Average Joes"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-16",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "Team Stinky"
+    ],
+    [
+     "Average Joes",
+     "Liquor Box"
+    ],
+    [
+     "Dart Vaders",
+     "Bullshots"
+    ],
+    [
+     "Ask Bobby",
+     "Toasted Darts"
+    ],
+    [
+     "RRP Crew",
+     "Wrong Hole"
+    ],
+    [
+     "ReDarted",
+     "Rizm With The Tizm"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2027-01-06",
+   "note": "Off 12/23 & 12/30- Can be used for makeups",
+   "matches": [
+    [
+     "Id Hit That",
+     "ReDarted"
+    ],
+    [
+     "RRP Crew",
+     "Rizm With The Tizm"
+    ],
+    [
+     "Ask Bobby",
+     "Wrong Hole"
+    ],
+    [
+     "Dart Vaders",
+     "Toasted Darts"
+    ],
+    [
+     "Average Joes",
+     "Bullshots"
+    ],
+    [
+     "Team Stinky",
+     "Liquor Box"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-13",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "Liquor Box"
+    ],
+    [
+     "Bullshots",
+     "Team Stinky"
+    ],
+    [
+     "Toasted Darts",
+     "Average Joes"
+    ],
+    [
+     "Wrong Hole",
+     "Dart Vaders"
+    ],
+    [
+     "Rizm With The Tizm",
+     "Ask Bobby"
+    ],
+    [
+     "ReDarted",
+     "RRP Crew"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-20",
+   "note": "",
+   "matches": [
+    [
+     "RRP Crew",
+     "Id Hit That"
+    ],
+    [
+     "Ask Bobby",
+     "ReDarted"
+    ],
+    [
+     "Dart Vaders",
+     "Rizm With The Tizm"
+    ],
+    [
+     "Average Joes",
+     "Wrong Hole"
+    ],
+    [
+     "Team Stinky",
+     "Toasted Darts"
+    ],
+    [
+     "Liquor Box",
+     "Bullshots"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-27",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "Bullshots"
+    ],
+    [
+     "Toasted Darts",
+     "Liquor Box"
+    ],
+    [
+     "Wrong Hole",
+     "Team Stinky"
+    ],
+    [
+     "Rizm With The Tizm",
+     "Average Joes"
+    ],
+    [
+     "ReDarted",
+     "Dart Vaders"
+    ],
+    [
+     "RRP Crew",
+     "Ask Bobby"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-02-03",
+   "note": "",
+   "matches": [
+    [
+     "Ask Bobby",
+     "Id Hit That"
+    ],
+    [
+     "Dart Vaders",
+     "RRP Crew"
+    ],
+    [
+     "Average Joes",
+     "ReDarted"
+    ],
+    [
+     "Team Stinky",
+     "Rizm With The Tizm"
+    ],
+    [
+     "Liquor Box",
+     "Wrong Hole"
+    ],
+    [
+     "Bullshots",
+     "Toasted Darts"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-10",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "Toasted Darts"
+    ],
+    [
+     "Wrong Hole",
+     "Bullshots"
+    ],
+    [
+     "Rizm With The Tizm",
+     "Liquor Box"
+    ],
+    [
+     "ReDarted",
+     "Team Stinky"
+    ],
+    [
+     "RRP Crew",
+     "Average Joes"
+    ],
+    [
+     "Ask Bobby",
+     "Dart Vaders"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-17",
+   "note": "",
+   "matches": [
+    [
+     "Dart Vaders",
+     "Id Hit That"
+    ],
+    [
+     "Average Joes",
+     "Ask Bobby"
+    ],
+    [
+     "Team Stinky",
+     "RRP Crew"
+    ],
+    [
+     "Liquor Box",
+     "ReDarted"
+    ],
+    [
+     "Bullshots",
+     "Rizm With The Tizm"
+    ],
+    [
+     "Toasted Darts",
+     "Wrong Hole"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-24",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "Wrong Hole"
+    ],
+    [
+     "Rizm With The Tizm",
+     "Toasted Darts"
+    ],
+    [
+     "ReDarted",
+     "Bullshots"
+    ],
+    [
+     "RRP Crew",
+     "Liquor Box"
+    ],
+    [
+     "Ask Bobby",
+     "Team Stinky"
+    ],
+    [
+     "Dart Vaders",
+     "Average Joes"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-03",
+   "note": "",
+   "matches": [
+    [
+     "Average Joes",
+     "Id Hit That"
+    ],
+    [
+     "Team Stinky",
+     "Dart Vaders"
+    ],
+    [
+     "Liquor Box",
+     "Ask Bobby"
+    ],
+    [
+     "Bullshots",
+     "RRP Crew"
+    ],
+    [
+     "Toasted Darts",
+     "ReDarted"
+    ],
+    [
+     "Wrong Hole",
+     "Rizm With The Tizm"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-10",
+   "note": "",
+   "matches": [
+    [
+     "Id Hit That",
+     "Rizm With The Tizm"
+    ],
+    [
+     "ReDarted",
+     "Wrong Hole"
+    ],
+    [
+     "RRP Crew",
+     "Toasted Darts"
+    ],
+    [
+     "Ask Bobby",
+     "Bullshots"
+    ],
+    [
+     "Dart Vaders",
+     "Liquor Box"
+    ],
+    [
+     "Average Joes",
+     "Team Stinky"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-24",
+   "note": "Off 3/17- St. Patrick's Day",
+   "matches": [
+    [
+     "Team Stinky",
+     "Id Hit That"
+    ],
+    [
+     "Liquor Box",
+     "Average Joes"
+    ],
+    [
+     "Bullshots",
+     "Dart Vaders"
+    ],
+    [
+     "Toasted Darts",
+     "Ask Bobby"
+    ],
+    [
+     "Wrong Hole",
+     "RRP Crew"
+    ],
+    [
+     "Rizm With The Tizm",
+     "ReDarted"
+    ]
+   ]
+  },
+  {
+   "week": 23,
+   "date": "2027-03-31",
+   "note": "Use 3/31 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "BRU",
+   "machines": 1,
+   "phone": "585-227-7658",
+   "address": "3208 Latta Rd, Rochester, NY 14612"
+  },
+  {
+   "name": "Coach",
+   "machines": 2,
+   "phone": "585-872-2910",
+   "address": "19 W Main St, Webster, NY 14580"
+  },
+  {
+   "name": "Colters",
+   "machines": 2,
+   "phone": "288-6115",
+   "address": "262 Winton Rd. N, Rochester, NY 14610"
+  },
+  {
+   "name": "Empire Pub",
+   "machines": 2,
+   "phone": "585-671-4386",
+   "address": "2014 Empire Blvd., Webster, NY 14580"
+  },
+  {
+   "name": "Kernys Pub",
+   "machines": 2,
+   "phone": "585-978-7000",
+   "address": "2001 E Main Street, Rochester, NY 14609"
+  },
+  {
+   "name": "MCs Dugout",
+   "machines": 2,
+   "phone": "585-448-0555",
+   "address": "1370 BUFFALO RD., ROCHESTER, NY 14624"
+  },
+  {
+   "name": "Merchants Grill",
+   "machines": 2,
+   "phone": "585-482-2010",
+   "address": "881 Merchants Rd, Rochester, NY 14609"
+  },
+  {
+   "name": "Noonans",
+   "machines": 2,
+   "phone": "585-865-7460",
+   "address": "3170 Lake Ave, Rochester, NY 14612"
+  },
+  {
+   "name": "Parlays Inn",
+   "machines": 3,
+   "phone": "",
+   "address": "250 Monroe Ave, Rochester, NY 14610"
+  },
+  {
+   "name": "Toasted Bear",
+   "machines": 2,
+   "phone": "585-434-3784",
+   "address": "989 S Clinton Ave., Rochester, NY 14620"
+  },
+  {
+   "name": "Turcotts Taproom",
+   "machines": 2,
+   "phone": "585-271-0339",
+   "address": "630 Monroe Ave, Rochester, NY 14607"
+  }
+ ],
+ "updated": "2026-10-22T01:41:11Z"
+}

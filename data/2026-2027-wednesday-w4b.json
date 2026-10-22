@@ -1,0 +1,1784 @@
+{
+ "league": {
+  "title": "Wednesday 4 Player B",
+  "location": "6W4B"
+ },
+ "standings": [
+  [
+   "Tip Deep",
+   36,
+   16
+  ],
+  [
+   "Yearoff",
+   27,
+   12
+  ],
+  [
+   "Gameday",
+   30,
+   22
+  ],
+  [
+   "OGs",
+   28,
+   24
+  ],
+  [
+   "BullsHitters",
+   26,
+   26
+  ],
+  [
+   "Almost There",
+   20,
+   32
+  ],
+  [
+   "Anotha One",
+   12,
+   27
+  ],
+  [
+   "FTO",
+   16,
+   36
+  ]
+ ],
+ "results": [
+  [
+   "Yearoff",
+   "Almost There",
+   "10/21/2026",
+   4,
+   11,
+   2
+  ],
+  [
+   "BullsHitters",
+   "FTO",
+   "10/21/2026",
+   4,
+   10,
+   3
+  ],
+  [
+   "Gameday",
+   "Anotha One",
+   "10/21/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "OGs",
+   "Tip Deep",
+   "10/21/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Tip Deep",
+   "OGs",
+   "10/21/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Anotha One",
+   "Gameday",
+   "10/21/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "FTO",
+   "BullsHitters",
+   "10/21/2026",
+   4,
+   3,
+   10
+  ],
+  [
+   "Almost There",
+   "Yearoff",
+   "10/21/2026",
+   4,
+   2,
+   11
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Tom Clark",
+    "Yearoff",
+    1.67,
+    1.97
+   ],
+   [
+    "Paul Cerquia",
+    "OGs",
+    1.32,
+    1.42
+   ],
+   [
+    "Mike Ribis",
+    "Gameday",
+    1.81,
+    1.89
+   ]
+  ],
+  "x": [
+   [
+    "Tom Clark",
+    "Yearoff",
+    15.4,
+    18.03
+   ],
+   [
+    "Tom Armstrong",
+    "Yearoff",
+    20.34,
+    22.44
+   ],
+   [
+    "Matt Horst",
+    "FTO",
+    15.13,
+    16.92
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Brian Henner",
+   "Yearoff",
+   2.66,
+   3,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Tom Armstrong",
+   "Yearoff",
+   2.49,
+   9,
+   4,
+   3,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jeff Every",
+   "FTO",
+   2.42,
+   3,
+   1,
+   2,
+   1,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jojo Goodrell",
+   "Gameday",
+   2.42,
+   3,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Willie Szabo",
+   "Yearoff",
+   2.38,
+   9,
+   3,
+   4,
+   0,
+   0,
+   2,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Jason Stitt",
+   "Tip Deep",
+   2.33,
+   12,
+   6,
+   4,
+   0,
+   0,
+   6,
+   0,
+   3,
+   0,
+   0
+  ],
+  [
+   "Brent Ayers",
+   "OGs",
+   2.22,
+   12,
+   1,
+   8,
+   0,
+   0,
+   4,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matt Horst",
+   "FTO",
+   2.21,
+   9,
+   1,
+   2,
+   0,
+   0,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Tom Barnard",
+   "Tip Deep",
+   2.21,
+   12,
+   2,
+   7,
+   0,
+   0,
+   8,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Kelly",
+   "OGs",
+   2.2,
+   12,
+   5,
+   2,
+   0,
+   0,
+   1,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Mark Pomponio",
+   "Almost There",
+   2.15,
+   12,
+   3,
+   2,
+   0,
+   0,
+   3,
+   1,
+   0,
+   1,
+   0
+  ],
+  [
+   "Paul Lane",
+   "Tip Deep",
+   2.13,
+   12,
+   8,
+   2,
+   1,
+   0,
+   3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Tom Clark",
+   "Yearoff",
+   1.97,
+   6,
+   3,
+   1,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Ehmann",
+   "Anotha One",
+   1.97,
+   9,
+   4,
+   0,
+   1,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dean Nicosia",
+   "BullsHitters",
+   1.95,
+   12,
+   4,
+   0,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Donovan Caraballo",
+   "BullsHitters",
+   1.95,
+   12,
+   2,
+   5,
+   1,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Ribis",
+   "Gameday",
+   1.89,
+   12,
+   4,
+   4,
+   0,
+   0,
+   1,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Kea",
+   "BullsHitters",
+   1.87,
+   12,
+   3,
+   2,
+   0,
+   0,
+   3,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Cole DeClerck",
+   "Anotha One",
+   1.85,
+   9,
+   2,
+   0,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Steve Kent",
+   "FTO",
+   1.84,
+   12,
+   5,
+   0,
+   0,
+   1,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jim Gates",
+   "Gameday",
+   1.8,
+   9,
+   4,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Robert Crew",
+   "OGs",
+   1.73,
+   9,
+   4,
+   3,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Peter Guerrieri",
+   "Gameday",
+   1.67,
+   12,
+   3,
+   4,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake Calabrese",
+   "OGs",
+   1.65,
+   6,
+   2,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dan Brocht",
+   "BullsHitters",
+   1.57,
+   9,
+   1,
+   1,
+   1,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "David Gagliano",
+   "Tip Deep",
+   1.55,
+   12,
+   2,
+   5,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Kyle Foelsch",
+   "Yearoff",
+   1.54,
+   9,
+   1,
+   4,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tom Clonch",
+   "Almost There",
+   1.52,
+   9,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "ROB CUTT",
+   "{Substitutes}",
+   1.5,
+   3,
+   0,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Pete Guerrieri",
+   "Gameday",
+   1.46,
+   12,
+   2,
+   4,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dennis Manning",
+   "Almost There",
+   1.45,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dennis Obrien",
+   "Almost There",
+   1.44,
+   12,
+   0,
+   2,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Paul Cerquia",
+   "OGs",
+   1.42,
+   9,
+   2,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Michael Irish",
+   "Almost There",
+   1.38,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Kevin Kupicha",
+   "Anotha One",
+   1.3,
+   9,
+   0,
+   3,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Toma",
+   "FTO",
+   1.24,
+   12,
+   1,
+   4,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Evan Mulvehil",
+   "Anotha One",
+   1.23,
+   9,
+   0,
+   3,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matt Shapiro",
+   "FTO",
+   1.05,
+   12,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Jeff Every",
+   "FTO",
+   26.74,
+   4,
+   1,
+   0,
+   0,
+   1,
+   1,
+   3
+  ],
+  [
+   "Jojo Goodrell",
+   "Gameday",
+   23.49,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Tom Armstrong",
+   "Yearoff",
+   22.44,
+   12,
+   5,
+   2,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Brian Henner",
+   "Yearoff",
+   22.34,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Dean Nicosia",
+   "BullsHitters",
+   21.9,
+   16,
+   8,
+   2,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Willie Szabo",
+   "Yearoff",
+   21.85,
+   12,
+   8,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Mark Pomponio",
+   "Almost There",
+   21.46,
+   16,
+   7,
+   0,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Jason Stitt",
+   "Tip Deep",
+   21.09,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Mike Ribis",
+   "Gameday",
+   20.45,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Paul Lane",
+   "Tip Deep",
+   19.88,
+   16,
+   4,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Tom Clonch",
+   "Almost There",
+   19.46,
+   12,
+   6,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Brent Ayers",
+   "OGs",
+   19.05,
+   16,
+   6,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Jason Ehmann",
+   "Anotha One",
+   18.97,
+   12,
+   2,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Donovan Caraballo",
+   "BullsHitters",
+   18.58,
+   16,
+   5,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Mike Kelly",
+   "OGs",
+   18.41,
+   16,
+   2,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Tom Barnard",
+   "Tip Deep",
+   18.09,
+   16,
+   7,
+   1,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Tom Clark",
+   "Yearoff",
+   18.03,
+   8,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Paul Cerquia",
+   "OGs",
+   17.76,
+   12,
+   4,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Pete Guerrieri",
+   "Gameday",
+   17.74,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Steve Kent",
+   "FTO",
+   17.69,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Matt Horst",
+   "FTO",
+   16.92,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Brian Kea",
+   "BullsHitters",
+   16.63,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Cole DeClerck",
+   "Anotha One",
+   16.54,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Michael Irish",
+   "Almost There",
+   16.48,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Peter Guerrieri",
+   "Gameday",
+   16.45,
+   16,
+   1,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Jake Calabrese",
+   "OGs",
+   16.24,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Kyle Foelsch",
+   "Yearoff",
+   16.18,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Dan Brocht",
+   "BullsHitters",
+   15.82,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Dennis Obrien",
+   "Almost There",
+   15.82,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Robert Crew",
+   "OGs",
+   15.72,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "David Gagliano",
+   "Tip Deep",
+   15.37,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Evan Mulvehil",
+   "Anotha One",
+   15.25,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Mike Toma",
+   "FTO",
+   15.18,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "ROB CUTT",
+   "{Substitutes}",
+   14.94,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Matt Shapiro",
+   "FTO",
+   14.81,
+   16,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Dennis Manning",
+   "Almost There",
+   14.73,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Kupicha",
+   "Anotha One",
+   14.5,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Jim Gates",
+   "Gameday",
+   13.73,
+   12,
+   4,
+   0,
+   0,
+   0,
+   0,
+   1
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Almost There",
+   "site": "TJ Ryans",
+   "captain": "Dennis Obrien",
+   "phone": "585-645-2077"
+  },
+  {
+   "name": "Anotha One",
+   "site": "Toasted Bear",
+   "captain": "Kevin Kupicha",
+   "phone": "585-802-7238"
+  },
+  {
+   "name": "BullsHitters",
+   "site": "MCs Dugout",
+   "captain": "Dean Nicosia",
+   "phone": "585-750-9772"
+  },
+  {
+   "name": "FTO",
+   "site": "Back To My Place",
+   "captain": "Matt Shapiro",
+   "phone": "585-305-7099"
+  },
+  {
+   "name": "Gameday",
+   "site": "Gameday",
+   "captain": "Pete Guerrieri",
+   "phone": "585-755-2605"
+  },
+  {
+   "name": "OGs",
+   "site": "Gameday",
+   "captain": "Brent Ayers",
+   "phone": "585-314-3273"
+  },
+  {
+   "name": "Tip Deep",
+   "site": "Gameday",
+   "captain": "Jason Stitt",
+   "phone": "585-506-5473"
+  },
+  {
+   "name": "Yearoff",
+   "site": "Docksiders",
+   "captain": "Tom Clark",
+   "phone": "585-415-5374"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-30",
+   "note": "",
+   "matches": [
+    [
+     "FTO",
+     "Tip Deep"
+    ],
+    [
+     "Yearoff",
+     "Gameday"
+    ],
+    [
+     "Almost There",
+     "BullsHitters"
+    ],
+    [
+     "OGs",
+     "Anotha One"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-07",
+   "note": "",
+   "matches": [
+    [
+     "Gameday",
+     "FTO"
+    ],
+    [
+     "Tip Deep",
+     "BullsHitters"
+    ],
+    [
+     "Anotha One",
+     "Yearoff"
+    ],
+    [
+     "Almost There",
+     "OGs"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-14",
+   "note": "",
+   "matches": [
+    [
+     "FTO",
+     "Almost There"
+    ],
+    [
+     "OGs",
+     "Yearoff"
+    ],
+    [
+     "Anotha One",
+     "Tip Deep"
+    ],
+    [
+     "Gameday",
+     "BullsHitters"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-21",
+   "note": "",
+   "matches": [
+    [
+     "BullsHitters",
+     "FTO"
+    ],
+    [
+     "Gameday",
+     "Anotha One"
+    ],
+    [
+     "Tip Deep",
+     "OGs"
+    ],
+    [
+     "Yearoff",
+     "Almost There"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-28",
+   "note": "",
+   "matches": [
+    [
+     "FTO",
+     "Yearoff"
+    ],
+    [
+     "Tip Deep",
+     "Almost There"
+    ],
+    [
+     "OGs",
+     "Gameday"
+    ],
+    [
+     "Anotha One",
+     "BullsHitters"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-04",
+   "note": "",
+   "matches": [
+    [
+     "Anotha One",
+     "FTO"
+    ],
+    [
+     "OGs",
+     "BullsHitters"
+    ],
+    [
+     "Gameday",
+     "Almost There"
+    ],
+    [
+     "Tip Deep",
+     "Yearoff"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-11",
+   "note": "",
+   "matches": [
+    [
+     "OGs",
+     "FTO"
+    ],
+    [
+     "Anotha One",
+     "Almost There"
+    ],
+    [
+     "Yearoff",
+     "BullsHitters"
+    ],
+    [
+     "Gameday",
+     "Tip Deep"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-18",
+   "note": "",
+   "matches": [
+    [
+     "FTO",
+     "OGs"
+    ],
+    [
+     "Almost There",
+     "Anotha One"
+    ],
+    [
+     "BullsHitters",
+     "Yearoff"
+    ],
+    [
+     "Tip Deep",
+     "Gameday"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-12-02",
+   "note": "Off 11/25- Thanksgiving Eve",
+   "matches": [
+    [
+     "FTO",
+     "Gameday"
+    ],
+    [
+     "BullsHitters",
+     "Tip Deep"
+    ],
+    [
+     "Yearoff",
+     "Anotha One"
+    ],
+    [
+     "OGs",
+     "Almost There"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-09",
+   "note": "",
+   "matches": [
+    [
+     "Almost There",
+     "FTO"
+    ],
+    [
+     "Yearoff",
+     "OGs"
+    ],
+    [
+     "Tip Deep",
+     "Anotha One"
+    ],
+    [
+     "BullsHitters",
+     "Gameday"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-16",
+   "note": "",
+   "matches": [
+    [
+     "BullsHitters",
+     "FTO"
+    ],
+    [
+     "Anotha One",
+     "Gameday"
+    ],
+    [
+     "OGs",
+     "Tip Deep"
+    ],
+    [
+     "Almost There",
+     "Yearoff"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2027-01-06",
+   "note": "Off 12/30 & 12/30- Can be used for makeups",
+   "matches": [
+    [
+     "Yearoff",
+     "FTO"
+    ],
+    [
+     "Almost There",
+     "Tip Deep"
+    ],
+    [
+     "Gameday",
+     "OGs"
+    ],
+    [
+     "BullsHitters",
+     "Anotha One"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-13",
+   "note": "",
+   "matches": [
+    [
+     "FTO",
+     "Anotha One"
+    ],
+    [
+     "BullsHitters",
+     "OGs"
+    ],
+    [
+     "Almost There",
+     "Gameday"
+    ],
+    [
+     "Yearoff",
+     "Tip Deep"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-20",
+   "note": "",
+   "matches": [
+    [
+     "Tip Deep",
+     "FTO"
+    ],
+    [
+     "Gameday",
+     "Yearoff"
+    ],
+    [
+     "Almost There",
+     "BullsHitters"
+    ],
+    [
+     "Anotha One",
+     "OGs"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-27",
+   "note": "",
+   "matches": [
+    [
+     "OGs",
+     "FTO"
+    ],
+    [
+     "Anotha One",
+     "Almost There"
+    ],
+    [
+     "Yearoff",
+     "BullsHitters"
+    ],
+    [
+     "Gameday",
+     "Tip Deep"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-02-03",
+   "note": "",
+   "matches": [
+    [
+     "Gameday",
+     "FTO"
+    ],
+    [
+     "Tip Deep",
+     "BullsHitters"
+    ],
+    [
+     "Yearoff",
+     "Anotha One"
+    ],
+    [
+     "Almost There",
+     "OGs"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-10",
+   "note": "",
+   "matches": [
+    [
+     "FTO",
+     "Almost There"
+    ],
+    [
+     "OGs",
+     "Yearoff"
+    ],
+    [
+     "Anotha One",
+     "Tip Deep"
+    ],
+    [
+     "BullsHitters",
+     "Gameday"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-17",
+   "note": "",
+   "matches": [
+    [
+     "FTO",
+     "BullsHitters"
+    ],
+    [
+     "Gameday",
+     "Anotha One"
+    ],
+    [
+     "Tip Deep",
+     "OGs"
+    ],
+    [
+     "Yearoff",
+     "Almost There"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-24",
+   "note": "",
+   "matches": [
+    [
+     "Anotha One",
+     "FTO"
+    ],
+    [
+     "BullsHitters",
+     "OGs"
+    ],
+    [
+     "Gameday",
+     "Almost There"
+    ],
+    [
+     "Tip Deep",
+     "Yearoff"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-03",
+   "note": "",
+   "matches": [
+    [
+     "FTO",
+     "Yearoff"
+    ],
+    [
+     "Almost There",
+     "Tip Deep"
+    ],
+    [
+     "OGs",
+     "Gameday"
+    ],
+    [
+     "Anotha One",
+     "BullsHitters"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-10",
+   "note": "",
+   "matches": [
+    [
+     "FTO",
+     "Tip Deep"
+    ],
+    [
+     "Yearoff",
+     "Gameday"
+    ],
+    [
+     "BullsHitters",
+     "Almost There"
+    ],
+    [
+     "OGs",
+     "Anotha One"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-17",
+   "note": "St. Patrick's Day",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-24",
+   "note": "Use 3/24 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-31",
+   "note": "Use 3/31 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "Docksiders",
+   "machines": 1,
+   "phone": "585-366-4616",
+   "address": "416 Manitou Rd, Hilton, NY 14468"
+  },
+  {
+   "name": "Gameday",
+   "machines": 4,
+   "phone": "",
+   "address": "730 Elmgrove Rd, Rochester, NY 14624"
+  },
+  {
+   "name": "MCs Dugout",
+   "machines": 2,
+   "phone": "585-448-0555",
+   "address": "1370 BUFFALO RD., ROCHESTER, NY 14624"
+  },
+  {
+   "name": "TJ Ryans",
+   "machines": 2,
+   "phone": "585-388-1305",
+   "address": "49 N Main St, Fairport, NY 14610"
+  },
+  {
+   "name": "Toasted Bear",
+   "machines": 2,
+   "phone": "585-434-3784",
+   "address": "989 S Clinton Ave., Rochester, NY 14620"
+  }
+ ],
+ "updated": "2026-10-22T01:41:04Z"
+}

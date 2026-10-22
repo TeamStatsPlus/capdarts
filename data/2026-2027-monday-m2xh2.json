@@ -1,0 +1,1202 @@
+{
+ "league": {
+  "title": "Monday 2 Player X Hand 2",
+  "location": "6M2XH2"
+ },
+ "standings": [
+  [
+   "Galactic Platypus",
+   34,
+   18
+  ],
+  [
+   "Kookeez Krumble",
+   34,
+   18
+  ],
+  [
+   "Oh Look Butterflies",
+   24,
+   15
+  ],
+  [
+   "ApologiseNow",
+   29,
+   23
+  ],
+  [
+   "CHEERS",
+   26,
+   26
+  ],
+  [
+   "Game Of Throws",
+   14,
+   25
+  ],
+  [
+   "APA",
+   9,
+   17
+  ],
+  [
+   "Snuggs Snipers",
+   12,
+   40
+  ]
+ ],
+ "results": [
+  [
+   "Galactic Platypus",
+   "Game Of Throws",
+   "10/19/2026",
+   4,
+   11,
+   2
+  ],
+  [
+   "ApologiseNow",
+   "Snuggs Snipers",
+   "10/19/2026",
+   4,
+   9,
+   4
+  ],
+  [
+   "Oh Look Butterflies",
+   "ApologiseNow",
+   "10/12/2026",
+   3,
+   9,
+   4
+  ],
+  [
+   "Kookeez Krumble",
+   "CHEERS",
+   "10/19/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "CHEERS",
+   "Kookeez Krumble",
+   "10/19/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "APA",
+   "CHEERS",
+   "10/05/2026",
+   2,
+   5,
+   8
+  ],
+  [
+   "Snuggs Snipers",
+   "ApologiseNow",
+   "10/19/2026",
+   4,
+   4,
+   9
+  ],
+  [
+   "Game Of Throws",
+   "Galactic Platypus",
+   "10/19/2026",
+   4,
+   2,
+   11
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Hector Hernandez",
+    "Kookeez Krumble",
+    2.48,
+    2.6
+   ],
+   [
+    "Mike Infantino",
+    "Galactic Platypus",
+    2.54,
+    2.64
+   ],
+   [
+    "Todd Keller",
+    "CHEERS",
+    2.21,
+    2.3
+   ]
+  ],
+  "x": [
+   [
+    "Alli Distler",
+    "Galactic Platypus",
+    18.31,
+    19.46
+   ],
+   [
+    "Shaun Stocking",
+    "CHEERS",
+    27.45,
+    28.1
+   ],
+   [
+    "Desmond Parris",
+    "Kookeez Krumble",
+    23.66,
+    24.26
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Shaun Stocking",
+   "CHEERS",
+   3.2,
+   24,
+   7,
+   4,
+   2,
+   0,
+   20,
+   10,
+   5,
+   1,
+   1
+  ],
+  [
+   "Jim Gangarossa",
+   "Oh Look Butterflies",
+   2.9,
+   18,
+   6,
+   9,
+   2,
+   0,
+   9,
+   7,
+   3,
+   0,
+   1
+  ],
+  [
+   "Dillen Malone",
+   "Oh Look Butterflies",
+   2.7,
+   18,
+   9,
+   6,
+   2,
+   0,
+   9,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Mike Infantino",
+   "Galactic Platypus",
+   2.64,
+   24,
+   15,
+   3,
+   1,
+   0,
+   11,
+   1,
+   3,
+   1,
+   1
+  ],
+  [
+   "Hector Hernandez",
+   "Kookeez Krumble",
+   2.6,
+   24,
+   10,
+   4,
+   0,
+   0,
+   15,
+   4,
+   4,
+   0,
+   0
+  ],
+  [
+   "Zach Baker",
+   "APA",
+   2.49,
+   12,
+   3,
+   2,
+   0,
+   0,
+   6,
+   2,
+   5,
+   0,
+   0
+  ],
+  [
+   "Will Zimmer",
+   "Game Of Throws",
+   2.45,
+   18,
+   2,
+   4,
+   0,
+   0,
+   4,
+   5,
+   2,
+   0,
+   0
+  ],
+  [
+   "Matt Ferugia",
+   "APA",
+   2.32,
+   12,
+   2,
+   3,
+   0,
+   0,
+   6,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Todd Keller",
+   "CHEERS",
+   2.3,
+   24,
+   4,
+   7,
+   0,
+   0,
+   9,
+   5,
+   2,
+   0,
+   0
+  ],
+  [
+   "Desmond Parris",
+   "Kookeez Krumble",
+   2.3,
+   24,
+   4,
+   10,
+   0,
+   0,
+   14,
+   8,
+   0,
+   0,
+   1
+  ],
+  [
+   "Todd Guichard",
+   "ApologiseNow",
+   2.29,
+   24,
+   8,
+   3,
+   0,
+   0,
+   3,
+   3,
+   4,
+   0,
+   0
+  ],
+  [
+   "Mian Saladeen",
+   "ApologiseNow",
+   2.22,
+   24,
+   3,
+   8,
+   0,
+   0,
+   12,
+   2,
+   1,
+   1,
+   0
+  ],
+  [
+   "Alli Distler",
+   "Galactic Platypus",
+   2.22,
+   24,
+   3,
+   15,
+   0,
+   0,
+   11,
+   5,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jamie Rialdi",
+   "Game Of Throws",
+   1.95,
+   18,
+   4,
+   2,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rowdy Woodworth",
+   "Snuggs Snipers",
+   1.91,
+   24,
+   1,
+   3,
+   1,
+   0,
+   3,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Laffin",
+   "Snuggs Snipers",
+   1.85,
+   24,
+   3,
+   1,
+   0,
+   0,
+   4,
+   2,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Shaun Stocking",
+   "CHEERS",
+   28.1,
+   28,
+   11,
+   6,
+   0,
+   0,
+   3,
+   42
+  ],
+  [
+   "Dillen Malone",
+   "Oh Look Butterflies",
+   26.04,
+   21,
+   5,
+   5,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Mike Infantino",
+   "Galactic Platypus",
+   26.04,
+   28,
+   9,
+   5,
+   0,
+   0,
+   1,
+   38
+  ],
+  [
+   "Jim Gangarossa",
+   "Oh Look Butterflies",
+   25.24,
+   21,
+   4,
+   5,
+   1,
+   0,
+   3,
+   17
+  ],
+  [
+   "Desmond Parris",
+   "Kookeez Krumble",
+   24.26,
+   28,
+   12,
+   5,
+   0,
+   0,
+   0,
+   25
+  ],
+  [
+   "Hector Hernandez",
+   "Kookeez Krumble",
+   24.08,
+   28,
+   8,
+   4,
+   0,
+   0,
+   0,
+   35
+  ],
+  [
+   "Will Zimmer",
+   "Game Of Throws",
+   23.97,
+   21,
+   4,
+   2,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Zach Baker",
+   "APA",
+   22.59,
+   14,
+   3,
+   4,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Jamie Rialdi",
+   "Game Of Throws",
+   21.74,
+   21,
+   4,
+   1,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
+   "Todd Keller",
+   "CHEERS",
+   20.78,
+   28,
+   4,
+   2,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Mian Saladeen",
+   "ApologiseNow",
+   20.57,
+   28,
+   11,
+   0,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Todd Guichard",
+   "ApologiseNow",
+   20.27,
+   28,
+   6,
+   2,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Alli Distler",
+   "Galactic Platypus",
+   19.46,
+   28,
+   7,
+   2,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "Shawn Laffin",
+   "Snuggs Snipers",
+   19.04,
+   28,
+   3,
+   0,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
+   "Rowdy Woodworth",
+   "Snuggs Snipers",
+   18.31,
+   28,
+   5,
+   1,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Matt Ferugia",
+   "APA",
+   16.6,
+   14,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ]
+ ],
+ "teams": [
+  {
+   "name": "APA",
+   "site": "MCs Dugout",
+   "captain": "Matt Ferugia",
+   "phone": "585-478-2523"
+  },
+  {
+   "name": "ApologiseNow",
+   "site": "Dougies",
+   "captain": "Mian Saladeen",
+   "phone": "585-201-2000"
+  },
+  {
+   "name": "CHEERS",
+   "site": "Retreat",
+   "captain": "Shaun Stocking",
+   "phone": "585-820-6488"
+  },
+  {
+   "name": "Galactic Platypus",
+   "site": "Russell Station",
+   "captain": "Mike Infantino",
+   "phone": "585-506-2518"
+  },
+  {
+   "name": "Game Of Throws",
+   "site": "BRU",
+   "captain": "Will Zimmer",
+   "phone": "585-329-6235"
+  },
+  {
+   "name": "Kookeez Krumble",
+   "site": "Firehouse Saloon",
+   "captain": "Hector Hernandez",
+   "phone": "585-230-2012"
+  },
+  {
+   "name": "Oh Look Butterflies",
+   "site": "My Apartment Bar",
+   "captain": "Jim Gangarossa",
+   "phone": "585-622-5122"
+  },
+  {
+   "name": "Snuggs Snipers",
+   "site": "J AndE Meeting Place",
+   "captain": "Shawn Laffin",
+   "phone": "585-704-6928"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-28",
+   "note": "",
+   "matches": [
+    [
+     "Galactic Platypus",
+     "Snuggs Snipers"
+    ],
+    [
+     "APA",
+     "Kookeez Krumble"
+    ],
+    [
+     "ApologiseNow",
+     "CHEERS"
+    ],
+    [
+     "Oh Look Butterflies",
+     "Game Of Throws"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-05",
+   "note": "",
+   "matches": [
+    [
+     "Oh Look Butterflies",
+     "Snuggs Snipers"
+    ],
+    [
+     "Game Of Throws",
+     "ApologiseNow"
+    ],
+    [
+     "CHEERS",
+     "APA"
+    ],
+    [
+     "Kookeez Krumble",
+     "Galactic Platypus"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-12",
+   "note": "",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "Kookeez Krumble"
+    ],
+    [
+     "Galactic Platypus",
+     "CHEERS"
+    ],
+    [
+     "APA",
+     "Game Of Throws"
+    ],
+    [
+     "ApologiseNow",
+     "Oh Look Butterflies"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-19",
+   "note": "",
+   "matches": [
+    [
+     "ApologiseNow",
+     "Snuggs Snipers"
+    ],
+    [
+     "Oh Look Butterflies",
+     "APA"
+    ],
+    [
+     "Game Of Throws",
+     "Galactic Platypus"
+    ],
+    [
+     "CHEERS",
+     "Kookeez Krumble"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-26",
+   "note": "",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "CHEERS"
+    ],
+    [
+     "Kookeez Krumble",
+     "Game Of Throws"
+    ],
+    [
+     "Galactic Platypus",
+     "Oh Look Butterflies"
+    ],
+    [
+     "APA",
+     "ApologiseNow"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-02",
+   "note": "",
+   "matches": [
+    [
+     "APA",
+     "Snuggs Snipers"
+    ],
+    [
+     "ApologiseNow",
+     "Galactic Platypus"
+    ],
+    [
+     "Oh Look Butterflies",
+     "Kookeez Krumble"
+    ],
+    [
+     "Game Of Throws",
+     "CHEERS"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-09",
+   "note": "",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "Game Of Throws"
+    ],
+    [
+     "CHEERS",
+     "Oh Look Butterflies"
+    ],
+    [
+     "Kookeez Krumble",
+     "ApologiseNow"
+    ],
+    [
+     "Galactic Platypus",
+     "APA"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-16",
+   "note": "",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "Oh Look Butterflies"
+    ],
+    [
+     "ApologiseNow",
+     "Game Of Throws"
+    ],
+    [
+     "APA",
+     "CHEERS"
+    ],
+    [
+     "Galactic Platypus",
+     "Kookeez Krumble"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-23",
+   "note": "",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "Galactic Platypus"
+    ],
+    [
+     "Kookeez Krumble",
+     "APA"
+    ],
+    [
+     "CHEERS",
+     "ApologiseNow"
+    ],
+    [
+     "Game Of Throws",
+     "Oh Look Butterflies"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-11-30",
+   "note": "",
+   "matches": [
+    [
+     "Kookeez Krumble",
+     "Snuggs Snipers"
+    ],
+    [
+     "CHEERS",
+     "Galactic Platypus"
+    ],
+    [
+     "Game Of Throws",
+     "APA"
+    ],
+    [
+     "Oh Look Butterflies",
+     "ApologiseNow"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-07",
+   "note": "",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "ApologiseNow"
+    ],
+    [
+     "APA",
+     "Oh Look Butterflies"
+    ],
+    [
+     "Galactic Platypus",
+     "Game Of Throws"
+    ],
+    [
+     "Kookeez Krumble",
+     "CHEERS"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-14",
+   "note": "",
+   "matches": [
+    [
+     "CHEERS",
+     "Snuggs Snipers"
+    ],
+    [
+     "Game Of Throws",
+     "Kookeez Krumble"
+    ],
+    [
+     "Oh Look Butterflies",
+     "Galactic Platypus"
+    ],
+    [
+     "ApologiseNow",
+     "APA"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-04",
+   "note": "Off 12/21 & 12/28- Can be used for Makeup Matches",
+   "matches": [
+    [
+     "Game Of Throws",
+     "Snuggs Snipers"
+    ],
+    [
+     "Oh Look Butterflies",
+     "CHEERS"
+    ],
+    [
+     "ApologiseNow",
+     "Kookeez Krumble"
+    ],
+    [
+     "APA",
+     "Galactic Platypus"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-11",
+   "note": "",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "APA"
+    ],
+    [
+     "Galactic Platypus",
+     "ApologiseNow"
+    ],
+    [
+     "Kookeez Krumble",
+     "Oh Look Butterflies"
+    ],
+    [
+     "CHEERS",
+     "Game Of Throws"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-18",
+   "note": "",
+   "matches": [
+    [
+     "Galactic Platypus",
+     "Snuggs Snipers"
+    ],
+    [
+     "APA",
+     "Kookeez Krumble"
+    ],
+    [
+     "ApologiseNow",
+     "CHEERS"
+    ],
+    [
+     "Oh Look Butterflies",
+     "Game Of Throws"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-25",
+   "note": "",
+   "matches": [
+    [
+     "Oh Look Butterflies",
+     "Snuggs Snipers"
+    ],
+    [
+     "Game Of Throws",
+     "ApologiseNow"
+    ],
+    [
+     "CHEERS",
+     "APA"
+    ],
+    [
+     "Kookeez Krumble",
+     "Galactic Platypus"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-08",
+   "note": "Off 2/1- Midseason Tournament",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "Kookeez Krumble"
+    ],
+    [
+     "Galactic Platypus",
+     "CHEERS"
+    ],
+    [
+     "APA",
+     "Game Of Throws"
+    ],
+    [
+     "ApologiseNow",
+     "Oh Look Butterflies"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-15",
+   "note": "",
+   "matches": [
+    [
+     "ApologiseNow",
+     "Snuggs Snipers"
+    ],
+    [
+     "Oh Look Butterflies",
+     "APA"
+    ],
+    [
+     "Game Of Throws",
+     "Galactic Platypus"
+    ],
+    [
+     "CHEERS",
+     "Kookeez Krumble"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-22",
+   "note": "",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "CHEERS"
+    ],
+    [
+     "Kookeez Krumble",
+     "Game Of Throws"
+    ],
+    [
+     "Galactic Platypus",
+     "Oh Look Butterflies"
+    ],
+    [
+     "APA",
+     "ApologiseNow"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-01",
+   "note": "",
+   "matches": [
+    [
+     "APA",
+     "Snuggs Snipers"
+    ],
+    [
+     "ApologiseNow",
+     "Galactic Platypus"
+    ],
+    [
+     "Oh Look Butterflies",
+     "Kookeez Krumble"
+    ],
+    [
+     "Game Of Throws",
+     "CHEERS"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-08",
+   "note": "",
+   "matches": [
+    [
+     "Snuggs Snipers",
+     "Game Of Throws"
+    ],
+    [
+     "CHEERS",
+     "Oh Look Butterflies"
+    ],
+    [
+     "Kookeez Krumble",
+     "ApologiseNow"
+    ],
+    [
+     "Galactic Platypus",
+     "APA"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-15",
+   "note": "Use 3/15 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-22",
+   "note": "Use 3/22 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-29",
+   "note": "Use 3/29 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "BRU",
+   "machines": 1,
+   "phone": "585-227-7658",
+   "address": "3208 Latta Rd, Rochester, NY 14612"
+  },
+  {
+   "name": "Dougies",
+   "machines": 2,
+   "phone": "585-430-1250",
+   "address": "80 N Main St., Fairport, NY 14450"
+  },
+  {
+   "name": "Firehouse Saloon",
+   "machines": 2,
+   "phone": "585-319-3832",
+   "address": "814 S Clinton Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "J AndE Meeting Place",
+   "machines": 1,
+   "phone": "585-352-8770",
+   "address": "380 South Union St, Spencerport, NY 14610"
+  },
+  {
+   "name": "MCs Dugout",
+   "machines": 2,
+   "phone": "585-448-0555",
+   "address": "1370 BUFFALO RD., ROCHESTER, NY 14624"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Retreat",
+   "machines": 1,
+   "phone": "585-227-9100",
+   "address": "512 Long Pond Rd, Rochester, NY 14612"
+  },
+  {
+   "name": "Russell Station",
+   "machines": 4,
+   "phone": "585-270-8233",
+   "address": "4670 Dewey Ave, Rochester, NY 14612"
+  }
+ ],
+ "updated": "2026-10-22T01:40:29Z"
+}

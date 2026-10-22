@@ -1,0 +1,1256 @@
+{
+ "league": {
+  "title": "Wednesday 2Player BHand 2",
+  "location": "6W2BH2"
+ },
+ "standings": [
+  [
+   "Wheres My Darts",
+   28,
+   11
+  ],
+  [
+   "Aiming Fluid Needed",
+   33,
+   19
+  ],
+  [
+   "No Bulls Hit",
+   33,
+   19
+  ],
+  [
+   "Tre Stronzi",
+   28,
+   24
+  ],
+  [
+   "Just The Tip",
+   26,
+   26
+  ],
+  [
+   "BullsDeep",
+   21,
+   31
+  ],
+  [
+   "Cant Hit Bull",
+   9,
+   17
+  ],
+  [
+   "Yagers",
+   4,
+   35
+  ]
+ ],
+ "results": [
+  [
+   "BullsDeep",
+   "Aiming Fluid Needed",
+   "10/21/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "No Bulls Hit",
+   "Just The Tip",
+   "10/21/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "Wheres My Darts",
+   "Tre Stronzi",
+   "10/21/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Tre Stronzi",
+   "Wheres My Darts",
+   "10/21/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Cant Hit Bull",
+   "Aiming Fluid Needed",
+   "10/14/2026",
+   3,
+   6,
+   7
+  ],
+  [
+   "Aiming Fluid Needed",
+   "BullsDeep",
+   "10/21/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "Just The Tip",
+   "No Bulls Hit",
+   "10/21/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "Yagers",
+   "Just The Tip",
+   "10/14/2026",
+   3,
+   4,
+   9
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Daniel Roberts",
+    "Wheres My Darts",
+    2.28,
+    2.69
+   ],
+   [
+    "Daniel Skerritt",
+    "No Bulls Hit",
+    1.71,
+    1.93
+   ],
+   [
+    "Chris Hughson",
+    "Aiming Fluid Needed",
+    2.14,
+    2.23
+   ]
+  ],
+  "x": [
+   [
+    "Todd Hanley",
+    "No Bulls Hit",
+    22.45,
+    23.17
+   ],
+   [
+    "Eddie Gibson",
+    "Just The Tip",
+    18.28,
+    18.8
+   ],
+   [
+    "Sean Wiggins",
+    "BullsDeep",
+    16.9,
+    17.27
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Daniel Roberts",
+   "Wheres My Darts",
+   2.69,
+   12,
+   7,
+   1,
+   1,
+   0,
+   9,
+   3,
+   4,
+   0,
+   0
+  ],
+  [
+   "Aaron Garrett",
+   "Cant Hit Bull",
+   2.66,
+   12,
+   3,
+   1,
+   1,
+   0,
+   5,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
+   "Enzo Maiola",
+   "Tre Stronzi",
+   2.47,
+   18,
+   3,
+   5,
+   1,
+   0,
+   11,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Todd Hanley",
+   "No Bulls Hit",
+   2.38,
+   24,
+   16,
+   4,
+   0,
+   0,
+   7,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Chris Hughson",
+   "Aiming Fluid Needed",
+   2.23,
+   18,
+   5,
+   4,
+   0,
+   1,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Tony Maiola",
+   "Tre Stronzi",
+   2.13,
+   12,
+   3,
+   2,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Terrance Odum",
+   "Yagers",
+   2.07,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Ward",
+   "No Bulls Hit",
+   2.06,
+   6,
+   0,
+   5,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Patrick Reilly",
+   "Aiming Fluid Needed",
+   1.96,
+   18,
+   4,
+   5,
+   1,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Eddie Gibson",
+   "Just The Tip",
+   1.96,
+   24,
+   8,
+   3,
+   0,
+   0,
+   7,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Daniel Skerritt",
+   "No Bulls Hit",
+   1.93,
+   18,
+   4,
+   11,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   1
+  ],
+  [
+   "Josh Bzduch Melino",
+   "Just The Tip",
+   1.84,
+   24,
+   3,
+   8,
+   2,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ruben Lowery",
+   "Yagers",
+   1.79,
+   6,
+   1,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joe Ferrigno",
+   "Tre Stronzi",
+   1.72,
+   18,
+   6,
+   5,
+   1,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "John Lehman",
+   "BullsDeep",
+   1.69,
+   24,
+   1,
+   5,
+   0,
+   0,
+   8,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Sean Wiggins",
+   "BullsDeep",
+   1.67,
+   24,
+   5,
+   1,
+   1,
+   0,
+   8,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Kimberly Deuel",
+   "Wheres My Darts",
+   1.59,
+   12,
+   1,
+   7,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "John Lyn",
+   "Cant Hit Bull",
+   1.51,
+   12,
+   1,
+   3,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Daniel Roberts",
+   "Wheres My Darts",
+   25.7,
+   14,
+   6,
+   2,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Enzo Maiola",
+   "Tre Stronzi",
+   25.46,
+   21,
+   9,
+   3,
+   0,
+   0,
+   0,
+   29
+  ],
+  [
+   "Todd Hanley",
+   "No Bulls Hit",
+   23.17,
+   28,
+   8,
+   6,
+   0,
+   0,
+   0,
+   32
+  ],
+  [
+   "Aaron Garrett",
+   "Cant Hit Bull",
+   20.64,
+   14,
+   4,
+   0,
+   0,
+   1,
+   1,
+   13
+  ],
+  [
+   "Chris Hughson",
+   "Aiming Fluid Needed",
+   20.57,
+   21,
+   6,
+   1,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Mike Ward",
+   "No Bulls Hit",
+   20.4,
+   7,
+   1,
+   1,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Josh Bzduch Melino",
+   "Just The Tip",
+   19.18,
+   28,
+   6,
+   1,
+   0,
+   0,
+   0,
+   23
+  ],
+  [
+   "Eddie Gibson",
+   "Just The Tip",
+   18.8,
+   28,
+   9,
+   3,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Terrance Odum",
+   "Yagers",
+   17.37,
+   7,
+   1,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Sean Wiggins",
+   "BullsDeep",
+   17.27,
+   28,
+   10,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Patrick Reilly",
+   "Aiming Fluid Needed",
+   17.22,
+   21,
+   4,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "John Lehman",
+   "BullsDeep",
+   17.22,
+   28,
+   4,
+   2,
+   0,
+   0,
+   1,
+   11
+  ],
+  [
+   "Joe Ferrigno",
+   "Tre Stronzi",
+   16.73,
+   21,
+   4,
+   3,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Tony Maiola",
+   "Tre Stronzi",
+   16.45,
+   14,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Daniel Skerritt",
+   "No Bulls Hit",
+   16.4,
+   21,
+   4,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "John Lyn",
+   "Cant Hit Bull",
+   15.7,
+   14,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Kimberly Deuel",
+   "Wheres My Darts",
+   15.14,
+   14,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Ruben Lowery",
+   "Yagers",
+   14.55,
+   7,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Aiming Fluid Needed",
+   "site": "My Apartment Bar",
+   "captain": "Chris Hughson",
+   "phone": "585-943-7463"
+  },
+  {
+   "name": "BullsDeep",
+   "site": "Gameday",
+   "captain": "Sean Wiggins",
+   "phone": "585-415-9993"
+  },
+  {
+   "name": "Cant Hit Bull",
+   "site": "Village Rock",
+   "captain": "Aaron Garrett",
+   "phone": "585-794-3662"
+  },
+  {
+   "name": "Just The Tip",
+   "site": "Turcotts Taproom",
+   "captain": "Josh Bzduch Melino",
+   "phone": "585-519-6763"
+  },
+  {
+   "name": "No Bulls Hit",
+   "site": "Johnnys Irish Pub",
+   "captain": "Todd Hanley",
+   "phone": "585-750-7476"
+  },
+  {
+   "name": "Tre Stronzi",
+   "site": "Shamrock Inn",
+   "captain": "Enzo Maiola",
+   "phone": "585-755-0277"
+  },
+  {
+   "name": "Wheres My Darts",
+   "site": "Back To My Place",
+   "captain": "Kimberly Deuel",
+   "phone": "585-857-5992"
+  },
+  {
+   "name": "Yagers",
+   "site": "Yagers Pub",
+   "captain": "Terrance Odum",
+   "phone": "585-353-0062"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-30",
+   "note": "",
+   "matches": [
+    [
+     "Tre Stronzi",
+     "Just The Tip"
+    ],
+    [
+     "BullsDeep",
+     "No Bulls Hit"
+    ],
+    [
+     "Cant Hit Bull",
+     "Wheres My Darts"
+    ],
+    [
+     "Yagers",
+     "Aiming Fluid Needed"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-07",
+   "note": "",
+   "matches": [
+    [
+     "Aiming Fluid Needed",
+     "Just The Tip"
+    ],
+    [
+     "Wheres My Darts",
+     "Yagers"
+    ],
+    [
+     "No Bulls Hit",
+     "Cant Hit Bull"
+    ],
+    [
+     "Tre Stronzi",
+     "BullsDeep"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-14",
+   "note": "",
+   "matches": [
+    [
+     "Just The Tip",
+     "Yagers"
+    ],
+    [
+     "Aiming Fluid Needed",
+     "Cant Hit Bull"
+    ],
+    [
+     "Wheres My Darts",
+     "BullsDeep"
+    ],
+    [
+     "Tre Stronzi",
+     "No Bulls Hit"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-21",
+   "note": "",
+   "matches": [
+    [
+     "No Bulls Hit",
+     "Just The Tip"
+    ],
+    [
+     "Tre Stronzi",
+     "Wheres My Darts"
+    ],
+    [
+     "BullsDeep",
+     "Aiming Fluid Needed"
+    ],
+    [
+     "Cant Hit Bull",
+     "Yagers"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-28",
+   "note": "",
+   "matches": [
+    [
+     "Just The Tip",
+     "Cant Hit Bull"
+    ],
+    [
+     "Yagers",
+     "BullsDeep"
+    ],
+    [
+     "Aiming Fluid Needed",
+     "Tre Stronzi"
+    ],
+    [
+     "Wheres My Darts",
+     "No Bulls Hit"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-04",
+   "note": "",
+   "matches": [
+    [
+     "Wheres My Darts",
+     "Just The Tip"
+    ],
+    [
+     "No Bulls Hit",
+     "Aiming Fluid Needed"
+    ],
+    [
+     "Tre Stronzi",
+     "Yagers"
+    ],
+    [
+     "Cant Hit Bull",
+     "BullsDeep"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-11",
+   "note": "",
+   "matches": [
+    [
+     "Just The Tip",
+     "BullsDeep"
+    ],
+    [
+     "Cant Hit Bull",
+     "Tre Stronzi"
+    ],
+    [
+     "Yagers",
+     "No Bulls Hit"
+    ],
+    [
+     "Aiming Fluid Needed",
+     "Wheres My Darts"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-18",
+   "note": "",
+   "matches": [
+    [
+     "Just The Tip",
+     "Aiming Fluid Needed"
+    ],
+    [
+     "Yagers",
+     "Wheres My Darts"
+    ],
+    [
+     "Cant Hit Bull",
+     "No Bulls Hit"
+    ],
+    [
+     "BullsDeep",
+     "Tre Stronzi"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-12-02",
+   "note": "Off 11/25- Thanksgiving Eve",
+   "matches": [
+    [
+     "Just The Tip",
+     "Tre Stronzi"
+    ],
+    [
+     "No Bulls Hit",
+     "BullsDeep"
+    ],
+    [
+     "Wheres My Darts",
+     "Cant Hit Bull"
+    ],
+    [
+     "Aiming Fluid Needed",
+     "Yagers"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-09",
+   "note": "",
+   "matches": [
+    [
+     "Just The Tip",
+     "No Bulls Hit"
+    ],
+    [
+     "Wheres My Darts",
+     "Tre Stronzi"
+    ],
+    [
+     "Aiming Fluid Needed",
+     "BullsDeep"
+    ],
+    [
+     "Yagers",
+     "Cant Hit Bull"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-16",
+   "note": "",
+   "matches": [
+    [
+     "Yagers",
+     "Just The Tip"
+    ],
+    [
+     "Cant Hit Bull",
+     "Aiming Fluid Needed"
+    ],
+    [
+     "BullsDeep",
+     "Wheres My Darts"
+    ],
+    [
+     "No Bulls Hit",
+     "Tre Stronzi"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2027-01-06",
+   "note": "Off 12/23 & 12/30- Can use for makeup matches",
+   "matches": [
+    [
+     "Cant Hit Bull",
+     "Just The Tip"
+    ],
+    [
+     "BullsDeep",
+     "Yagers"
+    ],
+    [
+     "Tre Stronzi",
+     "Aiming Fluid Needed"
+    ],
+    [
+     "No Bulls Hit",
+     "Wheres My Darts"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-13",
+   "note": "",
+   "matches": [
+    [
+     "Just The Tip",
+     "Wheres My Darts"
+    ],
+    [
+     "Aiming Fluid Needed",
+     "No Bulls Hit"
+    ],
+    [
+     "Yagers",
+     "Tre Stronzi"
+    ],
+    [
+     "BullsDeep",
+     "Cant Hit Bull"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-20",
+   "note": "",
+   "matches": [
+    [
+     "BullsDeep",
+     "Just The Tip"
+    ],
+    [
+     "Tre Stronzi",
+     "Cant Hit Bull"
+    ],
+    [
+     "No Bulls Hit",
+     "Yagers"
+    ],
+    [
+     "Wheres My Darts",
+     "Aiming Fluid Needed"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-27",
+   "note": "",
+   "matches": [
+    [
+     "Tre Stronzi",
+     "Just The Tip"
+    ],
+    [
+     "BullsDeep",
+     "No Bulls Hit"
+    ],
+    [
+     "Cant Hit Bull",
+     "Wheres My Darts"
+    ],
+    [
+     "Yagers",
+     "Aiming Fluid Needed"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-02-03",
+   "note": "",
+   "matches": [
+    [
+     "Aiming Fluid Needed",
+     "Just The Tip"
+    ],
+    [
+     "Wheres My Darts",
+     "Yagers"
+    ],
+    [
+     "No Bulls Hit",
+     "Cant Hit Bull"
+    ],
+    [
+     "Tre Stronzi",
+     "BullsDeep"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-10",
+   "note": "",
+   "matches": [
+    [
+     "Just The Tip",
+     "Cant Hit Bull"
+    ],
+    [
+     "Yagers",
+     "BullsDeep"
+    ],
+    [
+     "Aiming Fluid Needed",
+     "Tre Stronzi"
+    ],
+    [
+     "Wheres My Darts",
+     "No Bulls Hit"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-17",
+   "note": "",
+   "matches": [
+    [
+     "No Bulls Hit",
+     "Just The Tip"
+    ],
+    [
+     "Tre Stronzi",
+     "Wheres My Darts"
+    ],
+    [
+     "BullsDeep",
+     "Aiming Fluid Needed"
+    ],
+    [
+     "Cant Hit Bull",
+     "Yagers"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-24",
+   "note": "",
+   "matches": [
+    [
+     "Just The Tip",
+     "Yagers"
+    ],
+    [
+     "Aiming Fluid Needed",
+     "Cant Hit Bull"
+    ],
+    [
+     "Wheres My Darts",
+     "BullsDeep"
+    ],
+    [
+     "No Bulls Hit",
+     "Tre Stronzi"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-03",
+   "note": "",
+   "matches": [
+    [
+     "Just The Tip",
+     "BullsDeep"
+    ],
+    [
+     "Cant Hit Bull",
+     "Tre Stronzi"
+    ],
+    [
+     "Yagers",
+     "No Bulls Hit"
+    ],
+    [
+     "Aiming Fluid Needed",
+     "Wheres My Darts"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-10",
+   "note": "",
+   "matches": [
+    [
+     "Wheres My Darts",
+     "Just The Tip"
+    ],
+    [
+     "No Bulls Hit",
+     "Aiming Fluid Needed"
+    ],
+    [
+     "Tre Stronzi",
+     "Yagers"
+    ],
+    [
+     "BullsDeep",
+     "Cant Hit Bull"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-17",
+   "note": "3/17- St. Patrick's Day",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-24",
+   "note": "Use 3/24 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-31",
+   "note": "Use 3/31 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "Gameday",
+   "machines": 4,
+   "phone": "",
+   "address": "730 Elmgrove Rd, Rochester, NY 14624"
+  },
+  {
+   "name": "Johnnys Irish Pub",
+   "machines": 2,
+   "phone": "585-224-0990",
+   "address": "1382 Culver Rd., Rochester, NY 14609"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Shamrock Inn",
+   "machines": 2,
+   "phone": "585-500-9683",
+   "address": "300 Jefferson Rd., Rochester, NY 14623"
+  },
+  {
+   "name": "Turcotts Taproom",
+   "machines": 2,
+   "phone": "585-271-0339",
+   "address": "630 Monroe Ave, Rochester, NY 14607"
+  },
+  {
+   "name": "Village Rock",
+   "machines": 2,
+   "phone": "585-586-1640",
+   "address": "213 Main St, E. Rochester, NY 14445"
+  },
+  {
+   "name": "Yagers Pub",
+   "machines": 3,
+   "phone": "585-442-9165",
+   "address": "510 Monroe Ave, Rochester, NY 14607"
+  }
+ ],
+ "updated": "2026-10-22T01:40:57Z"
+}

@@ -1,0 +1,1250 @@
+{
+ "league": {
+  "title": "Thursday 2Player BHand 2",
+  "location": "6R2BH2"
+ },
+ "standings": [
+  [
+   "Sticky Bandits",
+   23,
+   16
+  ],
+  [
+   "Pinky And The Brain",
+   22,
+   17
+  ],
+  [
+   "Bacon Titz",
+   21,
+   18
+  ],
+  [
+   "DartBods",
+   21,
+   18
+  ],
+  [
+   "Tie And Spye",
+   21,
+   18
+  ],
+  [
+   "Paint It Black",
+   17,
+   22
+  ],
+  [
+   "Double Out",
+   16,
+   23
+  ],
+  [
+   "Thats An Out",
+   15,
+   24
+  ]
+ ],
+ "results": [
+  [
+   "Bacon Titz",
+   "Double Out",
+   "10/15/2026",
+   3,
+   9,
+   4
+  ],
+  [
+   "Sticky Bandits",
+   "Tie And Spye",
+   "10/15/2026",
+   3,
+   8,
+   5
+  ],
+  [
+   "Pinky And The Brain",
+   "DartBods",
+   "10/16/2026",
+   3,
+   8,
+   5
+  ],
+  [
+   "Thats An Out",
+   "Paint It Black",
+   "10/15/2026",
+   3,
+   7,
+   6
+  ],
+  [
+   "Paint It Black",
+   "Thats An Out",
+   "10/15/2026",
+   3,
+   6,
+   7
+  ],
+  [
+   "DartBods",
+   "Pinky And The Brain",
+   "10/16/2026",
+   3,
+   5,
+   8
+  ],
+  [
+   "Tie And Spye",
+   "Sticky Bandits",
+   "10/15/2026",
+   3,
+   5,
+   8
+  ],
+  [
+   "Double Out",
+   "Bacon Titz",
+   "10/15/2026",
+   3,
+   4,
+   9
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Patrick Lutz",
+    "Thats An Out",
+    2.18,
+    2.4
+   ],
+   [
+    "Michael Walton",
+    "Sticky Bandits",
+    2.52,
+    2.68
+   ],
+   [
+    "Brandon Bacon",
+    "Bacon Titz",
+    1.94,
+    2.08
+   ]
+  ],
+  "x": [
+   [
+    "Michael DAccursio",
+    "Sticky Bandits",
+    21.96,
+    22.91
+   ],
+   [
+    "Patrick Lutz",
+    "Thats An Out",
+    18.86,
+    19.75
+   ],
+   [
+    "Joe Scharr",
+    "Pinky And The Brain",
+    22.34,
+    23.21
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Michael Walton",
+   "Sticky Bandits",
+   2.68,
+   18,
+   6,
+   5,
+   1,
+   0,
+   10,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Joe Scharr",
+   "Pinky And The Brain",
+   2.63,
+   18,
+   7,
+   2,
+   0,
+   0,
+   11,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
+   "Bryan Chatterton",
+   "Paint It Black",
+   2.53,
+   18,
+   3,
+   3,
+   1,
+   0,
+   8,
+   1,
+   3,
+   0,
+   0
+  ],
+  [
+   "Michael DAccursio",
+   "Sticky Bandits",
+   2.48,
+   18,
+   5,
+   6,
+   0,
+   0,
+   5,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Patrick Lutz",
+   "Thats An Out",
+   2.4,
+   12,
+   3,
+   5,
+   1,
+   0,
+   6,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Todd Palmer",
+   "Double Out",
+   2.27,
+   18,
+   1,
+   5,
+   0,
+   0,
+   6,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Tie Lightle",
+   "Tie And Spye",
+   2.22,
+   18,
+   5,
+   5,
+   0,
+   0,
+   8,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jeff Folger",
+   "Thats An Out",
+   2.16,
+   6,
+   3,
+   2,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Kelli Nash",
+   "Bacon Titz",
+   2.14,
+   18,
+   4,
+   7,
+   1,
+   0,
+   6,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Brandon Bacon",
+   "Bacon Titz",
+   2.08,
+   18,
+   7,
+   4,
+   1,
+   0,
+   5,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ethan Burnham Fay",
+   "Thats An Out",
+   2.03,
+   12,
+   3,
+   1,
+   0,
+   0,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Timothy Kelly",
+   "DartBods",
+   2.0,
+   18,
+   8,
+   2,
+   0,
+   0,
+   3,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Rob Youdan",
+   "Paint It Black",
+   1.97,
+   18,
+   3,
+   3,
+   2,
+   0,
+   2,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Patrick OReilly",
+   "DartBods",
+   1.81,
+   18,
+   2,
+   8,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sarah Szewczyk",
+   "Pinky And The Brain",
+   1.75,
+   18,
+   2,
+   7,
+   0,
+   0,
+   3,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ian Conyers",
+   "Tie And Spye",
+   1.71,
+   18,
+   5,
+   5,
+   1,
+   0,
+   2,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sarah McKnight",
+   "Double Out",
+   1.57,
+   18,
+   5,
+   1,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Maria Pirrami",
+   "Thats An Out",
+   1.45,
+   6,
+   0,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Bryan Chatterton",
+   "Paint It Black",
+   26.98,
+   21,
+   4,
+   14,
+   0,
+   0,
+   1,
+   17
+  ],
+  [
+   "Joe Scharr",
+   "Pinky And The Brain",
+   23.21,
+   21,
+   10,
+   0,
+   0,
+   0,
+   1,
+   20
+  ],
+  [
+   "Michael DAccursio",
+   "Sticky Bandits",
+   22.91,
+   21,
+   8,
+   4,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Brandon Bacon",
+   "Bacon Titz",
+   22.59,
+   21,
+   8,
+   1,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Michael Walton",
+   "Sticky Bandits",
+   22.12,
+   21,
+   3,
+   2,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Todd Palmer",
+   "Double Out",
+   21.67,
+   21,
+   4,
+   1,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Ian Conyers",
+   "Tie And Spye",
+   20.17,
+   21,
+   5,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Timothy Kelly",
+   "DartBods",
+   19.98,
+   21,
+   5,
+   1,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Patrick Lutz",
+   "Thats An Out",
+   19.75,
+   14,
+   3,
+   0,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Tie Lightle",
+   "Tie And Spye",
+   19.4,
+   21,
+   6,
+   3,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Ethan Burnham Fay",
+   "Thats An Out",
+   19.37,
+   14,
+   3,
+   0,
+   0,
+   0,
+   1,
+   7
+  ],
+  [
+   "Kelli Nash",
+   "Bacon Titz",
+   19.35,
+   21,
+   2,
+   0,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
+   "Sarah McKnight",
+   "Double Out",
+   18.63,
+   21,
+   6,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Patrick OReilly",
+   "DartBods",
+   18.18,
+   21,
+   6,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Rob Youdan",
+   "Paint It Black",
+   18.03,
+   21,
+   7,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Sarah Szewczyk",
+   "Pinky And The Brain",
+   17.93,
+   21,
+   3,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Jeff Folger",
+   "Thats An Out",
+   16.28,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Maria Pirrami",
+   "Thats An Out",
+   14.96,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ]
+ ],
+ "teams": [
+  {
+   "name": "Bacon Titz",
+   "site": "Back To My Place",
+   "captain": "Kelli Nash",
+   "phone": "843-847-1069"
+  },
+  {
+   "name": "DartBods",
+   "site": "Prince Georges",
+   "captain": "Patrick OReilly",
+   "phone": "585-301-6048"
+  },
+  {
+   "name": "Double Out",
+   "site": "JJs Pub",
+   "captain": "Sarah McKnight",
+   "phone": "585-260-8741"
+  },
+  {
+   "name": "Paint It Black",
+   "site": "Drs Inn",
+   "captain": "Rob Youdan",
+   "phone": "585-470-6212"
+  },
+  {
+   "name": "Pinky And The Brain",
+   "site": "Drs Inn",
+   "captain": "Joe Scharr",
+   "phone": "585-905-9154"
+  },
+  {
+   "name": "Sticky Bandits",
+   "site": "Blitz Bar Room",
+   "captain": "Michael DAccursio",
+   "phone": "585-703-1093"
+  },
+  {
+   "name": "Thats An Out",
+   "site": "Toasted Bear",
+   "captain": "Ethan Burnham Fay",
+   "phone": "774-278-0413"
+  },
+  {
+   "name": "Tie And Spye",
+   "site": "Boot Room",
+   "captain": "Ian Conyers",
+   "phone": "680-290-0566"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-10-01",
+   "note": "",
+   "matches": [
+    [
+     "Pinky And The Brain",
+     "Bacon Titz"
+    ],
+    [
+     "Thats An Out",
+     "Double Out"
+    ],
+    [
+     "Sticky Bandits",
+     "DartBods"
+    ],
+    [
+     "Tie And Spye",
+     "Paint It Black"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-08",
+   "note": "",
+   "matches": [
+    [
+     "Tie And Spye",
+     "Bacon Titz"
+    ],
+    [
+     "Paint It Black",
+     "Sticky Bandits"
+    ],
+    [
+     "DartBods",
+     "Thats An Out"
+    ],
+    [
+     "Double Out",
+     "Pinky And The Brain"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-15",
+   "note": "",
+   "matches": [
+    [
+     "Bacon Titz",
+     "Double Out"
+    ],
+    [
+     "Pinky And The Brain",
+     "DartBods"
+    ],
+    [
+     "Thats An Out",
+     "Paint It Black"
+    ],
+    [
+     "Sticky Bandits",
+     "Tie And Spye"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-22",
+   "note": "",
+   "matches": [
+    [
+     "Sticky Bandits",
+     "Bacon Titz"
+    ],
+    [
+     "Tie And Spye",
+     "Thats An Out"
+    ],
+    [
+     "Paint It Black",
+     "Pinky And The Brain"
+    ],
+    [
+     "DartBods",
+     "Double Out"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-29",
+   "note": "",
+   "matches": [
+    [
+     "Bacon Titz",
+     "DartBods"
+    ],
+    [
+     "Double Out",
+     "Paint It Black"
+    ],
+    [
+     "Pinky And The Brain",
+     "Tie And Spye"
+    ],
+    [
+     "Thats An Out",
+     "Sticky Bandits"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-05",
+   "note": "",
+   "matches": [
+    [
+     "Thats An Out",
+     "Bacon Titz"
+    ],
+    [
+     "Sticky Bandits",
+     "Pinky And The Brain"
+    ],
+    [
+     "Tie And Spye",
+     "Double Out"
+    ],
+    [
+     "Paint It Black",
+     "DartBods"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-12",
+   "note": "",
+   "matches": [
+    [
+     "Bacon Titz",
+     "Paint It Black"
+    ],
+    [
+     "DartBods",
+     "Tie And Spye"
+    ],
+    [
+     "Double Out",
+     "Sticky Bandits"
+    ],
+    [
+     "Pinky And The Brain",
+     "Thats An Out"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-19",
+   "note": "",
+   "matches": [
+    [
+     "Bacon Titz",
+     "Pinky And The Brain"
+    ],
+    [
+     "Double Out",
+     "Thats An Out"
+    ],
+    [
+     "DartBods",
+     "Sticky Bandits"
+    ],
+    [
+     "Paint It Black",
+     "Tie And Spye"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-12-03",
+   "note": "Off 11/26- Thanskgiving",
+   "matches": [
+    [
+     "Bacon Titz",
+     "Tie And Spye"
+    ],
+    [
+     "Sticky Bandits",
+     "Paint It Black"
+    ],
+    [
+     "Thats An Out",
+     "DartBods"
+    ],
+    [
+     "Pinky And The Brain",
+     "Double Out"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-10",
+   "note": "",
+   "matches": [
+    [
+     "Double Out",
+     "Bacon Titz"
+    ],
+    [
+     "DartBods",
+     "Pinky And The Brain"
+    ],
+    [
+     "Paint It Black",
+     "Thats An Out"
+    ],
+    [
+     "Tie And Spye",
+     "Sticky Bandits"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-17",
+   "note": "",
+   "matches": [
+    [
+     "Bacon Titz",
+     "Sticky Bandits"
+    ],
+    [
+     "Thats An Out",
+     "Tie And Spye"
+    ],
+    [
+     "Pinky And The Brain",
+     "Paint It Black"
+    ],
+    [
+     "Double Out",
+     "DartBods"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2027-01-07",
+   "note": "Off 12/24 & 12/31- Holidays",
+   "matches": [
+    [
+     "DartBods",
+     "Bacon Titz"
+    ],
+    [
+     "Paint It Black",
+     "Double Out"
+    ],
+    [
+     "Tie And Spye",
+     "Pinky And The Brain"
+    ],
+    [
+     "Sticky Bandits",
+     "Thats An Out"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-14",
+   "note": "",
+   "matches": [
+    [
+     "Bacon Titz",
+     "Thats An Out"
+    ],
+    [
+     "Pinky And The Brain",
+     "Sticky Bandits"
+    ],
+    [
+     "Double Out",
+     "Tie And Spye"
+    ],
+    [
+     "DartBods",
+     "Paint It Black"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-21",
+   "note": "",
+   "matches": [
+    [
+     "Paint It Black",
+     "Bacon Titz"
+    ],
+    [
+     "Tie And Spye",
+     "DartBods"
+    ],
+    [
+     "Sticky Bandits",
+     "Double Out"
+    ],
+    [
+     "Thats An Out",
+     "Pinky And The Brain"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-28",
+   "note": "",
+   "matches": [
+    [
+     "Pinky And The Brain",
+     "Bacon Titz"
+    ],
+    [
+     "Thats An Out",
+     "Double Out"
+    ],
+    [
+     "Sticky Bandits",
+     "DartBods"
+    ],
+    [
+     "Tie And Spye",
+     "Paint It Black"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-02-04",
+   "note": "",
+   "matches": [
+    [
+     "Tie And Spye",
+     "Bacon Titz"
+    ],
+    [
+     "Paint It Black",
+     "Sticky Bandits"
+    ],
+    [
+     "DartBods",
+     "Thats An Out"
+    ],
+    [
+     "Double Out",
+     "Pinky And The Brain"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-11",
+   "note": "",
+   "matches": [
+    [
+     "Bacon Titz",
+     "Double Out"
+    ],
+    [
+     "Pinky And The Brain",
+     "DartBods"
+    ],
+    [
+     "Thats An Out",
+     "Paint It Black"
+    ],
+    [
+     "Sticky Bandits",
+     "Tie And Spye"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-18",
+   "note": "",
+   "matches": [
+    [
+     "Sticky Bandits",
+     "Bacon Titz"
+    ],
+    [
+     "Tie And Spye",
+     "Thats An Out"
+    ],
+    [
+     "Paint It Black",
+     "Pinky And The Brain"
+    ],
+    [
+     "DartBods",
+     "Double Out"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-25",
+   "note": "",
+   "matches": [
+    [
+     "Bacon Titz",
+     "DartBods"
+    ],
+    [
+     "Double Out",
+     "Paint It Black"
+    ],
+    [
+     "Pinky And The Brain",
+     "Tie And Spye"
+    ],
+    [
+     "Thats An Out",
+     "Sticky Bandits"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-04",
+   "note": "",
+   "matches": [
+    [
+     "Thats An Out",
+     "Bacon Titz"
+    ],
+    [
+     "Sticky Bandits",
+     "Pinky And The Brain"
+    ],
+    [
+     "Tie And Spye",
+     "Double Out"
+    ],
+    [
+     "Paint It Black",
+     "DartBods"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-11",
+   "note": "",
+   "matches": [
+    [
+     "Bacon Titz",
+     "Paint It Black"
+    ],
+    [
+     "DartBods",
+     "Tie And Spye"
+    ],
+    [
+     "Double Out",
+     "Sticky Bandits"
+    ],
+    [
+     "Pinky And The Brain",
+     "Thats An Out"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-18",
+   "note": "Use 3/18 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-25",
+   "note": "Use 3/25 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-04-01",
+   "note": "Use 4/1 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "Blitz Bar Room",
+   "machines": 2,
+   "phone": "585-364-0393",
+   "address": "6720 Pittsford Palmyra Rd., Faiport, NY 14450"
+  },
+  {
+   "name": "Boot Room",
+   "machines": 1,
+   "phone": "585-730-4046",
+   "address": "198 WINTON RD N, Rochester, NY 14610"
+  },
+  {
+   "name": "Drs Inn",
+   "machines": 3,
+   "phone": "271-0820",
+   "address": "1743 East Ave, Rochester, NY 14610"
+  },
+  {
+   "name": "JJs Pub",
+   "machines": 1,
+   "phone": "704-5204",
+   "address": "669 Winton Rd, Rochester, NY 14610"
+  },
+  {
+   "name": "Prince Georges",
+   "machines": 1,
+   "phone": "585-383-1430",
+   "address": "104 Main St, E Rochester, NY 14445"
+  },
+  {
+   "name": "Toasted Bear",
+   "machines": 2,
+   "phone": "585-434-3784",
+   "address": "989 S Clinton Ave., Rochester, NY 14620"
+  }
+ ],
+ "updated": "2026-10-22T01:41:28Z"
+}

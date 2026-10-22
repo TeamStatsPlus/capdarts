@@ -1,0 +1,1898 @@
+{
+ "league": {
+  "title": "Tuesday 4 Player B",
+  "location": "6T4B"
+ },
+ "standings": [
+  [
+   "3 Guys And A Girl",
+   28,
+   11
+  ],
+  [
+   "Bad Boys",
+   35,
+   17
+  ],
+  [
+   "Sloppy Darts",
+   31,
+   21
+  ],
+  [
+   "Caps N Plaids",
+   29,
+   23
+  ],
+  [
+   "Dirty O Boys",
+   26,
+   26
+  ],
+  [
+   "Bulls And Brews",
+   20,
+   32
+  ],
+  [
+   "Bad News Beers",
+   18,
+   34
+  ],
+  [
+   "Goodlife",
+   8,
+   31
+  ]
+ ],
+ "results": [
+  [
+   "3 Guys And A Girl",
+   "Bulls And Brews",
+   "10/20/2026",
+   4,
+   10,
+   3
+  ],
+  [
+   "Sloppy Darts",
+   "Goodlife",
+   "10/20/2026",
+   4,
+   9,
+   4
+  ],
+  [
+   "Bad Boys",
+   "Dirty O Boys",
+   "10/20/2026",
+   4,
+   8,
+   5
+  ],
+  [
+   "Caps N Plaids",
+   "Bad News Beers",
+   "10/20/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Bad News Beers",
+   "Caps N Plaids",
+   "10/20/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Dirty O Boys",
+   "Bad Boys",
+   "10/20/2026",
+   4,
+   5,
+   8
+  ],
+  [
+   "Goodlife",
+   "Sloppy Darts",
+   "10/20/2026",
+   4,
+   4,
+   9
+  ],
+  [
+   "Bulls And Brews",
+   "3 Guys And A Girl",
+   "10/20/2026",
+   4,
+   3,
+   10
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Jon Novitsky",
+    "Dirty O Boys",
+    1.61,
+    2.02
+   ],
+   [
+    "Hernandez Michael",
+    "Goodlife",
+    1.29,
+    1.54
+   ],
+   [
+    "Adam Grandmont",
+    "Sloppy Darts",
+    1.85,
+    1.98
+   ]
+  ],
+  "x": [
+   [
+    "Jon Novitsky",
+    "Dirty O Boys",
+    15.0,
+    17.79
+   ],
+   [
+    "Goel Adinoel",
+    "Goodlife",
+    14.04,
+    16.37
+   ],
+   [
+    "Erick Ramos",
+    "Goodlife",
+    15.84,
+    17.9
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "James Mitchell",
+   "3 Guys And A Girl",
+   2.53,
+   9,
+   5,
+   4,
+   0,
+   0,
+   8,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jeff Hunt",
+   "Bad News Beers",
+   2.52,
+   12,
+   4,
+   1,
+   0,
+   0,
+   4,
+   3,
+   3,
+   0,
+   2
+  ],
+  [
+   "Erick Ramos",
+   "Goodlife",
+   2.51,
+   6,
+   3,
+   0,
+   0,
+   0,
+   1,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Peter Rogers",
+   "Bad Boys",
+   2.51,
+   9,
+   4,
+   4,
+   1,
+   0,
+   8,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Colin Sprague",
+   "Sloppy Darts",
+   2.42,
+   3,
+   2,
+   1,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Sara Williams",
+   "Bulls And Brews",
+   2.29,
+   9,
+   3,
+   3,
+   0,
+   0,
+   4,
+   1,
+   3,
+   0,
+   0
+  ],
+  [
+   "AJ Perry",
+   "Caps N Plaids",
+   2.23,
+   12,
+   3,
+   6,
+   0,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Fredo Martinez",
+   "Sloppy Darts",
+   2.2,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Brian Harrington",
+   "Sloppy Darts",
+   2.13,
+   9,
+   3,
+   1,
+   0,
+   0,
+   4,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Richard Pecorino",
+   "Caps N Plaids",
+   2.08,
+   12,
+   4,
+   2,
+   1,
+   0,
+   2,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Steve Wright",
+   "Bad Boys",
+   2.07,
+   3,
+   0,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Robert Gare",
+   "3 Guys And A Girl",
+   2.07,
+   9,
+   2,
+   4,
+   0,
+   0,
+   5,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jon Novitsky",
+   "Dirty O Boys",
+   2.02,
+   6,
+   3,
+   0,
+   0,
+   0,
+   1,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ed Goodell",
+   "Caps N Plaids",
+   2.02,
+   12,
+   3,
+   3,
+   0,
+   0,
+   2,
+   1,
+   3,
+   0,
+   0
+  ],
+  [
+   "Norberto Cervantes",
+   "Dirty O Boys",
+   2.01,
+   3,
+   2,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bill Fitzgerald",
+   "Bad Boys",
+   2.0,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Grandmont",
+   "Sloppy Darts",
+   1.98,
+   12,
+   5,
+   4,
+   1,
+   0,
+   1,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Goel Adinoel",
+   "Goodlife",
+   1.94,
+   6,
+   0,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Queron Jenkins",
+   "Bulls And Brews",
+   1.94,
+   12,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chuck Coates",
+   "Bad Boys",
+   1.91,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Kyle Blumenstock",
+   "Bad Boys",
+   1.85,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Darrin Costantini",
+   "Bad Boys",
+   1.85,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrew Phelps",
+   "Bad News Beers",
+   1.78,
+   9,
+   1,
+   4,
+   0,
+   0,
+   3,
+   0,
+   0,
+   1,
+   0
+  ],
+  [
+   "Chris Philbin",
+   "Dirty O Boys",
+   1.76,
+   12,
+   3,
+   3,
+   0,
+   0,
+   4,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dun Goodlife",
+   "Goodlife",
+   1.74,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Robin Guerrieri",
+   "3 Guys And A Girl",
+   1.72,
+   9,
+   3,
+   4,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake Boudrez",
+   "Bulls And Brews",
+   1.71,
+   12,
+   4,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
+   1,
+   0
+  ],
+  [
+   "Pete Guerrieri",
+   "3 Guys And A Girl",
+   1.69,
+   9,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brendan Sheerwood",
+   "Dirty O Boys",
+   1.68,
+   12,
+   3,
+   4,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrew Bochetto",
+   "Sloppy Darts",
+   1.56,
+   12,
+   1,
+   3,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ashley Samuelson",
+   "Bad News Beers",
+   1.55,
+   12,
+   2,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chuck Marchbanks",
+   "Bad Boys",
+   1.54,
+   9,
+   1,
+   1,
+   1,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matthew Griffin",
+   "Dirty O Boys",
+   1.54,
+   12,
+   2,
+   3,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Hernandez Michael",
+   "Goodlife",
+   1.54,
+   6,
+   0,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Hannah Mayne",
+   "Bad News Beers",
+   1.5,
+   9,
+   1,
+   1,
+   1,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Chyanel Adinoel",
+   "Goodlife",
+   1.5,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Toma",
+   "Bulls And Brews",
+   1.48,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Marty Cordy",
+   "Dirty O Boys",
+   1.42,
+   3,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bryan McCarrell",
+   "Bulls And Brews",
+   1.37,
+   12,
+   1,
+   4,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jake Ference",
+   "Caps N Plaids",
+   1.27,
+   12,
+   2,
+   1,
+   0,
+   0,
+   2,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jamey Trembley",
+   "Bad News Beers",
+   1.07,
+   6,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake McGrath",
+   "Bad Boys",
+   1.05,
+   3,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Norberto Cervantes",
+   "Dirty O Boys",
+   23.47,
+   4,
+   3,
+   1,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Jeff Hunt",
+   "Bad News Beers",
+   23.19,
+   16,
+   6,
+   3,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Colin Sprague",
+   "Sloppy Darts",
+   22.31,
+   4,
+   1,
+   2,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "James Mitchell",
+   "3 Guys And A Girl",
+   22.05,
+   12,
+   6,
+   2,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Bill Fitzgerald",
+   "Bad Boys",
+   21.87,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Peter Rogers",
+   "Bad Boys",
+   21.33,
+   12,
+   4,
+   2,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Brian Harrington",
+   "Sloppy Darts",
+   20.51,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "AJ Perry",
+   "Caps N Plaids",
+   19.76,
+   16,
+   7,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Darrin Costantini",
+   "Bad Boys",
+   19.15,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Richard Pecorino",
+   "Caps N Plaids",
+   18.96,
+   16,
+   6,
+   2,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Sara Williams",
+   "Bulls And Brews",
+   18.85,
+   12,
+   4,
+   2,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Dun Goodlife",
+   "Goodlife",
+   18.85,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Fredo Martinez",
+   "Sloppy Darts",
+   18.79,
+   16,
+   9,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Adam Grandmont",
+   "Sloppy Darts",
+   18.76,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Ed Goodell",
+   "Caps N Plaids",
+   18.72,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Chuck Marchbanks",
+   "Bad Boys",
+   18.71,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Steve Wright",
+   "Bad Boys",
+   18.48,
+   4,
+   2,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Brendan Sheerwood",
+   "Dirty O Boys",
+   18.24,
+   16,
+   5,
+   0,
+   0,
+   0,
+   1,
+   8
+  ],
+  [
+   "Robert Gare",
+   "3 Guys And A Girl",
+   18.03,
+   12,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Erick Ramos",
+   "Goodlife",
+   17.9,
+   8,
+   3,
+   1,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Jon Novitsky",
+   "Dirty O Boys",
+   17.79,
+   8,
+   2,
+   0,
+   0,
+   0,
+   1,
+   4
+  ],
+  [
+   "Queron Jenkins",
+   "Bulls And Brews",
+   17.39,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Ashley Samuelson",
+   "Bad News Beers",
+   16.79,
+   16,
+   0,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Andrew Phelps",
+   "Bad News Beers",
+   16.67,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Jake Boudrez",
+   "Bulls And Brews",
+   16.5,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Goel Adinoel",
+   "Goodlife",
+   16.37,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Hernandez Michael",
+   "Goodlife",
+   15.96,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Chuck Coates",
+   "Bad Boys",
+   15.78,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Marty Cordy",
+   "Dirty O Boys",
+   15.72,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Chris Philbin",
+   "Dirty O Boys",
+   15.55,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Pete Guerrieri",
+   "3 Guys And A Girl",
+   15.53,
+   12,
+   2,
+   0,
+   0,
+   0,
+   1,
+   3
+  ],
+  [
+   "Andrew Bochetto",
+   "Sloppy Darts",
+   15.39,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Hannah Mayne",
+   "Bad News Beers",
+   15.36,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Chyanel Adinoel",
+   "Goodlife",
+   15.27,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Jake Ference",
+   "Caps N Plaids",
+   15.26,
+   16,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Matthew Griffin",
+   "Dirty O Boys",
+   15.16,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Jamey Trembley",
+   "Bad News Beers",
+   15.05,
+   8,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Mike Toma",
+   "Bulls And Brews",
+   14.35,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Robin Guerrieri",
+   "3 Guys And A Girl",
+   14.2,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Bryan McCarrell",
+   "Bulls And Brews",
+   13.75,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Jake McGrath",
+   "Bad Boys",
+   13.1,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kyle Blumenstock",
+   "Bad Boys",
+   12.98,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "teams": [
+  {
+   "name": "3 Guys And A Girl",
+   "site": "Gameday",
+   "captain": "Pete Guerrieri",
+   "phone": "585-755-2605"
+  },
+  {
+   "name": "Bad Boys",
+   "site": "Blitz Bar Room",
+   "captain": "Peter Rogers",
+   "phone": "585-755-3289"
+  },
+  {
+   "name": "Bad News Beers",
+   "site": "Caverlys",
+   "captain": "Jeff Hunt",
+   "phone": "585-269-1696"
+  },
+  {
+   "name": "Bulls And Brews",
+   "site": "Toasted Bear",
+   "captain": "Sara Williams",
+   "phone": "585-944-5761"
+  },
+  {
+   "name": "Caps N Plaids",
+   "site": "Caverlys",
+   "captain": "Ed Goodell",
+   "phone": "716-863-7228"
+  },
+  {
+   "name": "Dirty O Boys",
+   "site": "JD Oxfords",
+   "captain": "Chris Philbin",
+   "phone": "585-739-4070"
+  },
+  {
+   "name": "Goodlife",
+   "site": "Drs Inn",
+   "captain": "Hernandez Michael",
+   "phone": "585-831-3614"
+  },
+  {
+   "name": "Sloppy Darts",
+   "site": "Turcotts Taproom",
+   "captain": "Brian Harrington",
+   "phone": "315-382-7998"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-09-29",
+   "note": "",
+   "matches": [
+    [
+     "Caps N Plaids",
+     "Bulls And Brews"
+    ],
+    [
+     "Bad Boys",
+     "Sloppy Darts"
+    ],
+    [
+     "3 Guys And A Girl",
+     "Goodlife"
+    ],
+    [
+     "Dirty O Boys",
+     "Bad News Beers"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-06",
+   "note": "",
+   "matches": [
+    [
+     "Dirty O Boys",
+     "Bulls And Brews"
+    ],
+    [
+     "Bad News Beers",
+     "3 Guys And A Girl"
+    ],
+    [
+     "Goodlife",
+     "Bad Boys"
+    ],
+    [
+     "Sloppy Darts",
+     "Caps N Plaids"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-13",
+   "note": "",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "Sloppy Darts"
+    ],
+    [
+     "Caps N Plaids",
+     "Goodlife"
+    ],
+    [
+     "Bad Boys",
+     "Bad News Beers"
+    ],
+    [
+     "3 Guys And A Girl",
+     "Dirty O Boys"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-20",
+   "note": "",
+   "matches": [
+    [
+     "3 Guys And A Girl",
+     "Bulls And Brews"
+    ],
+    [
+     "Dirty O Boys",
+     "Bad Boys"
+    ],
+    [
+     "Bad News Beers",
+     "Caps N Plaids"
+    ],
+    [
+     "Goodlife",
+     "Sloppy Darts"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-27",
+   "note": "",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "Goodlife"
+    ],
+    [
+     "Sloppy Darts",
+     "Bad News Beers"
+    ],
+    [
+     "Caps N Plaids",
+     "Dirty O Boys"
+    ],
+    [
+     "Bad Boys",
+     "3 Guys And A Girl"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-03",
+   "note": "",
+   "matches": [
+    [
+     "Bad Boys",
+     "Bulls And Brews"
+    ],
+    [
+     "3 Guys And A Girl",
+     "Caps N Plaids"
+    ],
+    [
+     "Dirty O Boys",
+     "Sloppy Darts"
+    ],
+    [
+     "Bad News Beers",
+     "Goodlife"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-10",
+   "note": "",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "Bad News Beers"
+    ],
+    [
+     "Goodlife",
+     "Dirty O Boys"
+    ],
+    [
+     "Sloppy Darts",
+     "3 Guys And A Girl"
+    ],
+    [
+     "Caps N Plaids",
+     "Bad Boys"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-17",
+   "note": "",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "Caps N Plaids"
+    ],
+    [
+     "Sloppy Darts",
+     "Bad Boys"
+    ],
+    [
+     "Goodlife",
+     "3 Guys And A Girl"
+    ],
+    [
+     "Bad News Beers",
+     "Dirty O Boys"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-11-24",
+   "note": "",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "Dirty O Boys"
+    ],
+    [
+     "3 Guys And A Girl",
+     "Bad News Beers"
+    ],
+    [
+     "Bad Boys",
+     "Goodlife"
+    ],
+    [
+     "Caps N Plaids",
+     "Sloppy Darts"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-01",
+   "note": "",
+   "matches": [
+    [
+     "Sloppy Darts",
+     "Bulls And Brews"
+    ],
+    [
+     "Goodlife",
+     "Caps N Plaids"
+    ],
+    [
+     "Bad News Beers",
+     "Bad Boys"
+    ],
+    [
+     "Dirty O Boys",
+     "3 Guys And A Girl"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-08",
+   "note": "",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "3 Guys And A Girl"
+    ],
+    [
+     "Bad Boys",
+     "Dirty O Boys"
+    ],
+    [
+     "Caps N Plaids",
+     "Bad News Beers"
+    ],
+    [
+     "Sloppy Darts",
+     "Goodlife"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2026-12-15",
+   "note": "",
+   "matches": [
+    [
+     "Goodlife",
+     "Bulls And Brews"
+    ],
+    [
+     "Bad News Beers",
+     "Sloppy Darts"
+    ],
+    [
+     "Dirty O Boys",
+     "Caps N Plaids"
+    ],
+    [
+     "3 Guys And A Girl",
+     "Bad Boys"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-05",
+   "note": "Off 12/22 & 12/29- Can be used for makeups",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "Bad Boys"
+    ],
+    [
+     "Caps N Plaids",
+     "3 Guys And A Girl"
+    ],
+    [
+     "Sloppy Darts",
+     "Dirty O Boys"
+    ],
+    [
+     "Goodlife",
+     "Bad News Beers"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-12",
+   "note": "",
+   "matches": [
+    [
+     "Bad News Beers",
+     "Bulls And Brews"
+    ],
+    [
+     "Dirty O Boys",
+     "Goodlife"
+    ],
+    [
+     "3 Guys And A Girl",
+     "Sloppy Darts"
+    ],
+    [
+     "Bad Boys",
+     "Caps N Plaids"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-19",
+   "note": "",
+   "matches": [
+    [
+     "Caps N Plaids",
+     "Bulls And Brews"
+    ],
+    [
+     "Bad Boys",
+     "Sloppy Darts"
+    ],
+    [
+     "3 Guys And A Girl",
+     "Goodlife"
+    ],
+    [
+     "Dirty O Boys",
+     "Bad News Beers"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-01-26",
+   "note": "",
+   "matches": [
+    [
+     "Dirty O Boys",
+     "Bulls And Brews"
+    ],
+    [
+     "Bad News Beers",
+     "3 Guys And A Girl"
+    ],
+    [
+     "Goodlife",
+     "Bad Boys"
+    ],
+    [
+     "Sloppy Darts",
+     "Caps N Plaids"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-02",
+   "note": "",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "Sloppy Darts"
+    ],
+    [
+     "Caps N Plaids",
+     "Goodlife"
+    ],
+    [
+     "Bad Boys",
+     "Bad News Beers"
+    ],
+    [
+     "3 Guys And A Girl",
+     "Dirty O Boys"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-09",
+   "note": "",
+   "matches": [
+    [
+     "3 Guys And A Girl",
+     "Bulls And Brews"
+    ],
+    [
+     "Dirty O Boys",
+     "Bad Boys"
+    ],
+    [
+     "Bad News Beers",
+     "Caps N Plaids"
+    ],
+    [
+     "Goodlife",
+     "Sloppy Darts"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-16",
+   "note": "",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "Goodlife"
+    ],
+    [
+     "Sloppy Darts",
+     "Bad News Beers"
+    ],
+    [
+     "Caps N Plaids",
+     "Dirty O Boys"
+    ],
+    [
+     "Bad Boys",
+     "3 Guys And A Girl"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-02-23",
+   "note": "",
+   "matches": [
+    [
+     "Bad Boys",
+     "Bulls And Brews"
+    ],
+    [
+     "3 Guys And A Girl",
+     "Caps N Plaids"
+    ],
+    [
+     "Dirty O Boys",
+     "Sloppy Darts"
+    ],
+    [
+     "Bad News Beers",
+     "Goodlife"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-02",
+   "note": "",
+   "matches": [
+    [
+     "Bulls And Brews",
+     "Bad News Beers"
+    ],
+    [
+     "Goodlife",
+     "Dirty O Boys"
+    ],
+    [
+     "Sloppy Darts",
+     "3 Guys And A Girl"
+    ],
+    [
+     "Caps N Plaids",
+     "Bad Boys"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-09",
+   "note": "Use 3/9 for makeup matches",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-16",
+   "note": "Use 3/16 for makeup matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-03-23",
+   "note": "Use 3/23 for makeup matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Blitz Bar Room",
+   "machines": 2,
+   "phone": "585-364-0393",
+   "address": "6720 Pittsford Palmyra Rd., Faiport, NY 14450"
+  },
+  {
+   "name": "Caverlys",
+   "machines": 2,
+   "phone": "585-278-1289",
+   "address": "741 South Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Drs Inn",
+   "machines": 3,
+   "phone": "271-0820",
+   "address": "1743 East Ave, Rochester, NY 14610"
+  },
+  {
+   "name": "Gameday",
+   "machines": 4,
+   "phone": "",
+   "address": "730 Elmgrove Rd, Rochester, NY 14624"
+  },
+  {
+   "name": "JD Oxfords",
+   "machines": 3,
+   "phone": "585-256-0580",
+   "address": "636 Monroe Ave, Rochester, NY 14607"
+  },
+  {
+   "name": "Toasted Bear",
+   "machines": 2,
+   "phone": "585-434-3784",
+   "address": "989 S Clinton Ave., Rochester, NY 14620"
+  },
+  {
+   "name": "Turcotts Taproom",
+   "machines": 2,
+   "phone": "585-271-0339",
+   "address": "630 Monroe Ave, Rochester, NY 14607"
+  }
+ ],
+ "updated": "2026-10-22T01:40:44Z"
+}

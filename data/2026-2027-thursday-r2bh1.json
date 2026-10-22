@@ -1,0 +1,1477 @@
+{
+ "league": {
+  "title": "Thursday 2 Player BHand 1",
+  "location": "6R2BH1"
+ },
+ "standings": [
+  [
+   "Italian Stallions",
+   25,
+   14
+  ],
+  [
+   "Not These Guys Again",
+   16,
+   10
+  ],
+  [
+   "2 Guys 1 Bull",
+   22,
+   17
+  ],
+  [
+   "Tipped Out",
+   20,
+   19
+  ],
+  [
+   "Top Shottas",
+   20,
+   19
+  ],
+  [
+   "The Nobodys",
+   19,
+   20
+  ],
+  [
+   "Split Decision",
+   19,
+   20
+  ],
+  [
+   "B And D",
+   17,
+   22
+  ],
+  [
+   "Dave N Buster",
+   8,
+   18
+  ],
+  [
+   "BYE INCOMPLETE",
+   3,
+   10
+  ]
+ ],
+ "results": [
+  [
+   "Tipped Out",
+   "2 Guys 1 Bull",
+   "10/15/2026",
+   3,
+   8,
+   5
+  ],
+  [
+   "The Nobodys",
+   "Dave N Buster",
+   "10/15/2026",
+   3,
+   8,
+   5
+  ],
+  [
+   "Split Decision",
+   "Italian Stallions",
+   "10/15/2026",
+   3,
+   7,
+   6
+  ],
+  [
+   "B And D",
+   "Top Shottas",
+   "10/15/2026",
+   3,
+   7,
+   6
+  ],
+  [
+   "Italian Stallions",
+   "Split Decision",
+   "10/15/2026",
+   3,
+   6,
+   7
+  ],
+  [
+   "Top Shottas",
+   "B And D",
+   "10/15/2026",
+   3,
+   6,
+   7
+  ],
+  [
+   "Not These Guys Again",
+   "B And D",
+   "10/08/2026",
+   2,
+   6,
+   7
+  ],
+  [
+   "2 Guys 1 Bull",
+   "Tipped Out",
+   "10/15/2026",
+   3,
+   5,
+   8
+  ],
+  [
+   "Dave N Buster",
+   "The Nobodys",
+   "10/15/2026",
+   3,
+   5,
+   8
+  ],
+  [
+   "BYE INCOMPLETE",
+   "Italian Stallions",
+   "10/01/2026",
+   1,
+   3,
+   10
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Bill Lutomski",
+    "Top Shottas",
+    1.19,
+    1.36
+   ],
+   [
+    "Brian Pintagro",
+    "Dave N Buster",
+    1.54,
+    1.68
+   ],
+   [
+    "Colin Mousseau",
+    "The Nobodys",
+    1.61,
+    1.74
+   ]
+  ],
+  "x": [
+   [
+    "Dave DeCarlo",
+    "Dave N Buster",
+    15.81,
+    17.08
+   ],
+   [
+    "Michael Palumbo",
+    "Italian Stallions",
+    13.3,
+    14.08
+   ],
+   [
+    "Dan Mousseau Jr",
+    "B And D",
+    22.75,
+    23.51
+   ]
+  ]
+ },
+ "cricket": [
+  [
+   "Dan Mousseau Jr",
+   "B And D",
+   2.49,
+   18,
+   7,
+   1,
+   2,
+   1,
+   7,
+   5,
+   1,
+   0,
+   0
+  ],
+  [
+   "Rowdy Woodworth",
+   "The Nobodys",
+   2.29,
+   18,
+   7,
+   2,
+   0,
+   0,
+   7,
+   0,
+   2,
+   0,
+   0
+  ],
+  [
+   "Con 2 Guys 1 Bull",
+   "2 Guys 1 Bull",
+   2.25,
+   6,
+   1,
+   3,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   2.24,
+   12,
+   3,
+   4,
+   0,
+   0,
+   4,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Jack Ruppert",
+   "Tipped Out",
+   2.18,
+   18,
+   8,
+   3,
+   0,
+   0,
+   2,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "David Benwell",
+   "Top Shottas",
+   2.12,
+   18,
+   7,
+   2,
+   1,
+   0,
+   8,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dave DeCarlo",
+   "Dave N Buster",
+   2.1,
+   12,
+   1,
+   2,
+   0,
+   0,
+   4,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dan Carroll",
+   "Not These Guys Again",
+   2.08,
+   12,
+   4,
+   3,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joe Scalise",
+   "2 Guys 1 Bull",
+   1.9,
+   18,
+   6,
+   4,
+   1,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jon Green",
+   "Split Decision",
+   1.79,
+   18,
+   3,
+   7,
+   0,
+   0,
+   6,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Matt Cortese",
+   "2 Guys 1 Bull",
+   1.75,
+   12,
+   3,
+   3,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Colin Mousseau",
+   "The Nobodys",
+   1.74,
+   18,
+   2,
+   7,
+   0,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Pintagro",
+   "Dave N Buster",
+   1.68,
+   12,
+   2,
+   1,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Paul Guadagna",
+   "Tipped Out",
+   1.52,
+   18,
+   3,
+   8,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Trenton Harvey",
+   "BYE INCOMPLETE",
+   1.47,
+   6,
+   2,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Holden Sandlar",
+   "Split Decision",
+   1.46,
+   18,
+   7,
+   3,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Palermo",
+   "B And D",
+   1.37,
+   18,
+   1,
+   7,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bill Lutomski",
+   "Top Shottas",
+   1.36,
+   18,
+   2,
+   7,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Michael Palumbo",
+   "Italian Stallions",
+   1.34,
+   18,
+   4,
+   5,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Miller",
+   "Italian Stallions",
+   1.25,
+   18,
+   5,
+   4,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jamey Trembley",
+   "BYE INCOMPLETE",
+   1.08,
+   6,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Dan Mousseau Jr",
+   "B And D",
+   23.51,
+   21,
+   6,
+   3,
+   0,
+   0,
+   0,
+   23
+  ],
+  [
+   "David Benwell",
+   "Top Shottas",
+   22.47,
+   21,
+   6,
+   1,
+   0,
+   0,
+   0,
+   22
+  ],
+  [
+   "Jack Ruppert",
+   "Tipped Out",
+   19.66,
+   21,
+   4,
+   1,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "Colin Mousseau",
+   "The Nobodys",
+   19.1,
+   21,
+   7,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Dan Carroll",
+   "Not These Guys Again",
+   18.85,
+   14,
+   6,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Con 2 Guys 1 Bull",
+   "2 Guys 1 Bull",
+   18.71,
+   7,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Matt Cortese",
+   "2 Guys 1 Bull",
+   18.63,
+   14,
+   4,
+   1,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Joe Scalise",
+   "2 Guys 1 Bull",
+   18.49,
+   21,
+   7,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Brian Pintagro",
+   "Dave N Buster",
+   18.05,
+   14,
+   3,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Rowdy Woodworth",
+   "The Nobodys",
+   17.77,
+   21,
+   3,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Jon Green",
+   "Split Decision",
+   17.6,
+   21,
+   4,
+   2,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Dave DeCarlo",
+   "Dave N Buster",
+   17.08,
+   14,
+   2,
+   1,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Brian Palermo",
+   "B And D",
+   16.61,
+   21,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Paul Guadagna",
+   "Tipped Out",
+   16.19,
+   21,
+   5,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   15.93,
+   14,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Bill Lutomski",
+   "Top Shottas",
+   15.59,
+   21,
+   4,
+   1,
+   1,
+   0,
+   0,
+   5
+  ],
+  [
+   "Holden Sandlar",
+   "Split Decision",
+   14.67,
+   21,
+   5,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
+   "Josh Miller",
+   "Italian Stallions",
+   14.62,
+   21,
+   7,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Trenton Harvey",
+   "BYE INCOMPLETE",
+   14.42,
+   7,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Michael Palumbo",
+   "Italian Stallions",
+   14.08,
+   21,
+   8,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Jamey Trembley",
+   "BYE INCOMPLETE",
+   11.2,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "teams": [
+  {
+   "name": "2 Guys 1 Bull",
+   "site": "Village Rock",
+   "captain": "Matt Cortese",
+   "phone": "585-734-0041"
+  },
+  {
+   "name": "B And D",
+   "site": "My Apartment Bar",
+   "captain": "Dan Mousseau Jr",
+   "phone": "585-616-0081"
+  },
+  {
+   "name": "BYE INCOMPLETE",
+   "site": "Bye Incomplete",
+   "captain": "Jonahs Chadsey",
+   "phone": "585-746-7962"
+  },
+  {
+   "name": "Dave N Buster",
+   "site": "Back To My Place",
+   "captain": "Dave DeCarlo",
+   "phone": "585-363-0814"
+  },
+  {
+   "name": "Italian Stallions",
+   "site": "Pourin Joy",
+   "captain": "Michael Palumbo",
+   "phone": "585-857-8441"
+  },
+  {
+   "name": "Not These Guys Again",
+   "site": "Kernys Pub",
+   "captain": "Andrew Casciani",
+   "phone": "585-737-3044"
+  },
+  {
+   "name": "Split Decision",
+   "site": "Jeremiahs Monroe",
+   "captain": "Holden Sandlar",
+   "phone": "585-709-6627"
+  },
+  {
+   "name": "The Nobodys",
+   "site": "J AndE Meeting Place",
+   "captain": "Colin Mousseau",
+   "phone": "702-467-3578"
+  },
+  {
+   "name": "Tipped Out",
+   "site": "Pats Twice Baked",
+   "captain": "Jack Ruppert",
+   "phone": "585-615-2843"
+  },
+  {
+   "name": "Top Shottas",
+   "site": "Main Place Tavern",
+   "captain": "David Benwell",
+   "phone": "315-591-7202"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-10-01",
+   "note": "",
+   "matches": [
+    [
+     "Dave N Buster",
+     "Not These Guys Again"
+    ],
+    [
+     "Italian Stallions",
+     "BYE INCOMPLETE"
+    ],
+    [
+     "Tipped Out",
+     "The Nobodys"
+    ],
+    [
+     "Top Shottas",
+     "Split Decision"
+    ],
+    [
+     "B And D",
+     "2 Guys 1 Bull"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-08",
+   "note": "",
+   "matches": [
+    [
+     "B And D",
+     "Not These Guys Again"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "Top Shottas"
+    ],
+    [
+     "Split Decision",
+     "Tipped Out"
+    ],
+    [
+     "The Nobodys",
+     "Italian Stallions"
+    ],
+    [
+     "BYE INCOMPLETE",
+     "Dave N Buster"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-15",
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "BYE INCOMPLETE"
+    ],
+    [
+     "Dave N Buster",
+     "The Nobodys"
+    ],
+    [
+     "Italian Stallions",
+     "Split Decision"
+    ],
+    [
+     "Tipped Out",
+     "2 Guys 1 Bull"
+    ],
+    [
+     "Top Shottas",
+     "B And D"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-22",
+   "note": "",
+   "matches": [
+    [
+     "Top Shottas",
+     "Not These Guys Again"
+    ],
+    [
+     "B And D",
+     "Tipped Out"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "Italian Stallions"
+    ],
+    [
+     "Split Decision",
+     "Dave N Buster"
+    ],
+    [
+     "The Nobodys",
+     "BYE INCOMPLETE"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-29",
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "The Nobodys"
+    ],
+    [
+     "BYE INCOMPLETE",
+     "Split Decision"
+    ],
+    [
+     "Dave N Buster",
+     "2 Guys 1 Bull"
+    ],
+    [
+     "Italian Stallions",
+     "B And D"
+    ],
+    [
+     "Tipped Out",
+     "Top Shottas"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-05",
+   "note": "",
+   "matches": [
+    [
+     "Tipped Out",
+     "Not These Guys Again"
+    ],
+    [
+     "Top Shottas",
+     "Italian Stallions"
+    ],
+    [
+     "B And D",
+     "Dave N Buster"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "BYE INCOMPLETE"
+    ],
+    [
+     "Split Decision",
+     "The Nobodys"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-12",
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "Split Decision"
+    ],
+    [
+     "The Nobodys",
+     "2 Guys 1 Bull"
+    ],
+    [
+     "BYE INCOMPLETE",
+     "B And D"
+    ],
+    [
+     "Dave N Buster",
+     "Top Shottas"
+    ],
+    [
+     "Italian Stallions",
+     "Tipped Out"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-19",
+   "note": "",
+   "matches": [
+    [
+     "Italian Stallions",
+     "Not These Guys Again"
+    ],
+    [
+     "Tipped Out",
+     "Dave N Buster"
+    ],
+    [
+     "Top Shottas",
+     "BYE INCOMPLETE"
+    ],
+    [
+     "B And D",
+     "The Nobodys"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "Split Decision"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-12-03",
+   "note": "Off 11/26- Thanksgiving",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "2 Guys 1 Bull"
+    ],
+    [
+     "Split Decision",
+     "B And D"
+    ],
+    [
+     "The Nobodys",
+     "Top Shottas"
+    ],
+    [
+     "BYE INCOMPLETE",
+     "Tipped Out"
+    ],
+    [
+     "Dave N Buster",
+     "Italian Stallions"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-10",
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "Dave N Buster"
+    ],
+    [
+     "BYE INCOMPLETE",
+     "Italian Stallions"
+    ],
+    [
+     "The Nobodys",
+     "Tipped Out"
+    ],
+    [
+     "Split Decision",
+     "Top Shottas"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "B And D"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-17",
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "B And D"
+    ],
+    [
+     "Top Shottas",
+     "2 Guys 1 Bull"
+    ],
+    [
+     "Tipped Out",
+     "Split Decision"
+    ],
+    [
+     "Italian Stallions",
+     "The Nobodys"
+    ],
+    [
+     "Dave N Buster",
+     "BYE INCOMPLETE"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2027-01-07",
+   "note": "Off 12/24 & 12/31- Holidays",
+   "matches": [
+    [
+     "BYE INCOMPLETE",
+     "Not These Guys Again"
+    ],
+    [
+     "The Nobodys",
+     "Dave N Buster"
+    ],
+    [
+     "Split Decision",
+     "Italian Stallions"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "Tipped Out"
+    ],
+    [
+     "B And D",
+     "Top Shottas"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-14",
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "Top Shottas"
+    ],
+    [
+     "Tipped Out",
+     "B And D"
+    ],
+    [
+     "Italian Stallions",
+     "2 Guys 1 Bull"
+    ],
+    [
+     "Dave N Buster",
+     "Split Decision"
+    ],
+    [
+     "BYE INCOMPLETE",
+     "The Nobodys"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-21",
+   "note": "",
+   "matches": [
+    [
+     "The Nobodys",
+     "Not These Guys Again"
+    ],
+    [
+     "Split Decision",
+     "BYE INCOMPLETE"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "Dave N Buster"
+    ],
+    [
+     "B And D",
+     "Italian Stallions"
+    ],
+    [
+     "Top Shottas",
+     "Tipped Out"
+    ]
+   ]
+  },
+  {
+   "week": 15,
+   "date": "2027-01-28",
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "Tipped Out"
+    ],
+    [
+     "Italian Stallions",
+     "Top Shottas"
+    ],
+    [
+     "Dave N Buster",
+     "B And D"
+    ],
+    [
+     "BYE INCOMPLETE",
+     "2 Guys 1 Bull"
+    ],
+    [
+     "The Nobodys",
+     "Split Decision"
+    ]
+   ]
+  },
+  {
+   "week": 16,
+   "date": "2027-02-04",
+   "note": "",
+   "matches": [
+    [
+     "Split Decision",
+     "Not These Guys Again"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "The Nobodys"
+    ],
+    [
+     "B And D",
+     "BYE INCOMPLETE"
+    ],
+    [
+     "Top Shottas",
+     "Dave N Buster"
+    ],
+    [
+     "Tipped Out",
+     "Italian Stallions"
+    ]
+   ]
+  },
+  {
+   "week": 17,
+   "date": "2027-02-11",
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "Italian Stallions"
+    ],
+    [
+     "Dave N Buster",
+     "Tipped Out"
+    ],
+    [
+     "BYE INCOMPLETE",
+     "Top Shottas"
+    ],
+    [
+     "The Nobodys",
+     "B And D"
+    ],
+    [
+     "Split Decision",
+     "2 Guys 1 Bull"
+    ]
+   ]
+  },
+  {
+   "week": 18,
+   "date": "2027-02-18",
+   "note": "",
+   "matches": [
+    [
+     "2 Guys 1 Bull",
+     "Not These Guys Again"
+    ],
+    [
+     "B And D",
+     "Split Decision"
+    ],
+    [
+     "Top Shottas",
+     "The Nobodys"
+    ],
+    [
+     "Tipped Out",
+     "BYE INCOMPLETE"
+    ],
+    [
+     "Italian Stallions",
+     "Dave N Buster"
+    ]
+   ]
+  },
+  {
+   "week": 19,
+   "date": "2027-02-25",
+   "note": "",
+   "matches": [
+    [
+     "Dave N Buster",
+     "Not These Guys Again"
+    ],
+    [
+     "Italian Stallions",
+     "BYE INCOMPLETE"
+    ],
+    [
+     "Tipped Out",
+     "The Nobodys"
+    ],
+    [
+     "Top Shottas",
+     "Split Decision"
+    ],
+    [
+     "B And D",
+     "2 Guys 1 Bull"
+    ]
+   ]
+  },
+  {
+   "week": 20,
+   "date": "2027-03-04",
+   "note": "",
+   "matches": [
+    [
+     "B And D",
+     "Not These Guys Again"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "Top Shottas"
+    ],
+    [
+     "Split Decision",
+     "Tipped Out"
+    ],
+    [
+     "The Nobodys",
+     "Italian Stallions"
+    ],
+    [
+     "BYE INCOMPLETE",
+     "Dave N Buster"
+    ]
+   ]
+  },
+  {
+   "week": 21,
+   "date": "2027-03-11",
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "BYE INCOMPLETE"
+    ],
+    [
+     "Dave N Buster",
+     "The Nobodys"
+    ],
+    [
+     "Italian Stallions",
+     "Split Decision"
+    ],
+    [
+     "Tipped Out",
+     "2 Guys 1 Bull"
+    ],
+    [
+     "Top Shottas",
+     "B And D"
+    ]
+   ]
+  },
+  {
+   "week": 22,
+   "date": "2027-03-18",
+   "note": "Use 3/18 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-25",
+   "note": "Use 3/25 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-04-01",
+   "note": "Use 4/1 for Makeup Matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "Bye Incomplete",
+   "machines": 2,
+   "phone": "",
+   "address": "This Team Is Not, Completing The Season, Rochester, NY 14610"
+  },
+  {
+   "name": "Empire Pub",
+   "machines": 2,
+   "phone": "585-671-4386",
+   "address": "2014 Empire Blvd., Webster, NY 14580"
+  },
+  {
+   "name": "J AndE Meeting Place",
+   "machines": 1,
+   "phone": "585-352-8770",
+   "address": "380 South Union St, Spencerport, NY 14610"
+  },
+  {
+   "name": "Jeremiahs Monroe",
+   "machines": 2,
+   "phone": "585-461-1313",
+   "address": "1104 Monroe Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Kernys Pub",
+   "machines": 2,
+   "phone": "585-978-7000",
+   "address": "2001 E Main Street, Rochester, NY 14609"
+  },
+  {
+   "name": "Main Place Tavern",
+   "machines": 2,
+   "phone": "585-288-9845",
+   "address": "1899 E Main St., Rochester, NY 14609"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Pats Twice Baked",
+   "machines": 1,
+   "phone": "585-340-6419",
+   "address": "1551 Mt Hope Ave, Rochester, NY 14620"
+  },
+  {
+   "name": "Pourin Joy",
+   "machines": 2,
+   "phone": "585-204-0473",
+   "address": "111 Park Ave., Rochester, NY 14607"
+  },
+  {
+   "name": "Village Rock",
+   "machines": 2,
+   "phone": "585-586-1640",
+   "address": "213 Main St, E. Rochester, NY 14445"
+  }
+ ],
+ "updated": "2026-10-22T01:41:25Z"
+}
