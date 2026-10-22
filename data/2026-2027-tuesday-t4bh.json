@@ -898,18 +898,6 @@
    1
   ],
   [
-   "Scott Fry",
-   "Thunderbuddies",
-   17.37,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Jimmy Mietus",
    "Team Name",
    17.37,
@@ -932,6 +920,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Scott Fry",
+   "Thunderbuddies",
+   17.37,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Michael Justis",
@@ -1819,5 +1819,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-22T02:33:14Z"
+ "updated": "2026-10-22T03:33:12Z"
 }
