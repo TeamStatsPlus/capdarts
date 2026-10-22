@@ -1,0 +1,127 @@
+{
+ "default": "2026-2027-thursday-r2bph",
+ "seasons": [
+  {
+   "name": "2026-2027",
+   "days": [
+    {
+     "name": "Sunday",
+     "divisions": [
+      {
+       "name": "S2BH",
+       "id": "2026-2027-sunday-s2bh"
+      },
+      {
+       "name": "S2BPA",
+       "id": "2026-2027-sunday-s2bpa"
+      }
+     ]
+    },
+    {
+     "name": "Monday",
+     "divisions": [
+      {
+       "name": "M2A",
+       "id": "2026-2027-monday-m2a"
+      },
+      {
+       "name": "M2XH1",
+       "id": "2026-2027-monday-m2xh1"
+      },
+      {
+       "name": "M2XH2",
+       "id": "2026-2027-monday-m2xh2"
+      },
+      {
+       "name": "M4B",
+       "id": "2026-2027-monday-m4b"
+      },
+      {
+       "name": "M4XH",
+       "id": "2026-2027-monday-m4xh"
+      }
+     ]
+    },
+    {
+     "name": "Tuesday",
+     "divisions": [
+      {
+       "name": "T2MIX",
+       "id": "2026-2027-tuesday-t2mix"
+      },
+      {
+       "name": "T4B",
+       "id": "2026-2027-tuesday-t4b"
+      },
+      {
+       "name": "T4BH",
+       "id": "2026-2027-tuesday-t4bh"
+      },
+      {
+       "name": "T4BN",
+       "id": "2026-2027-tuesday-t4bn"
+      }
+     ]
+    },
+    {
+     "name": "Wednesday",
+     "divisions": [
+      {
+       "name": "W2BH1",
+       "id": "2026-2027-wednesday-w2bh1"
+      },
+      {
+       "name": "W2BH2",
+       "id": "2026-2027-wednesday-w2bh2"
+      },
+      {
+       "name": "W2BPH",
+       "id": "2026-2027-wednesday-w2bph"
+      },
+      {
+       "name": "W4B",
+       "id": "2026-2027-wednesday-w4b"
+      },
+      {
+       "name": "W4BH1",
+       "id": "2026-2027-wednesday-w4bh1"
+      },
+      {
+       "name": "W4BH2",
+       "id": "2026-2027-wednesday-w4bh2"
+      },
+      {
+       "name": "W4BH3",
+       "id": "2026-2027-wednesday-w4bh3"
+      },
+      {
+       "name": "W4BP",
+       "id": "2026-2027-wednesday-w4bp"
+      }
+     ]
+    },
+    {
+     "name": "Thursday",
+     "divisions": [
+      {
+       "name": "Bill Grays In House",
+       "id": "2026-2027-thursday-bill-grays-in-house"
+      },
+      {
+       "name": "R2BH1",
+       "id": "2026-2027-thursday-r2bh1"
+      },
+      {
+       "name": "R2BH2",
+       "id": "2026-2027-thursday-r2bh2"
+      },
+      {
+       "name": "R2BPh",
+       "id": "2026-2027-thursday-r2bph"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
