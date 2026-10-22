@@ -214,21 +214,6 @@
    0
   ],
   [
-   "Zaccary Maguire",
-   "Team Stinky",
-   2.43,
-   12,
-   3,
-   1,
-   1,
-   0,
-   3,
-   0,
-   1,
-   0,
-   1
-  ],
-  [
    "Mike Infantino",
    "Wrong Hole",
    2.43,
@@ -242,6 +227,21 @@
    2,
    0,
    0
+  ],
+  [
+   "Zaccary Maguire",
+   "Team Stinky",
+   2.43,
+   12,
+   3,
+   1,
+   1,
+   0,
+   3,
+   0,
+   1,
+   0,
+   1
   ],
   [
    "Jay Jaz",
@@ -469,16 +469,16 @@
    0
   ],
   [
-   "Zach Gooding",
-   "Toasted Darts",
+   "Juan Rosado",
+   "Liquor Box",
    1.96,
-   9,
-   2,
-   2,
+   12,
+   4,
+   3,
    0,
    0,
-   5,
-   1,
+   2,
+   3,
    0,
    0,
    0
@@ -499,16 +499,16 @@
    0
   ],
   [
-   "Juan Rosado",
-   "Liquor Box",
+   "Zach Gooding",
+   "Toasted Darts",
    1.96,
-   12,
-   4,
-   3,
-   0,
-   0,
+   9,
    2,
-   3,
+   2,
+   0,
+   0,
+   5,
+   1,
    0,
    0,
    0
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-22T03:33:43Z"
+ "updated": "2026-10-22T04:34:06Z"
 }
