@@ -308,21 +308,6 @@
    0
   ],
   [
-   "Brett W Here For The Beer",
-   "Here 4 The Beer",
-   2.39,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Philip Rowland",
    "ChJokers",
    2.39,
@@ -334,6 +319,21 @@
    3,
    2,
    2,
+   0,
+   0
+  ],
+  [
+   "Brett W Here For The Beer",
+   "Here 4 The Beer",
+   2.39,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
    0,
    0
   ],
@@ -503,6 +503,21 @@
    0
   ],
   [
+   "Randy Cook",
+   "Money Shot",
+   2.13,
+   12,
+   5,
+   4,
+   0,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Shawn Hodgeman",
    "Here 4 The Beer",
    2.13,
@@ -529,21 +544,6 @@
    2,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Randy Cook",
-   "Money Shot",
-   2.13,
-   12,
-   5,
-   4,
-   0,
-   0,
-   5,
-   1,
-   1,
    0,
    0
   ],
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Matt Cortese",
-   "Off Target",
-   1.94,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Rory Doran",
    "Bad News Beers",
    1.94,
@@ -666,6 +651,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Matt Cortese",
+   "Off Target",
+   1.94,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "Scott Musial",
@@ -923,6 +923,21 @@
    0
   ],
   [
+   "Brian Wills",
+   "Tegridy",
+   1.62,
+   9,
+   0,
+   3,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Chuck Coates",
    "Wired",
    1.62,
@@ -947,21 +962,6 @@
    1,
    0,
    1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Brian Wills",
-   "Tegridy",
-   1.62,
-   9,
-   0,
-   3,
-   0,
-   0,
-   3,
    0,
    0,
    0,
@@ -1390,18 +1390,6 @@
    8
   ],
   [
-   "Matt Cortese",
-   "Off Target",
-   20.85,
-   8,
-   3,
-   1,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "David Wills",
    "Tegridy",
    20.85,
@@ -1412,6 +1400,18 @@
    0,
    1,
    5
+  ],
+  [
+   "Matt Cortese",
+   "Off Target",
+   20.85,
+   8,
+   3,
+   1,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Shondell Kirton",
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-22T09:35:07Z"
+ "updated": "2026-10-22T10:34:30Z"
 }
