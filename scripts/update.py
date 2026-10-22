@@ -96,12 +96,16 @@ def iso(d):
 
 def parse_schedule(soup):
     teams = []
-    roster = need(table_with(soup, "Captain"), "team roster table")
+    roster = need(table_with(soup, "Team", "Site"), "team roster table")
+    head = [clean(c.get_text(" ")) for c in roster.find("tr").find_all(["th", "td"])]
+    has_captain = any("Captain" in h for h in head)  # some divisions list no captains
     for tr in body(roster):
         td = tr.find_all("td")
-        if len(td) < 5:
+        if len(td) < 3:
             continue
-        team, cap, ph = lines(td[2]), lines(td[3]), lines(td[4])
+        team = lines(td[2])
+        cap = lines(td[3]) if has_captain and len(td) > 3 else []
+        ph = lines(td[4]) if has_captain and len(td) > 4 else []
         if team:
             teams.append({"name": team[0], "site": team[1] if len(team) > 1 else "", "captain": cap[0] if cap else "", "phone": ph[0] if ph else ""})
     need(teams, "teams")
