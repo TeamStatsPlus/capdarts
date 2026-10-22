@@ -1,1 +1,1768 @@
-
+{
+ "updated": "2026-10-21T00:35:00Z",
+ "standings": [
+  [
+   "No Clue",
+   31,
+   14
+  ],
+  [
+   "Scotts On The Rocks",
+   30,
+   15
+  ],
+  [
+   "DoubleIn StumbleOut",
+   29,
+   16
+  ],
+  [
+   "Dart Bags",
+   26,
+   19
+  ],
+  [
+   "Draw Two",
+   17,
+   13
+  ],
+  [
+   "Wags To Richs",
+   22,
+   23
+  ],
+  [
+   "Handjobs4thehomeless",
+   14,
+   16
+  ],
+  [
+   "Throwing Shade",
+   20,
+   25
+  ],
+  [
+   "Never Trust A Dart",
+   13,
+   17
+  ],
+  [
+   "Throw Bros",
+   19,
+   26
+  ],
+  [
+   "Revenge",
+   18,
+   27
+  ],
+  [
+   "Tag Team Tami",
+   11,
+   19
+  ],
+  [
+   "Retreat",
+   10,
+   20
+  ],
+  [
+   "TakingNamesTakingAim",
+   10,
+   20
+  ]
+ ],
+ "results": [
+  [
+   "DoubleIn StumbleOut",
+   "TakingNamesTakingAim",
+   "10/22/2026",
+   3,
+   12,
+   3
+  ],
+  [
+   "No Clue",
+   "Revenge",
+   "10/22/2026",
+   3,
+   10,
+   5
+  ],
+  [
+   "Scotts On The Rocks",
+   "Retreat",
+   "10/22/2026",
+   3,
+   9,
+   6
+  ],
+  [
+   "Throwing Shade",
+   "Dart Bags",
+   "10/22/2026",
+   3,
+   8,
+   7
+  ],
+  [
+   "Throw Bros",
+   "Tag Team Tami",
+   "10/22/2026",
+   3,
+   8,
+   7
+  ],
+  [
+   "Draw Two",
+   "Wags To Richs",
+   "10/22/2026",
+   3,
+   8,
+   7
+  ],
+  [
+   "Handjobs4thehomeless",
+   "Wags To Richs",
+   "10/15/2026",
+   2,
+   8,
+   7
+  ],
+  [
+   "Dart Bags",
+   "Throwing Shade",
+   "10/22/2026",
+   3,
+   7,
+   8
+  ],
+  [
+   "Tag Team Tami",
+   "Throw Bros",
+   "10/22/2026",
+   3,
+   7,
+   8
+  ],
+  [
+   "Wags To Richs",
+   "Draw Two",
+   "10/22/2026",
+   3,
+   7,
+   8
+  ],
+  [
+   "Retreat",
+   "Scotts On The Rocks",
+   "10/22/2026",
+   3,
+   6,
+   9
+  ],
+  [
+   "Never Trust A Dart",
+   "Dart Bags",
+   "10/15/2026",
+   2,
+   5,
+   10
+  ],
+  [
+   "Revenge",
+   "No Clue",
+   "10/22/2026",
+   3,
+   5,
+   10
+  ],
+  [
+   "TakingNamesTakingAim",
+   "DoubleIn StumbleOut",
+   "10/22/2026",
+   3,
+   3,
+   12
+  ]
+ ],
+ "cricket": [
+  [
+   "Rich Allen",
+   "Wags To Richs",
+   3.22,
+   18,
+   10,
+   1,
+   3,
+   1,
+   14,
+   4,
+   8,
+   0,
+   1
+  ],
+  [
+   "Sean Liddle",
+   "DoubleIn StumbleOut",
+   3.02,
+   18,
+   8,
+   3,
+   4,
+   0,
+   15,
+   7,
+   4,
+   0,
+   0
+  ],
+  [
+   "Matt Wagner",
+   "Handjobs4thehomeless",
+   3.0,
+   6,
+   1,
+   2,
+   1,
+   0,
+   3,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
+   "Carlton Smith",
+   "Revenge",
+   2.96,
+   18,
+   7,
+   4,
+   2,
+   0,
+   12,
+   6,
+   6,
+   0,
+   0
+  ],
+  [
+   "Kieron Bussom",
+   "Handjobs4thehomeless",
+   2.94,
+   6,
+   1,
+   1,
+   0,
+   0,
+   3,
+   0,
+   3,
+   0,
+   0
+  ],
+  [
+   "Andy Georgetti",
+   "No Clue",
+   2.89,
+   18,
+   8,
+   6,
+   2,
+   0,
+   9,
+   8,
+   5,
+   0,
+   1
+  ],
+  [
+   "Scott Etter",
+   "Scotts On The Rocks",
+   2.85,
+   18,
+   10,
+   3,
+   2,
+   0,
+   16,
+   4,
+   4,
+   1,
+   0
+  ],
+  [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   2.71,
+   12,
+   6,
+   0,
+   0,
+   0,
+   8,
+   2,
+   2,
+   1,
+   0
+  ],
+  [
+   "Mark Sennett",
+   "Dart Bags",
+   2.7,
+   18,
+   7,
+   3,
+   0,
+   0,
+   10,
+   5,
+   3,
+   1,
+   0
+  ],
+  [
+   "Kirk Santelli",
+   "DoubleIn StumbleOut",
+   2.67,
+   18,
+   7,
+   3,
+   3,
+   0,
+   13,
+   2,
+   2,
+   0,
+   1
+  ],
+  [
+   "Todd Wagner",
+   "Handjobs4thehomeless",
+   2.67,
+   12,
+   4,
+   0,
+   0,
+   0,
+   6,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Kevin DeHollander",
+   "Draw Two",
+   2.62,
+   12,
+   6,
+   0,
+   0,
+   0,
+   8,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Shawn Bentley",
+   "Throwing Shade",
+   2.58,
+   18,
+   5,
+   6,
+   1,
+   0,
+   5,
+   5,
+   7,
+   0,
+   0
+  ],
+  [
+   "Daniel Purpura",
+   "Retreat",
+   2.57,
+   12,
+   3,
+   1,
+   0,
+   0,
+   8,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Alexander Blake",
+   "Dart Bags",
+   2.57,
+   18,
+   7,
+   4,
+   1,
+   0,
+   6,
+   4,
+   4,
+   0,
+   0
+  ],
+  [
+   "Anthony Kelly",
+   "Throw Bros",
+   2.52,
+   12,
+   3,
+   0,
+   0,
+   0,
+   9,
+   1,
+   1,
+   1,
+   0
+  ],
+  [
+   "Mike Georgetti",
+   "No Clue",
+   2.5,
+   18,
+   9,
+   4,
+   1,
+   0,
+   9,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
+   "Eric Porte",
+   "Never Trust A Dart",
+   2.5,
+   12,
+   4,
+   2,
+   1,
+   0,
+   10,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Archie Donaldson",
+   "Revenge",
+   2.49,
+   18,
+   6,
+   3,
+   0,
+   0,
+   10,
+   4,
+   4,
+   1,
+   0
+  ],
+  [
+   "Will Zimmer",
+   "Throw Bros",
+   2.48,
+   6,
+   2,
+   0,
+   0,
+   0,
+   4,
+   0,
+   2,
+   0,
+   0
+  ],
+  [
+   "Jason Bateman",
+   "Retreat",
+   2.44,
+   6,
+   1,
+   0,
+   1,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Scott King",
+   "Scotts On The Rocks",
+   2.37,
+   18,
+   6,
+   5,
+   2,
+   0,
+   6,
+   3,
+   3,
+   0,
+   0
+  ],
+  [
+   "John Salamone",
+   "Tag Team Tami",
+   2.29,
+   12,
+   3,
+   1,
+   0,
+   0,
+   4,
+   3,
+   3,
+   0,
+   0
+  ],
+  [
+   "Jason Arena",
+   "Throwing Shade",
+   2.28,
+   18,
+   8,
+   2,
+   0,
+   0,
+   1,
+   4,
+   1,
+   0,
+   1
+  ],
+  [
+   "Brandon Wheeler",
+   "Never Trust A Dart",
+   2.14,
+   12,
+   3,
+   1,
+   0,
+   0,
+   6,
+   2,
+   0,
+   0,
+   1
+  ],
+  [
+   "Chris Contrera",
+   "Throw Bros",
+   2.13,
+   18,
+   3,
+   3,
+   1,
+   0,
+   8,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Mike Ronzo",
+   "Tag Team Tami",
+   2.09,
+   12,
+   3,
+   2,
+   0,
+   0,
+   6,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jamie Love",
+   "Draw Two",
+   2.09,
+   12,
+   1,
+   3,
+   1,
+   0,
+   2,
+   1,
+   1,
+   0,
+   1
+  ],
+  [
+   "Chris Dote",
+   "TakingNamesTakingAim",
+   1.76,
+   6,
+   1,
+   3,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Carol Bartell",
+   "Wags To Richs",
+   1.73,
+   18,
+   1,
+   4,
+   0,
+   0,
+   7,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alyxandria Weaver",
+   "Retreat",
+   1.69,
+   6,
+   0,
+   0,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jessica Mitrano",
+   "TakingNamesTakingAim",
+   1.41,
+   6,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ]
+ ],
+ "x01": [
+  [
+   "Rich Allen",
+   "Wags To Richs",
+   27.78,
+   21,
+   8,
+   27,
+   0,
+   0,
+   0,
+   45
+  ],
+  [
+   "Kieron Bussom",
+   "Handjobs4thehomeless",
+   27.73,
+   7,
+   1,
+   1,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Carlton Smith",
+   "Revenge",
+   27.54,
+   21,
+   8,
+   10,
+   0,
+   1,
+   2,
+   37
+  ],
+  [
+   "Matt Wagner",
+   "Handjobs4thehomeless",
+   24.91,
+   7,
+   3,
+   0,
+   0,
+   0,
+   3,
+   19
+  ],
+  [
+   "Andy Georgetti",
+   "No Clue",
+   24.54,
+   21,
+   5,
+   6,
+   0,
+   0,
+   1,
+   45
+  ],
+  [
+   "Will Zimmer",
+   "Throw Bros",
+   24.28,
+   7,
+   1,
+   4,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
+   "Mark Sennett",
+   "Dart Bags",
+   24.17,
+   21,
+   4,
+   7,
+   0,
+   0,
+   0,
+   39
+  ],
+  [
+   "Sean Liddle",
+   "DoubleIn StumbleOut",
+   24.15,
+   21,
+   9,
+   8,
+   0,
+   0,
+   0,
+   38
+  ],
+  [
+   "Kirk Santelli",
+   "DoubleIn StumbleOut",
+   23.16,
+   21,
+   5,
+   7,
+   0,
+   0,
+   0,
+   37
+  ],
+  [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   23.05,
+   14,
+   2,
+   2,
+   0,
+   0,
+   0,
+   29
+  ],
+  [
+   "Alexander Blake",
+   "Dart Bags",
+   22.98,
+   21,
+   8,
+   3,
+   0,
+   0,
+   0,
+   40
+  ],
+  [
+   "Todd Wagner",
+   "Handjobs4thehomeless",
+   22.14,
+   14,
+   4,
+   2,
+   0,
+   0,
+   2,
+   22
+  ],
+  [
+   "Anthony Kelly",
+   "Throw Bros",
+   22.03,
+   14,
+   3,
+   3,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Daniel Purpura",
+   "Retreat",
+   21.78,
+   14,
+   2,
+   1,
+   0,
+   0,
+   1,
+   24
+  ],
+  [
+   "Kevin DeHollander",
+   "Draw Two",
+   21.55,
+   14,
+   2,
+   3,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Scott Etter",
+   "Scotts On The Rocks",
+   21.47,
+   21,
+   11,
+   7,
+   1,
+   0,
+   1,
+   23
+  ],
+  [
+   "Mike Georgetti",
+   "No Clue",
+   20.9,
+   21,
+   9,
+   3,
+   0,
+   0,
+   1,
+   31
+  ],
+  [
+   "Shawn Bentley",
+   "Throwing Shade",
+   20.89,
+   21,
+   2,
+   4,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Jamie Love",
+   "Draw Two",
+   20.67,
+   14,
+   3,
+   0,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Archie Donaldson",
+   "Revenge",
+   20.48,
+   21,
+   2,
+   3,
+   0,
+   0,
+   0,
+   26
+  ],
+  [
+   "Brandon Wheeler",
+   "Never Trust A Dart",
+   20.46,
+   14,
+   4,
+   4,
+   0,
+   0,
+   2,
+   14
+  ],
+  [
+   "Chris Contrera",
+   "Throw Bros",
+   20.45,
+   21,
+   7,
+   4,
+   0,
+   0,
+   0,
+   23
+  ],
+  [
+   "John Salamone",
+   "Tag Team Tami",
+   20.37,
+   14,
+   4,
+   3,
+   0,
+   0,
+   0,
+   17
+  ],
+  [
+   "Scott King",
+   "Scotts On The Rocks",
+   20.28,
+   21,
+   3,
+   5,
+   0,
+   0,
+   0,
+   27
+  ],
+  [
+   "Jason Arena",
+   "Throwing Shade",
+   19.76,
+   21,
+   5,
+   2,
+   0,
+   0,
+   1,
+   24
+  ],
+  [
+   "Eric Porte",
+   "Never Trust A Dart",
+   19.58,
+   14,
+   2,
+   1,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Mike Ronzo",
+   "Tag Team Tami",
+   19.1,
+   14,
+   1,
+   2,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
+   "Jason Bateman",
+   "Retreat",
+   18.28,
+   7,
+   2,
+   0,
+   0,
+   0,
+   1,
+   10
+  ],
+  [
+   "Alyxandria Weaver",
+   "Retreat",
+   16.04,
+   7,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Chris Dote",
+   "TakingNamesTakingAim",
+   15.74,
+   7,
+   1,
+   1,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Carol Bartell",
+   "Wags To Richs",
+   15.0,
+   21,
+   3,
+   1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Jessica Mitrano",
+   "TakingNamesTakingAim",
+   13.75,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ]
+ ],
+ "improved": {
+  "c": [
+   [
+    "Mike Ronzo",
+    "Tag Team Tami",
+    1.67,
+    2.09
+   ],
+   [
+    "Jamie Love",
+    "Draw Two",
+    1.78,
+    2.09
+   ],
+   [
+    "Shawn Bentley",
+    "Throwing Shade",
+    2.34,
+    2.58
+   ]
+  ],
+  "x": [
+   [
+    "Sean Liddle",
+    "DoubleIn StumbleOut",
+    22.27,
+    24.15
+   ],
+   [
+    "Scott Etter",
+    "Scotts On The Rocks",
+    19.78,
+    21.47
+   ],
+   [
+    "John Salamone",
+    "Tag Team Tami",
+    19.41,
+    20.37
+   ]
+  ]
+ },
+ "teams": [
+  {
+   "name": "Dart Bags",
+   "captain": "Alexander Blake",
+   "phone": "585-737-2583",
+   "site": "Tryon City Tavern"
+  },
+  {
+   "name": "DoubleIn StumbleOut",
+   "captain": "Sean Liddle",
+   "phone": "585-259-7326",
+   "site": "Dougies"
+  },
+  {
+   "name": "Draw Two",
+   "captain": "Kevin DeHollander",
+   "phone": "585-703-4068",
+   "site": "Gameday"
+  },
+  {
+   "name": "Handjobs4thehomeless",
+   "captain": "Matt Wagner",
+   "phone": "585-313-3582",
+   "site": "Back To My Place"
+  },
+  {
+   "name": "Never Trust A Dart",
+   "captain": "Eric Porte",
+   "phone": "585-766-0352",
+   "site": "BLVD Grill"
+  },
+  {
+   "name": "No Clue",
+   "captain": "Andy Georgetti",
+   "phone": "585-470-8447",
+   "site": "Gameday"
+  },
+  {
+   "name": "Retreat",
+   "captain": "Daniel Purpura",
+   "phone": "585-369-6966",
+   "site": "Retreat"
+  },
+  {
+   "name": "Revenge",
+   "captain": "Archie Donaldson",
+   "phone": "585-967-0499",
+   "site": "My Apartment Bar"
+  },
+  {
+   "name": "Scotts On The Rocks",
+   "captain": "Scott King",
+   "phone": "585-667-4378",
+   "site": "My Apartment Bar"
+  },
+  {
+   "name": "Tag Team Tami",
+   "captain": "Mike Ronzo",
+   "phone": "585-764-3896",
+   "site": "My Apartment Bar"
+  },
+  {
+   "name": "TakingNamesTakingAim",
+   "captain": "Jessica Mitrano",
+   "phone": "585-704-5365",
+   "site": "Tryon City Tavern"
+  },
+  {
+   "name": "Throw Bros",
+   "captain": "Anthony Kelly",
+   "phone": "585-424-0134",
+   "site": "My Apartment Bar"
+  },
+  {
+   "name": "Throwing Shade",
+   "captain": "Shawn Bentley",
+   "phone": "585-709-4900",
+   "site": "Drs Inn"
+  },
+  {
+   "name": "Wags To Richs",
+   "captain": "Rich Allen",
+   "phone": "585-750-4028",
+   "site": "My Apartment Bar"
+  }
+ ],
+ "schedule": [
+  {
+   "week": 1,
+   "date": "2026-10-01",
+   "note": "",
+   "matches": [
+    [
+     "Dart Bags",
+     "Handjobs4thehomeless"
+    ],
+    [
+     "Scotts On The Rocks",
+     "Never Trust A Dart"
+    ],
+    [
+     "Tag Team Tami",
+     "Throwing Shade"
+    ],
+    [
+     "No Clue",
+     "Retreat"
+    ],
+    [
+     "DoubleIn StumbleOut",
+     "Throw Bros"
+    ],
+    [
+     "Draw Two",
+     "Revenge"
+    ],
+    [
+     "Wags To Richs",
+     "TakingNamesTakingAim"
+    ]
+   ]
+  },
+  {
+   "week": 2,
+   "date": "2026-10-08",
+   "note": "",
+   "matches": [
+    [
+     "Wags To Richs",
+     "Handjobs4thehomeless"
+    ],
+    [
+     "TakingNamesTakingAim",
+     "Draw Two"
+    ],
+    [
+     "Revenge",
+     "DoubleIn StumbleOut"
+    ],
+    [
+     "Throw Bros",
+     "No Clue"
+    ],
+    [
+     "Retreat",
+     "Tag Team Tami"
+    ],
+    [
+     "Throwing Shade",
+     "Scotts On The Rocks"
+    ],
+    [
+     "Never Trust A Dart",
+     "Dart Bags"
+    ]
+   ]
+  },
+  {
+   "week": 3,
+   "date": "2026-10-15",
+   "note": "",
+   "matches": [
+    [
+     "Handjobs4thehomeless",
+     "Never Trust A Dart"
+    ],
+    [
+     "Dart Bags",
+     "Throwing Shade"
+    ],
+    [
+     "Scotts On The Rocks",
+     "Retreat"
+    ],
+    [
+     "Tag Team Tami",
+     "Throw Bros"
+    ],
+    [
+     "No Clue",
+     "Revenge"
+    ],
+    [
+     "DoubleIn StumbleOut",
+     "TakingNamesTakingAim"
+    ],
+    [
+     "Draw Two",
+     "Wags To Richs"
+    ]
+   ]
+  },
+  {
+   "week": 4,
+   "date": "2026-10-22",
+   "note": "",
+   "matches": [
+    [
+     "Draw Two",
+     "Handjobs4thehomeless"
+    ],
+    [
+     "Wags To Richs",
+     "DoubleIn StumbleOut"
+    ],
+    [
+     "TakingNamesTakingAim",
+     "No Clue"
+    ],
+    [
+     "Revenge",
+     "Tag Team Tami"
+    ],
+    [
+     "Throw Bros",
+     "Scotts On The Rocks"
+    ],
+    [
+     "Retreat",
+     "Dart Bags"
+    ],
+    [
+     "Throwing Shade",
+     "Never Trust A Dart"
+    ]
+   ]
+  },
+  {
+   "week": 5,
+   "date": "2026-10-29",
+   "note": "",
+   "matches": [
+    [
+     "Handjobs4thehomeless",
+     "Throwing Shade"
+    ],
+    [
+     "Never Trust A Dart",
+     "Retreat"
+    ],
+    [
+     "Dart Bags",
+     "Throw Bros"
+    ],
+    [
+     "Scotts On The Rocks",
+     "Revenge"
+    ],
+    [
+     "Tag Team Tami",
+     "TakingNamesTakingAim"
+    ],
+    [
+     "No Clue",
+     "Wags To Richs"
+    ],
+    [
+     "DoubleIn StumbleOut",
+     "Draw Two"
+    ]
+   ]
+  },
+  {
+   "week": 6,
+   "date": "2026-11-05",
+   "note": "",
+   "matches": [
+    [
+     "DoubleIn StumbleOut",
+     "Handjobs4thehomeless"
+    ],
+    [
+     "Draw Two",
+     "No Clue"
+    ],
+    [
+     "Wags To Richs",
+     "Tag Team Tami"
+    ],
+    [
+     "TakingNamesTakingAim",
+     "Scotts On The Rocks"
+    ],
+    [
+     "Revenge",
+     "Dart Bags"
+    ],
+    [
+     "Throw Bros",
+     "Never Trust A Dart"
+    ],
+    [
+     "Retreat",
+     "Throwing Shade"
+    ]
+   ]
+  },
+  {
+   "week": 7,
+   "date": "2026-11-12",
+   "note": "",
+   "matches": [
+    [
+     "Handjobs4thehomeless",
+     "Retreat"
+    ],
+    [
+     "Throwing Shade",
+     "Throw Bros"
+    ],
+    [
+     "Never Trust A Dart",
+     "Revenge"
+    ],
+    [
+     "Dart Bags",
+     "TakingNamesTakingAim"
+    ],
+    [
+     "Scotts On The Rocks",
+     "Wags To Richs"
+    ],
+    [
+     "Tag Team Tami",
+     "Draw Two"
+    ],
+    [
+     "No Clue",
+     "DoubleIn StumbleOut"
+    ]
+   ]
+  },
+  {
+   "week": 8,
+   "date": "2026-11-19",
+   "note": "",
+   "matches": [
+    [
+     "No Clue",
+     "Handjobs4thehomeless"
+    ],
+    [
+     "DoubleIn StumbleOut",
+     "Tag Team Tami"
+    ],
+    [
+     "Draw Two",
+     "Scotts On The Rocks"
+    ],
+    [
+     "Wags To Richs",
+     "Dart Bags"
+    ],
+    [
+     "TakingNamesTakingAim",
+     "Never Trust A Dart"
+    ],
+    [
+     "Revenge",
+     "Throwing Shade"
+    ],
+    [
+     "Throw Bros",
+     "Retreat"
+    ]
+   ]
+  },
+  {
+   "week": 9,
+   "date": "2026-12-03",
+   "note": "Off 11/26 for Thanksgiving",
+   "matches": [
+    [
+     "Handjobs4thehomeless",
+     "Throw Bros"
+    ],
+    [
+     "Retreat",
+     "Revenge"
+    ],
+    [
+     "Throwing Shade",
+     "TakingNamesTakingAim"
+    ],
+    [
+     "Never Trust A Dart",
+     "Wags To Richs"
+    ],
+    [
+     "Dart Bags",
+     "Draw Two"
+    ],
+    [
+     "Scotts On The Rocks",
+     "DoubleIn StumbleOut"
+    ],
+    [
+     "Tag Team Tami",
+     "No Clue"
+    ]
+   ]
+  },
+  {
+   "week": 10,
+   "date": "2026-12-10",
+   "note": "",
+   "matches": [
+    [
+     "Tag Team Tami",
+     "Handjobs4thehomeless"
+    ],
+    [
+     "No Clue",
+     "Scotts On The Rocks"
+    ],
+    [
+     "DoubleIn StumbleOut",
+     "Dart Bags"
+    ],
+    [
+     "Draw Two",
+     "Never Trust A Dart"
+    ],
+    [
+     "Wags To Richs",
+     "Throwing Shade"
+    ],
+    [
+     "TakingNamesTakingAim",
+     "Retreat"
+    ],
+    [
+     "Revenge",
+     "Throw Bros"
+    ]
+   ]
+  },
+  {
+   "week": 11,
+   "date": "2026-12-17",
+   "note": "",
+   "matches": [
+    [
+     "Handjobs4thehomeless",
+     "Revenge"
+    ],
+    [
+     "Throw Bros",
+     "TakingNamesTakingAim"
+    ],
+    [
+     "Retreat",
+     "Wags To Richs"
+    ],
+    [
+     "Throwing Shade",
+     "Draw Two"
+    ],
+    [
+     "Never Trust A Dart",
+     "DoubleIn StumbleOut"
+    ],
+    [
+     "Dart Bags",
+     "No Clue"
+    ],
+    [
+     "Scotts On The Rocks",
+     "Tag Team Tami"
+    ]
+   ]
+  },
+  {
+   "week": 12,
+   "date": "2027-01-07",
+   "note": "Off 12/24 and 12/31 for the holidays",
+   "matches": [
+    [
+     "Scotts On The Rocks",
+     "Handjobs4thehomeless"
+    ],
+    [
+     "Tag Team Tami",
+     "Dart Bags"
+    ],
+    [
+     "No Clue",
+     "Never Trust A Dart"
+    ],
+    [
+     "DoubleIn StumbleOut",
+     "Throwing Shade"
+    ],
+    [
+     "Draw Two",
+     "Retreat"
+    ],
+    [
+     "Wags To Richs",
+     "Throw Bros"
+    ],
+    [
+     "TakingNamesTakingAim",
+     "Revenge"
+    ]
+   ]
+  },
+  {
+   "week": 13,
+   "date": "2027-01-14",
+   "note": "",
+   "matches": [
+    [
+     "Handjobs4thehomeless",
+     "TakingNamesTakingAim"
+    ],
+    [
+     "Revenge",
+     "Wags To Richs"
+    ],
+    [
+     "Throw Bros",
+     "Draw Two"
+    ],
+    [
+     "Retreat",
+     "DoubleIn StumbleOut"
+    ],
+    [
+     "Throwing Shade",
+     "No Clue"
+    ],
+    [
+     "Never Trust A Dart",
+     "Tag Team Tami"
+    ],
+    [
+     "Dart Bags",
+     "Scotts On The Rocks"
+    ]
+   ]
+  },
+  {
+   "week": 14,
+   "date": "2027-01-21",
+   "note": "Makeup matches",
+   "matches": []
+  },
+  {
+   "week": 15,
+   "date": "2027-01-28",
+   "note": "Matches TBA. Top 7 and bottom 7.",
+   "matches": []
+  },
+  {
+   "week": 16,
+   "date": "2027-02-04",
+   "note": "Matches TBA. Top 7 and bottom 7.",
+   "matches": []
+  },
+  {
+   "week": 17,
+   "date": "2027-02-11",
+   "note": "Matches TBA. Top 7 and bottom 7.",
+   "matches": []
+  },
+  {
+   "week": 18,
+   "date": "2027-02-18",
+   "note": "Matches TBA. Top 7 and bottom 7.",
+   "matches": []
+  },
+  {
+   "week": 19,
+   "date": "2027-02-25",
+   "note": "Matches TBA. Top 7 and bottom 7.",
+   "matches": []
+  },
+  {
+   "week": 20,
+   "date": "2027-03-04",
+   "note": "Matches TBA. Top 7 and bottom 7.",
+   "matches": []
+  },
+  {
+   "week": 21,
+   "date": "2027-03-11",
+   "note": "Matches TBA. Top 7 and bottom 7.",
+   "matches": []
+  },
+  {
+   "week": 22,
+   "date": "2027-03-18",
+   "note": "Makeup matches",
+   "matches": []
+  },
+  {
+   "week": 23,
+   "date": "2027-03-25",
+   "note": "Makeup matches",
+   "matches": []
+  },
+  {
+   "week": 24,
+   "date": "2027-04-01",
+   "note": "Makeup matches",
+   "matches": []
+  },
+  {
+   "week": 25,
+   "date": "2027-04-11",
+   "note": "Banquet",
+   "matches": []
+  }
+ ],
+ "sites": [
+  {
+   "name": "Back To My Place",
+   "machines": 6,
+   "phone": "585-321-0158",
+   "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
+  },
+  {
+   "name": "BLVD Grill",
+   "machines": 1,
+   "phone": "585-319-3722",
+   "address": "410 Empire Blvd, Rochester, NY 14609"
+  },
+  {
+   "name": "Dougies",
+   "machines": 2,
+   "phone": "585-430-1250",
+   "address": "80 N Main St., Fairport, NY 14450"
+  },
+  {
+   "name": "Drs Inn",
+   "machines": 3,
+   "phone": "271-0820",
+   "address": "1743 East Ave, Rochester, NY 14610"
+  },
+  {
+   "name": "Gameday",
+   "machines": 4,
+   "phone": "",
+   "address": "730 Elmgrove Rd, Rochester, NY 14624"
+  },
+  {
+   "name": "My Apartment Bar",
+   "machines": 7,
+   "phone": "585-865-0375",
+   "address": "2515 Mt Read Blvd, Rochester, NY 14615"
+  },
+  {
+   "name": "Retreat",
+   "machines": 1,
+   "phone": "585-227-9100",
+   "address": "512 Long Pond Rd, Rochester, NY 14612"
+  },
+  {
+   "name": "Tryon City Tavern",
+   "machines": 1,
+   "phone": "585-654-9122",
+   "address": "2300 East Main St., Rochester, NY 14609"
+  }
+ ],
+ "league": {
+  "title": "Thursday 2 Player BP Hand",
+  "location": "6R2BPH"
+ }
+}
