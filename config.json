@@ -1,7 +1,212 @@
 {
-  "reports": {
-    "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=b0c3d2b3-b327-45d4-a763-5a33d9d35c45",
-    "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=9cbd24eb-f894-4233-b154-540b7ef69b31",
-    "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=46e4fc0b-7640-44c1-9401-642b6b62e351"
-  }
+  "default": "2026-2027-thursday-r2bph",
+  "divisions": [
+    {
+      "season": "2026-2027",
+      "day": "Sunday",
+      "name": "S2BH",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=669f62ba-4186-46f0-9dd5-4a5d9c38e8f2",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=4561f405-22d5-42ff-9cfd-014a129373e6",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=a0ca3391-3763-49b3-a1a5-6d431c916c49",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=4398df7d-a734-46ee-a546-9707b9bc25be"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Sunday",
+      "name": "S2BPA",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=0f6751ed-1554-40d5-854d-958ed1478b61",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=560a7665-419b-4dc3-83af-dcc29e06b015",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=8802255e-d7d0-47ce-8c64-af2b1618748e",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=54224c17-3ab7-43cf-9fb7-299de23372b8"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Monday",
+      "name": "M2A",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=91849966-795a-4908-a3d6-bee84325d9a9",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=5cf5e70d-0bb0-49a9-85df-6ce037a5a723",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=a6edbf4b-9c1d-4d45-b4e2-18ddbb7594c6",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=881b39a3-6226-4275-917b-de9c9ff0eac5"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Monday",
+      "name": "M2XH1",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=0916b477-a248-4e12-8644-fc4b6a3f6995",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=97f41995-cf91-4b27-95bf-e6be7d9f6ad6",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=a86b5214-32d7-45fe-ac47-c4da8b3c7726",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=e37e8c1a-e588-4612-b3a9-c63e1c8dc8eb"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Monday",
+      "name": "M2XH2",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=f7715826-8f64-44d5-9578-3b5a9538d11f",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c33d2648-de68-4cb4-b3cf-53d4af1df801",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=01dfdcd5-334f-4eea-be04-f8eb3141972b",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=466a2045-2678-4f57-ba34-aeae4cd494da"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Monday",
+      "name": "M4B",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=f112e4a4-d772-47ea-bc90-1f609c6b5eb1",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=7c714cd5-9e0b-45a0-9668-3970e08b8e11",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=dc4724a3-71a1-423f-acab-344986ac8d5f",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c48a3adc-0f34-42bb-a07b-f9876632f58d"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Monday",
+      "name": "M4XH",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=e9374bd2-ea36-4df1-b5f9-0629b8404748",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=143ac990-6e30-4a15-a6ee-39dc5d834734",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=9cd5bac5-61d9-45fd-9724-4d58f76b0ad4",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=6deb913a-cb43-4f44-b10b-9ec63ef576db"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Tuesday",
+      "name": "T2MIX",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c0551c2a-41f3-4386-9741-a87d310c54db",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=2e25e918-3d94-40cb-ac7f-71711e4d1b36",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=ffbe5ba3-d30f-4618-8f29-2cf96b5ecdf5",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=e87b918a-37ee-41ee-8336-5d9972f17967"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Tuesday",
+      "name": "T4B",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=8aef43a4-f579-4633-aa31-3eca3b83a3af",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=29d2ac00-611f-4635-9947-ccbd28cf551a",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c77fbf23-d83a-4dc2-8664-1572ef048e88",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=0878bed3-a869-4c63-811d-d2a7926a47d9"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Tuesday",
+      "name": "T4BH",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=b94a92da-9363-4c8a-8120-5022a68ad517",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=47d08d15-f8b3-4e94-8e34-d1fc3964aad1",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=6bbbb29e-53a3-4500-b9af-e35c2609f234",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=624512f6-0394-45fa-b4ad-a6acd2e957c6"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Tuesday",
+      "name": "T4BN",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c307c106-7fec-4fcf-a79f-3d986731245b",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c171eab7-5afb-4429-9e96-e1553f47f88a",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=ac6f14bd-8f2d-444e-95c3-07e89dcd97cc",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=7cb3b962-2e58-48d3-8a58-c312e791dd39"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Wednesday",
+      "name": "W2BH1",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c0aebd54-9ca1-461a-80cf-fca7a93d0224",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=540bae24-0c16-4f83-998b-90a108d4669f",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=aa361909-ab6e-4795-ba63-33a7eee25cdf",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=183308eb-50f6-452f-8417-59d939905e1c"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Wednesday",
+      "name": "W2BH2",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=f50facef-b6c0-4131-b309-633148aaa455",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=eca9a307-9f7d-4e90-b468-b6f14dd645ef",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=2a2bd96f-b733-4edc-ad8e-fbe0324898d1",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=7ec0aef4-cd0e-4188-baf1-c43d441e2355"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Wednesday",
+      "name": "W2BPH",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=9bfb75a6-32b8-4792-8225-eb49a8fea825",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=d3ecbf90-1a36-47d3-b4b3-44c09a54b3bb",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=1d3b353e-d981-4893-9ea2-b3141d394ecc",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=1fb50536-2ffe-4953-a52a-5b67d54ea106"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Wednesday",
+      "name": "W4B",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=d7fe5eaa-11bb-4e76-98aa-c06eeae2ac7f",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=6f6943f1-2de7-4b16-bc2f-a51e70d27203",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c37b7dfb-e4b4-4618-9c71-d79f1388ff82",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=d1d32955-743a-4c72-b704-3750c2bdc362"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Wednesday",
+      "name": "W4BH1",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=9f96cee2-c80c-45d0-938b-689a8b5a29cf",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c2d1aa62-09a8-4cb5-a21a-cbb2f9d2fcc9",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=58e2605d-0913-4da5-ab8b-7fe5ac1cdbf9",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=6ce430ae-71a8-4dcb-8673-121a3f5d52b8"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Wednesday",
+      "name": "W4BH2",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=1fc1f7d5-9a27-4690-9db0-adf72da4ff29",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=fdaeccf2-8ac2-4ec0-a928-8028953141f1",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=706e84e0-8282-42f7-9fe7-6a2272f011f0",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=c5d5d4e0-622a-4740-80ec-c8a89e141a4c"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Wednesday",
+      "name": "W4BH3",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=d453b828-9e5c-4765-b012-5553cc4b7c50",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=56d724ff-a36f-4e8c-a3ba-aad239c370d2",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=597cdbc5-75a1-4057-bea6-87915d3ab552",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=bd364851-18fc-4ee1-aea1-9f33c4da5ae8"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Wednesday",
+      "name": "W4BP",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=32bad6b5-2d27-49c7-9e48-7977b3752e6c",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=8c899f2f-d2e6-41de-8a0e-942a1cc0cdad",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=f73c1310-8b9f-4aa4-8d27-b29f4a6f61a9",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=b7380871-b9f0-4c86-8832-c2ad724ac99e"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Thursday",
+      "name": "Bill Grays In House",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=d18cbbe9-73c1-4962-a620-0754ee749e60",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=a4342a66-abeb-4fd7-9148-1b73843add80",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=efc37134-0bed-469a-b415-d5f40b813547",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=08d07818-6cbe-4a49-9dd2-6c688069e14b"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Thursday",
+      "name": "R2BH1",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=37f9e84a-eaec-46c8-9a3e-67d493b81d1c",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=9a429d5b-963f-4f58-9f07-1b8d6dd5fb4e",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=85751a87-65fa-4fc1-88b7-eda50d37dc01",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=5dbd9e33-bf1c-46af-b8e0-faa868b3defd"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Thursday",
+      "name": "R2BH2",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=6a47895e-cb4d-4732-a6e3-e2c2613cfbc1",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=3d951f6e-0d00-440a-b31c-34c3d95b1d2f",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=adaff6d9-f374-49fa-846b-73b58889a3cd",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=af09b931-a21f-4d5f-9aef-678af537ebfa"
+    },
+    {
+      "season": "2026-2027",
+      "day": "Thursday",
+      "name": "R2BPh",
+      "stats": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=b0c3d2b3-b327-45d4-a763-5a33d9d35c45",
+      "schedule": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=9cbd24eb-f894-4233-b154-540b7ef69b31",
+      "locations": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=46e4fc0b-7640-44c1-9401-642b6b62e351",
+      "captains": "https://www.leagueleader.net/sharedreport.php?operatorid=72&code=bd16914f-cc8d-4993-a9d6-1753e8c5e480"
+    }
+  ]
 }
