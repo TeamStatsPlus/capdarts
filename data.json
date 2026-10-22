@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T00:39:35Z",
+ "updated": "2026-10-22T01:30:19Z",
  "league": {
   "title": "Thursday 2 Player BP Hand",
   "location": "6R2BPH"
@@ -37,18 +37,18 @@
   ],
   [
    "Handjobs4thehomeless",
-   14,
-   16
+   22,
+   23
+  ],
+  [
+   "Never Trust A Dart",
+   20,
+   25
   ],
   [
    "Throwing Shade",
    20,
    25
-  ],
-  [
-   "Never Trust A Dart",
-   13,
-   17
   ],
   [
    "Throw Bros",
@@ -127,9 +127,9 @@
   ],
   [
    "Handjobs4thehomeless",
-   "Wags To Richs",
-   "10/08/2026",
-   2,
+   "Never Trust A Dart",
+   "10/21/2026",
+   3,
    8,
    7
   ],
@@ -137,6 +137,14 @@
    "Dart Bags T",
    "Throwing Shade",
    "10/15/2026",
+   3,
+   7,
+   8
+  ],
+  [
+   "Never Trust A Dart",
+   "Handjobs4thehomeless",
+   "10/21/2026",
    3,
    7,
    8
@@ -164,14 +172,6 @@
    3,
    6,
    9
-  ],
-  [
-   "Never Trust A Dart",
-   "Dart Bags T",
-   "10/08/2026",
-   2,
-   5,
-   10
   ],
   [
    "Revenge",
@@ -222,21 +222,6 @@
    0
   ],
   [
-   "Matt Wagner",
-   "Handjobs4thehomeless",
-   3.0,
-   6,
-   1,
-   2,
-   1,
-   0,
-   3,
-   2,
-   3,
-   0,
-   0
-  ],
-  [
    "Carlton Smith",
    "Revenge",
    2.96,
@@ -280,6 +265,21 @@
    5,
    0,
    1
+  ],
+  [
+   "Matt Wagner",
+   "Handjobs4thehomeless",
+   2.86,
+   12,
+   4,
+   2,
+   1,
+   0,
+   8,
+   4,
+   3,
+   0,
+   0
   ],
   [
    "Scott Etter",
@@ -327,6 +327,21 @@
    0
   ],
   [
+   "Todd Wagner",
+   "Handjobs4thehomeless",
+   2.69,
+   18,
+   5,
+   2,
+   0,
+   0,
+   9,
+   5,
+   3,
+   0,
+   0
+  ],
+  [
    "Kirk Santelli",
    "DoubleIn StumbleOut",
    2.67,
@@ -340,21 +355,6 @@
    2,
    0,
    1
-  ],
-  [
-   "Todd Wagner",
-   "Handjobs4thehomeless",
-   2.67,
-   12,
-   4,
-   0,
-   0,
-   0,
-   6,
-   4,
-   2,
-   0,
-   0
   ],
   [
    "Kevin DeHollander",
@@ -387,21 +387,6 @@
    0
   ],
   [
-   "Daniel Purpura",
-   "Retreat",
-   2.57,
-   12,
-   3,
-   1,
-   0,
-   0,
-   8,
-   4,
-   2,
-   0,
-   0
-  ],
-  [
    "Alexander Blake",
    "Dart Bags T",
    2.57,
@@ -413,6 +398,21 @@
    6,
    4,
    4,
+   0,
+   0
+  ],
+  [
+   "Daniel Purpura",
+   "Retreat",
+   2.57,
+   12,
+   3,
+   1,
+   0,
+   0,
+   8,
+   4,
+   2,
    0,
    0
   ],
@@ -432,6 +432,21 @@
    0
   ],
   [
+   "Eric Porte",
+   "Never Trust A Dart",
+   2.51,
+   18,
+   6,
+   3,
+   1,
+   0,
+   13,
+   6,
+   0,
+   0,
+   0
+  ],
+  [
    "Mike Georgetti",
    "No Clue",
    2.5,
@@ -443,21 +458,6 @@
    9,
    4,
    3,
-   0,
-   0
-  ],
-  [
-   "Eric Porte",
-   "Never Trust A Dart",
-   2.5,
-   12,
-   4,
-   2,
-   1,
-   0,
-   10,
-   4,
-   0,
    0,
    0
   ],
@@ -554,15 +554,15 @@
   [
    "Brandon Wheeler",
    "Never Trust A Dart",
-   2.14,
-   12,
-   3,
+   2.21,
+   18,
+   5,
+   2,
    1,
    0,
-   0,
-   6,
+   8,
+   3,
    2,
-   0,
    0,
    1
   ],
@@ -712,14 +712,14 @@
   [
    "Matt Wagner",
    "Handjobs4thehomeless",
-   24.91,
-   7,
-   3,
+   26.09,
+   14,
+   4,
+   1,
    0,
    0,
-   0,
-   3,
-   19
+   6,
+   35
   ],
   [
    "Andy Georgetti",
@@ -808,14 +808,14 @@
   [
    "Todd Wagner",
    "Handjobs4thehomeless",
-   22.14,
-   14,
-   4,
+   22.64,
+   21,
+   7,
    2,
    0,
    0,
    2,
-   22
+   33
   ],
   [
    "Anthony Kelly",
@@ -914,18 +914,6 @@
    26
   ],
   [
-   "Brandon Wheeler",
-   "Never Trust A Dart",
-   20.46,
-   14,
-   4,
-   4,
-   0,
-   0,
-   2,
-   14
-  ],
-  [
    "Chris Contrera",
    "Throw Bros",
    20.45,
@@ -962,6 +950,30 @@
    27
   ],
   [
+   "Brandon Wheeler",
+   "Never Trust A Dart",
+   20.22,
+   21,
+   5,
+   6,
+   0,
+   0,
+   2,
+   20
+  ],
+  [
+   "Eric Porte",
+   "Never Trust A Dart",
+   19.79,
+   21,
+   4,
+   1,
+   0,
+   0,
+   1,
+   23
+  ],
+  [
    "Jason Arena",
    "Throwing Shade",
    19.76,
@@ -972,18 +984,6 @@
    0,
    1,
    24
-  ],
-  [
-   "Eric Porte",
-   "Never Trust A Dart",
-   19.58,
-   14,
-   2,
-   1,
-   0,
-   0,
-   0,
-   16
   ],
   [
    "Mike Ronzo",
@@ -1093,10 +1093,10 @@
     21.47
    ],
    [
-    "John Salamone",
-    "Tag Team Tami",
-    19.41,
-    20.37
+    "Matt Wagner",
+    "Handjobs4thehomeless",
+    24.91,
+    26.09
    ]
   ]
  },
