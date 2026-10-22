@@ -455,21 +455,6 @@
    0
   ],
   [
-   "Darrin Costantini",
-   "Bad Boys",
-   1.85,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Kyle Blumenstock",
    "Bad Boys",
    1.85,
@@ -480,6 +465,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Darrin Costantini",
+   "Bad Boys",
+   1.85,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-22T18:05:54Z"
+ "updated": "2026-10-22T19:15:31Z"
 }
