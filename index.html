@@ -71,7 +71,23 @@ input,select{font-size:16px}
 .scroll th:first-child,.scroll td:first-child{position:sticky;left:0;z-index:1;background:var(--card);box-shadow:1px 0 0 var(--line)}
 tbody tr:hover td:first-child{background:var(--soft)}
 dialog{max-height:90vh;overflow:auto}
+
+.selh{font-weight:700;font-size:16px;margin:0 0 8px}
+.sel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:6px 16px;margin-bottom:16px}
+.rowl{display:grid;grid-template-columns:96px 1fr;gap:6px 12px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}
+.rowl:first-child{border-top:0}.rowl>label,.rowl>b{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--mute);font-weight:600}
+.chips{display:flex;gap:8px;flex-wrap:wrap}
+.sp{border:1px solid var(--line);background:var(--bg);border-radius:20px;padding:8px 14px;min-height:40px;white-space:nowrap}
+.sp small{color:var(--mute);margin-left:6px}.sp.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}.sp.on small{color:inherit;opacity:.7}
+#ss{font-weight:600;min-height:40px;max-width:100%}
+.sum{display:none;width:100%;text-align:left;background:none;border:0;padding:12px 0;font-weight:700;align-items:center;gap:8px}
+.sum span{color:var(--mute);font-weight:400;margin-left:auto}
+.pg{display:inline-flex;flex:none;border:1px solid var(--line);background:var(--bg);border-radius:20px;overflow:hidden;white-space:nowrap}
+.pg .sp{border:0;background:none;border-radius:0;color:inherit}.pg .x{border:0;border-left:1px solid var(--line);background:none;color:var(--mute);padding:0 12px;min-width:44px}.pg .x:hover{color:var(--red)}
+.pg.on{background:var(--ink);border-color:var(--ink);color:var(--bg)}.pg.on .x{color:var(--bg);border-left-color:rgba(128,128,128,.5)}
+.sp.add{border-style:dashed;color:var(--mute);flex:none}.hint{color:var(--mute);align-self:center}
 @media(max-width:640px){
+.rowl{grid-template-columns:1fr}.sum{display:flex}.selbody{display:none}.sel.open .selbody{display:block}.sel.open .sum{border-bottom:1px solid var(--line)}.sel{padding:0 14px}.chips{flex-wrap:nowrap;overflow-x:auto;padding-bottom:2px}
 .wrap{padding:12px 12px 48px}
 header{padding:4px 0 12px}
 h1{font-size:26px}
@@ -103,6 +119,8 @@ ol.st{padding-left:20px;line-height:2}
 </style></head><body><div class="wrap">
 <header><div><h1 id="h1">League stats</h1><div class="sub" id="s1">Cap Darts</div><div class="sub" id="s2"></div></div>
 <button class="theme" id="theme">Change to dark theme</button></header>
+<div class="selh">Select League:</div>
+<section class="sel" id="sel"></section>
 <nav id="nav"></nav>
 <main id="main"></main>
 <footer class="foot"><button class="theme" id="a2hs">Add to Home Screen</button></footer></div>
@@ -155,8 +173,9 @@ function compareV(){
  return `<h2>Compare players</h2><div class="tools">${sel("pa",a)}<span style="align-self:center">vs</span>${sel("pb",b)}</div><div class="card cmp"><b>${a}</b><span></span><b>${b}</b>${L.map(([k,fn,d])=>{const x=fn(a),y=fn(b),m=Math.max(x,y)||1;return `<div class="v">${f(x,d)}</div><small>${k}</small><div class="v">${f(y,d)}</div><div class="a"><i style="width:${x/m*100}%"></i></div><span></span><div class="b"><i style="width:${y/m*100}%"></i></div>`}).join("")}</div>`}
 function filterV(){return `<div class="tools" style="margin-top:28px"><input id="q" placeholder="Search players" value="${q}"><select id="tf"><option value="">All teams</option>${Object.keys(T).map(t=>`<option ${t==team?"selected":""}>${t}</option>`).join("")}</select><span class="sub" style="align-self:center">Filters the player tables below. Click a player for their profile.</span></div>`}
 const tabs=["My Team","Stats","Schedule","Locations","Captains"];let tab=1,stTeam="",showPast=false,cq="";
-function loadState(){myTeam=ls.get("dt_my")||"";team=ls.get("dt_tf")||"";stTeam=ls.get("dt_st")||"";showPast=ls.get("dt_sp")=="1";const t=parseInt(ls.get("dt_tab"));tab=t>=0&&t<=4?t:(myTeam?0:1)}
-function saveState(){ls.set("dt_tab",tab);ls.set("dt_my",myTeam);ls.set("dt_tf",team);ls.set("dt_st",stTeam);ls.set("dt_sp",showPast?1:0)}
+function loadState(){team=ls.get("dt_tf")||"";stTeam=ls.get("dt_st")||"";showPast=ls.get("dt_sp")=="1";const t=parseInt(ls.get("dt_tab"));tab=t>=0&&t<=4?t:1}
+function saveState(){ls.set("dt_tab",tab);if(divId)ls.set("dt_my_"+divId,myTeam);ls.set("dt_tf",team);ls.set("dt_st",stTeam);ls.set("dt_sp",showPast?1:0)}
+let cat=null,byId={},cur=null,curData=null,divId="",pins=[],selOpen=false;
 const nav=document.getElementById("nav");
 nav.innerHTML=tabs.map((t,i)=>`<button data-i="${i}">${t}</button>`).join("");
 nav.onclick=e=>{if(e.target.dataset.i){tab=+e.target.dataset.i;render();scrollTo(0,0)}};
@@ -197,6 +216,7 @@ function myV(){
  const pl=cr.filter(r=>r[1]==t).sort((a,b)=>b[2]-a[2]).map(r=>{const x=xr.find(y=>y[0]==r[0])||[];return `<tr data-p="${r[0]}"><td>${r[0]}</td><td><b>${f(r[2],2)}</b></td><td>${f(pw(0,r),0)}%</td><td><b>${x[2]!=null?f(x[2],2):"–"}</b></td><td>${x.length?f(pw(0,x),0)+"%":"–"}</td></tr>`}).join("");
  return `<h2 style="margin-top:0">My Team</h2>${pick}${hdr}${nxt}${lr}`+(up.length?`<h2>Upcoming matches</h2>`+tbl(["Date","Opponent","Site"].map(h=>`<th class="l">${h}</th>`).join(""),up.join("")):"")+`<h2>Players</h2>`+tbl(["Player","MPR","Cricket win","PPD","X01 win"].map(h=>`<th>${h}</th>`).join(""),pl||'<tr><td colspan="5">No players found for this team.</td></tr>')+'<p class="sub">Tap a player for their full profile.</p>'}
 function render(){
+ if(!curData)return;
  const y=scrollY,fid=document.activeElement&&document.activeElement.id;
  [...nav.children].forEach((b,i)=>b.classList.toggle("on",i==tab));
  main.innerHTML=[myV,statsV,scheduleV,locationsV,captainsV][tab]();
@@ -216,22 +236,49 @@ function profile(n){
  <button class="theme" onclick="dlg.close()">Close</button>`;dlg.showModal()}
 let lastUpd;
 function init(d){
- lastUpd=d.updated;
- standings=d.standings;cr=d.cricket;xr=d.x01;results=d.results;improved=d.improved||{c:[],x:[]};D={c:cr,x:xr};
- TM=Object.fromEntries(d.teams.map(t=>[t.name,[t.name,t.captain,t.phone,t.site]]));
- WK=d.schedule.map(w=>[w.week,w.date,w.matches,w.note||""]);SITES=d.sites.map(s=>[s.name,s.machines,s.phone,s.address]);
+ curData=d;lastUpd=d.updated;
+ standings=d.standings||[];cr=d.cricket||[];xr=d.x01||[];results=d.results||[];improved=d.improved||{c:[],x:[]};D={c:cr,x:xr};
+ TM=Object.fromEntries((d.teams||[]).map(t=>[t.name,[t.name,t.captain,t.phone,t.site]]));
+ WK=(d.schedule||[]).map(w=>[w.week,w.date,w.matches,w.note||""]);SITES=(d.sites||[]).map(s=>[s.name,s.machines,s.phone,s.address]);
  const all=[...new Set([...standings.map(x=>x[0]),...Object.keys(TM)])];standings_=all;
  T=Object.fromEntries(all.map((n,i)=>[n,`hsl(${Math.round(i*360/all.length)} 55% 45%)`]));
- const L=d.league||{},wk=Math.max(0,...results.map(r=>r[3]));curWk=wk;
+ const wk=Math.max(0,...results.map(r=>r[3]));curWk=wk;
  if(myTeam&&!all.includes(myTeam))myTeam="";if(team&&!all.includes(team))team="";if(stTeam&&!all.includes(stTeam))stTeam="";
- document.title="Cap Darts · "+(L.title||"League stats");
- document.getElementById("h1").textContent=L.title||"League stats";
- document.getElementById("s1").textContent="Cap Darts"+(L.location?" · Location "+L.location:"")+(wk?" · Week "+wk:"");
+ setHead();
  const u=new Date(d.updated),old=Date.now()-u>14*864e5;
  document.getElementById("s2").textContent=isNaN(u)?"":"Last updated "+u.toLocaleDateString("en-US",{month:"long",day:"numeric",year:"numeric"})+(old?" · Data may be out of date":"")}
+function setHead(){const t=cur.day+" · "+cur.name;document.title="Cap Darts · "+t;document.getElementById("h1").textContent=t;
+ const n=standings_&&curData?standings_.length:0;document.getElementById("s1").textContent=[cur.season,curData&&curData.league&&curData.league.title,curData&&curWk?"Week "+curWk:"",curData&&n?n+" teams":""].filter(Boolean).join(" · ");if(!curData)document.getElementById("s2").textContent=""}
+function selV(){
+ const S=cat.seasons,se=S.find(x=>x.name==cur.season)||S[0],Dy=se.days,dy=Dy.find(x=>x.name==cur.day)||Dy[0];
+ const pl=(pins.length?"":`<span class="hint">No saved leagues yet</span>`)+pins.map(id=>{const b=byId[id];return `<span class="pg ${id==cur.id?"on":""}"><button class="sp" data-go="${id}">${b.day.slice(0,3)} · ${b.name}${b.season!=cur.season?`<small>${b.season}</small>`:""}</button><button class="x" data-rm="${id}" aria-label="Remove ${b.name} from My leagues">✕</button></span>`}).join("")+(pins.includes(cur.id)?"":`<button class="sp add" data-pin="1">＋ Save this league</button>`);
+ return `<button class="sum" data-sum="1">${cur.day} · ${cur.name}<span>${cur.season} ${selOpen?"▴":"▾"}</span></button><div class="selbody">
+ <div class="rowl"><b>★ My leagues</b><div class="chips">${pl}</div></div>
+ <div class="rowl"><label for="ss">Season</label><div><select id="ss">${S.map(x=>`<option ${x.name==cur.season?"selected":""}>${x.name}</option>`).join("")}</select></div></div>
+ <div class="rowl"><label>Day</label><div class="chips">${Dy.map(d=>`<button class="sp ${d.name==cur.day?"on":""}" data-day="${d.name}">${d.name}<small>${d.divisions.length}</small></button>`).join("")}</div></div>
+ <div class="rowl"><label>Division</label><div class="chips">${dy.divisions.map(v=>`<button class="sp ${v.id==cur.id?"on":""}" data-div="${v.id}">${v.name}</button>`).join("")}</div></div></div>`}
+function renderSel(){const e=document.getElementById("sel");e.className="sel"+(selOpen?" open":"");e.innerHTML=selV()}
+function openDiv(id){
+ const b=byId[id];if(!b)return Promise.resolve();
+ cur=b;divId=id;curData=null;myTeam=ls.get("dt_my_"+id)||"";team="";stTeam="";cq="";q="";
+ ls.set("dt_sel",id);try{history.replaceState(null,"","#"+id)}catch(e){}
+ setHead();renderSel();main.innerHTML='<div class="card">Loading…</div>';
+ return fetch("data/"+id+".json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{if(divId!=id)return;init(d);render()}).catch(()=>{if(divId==id)main.innerHTML='<div class="card">This division’s data isn’t available yet. Try again in a few minutes.</div>'})}
+const selEl=document.getElementById("sel");
+selEl.onclick=e=>{const b=e.target.closest("button");if(!b)return;const k=b.dataset;
+ if(k.sum)return(selOpen=!selOpen,renderSel());
+ if(k.day){const dy=cat.seasons.find(x=>x.name==cur.season).days.find(x=>x.name==k.day);return openDiv(dy.divisions[0].id)}
+ if(k.div||k.go){selOpen=false;return openDiv(k.div||k.go)}
+ if(k.rm){pins=pins.filter(x=>x!=k.rm);ls.set("dt_pins",JSON.stringify(pins));return renderSel()}
+ if(k.pin){if(!pins.includes(cur.id)){pins=[...pins,cur.id];ls.set("dt_pins",JSON.stringify(pins))}renderSel()}};
+selEl.onchange=e=>{if(e.target.id!="ss")return;const se=cat.seasons.find(x=>x.name==e.target.value),dy=se.days.find(x=>x.name==cur.day)||se.days[0];openDiv((dy.divisions.find(x=>x.name==cur.name)||dy.divisions[0]).id)};
 loadState();
-fetch("data.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(d=>{init(d);render()}).catch(()=>{main.innerHTML='<div class="card">Could not load the league data. Refresh the page, or try again later.</div>'});
-setInterval(()=>{if(document.hidden)return;fetch("data.json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{if(d&&d.updated!==lastUpd){init(d);render()}}).catch(()=>{})},600000);
+fetch("catalog.json",{cache:"no-store"}).then(r=>{if(!r.ok)throw 0;return r.json()}).then(c=>{
+ cat=c;byId={};for(const s of c.seasons)for(const d of s.days)for(const v of d.divisions)byId[v.id]={id:v.id,name:v.name,day:d.name,season:s.name};
+ try{pins=JSON.parse(ls.get("dt_pins")||"null")||[]}catch(e){pins=[]}pins=pins.filter(id=>byId[id]);
+ const h=(location.hash||"").slice(1),sv=ls.get("dt_sel"),id=byId[h]?h:byId[sv]?sv:byId[c.default]?c.default:Object.keys(byId)[0];
+ if(!id)throw 0;return openDiv(id)}).catch(()=>{main.innerHTML='<div class="card">Could not load the league list. Refresh the page, or try again later.</div>'});
+setInterval(()=>{if(document.hidden||!divId)return;const id=divId;fetch("data/"+id+".json",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{if(d&&id==divId&&d.updated!==lastUpd){init(d);render()}}).catch(()=>{})},600000);
 
 const up_=document.getElementById("up");addEventListener("scroll",()=>up_.classList.toggle("on",scrollY>600),{passive:true});up_.onclick=()=>scrollTo({top:0,behavior:"smooth"});
 const UA=navigator.userAgent||"",iOS=/iPad|iPhone|iPod/.test(UA)||(navigator.platform=="MacIntel"&&navigator.maxTouchPoints>1),inApp=/FBAN|FBAV|Instagram|Line\/|MicroMessenger|Messenger|Snapchat|TikTok|GSA\//.test(UA);
