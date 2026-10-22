@@ -1390,18 +1390,6 @@
    8
   ],
   [
-   "David Wills",
-   "Tegridy",
-   20.85,
-   12,
-   3,
-   1,
-   1,
-   0,
-   1,
-   5
-  ],
-  [
    "Matt Cortese",
    "Off Target",
    20.85,
@@ -1412,6 +1400,18 @@
    0,
    0,
    6
+  ],
+  [
+   "David Wills",
+   "Tegridy",
+   20.85,
+   12,
+   3,
+   1,
+   1,
+   0,
+   1,
+   5
   ],
   [
    "Shondell Kirton",
@@ -1942,18 +1942,6 @@
    4
   ],
   [
-   "Chuck Marchbanks",
-   "Wired",
-   15.39,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Michelle Nguyen",
    "Bad News Beers",
    15.39,
@@ -1964,6 +1952,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Chuck Marchbanks",
+   "Wired",
+   15.39,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "John Mitrano",
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-22T14:43:46Z"
+ "updated": "2026-10-22T15:36:41Z"
 }
