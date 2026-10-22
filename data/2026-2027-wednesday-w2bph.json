@@ -6,8 +6,8 @@
  "standings": [
   [
    "Brighton Bruins",
-   30,
-   15
+   38,
+   22
   ],
   [
    "Cheers For Bad Darts",
@@ -15,14 +15,14 @@
    24
   ],
   [
-   "Where The Bacon",
-   17,
-   13
-  ],
-  [
    "Squishy Business",
    16,
    14
+  ],
+  [
+   "Where The Bacon",
+   24,
+   21
   ],
   [
    "Dem BOYZ",
@@ -72,17 +72,17 @@
   ],
   [
    "Brighton Bruins",
-   "Cheers For Bad Darts",
-   "10/14/2026",
-   3,
+   "Where The Bacon",
+   "10/21/2026",
+   4,
    8,
    7
   ],
   [
    "Where The Bacon",
-   "Carpet Cleaners",
-   "10/07/2026",
-   2,
+   "Brighton Bruins",
+   "10/21/2026",
+   4,
    7,
    8
   ],
@@ -114,25 +114,31 @@
  "improved": {
   "c": [
    [
+    "Brian Galletto",
+    "Where The Bacon",
+    2.77,
+    2.95
+   ],
+   [
     "James Mitchell",
     "Dem BOYZ",
     2.57,
     2.65
    ],
    [
-    "Steven Haag",
-    "Carpet Cleaners",
-    2.09,
-    2.15
-   ],
-   [
-    "Shaun Stocking",
-    "Cheers For Bad Darts",
-    2.87,
-    2.9
+    "Mark Sennett",
+    "Brighton Bruins",
+    2.53,
+    2.6
    ]
   ],
   "x": [
+   [
+    "Brian Galletto",
+    "Where The Bacon",
+    24.58,
+    25.91
+   ],
    [
     "Jason Miles",
     "Cheers For Bad Darts",
@@ -144,12 +150,6 @@
     "Cheers For Bad Darts",
     25.85,
     26.55
-   ],
-   [
-    "Archie Donaldson",
-    "Dem BOYZ",
-    21.3,
-    21.9
    ]
   ]
  },
@@ -200,6 +200,21 @@
    0
   ],
   [
+   "Brian Galletto",
+   "Where The Bacon",
+   2.95,
+   12,
+   6,
+   2,
+   0,
+   0,
+   10,
+   5,
+   2,
+   0,
+   1
+  ],
+  [
    "Shaun Stocking",
    "Cheers For Bad Darts",
    2.9,
@@ -213,21 +228,6 @@
    7,
    0,
    2
-  ],
-  [
-   "Brian Galletto",
-   "Where The Bacon",
-   2.77,
-   6,
-   4,
-   1,
-   0,
-   0,
-   6,
-   3,
-   1,
-   0,
-   0
   ],
   [
    "James Mitchell",
@@ -245,6 +245,21 @@
    1
   ],
   [
+   "Mark Sennett",
+   "Brighton Bruins",
+   2.6,
+   24,
+   9,
+   7,
+   4,
+   0,
+   14,
+   5,
+   3,
+   0,
+   1
+  ],
+  [
    "Tom Ralston",
    "Carpet Cleaners",
    2.56,
@@ -256,21 +271,6 @@
    8,
    3,
    5,
-   0,
-   0
-  ],
-  [
-   "Mark Sennett",
-   "Brighton Bruins",
-   2.53,
-   18,
-   7,
-   5,
-   4,
-   0,
-   8,
-   3,
-   3,
    0,
    0
   ],
@@ -292,13 +292,13 @@
   [
    "Travis Perry",
    "Brighton Bruins",
-   2.48,
-   18,
-   10,
-   4,
+   2.43,
+   24,
+   12,
+   5,
    1,
    0,
-   9,
+   14,
    7,
    4,
    0,
@@ -382,14 +382,14 @@
   [
    "Kelli Nash",
    "Where The Bacon",
-   1.86,
-   12,
-   3,
+   1.88,
+   18,
+   5,
    3,
    0,
    0,
-   2,
-   1,
+   5,
+   5,
    0,
    0,
    0
@@ -492,26 +492,26 @@
   [
    "Brian Galletto",
    "Where The Bacon",
-   24.58,
-   7,
-   2,
-   5,
+   25.91,
+   14,
+   4,
+   9,
    0,
    0,
-   0,
-   13
+   1,
+   28
   ],
   [
    "Mark Sennett",
    "Brighton Bruins",
-   24.11,
-   21,
+   23.99,
+   28,
+   11,
    9,
-   8,
    0,
    0,
    0,
-   32
+   43
   ],
   [
    "Tom Ralston",
@@ -574,16 +574,16 @@
    23
   ],
   [
-   "Kelli Nash",
-   "Where The Bacon",
-   18.55,
-   14,
-   4,
+   "Travis Perry",
+   "Brighton Bruins",
+   18.9,
+   28,
+   6,
    2,
    0,
    0,
    0,
-   18
+   29
   ],
   [
    "Jason Miles",
@@ -596,18 +596,6 @@
    0,
    0,
    18
-  ],
-  [
-   "Travis Perry",
-   "Brighton Bruins",
-   18.26,
-   21,
-   4,
-   2,
-   0,
-   0,
-   0,
-   19
   ],
   [
    "Robyn Ralston",
@@ -632,6 +620,18 @@
    0,
    1,
    3
+  ],
+  [
+   "Kelli Nash",
+   "Where The Bacon",
+   16.87,
+   21,
+   5,
+   3,
+   0,
+   0,
+   0,
+   21
   ],
   [
    "Anthony Mineo",
@@ -1261,5 +1261,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-22T01:41:01Z"
+ "updated": "2026-10-22T02:33:33Z"
 }

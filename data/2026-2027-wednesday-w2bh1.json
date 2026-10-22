@@ -6,8 +6,8 @@
  "standings": [
   [
    "Turd Ferguson",
-   26,
-   13
+   36,
+   16
   ],
   [
    "Methodical Missers",
@@ -45,24 +45,24 @@
    28
   ],
   [
+   "Two Girls One Bull",
+   24,
+   28
+  ],
+  [
    "Two Furry Dudes",
    23,
    29
   ],
   [
-   "Two Girls One Bull",
-   17,
-   22
-  ],
-  [
    "BitterDisappointment",
-   9,
-   17
+   12,
+   27
   ],
   [
    "Fairly Oddparents",
-   6,
-   33
+   12,
+   40
   ]
  ],
  "results": [
@@ -73,6 +73,14 @@
    4,
    11,
    2
+  ],
+  [
+   "Turd Ferguson",
+   "BitterDisappointment",
+   "10/21/2026",
+   4,
+   10,
+   3
   ],
   [
    "Methodical Missers",
@@ -99,28 +107,20 @@
    5
   ],
   [
-   "Turd Ferguson",
-   "Darts Deep",
-   "10/14/2026",
-   3,
+   "Two Girls One Bull",
+   "Fairly Oddparents",
+   "10/21/2026",
+   4,
    7,
    6
   ],
   [
    "Fairly Oddparents",
-   "Methodical Missers",
-   "10/14/2026",
-   3,
+   "Two Girls One Bull",
+   "10/21/2026",
+   4,
    6,
    7
-  ],
-  [
-   "BitterDisappointment",
-   "Shared Brain Cell",
-   "10/07/2026",
-   2,
-   5,
-   8
   ],
   [
    "Bull Shitters",
@@ -139,20 +139,20 @@
    8
   ],
   [
-   "Two Girls One Bull",
-   "In Whiskey We Trust",
-   "10/14/2026",
-   3,
-   5,
-   8
-  ],
-  [
    "Darts Deep",
    "Methodical Missers",
    "10/21/2026",
    4,
    4,
    9
+  ],
+  [
+   "BitterDisappointment",
+   "Turd Ferguson",
+   "10/21/2026",
+   4,
+   3,
+   10
   ],
   [
    "Two Furry Dudes",
@@ -192,16 +192,16 @@
     15.94
    ],
    [
-    "Greg Poltorak",
-    "In Whiskey We Trust",
-    23.48,
-    23.95
+    "Keith Seiffert",
+    "BitterDisappointment",
+    16.34,
+    17.08
    ],
    [
-    "Kelly Hodgkins",
-    "Girls Night",
-    14.28,
-    14.6
+    "Kevin Tierney",
+    "BitterDisappointment",
+    12.63,
+    13.27
    ]
   ]
  },
@@ -224,14 +224,14 @@
   [
    "Jarrett Boutet",
    "Turd Ferguson",
-   2.38,
-   18,
-   4,
+   2.42,
+   24,
    7,
+   9,
    0,
    0,
+   7,
    6,
-   4,
    0,
    0,
    0
@@ -327,21 +327,6 @@
    0
   ],
   [
-   "Keith Seiffert",
-   "BitterDisappointment",
-   1.9,
-   12,
-   4,
-   1,
-   0,
-   0,
-   1,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Zach Morgan",
    "Two Furry Dudes",
    1.86,
@@ -352,6 +337,21 @@
    0,
    5,
    3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Keith Seiffert",
+   "BitterDisappointment",
+   1.86,
+   18,
+   5,
+   1,
+   0,
+   0,
+   2,
+   2,
    1,
    0,
    0
@@ -374,10 +374,10 @@
   [
    "Syrica Story",
    "Two Girls One Bull",
-   1.74,
-   18,
-   7,
-   1,
+   1.76,
+   24,
+   10,
+   2,
    1,
    0,
    4,
@@ -389,13 +389,13 @@
   [
    "Tim Turner",
    "Fairly Oddparents",
-   1.72,
-   12,
+   1.76,
+   18,
    5,
+   2,
    0,
    0,
-   0,
-   1,
+   2,
    0,
    0,
    0,
@@ -443,6 +443,21 @@
    5,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "James Miller",
+   "Turd Ferguson",
+   1.51,
+   24,
+   9,
+   7,
+   0,
+   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -507,15 +522,15 @@
    0
   ],
   [
-   "James Miller",
-   "Turd Ferguson",
-   1.42,
-   18,
-   7,
-   4,
+   "Amiee Story",
+   "Two Girls One Bull",
+   1.39,
+   24,
+   2,
+   10,
    0,
    0,
-   1,
+   0,
    0,
    0,
    0,
@@ -539,28 +554,13 @@
   [
    "Kevin Tierney",
    "BitterDisappointment",
-   1.33,
-   12,
-   1,
-   4,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Amiee Story",
-   "Two Girls One Bull",
-   1.31,
+   1.27,
    18,
    1,
-   7,
+   5,
    0,
    0,
-   0,
+   4,
    0,
    0,
    0,
@@ -584,9 +584,9 @@
   [
    "Lisa Gaita",
    "Fairly Oddparents",
-   1.04,
-   12,
-   0,
+   1.1,
+   18,
+   2,
    0,
    0,
    0,
@@ -674,6 +674,18 @@
    18
   ],
   [
+   "Jarrett Boutet",
+   "Turd Ferguson",
+   17.66,
+   28,
+   12,
+   1,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
    "Oscar Wheeler",
    "Two Furry Dudes",
    17.63,
@@ -710,18 +722,6 @@
    12
   ],
   [
-   "Jarrett Boutet",
-   "Turd Ferguson",
-   17.39,
-   21,
-   9,
-   1,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
    "Vinny Cardinale",
    "Bull Shitters",
    17.36,
@@ -734,24 +734,24 @@
    9
   ],
   [
-   "Tim Turner",
-   "Fairly Oddparents",
-   16.51,
-   14,
-   0,
+   "Keith Seiffert",
+   "BitterDisappointment",
+   17.08,
+   21,
+   5,
    1,
    0,
    0,
    0,
-   5
+   13
   ],
   [
-   "Keith Seiffert",
-   "BitterDisappointment",
-   16.34,
-   14,
+   "Tim Turner",
+   "Fairly Oddparents",
+   16.92,
+   21,
    3,
-   0,
+   2,
    0,
    0,
    0,
@@ -782,6 +782,30 @@
    12
   ],
   [
+   "Amiee Story",
+   "Two Girls One Bull",
+   16.11,
+   28,
+   3,
+   0,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Syrica Story",
+   "Two Girls One Bull",
+   16.09,
+   28,
+   9,
+   1,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
    "Sean Robertson",
    "Pointless",
    16.01,
@@ -804,30 +828,6 @@
    0,
    0,
    3
-  ],
-  [
-   "Amiee Story",
-   "Two Girls One Bull",
-   15.94,
-   21,
-   2,
-   0,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
-   "Syrica Story",
-   "Two Girls One Bull",
-   15.79,
-   21,
-   7,
-   1,
-   0,
-   0,
-   0,
-   9
   ],
   [
    "Mike Kolberg",
@@ -880,9 +880,21 @@
   [
    "James Miller",
    "Turd Ferguson",
-   13.64,
+   13.9,
+   28,
+   8,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Kevin Tierney",
+   "BitterDisappointment",
+   13.27,
    21,
-   6,
+   1,
    0,
    0,
    0,
@@ -902,22 +914,10 @@
    2
   ],
   [
-   "Kevin Tierney",
-   "BitterDisappointment",
-   12.63,
-   14,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Lisa Gaita",
    "Fairly Oddparents",
-   12.17,
-   14,
+   12.69,
+   21,
    0,
    0,
    0,
@@ -1758,5 +1758,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-22T01:40:54Z"
+ "updated": "2026-10-22T02:33:23Z"
 }
