@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   1.37,
-   6,
-   3,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ellen Post",
    "Closer To Zero",
    1.37,
@@ -683,6 +668,21 @@
    0,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   1.37,
+   6,
+   3,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -777,6 +777,21 @@
    0
   ],
   [
+   "Tyler Voellinger",
+   "Struggle Bus",
+   1.2,
+   9,
+   1,
+   2,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
    "Jacob Post",
    "Struggle Bus",
    1.2,
@@ -807,21 +822,6 @@
    0
   ],
   [
-   "Tyler Voellinger",
-   "Struggle Bus",
-   1.2,
-   9,
-   1,
-   2,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Jason Post",
    "Struggle Bus",
    1.18,
@@ -831,6 +831,21 @@
    0,
    0,
    2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -857,21 +872,6 @@
    1.15,
    6,
    1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
    1,
    0,
    0,
@@ -942,21 +942,6 @@
    0
   ],
   [
-   "Erin Lamar",
-   "Throwgasms",
-   1.03,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    1.03,
@@ -967,6 +952,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Erin Lamar",
+   "Throwgasms",
+   1.03,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1676,16 +1676,16 @@
    1
   ],
   [
-   "Marin Valentino",
-   "The Limp Wristers",
+   "Nancy Miller",
+   "3some Plus 1",
    13.14,
-   4,
+   12,
+   2,
    0,
    0,
    0,
    0,
-   0,
-   1
+   0
   ],
   [
    "Christa Herbst",
@@ -1700,16 +1700,16 @@
    0
   ],
   [
-   "Nancy Miller",
-   "3some Plus 1",
+   "Marin Valentino",
+   "The Limp Wristers",
    13.14,
-   12,
-   2,
+   4,
    0,
    0,
    0,
    0,
-   0
+   0,
+   1
   ],
   [
    "Erin Lamar",
@@ -2700,5 +2700,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-22T04:34:00Z"
+ "updated": "2026-10-22T05:33:21Z"
 }

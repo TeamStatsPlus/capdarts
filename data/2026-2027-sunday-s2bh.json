@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Ethan Glashauser",
-   "Glass N Stache",
-   1.77,
-   12,
-   3,
-   1,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Chaz Carley",
    "Night Shot",
    1.77,
@@ -634,16 +619,16 @@
    0
   ],
   [
-   "James Lee",
-   "Double 1s",
-   1.64,
-   18,
-   2,
+   "Ethan Glashauser",
+   "Glass N Stache",
+   1.77,
+   12,
+   3,
+   1,
    0,
    0,
-   0,
-   2,
-   2,
+   3,
+   1,
    0,
    0,
    0
@@ -659,6 +644,21 @@
    0,
    4,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "James Lee",
+   "Double 1s",
+   1.64,
+   18,
+   2,
+   0,
+   0,
+   0,
+   2,
+   2,
    0,
    0,
    0
@@ -2259,5 +2259,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-22T04:32:43Z"
+ "updated": "2026-10-22T05:32:07Z"
 }
