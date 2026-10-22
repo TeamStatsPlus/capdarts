@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
 """Download the LeagueLeader share reports and rebuild data.json."""
-import datetime, json, pathlib, re, sys
+import datetime, json, pathlib, re, sys, time
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-CFG = json.loads((ROOT / "config.json").read_text())["reports"]
-OUT = ROOT / "data.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (dart-league-stats updater)"}
 
 
@@ -33,9 +31,15 @@ def fetch(url):
 
 
 def table_after(soup, test):
-    for h in soup.find_all(["h1", "h2", "h3", "h4", "h5"]):
-        if test(clean(h.get_text())):
-            return h.find_next("table")
+    """First table that follows a piece of text (any tag) matching test()."""
+    for node in soup.find_all(string=True):
+        if isinstance(node, Comment):
+            continue
+        t = clean(str(node))
+        if t and len(t) < 200 and test(t):
+            tb = node.find_next("table")
+            if tb:
+                return tb
     return None
 
 
@@ -132,25 +136,68 @@ def parse_locations(soup):
 
 
 JOBS = [("stats", parse_stats), ("schedule", parse_schedule), ("locations", parse_locations)]
+DATA = ROOT / "data"
+
+
+def slug(t):
+    return re.sub(r"[^a-z0-9]+", "-", t.lower()).strip("-")
+
+
+def div_id(d):
+    return slug(f"{d['season']} {d['day']} {d['name']}")
+
+
+def build_catalog(divs, default):
+    seasons = []
+    for d in divs:
+        s = next((x for x in seasons if x["name"] == d["season"]), None)
+        if not s:
+            s = {"name": d["season"], "days": []}
+            seasons.append(s)
+        dy = next((x for x in s["days"] if x["name"] == d["day"]), None)
+        if not dy:
+            dy = {"name": d["day"], "divisions": []}
+            s["days"].append(dy)
+        dy["divisions"].append({"name": d["name"], "id": div_id(d)})
+    return {"default": default or div_id(divs[0]), "seasons": seasons}
+
+
+def write_if_changed(path, new, stamp):
+    old = json.loads(path.read_text()) if path.exists() else {}
+    strip = lambda d: {k: v for k, v in d.items() if k != "updated"}
+    if strip(new) == strip(old):
+        return False
+    if stamp:
+        new["updated"] = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    path.write_text(json.dumps(new, indent=1))
+    return True
 
 
 def main():
-    old = json.loads(OUT.read_text()) if OUT.exists() else {}
-    new, errors = dict(old), []
-    for name, fn in JOBS:
-        try:
-            new.update(fn(fetch(CFG[name])))
-            print(f"OK    {name}")
-        except Exception as e:  # keep the old data for this report
-            errors.append(name)
-            print(f"FAIL  {name}: {e}")
-    strip = lambda d: {k: v for k, v in d.items() if k != "updated"}
-    if strip(new) != strip(old):
-        new["updated"] = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-        OUT.write_text(json.dumps(new, indent=1))
-        print("data.json changed")
-    else:
-        print("no changes")
+    cfg = json.loads((ROOT / "config.json").read_text())
+    divs = cfg["divisions"]
+    DATA.mkdir(exist_ok=True)
+    errors = []
+    for d in divs:
+        did = div_id(d)
+        path = DATA / f"{did}.json"
+        new = json.loads(path.read_text()) if path.exists() else {}
+        for name, fn in JOBS:
+            url = d.get(name)
+            if not url:
+                continue
+            try:
+                new.update(fn(fetch(url)))
+                print(f"OK    {did} / {name}")
+            except Exception as e:  # keep the old data for this report
+                errors.append(f"{did}/{name}")
+                print(f"FAIL  {did} / {name}: {e}")
+            time.sleep(1)
+        print(f"{did}: " + ("data changed" if write_if_changed(path, new, True) else "no changes"))
+    cat = build_catalog(divs, cfg.get("default"))
+    print("catalog.json: " + ("changed" if write_if_changed(ROOT / "catalog.json", cat, False) else "no changes"))
+    if errors:
+        print("Problems with:", ", ".join(errors))
     sys.exit(1 if errors else 0)
 
 
