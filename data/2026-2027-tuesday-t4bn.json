@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Scott Stipulski",
-   "Chicks And Dicks",
-   1.81,
-   12,
-   1,
-   2,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dale Pickens",
    "Points And Pints",
    1.81,
@@ -625,6 +610,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Scott Stipulski",
+   "Chicks And Dicks",
+   1.81,
+   12,
+   1,
+   2,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
   ],
   [
    "Jim Oneill",
@@ -687,21 +687,6 @@
    0
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.71,
-   12,
-   3,
-   3,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Pat Turco",
    "Trippin On Trips",
    1.71,
@@ -712,6 +697,21 @@
    0,
    1,
    0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Leach",
+   "Truckin Bulls",
+   1.71,
+   12,
+   3,
+   3,
+   0,
+   0,
+   0,
+   1,
    1,
    0,
    0
@@ -1619,18 +1619,6 @@
    0
   ],
   [
-   "Jim Oneill",
-   "Points And Pints",
-   15.3,
-   16,
-   2,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Joey Tortora",
    "Points And Pints",
    15.3,
@@ -1641,6 +1629,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   15.3,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "John Dole",
@@ -2601,5 +2601,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-22T07:45:53Z"
+ "updated": "2026-10-22T12:41:11Z"
 }

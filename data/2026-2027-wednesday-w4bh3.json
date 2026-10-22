@@ -307,21 +307,6 @@
    0
   ],
   [
-   "Dominick Posadni",
-   "Andycapped",
-   2.1,
-   6,
-   2,
-   1,
-   0,
-   0,
-   1,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Tom Alletto",
    "Pig Roasters",
    2.1,
@@ -333,6 +318,21 @@
    3,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Dominick Posadni",
+   "Andycapped",
+   2.1,
+   6,
+   2,
+   1,
+   0,
+   0,
+   1,
+   4,
+   0,
    0,
    0
   ],
@@ -382,21 +382,6 @@
    0
   ],
   [
-   "Tim Terborg",
-   "Flight Phucked",
-   1.92,
-   6,
-   2,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jay Musshafen",
    "Wasted Talent",
    1.92,
@@ -407,6 +392,21 @@
    0,
    6,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tim Terborg",
+   "Flight Phucked",
+   1.92,
+   6,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -846,18 +846,6 @@
    7
   ],
   [
-   "Bob Newell",
-   "Pig Roasters",
-   20.02,
-   12,
-   0,
-   0,
-   0,
-   0,
-   2,
-   4
-  ],
-  [
    "TIMBER",
    "{Substitutes}",
    20.02,
@@ -868,6 +856,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Bob Newell",
+   "Pig Roasters",
+   20.02,
+   12,
+   0,
+   0,
+   0,
+   0,
+   2,
+   4
   ],
   [
    "Tim Terborg",
@@ -1563,5 +1563,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-22T11:34:55Z"
+ "updated": "2026-10-22T12:41:39Z"
 }
