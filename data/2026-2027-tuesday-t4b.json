@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Steve Wright",
-   "Bad Boys",
-   2.07,
-   3,
-   0,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Robert Gare",
    "3 Guys And A Girl",
    2.07,
@@ -335,16 +320,16 @@
    0
   ],
   [
-   "Jon Novitsky",
-   "Dirty O Boys",
-   2.02,
-   6,
+   "Steve Wright",
+   "Bad Boys",
+   2.07,
    3,
    0,
+   1,
    0,
    0,
    1,
-   2,
+   1,
    0,
    0,
    0
@@ -361,6 +346,21 @@
    2,
    1,
    3,
+   0,
+   0
+  ],
+  [
+   "Jon Novitsky",
+   "Dirty O Boys",
+   2.02,
+   6,
+   3,
+   0,
+   0,
+   0,
+   1,
+   2,
+   0,
    0,
    0
   ],
@@ -455,21 +455,6 @@
    0
   ],
   [
-   "Kyle Blumenstock",
-   "Bad Boys",
-   1.85,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Darrin Costantini",
    "Bad Boys",
    1.85,
@@ -480,6 +465,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kyle Blumenstock",
+   "Bad Boys",
+   1.85,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -665,21 +665,6 @@
    0
   ],
   [
-   "Hannah Mayne",
-   "Bad News Beers",
-   1.5,
-   9,
-   1,
-   1,
-   1,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Chyanel Adinoel",
    "Goodlife",
    1.5,
@@ -691,6 +676,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Hannah Mayne",
+   "Bad News Beers",
+   1.5,
+   9,
+   1,
+   1,
+   1,
+   0,
+   2,
+   0,
+   1,
    0,
    0
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-23T21:51:29Z"
+ "updated": "2026-10-23T22:49:44Z"
 }
