@@ -20,14 +20,14 @@
    17
   ],
   [
-   "Tipped Out",
+   "Top Shottas",
    20,
    19
   ],
   [
-   "Top Shottas",
-   20,
-   19
+   "Tipped Out",
+   26,
+   26
   ],
   [
    "The Nobodys",
@@ -36,18 +36,18 @@
   ],
   [
    "Split Decision",
-   19,
-   20
+   25,
+   27
   ],
   [
    "B And D",
-   17,
-   22
+   24,
+   28
   ],
   [
    "Dave N Buster",
-   8,
-   18
+   15,
+   24
   ],
   [
    "BYE INCOMPLETE",
@@ -57,14 +57,6 @@
  ],
  "results": [
   [
-   "Tipped Out",
-   "2 Guys 1 Bull",
-   "10/15/2026",
-   3,
-   8,
-   5
-  ],
-  [
    "The Nobodys",
    "Dave N Buster",
    "10/15/2026",
@@ -73,18 +65,18 @@
    5
   ],
   [
-   "Split Decision",
-   "Italian Stallions",
-   "10/15/2026",
-   3,
-   7,
-   6
-  ],
-  [
    "B And D",
-   "Top Shottas",
-   "10/15/2026",
-   3,
+   "Tipped Out",
+   "10/22/2026",
+   4,
+   7,
+   6
+  ],
+  [
+   "Dave N Buster",
+   "Split Decision",
+   "10/22/2026",
+   4,
    7,
    6
   ],
@@ -93,6 +85,22 @@
    "Split Decision",
    "10/15/2026",
    3,
+   6,
+   7
+  ],
+  [
+   "Split Decision",
+   "Dave N Buster",
+   "10/22/2026",
+   4,
+   6,
+   7
+  ],
+  [
+   "Tipped Out",
+   "B And D",
+   "10/22/2026",
+   4,
    6,
    7
   ],
@@ -121,14 +129,6 @@
    8
   ],
   [
-   "Dave N Buster",
-   "The Nobodys",
-   "10/15/2026",
-   3,
-   5,
-   8
-  ],
-  [
    "BYE INCOMPLETE",
    "Italian Stallions",
    "10/01/2026",
@@ -140,42 +140,42 @@
  "improved": {
   "c": [
    [
-    "Bill Lutomski",
-    "Top Shottas",
-    1.19,
-    1.36
+    "Paul Guadagna",
+    "Tipped Out",
+    1.52,
+    1.63
    ],
    [
     "Brian Pintagro",
     "Dave N Buster",
-    1.54,
-    1.68
-   ],
-   [
-    "Colin Mousseau",
-    "The Nobodys",
-    1.61,
-    1.74
-   ]
-  ],
-  "x": [
-   [
-    "Dave DeCarlo",
-    "Dave N Buster",
-    15.81,
-    17.08
-   ],
-   [
-    "Michael Palumbo",
-    "Italian Stallions",
-    13.3,
-    14.08
+    1.68,
+    1.79
    ],
    [
     "Dan Mousseau Jr",
     "B And D",
-    22.75,
-    23.51
+    2.49,
+    2.53
+   ]
+  ],
+  "x": [
+   [
+    "Brian Pintagro",
+    "Dave N Buster",
+    18.05,
+    19.06
+   ],
+   [
+    "Dave DeCarlo",
+    "Dave N Buster",
+    17.08,
+    17.63
+   ],
+   [
+    "Jon Green",
+    "Split Decision",
+    17.6,
+    18.12
    ]
   ]
  },
@@ -183,15 +183,15 @@
   [
    "Dan Mousseau Jr",
    "B And D",
-   2.49,
-   18,
-   7,
-   1,
+   2.53,
+   24,
+   9,
+   2,
    2,
    1,
+   10,
    7,
-   5,
-   1,
+   2,
    0,
    0
   ],
@@ -241,21 +241,6 @@
    0
   ],
   [
-   "Jack Ruppert",
-   "Tipped Out",
-   2.18,
-   18,
-   8,
-   3,
-   0,
-   0,
-   2,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "David Benwell",
    "Top Shottas",
    2.12,
@@ -267,21 +252,6 @@
    8,
    3,
    1,
-   0,
-   0
-  ],
-  [
-   "Dave DeCarlo",
-   "Dave N Buster",
-   2.1,
-   12,
-   1,
-   2,
-   0,
-   0,
-   4,
-   3,
-   0,
    0,
    0
   ],
@@ -301,6 +271,21 @@
    0
   ],
   [
+   "Jack Ruppert",
+   "Tipped Out",
+   2.02,
+   24,
+   10,
+   4,
+   0,
+   0,
+   2,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
    "Joe Scalise",
    "2 Guys 1 Bull",
    1.9,
@@ -316,16 +301,46 @@
    0
   ],
   [
-   "Jon Green",
-   "Split Decision",
+   "Dave DeCarlo",
+   "Dave N Buster",
+   1.89,
+   18,
+   2,
+   5,
+   0,
+   0,
+   4,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Pintagro",
+   "Dave N Buster",
    1.79,
    18,
-   3,
-   7,
+   5,
+   2,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jon Green",
+   "Split Decision",
+   1.76,
+   24,
+   4,
+   8,
    0,
    0,
    6,
-   2,
+   3,
    1,
    0,
    0
@@ -361,28 +376,13 @@
    0
   ],
   [
-   "Brian Pintagro",
-   "Dave N Buster",
-   1.68,
-   12,
-   2,
-   1,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Paul Guadagna",
    "Tipped Out",
-   1.52,
-   18,
-   3,
-   8,
-   0,
+   1.63,
+   24,
+   4,
+   10,
+   1,
    0,
    1,
    1,
@@ -408,13 +408,13 @@
   [
    "Holden Sandlar",
    "Split Decision",
-   1.46,
-   18,
-   7,
-   3,
+   1.44,
+   24,
+   8,
+   4,
    0,
    0,
-   3,
+   4,
    0,
    0,
    0,
@@ -423,15 +423,15 @@
   [
    "Brian Palermo",
    "B And D",
-   1.37,
-   18,
-   1,
-   7,
+   1.4,
+   24,
+   2,
+   9,
    0,
    0,
    1,
    1,
-   0,
+   1,
    0,
    0
   ],
@@ -500,14 +500,14 @@
   [
    "Dan Mousseau Jr",
    "B And D",
-   23.51,
-   21,
-   6,
-   3,
+   23.81,
+   28,
+   9,
+   4,
    0,
    0,
-   0,
-   23
+   1,
+   31
   ],
   [
    "David Benwell",
@@ -524,14 +524,14 @@
   [
    "Jack Ruppert",
    "Tipped Out",
-   19.66,
-   21,
-   4,
+   19.47,
+   28,
+   5,
    1,
    0,
    0,
    0,
-   14
+   20
   ],
   [
    "Colin Mousseau",
@@ -544,6 +544,18 @@
    0,
    0,
    9
+  ],
+  [
+   "Brian Pintagro",
+   "Dave N Buster",
+   19.06,
+   21,
+   5,
+   1,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "Dan Carroll",
@@ -594,16 +606,16 @@
    11
   ],
   [
-   "Brian Pintagro",
-   "Dave N Buster",
-   18.05,
-   14,
-   3,
-   1,
+   "Jon Green",
+   "Split Decision",
+   18.12,
+   28,
+   5,
+   2,
    0,
    0,
    0,
-   7
+   15
   ],
   [
    "Rowdy Woodworth",
@@ -618,52 +630,40 @@
    10
   ],
   [
-   "Jon Green",
-   "Split Decision",
-   17.6,
-   21,
-   4,
-   2,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
    "Dave DeCarlo",
    "Dave N Buster",
-   17.08,
-   14,
-   2,
-   1,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
-   "Brian Palermo",
-   "B And D",
-   16.61,
+   17.63,
    21,
    3,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
-   "Paul Guadagna",
-   "Tipped Out",
-   16.19,
-   21,
-   5,
-   0,
+   2,
    0,
    0,
    0,
    8
+  ],
+  [
+   "Paul Guadagna",
+   "Tipped Out",
+   15.94,
+   28,
+   7,
+   0,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Brian Palermo",
+   "B And D",
+   15.93,
+   28,
+   4,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Andrew Casciani",
@@ -692,9 +692,9 @@
   [
    "Holden Sandlar",
    "Split Decision",
-   14.67,
-   21,
-   5,
+   14.95,
+   28,
+   8,
    0,
    0,
    0,
@@ -1473,5 +1473,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-22T13:46:05Z"
+ "updated": "2026-10-23T13:02:37Z"
 }

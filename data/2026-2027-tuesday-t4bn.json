@@ -492,21 +492,6 @@
    0
   ],
   [
-   "David Rogers",
-   "Truckin Bulls",
-   1.96,
-   12,
-   3,
-   1,
-   0,
-   0,
-   1,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Mike Bisig",
    "Trippin On Trips",
    1.96,
@@ -518,6 +503,21 @@
    4,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "David Rogers",
+   "Truckin Bulls",
+   1.96,
+   12,
+   3,
+   1,
+   0,
+   0,
+   1,
+   3,
+   2,
    0,
    0
   ],
@@ -552,21 +552,6 @@
    0
   ],
   [
-   "Barry Barklund",
-   "Dartbags",
-   1.92,
-   12,
-   1,
-   6,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Jasen Torres",
    "Trippin On Trips",
    1.92,
@@ -597,19 +582,19 @@
    0
   ],
   [
-   "Dale Pickens",
-   "Points And Pints",
-   1.81,
+   "Barry Barklund",
+   "Dartbags",
+   1.92,
    12,
-   3,
-   3,
+   1,
+   6,
    0,
    0,
-   0,
+   2,
    0,
    1,
    0,
-   1
+   0
   ],
   [
    "Scott Stipulski",
@@ -627,19 +612,19 @@
    0
   ],
   [
-   "Jim Oneill",
+   "Dale Pickens",
    "Points And Pints",
-   1.76,
+   1.81,
    12,
-   2,
-   5,
-   0,
-   0,
-   2,
    3,
+   3,
+   0,
+   0,
+   0,
+   0,
    1,
    0,
-   0
+   1
   ],
   [
    "Kevin Moses",
@@ -652,6 +637,21 @@
    0,
    1,
    0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   1.76,
+   12,
+   2,
+   5,
+   0,
+   0,
+   2,
+   3,
    1,
    0,
    0
@@ -1619,18 +1619,6 @@
    0
   ],
   [
-   "Joey Tortora",
-   "Points And Pints",
-   15.3,
-   16,
-   2,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Jim Oneill",
    "Points And Pints",
    15.3,
@@ -1641,6 +1629,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Joey Tortora",
+   "Points And Pints",
+   15.3,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "John Dole",
@@ -2601,5 +2601,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-22T20:27:32Z"
+ "updated": "2026-10-23T13:02:00Z"
 }
