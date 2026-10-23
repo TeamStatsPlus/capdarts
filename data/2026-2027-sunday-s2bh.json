@@ -224,16 +224,16 @@
     2.78
    ],
    [
-    "Dave Heschke",
-    "Fing The Neighbors",
-    1.86,
-    1.98
-   ],
-   [
     "Donovan Caraballo",
     "Talk Darty To Me",
     1.72,
     1.84
+   ],
+   [
+    "John Salamone",
+    "Brothas",
+    2.22,
+    2.34
    ]
   ],
   "x": [
@@ -454,21 +454,6 @@
    0
   ],
   [
-   "Jason Miles",
-   "Fing The Neighbors",
-   2.02,
-   18,
-   6,
-   5,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Karl Taylor",
    "Tires And Soda",
    2.02,
@@ -480,6 +465,21 @@
    9,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Jason Miles",
+   "Fing The Neighbors",
+   2.02,
+   18,
+   6,
+   5,
+   0,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Ethan Glashauser",
-   "Glass N Stache",
-   1.77,
-   12,
-   3,
-   1,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Chaz Carley",
    "Night Shot",
    1.77,
@@ -630,6 +615,21 @@
    5,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Ethan Glashauser",
+   "Glass N Stache",
+   1.77,
+   12,
+   3,
+   1,
+   0,
+   0,
+   3,
+   1,
+   0,
    0,
    0
   ],
@@ -2259,5 +2259,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-23T20:51:45Z"
+ "updated": "2026-10-23T21:50:57Z"
 }
