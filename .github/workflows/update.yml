@@ -2,7 +2,7 @@ name: Update league data
 
 on:
   schedule:
-    - cron: "5 * * * *"        # every hour, at 5 minutes past
+    - cron: "17 * * * *"       # every hour, at 17 minutes past
   workflow_dispatch:           # "Run workflow" button
   push:
     branches: [main]
