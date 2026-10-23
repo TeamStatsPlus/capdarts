@@ -800,18 +800,6 @@
    6
   ],
   [
-   "Pat Childs",
-   "Fingerblasters",
-   18.47,
-   16,
-   3,
-   3,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Chris Hattala",
    "Bigg Darts",
    18.47,
@@ -822,6 +810,18 @@
    0,
    0,
    10
+  ],
+  [
+   "Pat Childs",
+   "Fingerblasters",
+   18.47,
+   16,
+   3,
+   3,
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Scott Ingham",
@@ -1336,5 +1336,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-22T20:28:07Z"
+ "updated": "2026-10-23T13:30:35Z"
 }
