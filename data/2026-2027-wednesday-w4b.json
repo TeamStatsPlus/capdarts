@@ -126,10 +126,10 @@
     1.42
    ],
    [
-    "Willie Szabo",
-    "Yearoff",
-    2.3,
-    2.38
+    "Mike Ribis",
+    "Gameday",
+    1.81,
+    1.89
    ]
   ],
   "x": [
@@ -185,12 +185,12 @@
    0
   ],
   [
-   "Jojo Goodrell",
-   "Gameday",
+   "Jeff Every",
+   "FTO",
    2.42,
    3,
    1,
-   1,
+   2,
    1,
    0,
    1,
@@ -200,12 +200,12 @@
    0
   ],
   [
-   "Jeff Every",
-   "FTO",
+   "Jojo Goodrell",
+   "Gameday",
    2.42,
    3,
    1,
-   2,
+   1,
    1,
    0,
    1,
@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Jason Ehmann",
-   "Anotha One",
-   1.97,
-   9,
-   4,
-   0,
-   1,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tom Clark",
    "Yearoff",
    1.97,
@@ -365,15 +350,15 @@
    0
   ],
   [
-   "Donovan Caraballo",
-   "BullsHitters",
-   1.95,
-   12,
-   2,
-   5,
+   "Jason Ehmann",
+   "Anotha One",
+   1.97,
+   9,
+   4,
+   0,
    1,
    0,
-   4,
+   1,
    1,
    0,
    0,
@@ -390,6 +375,21 @@
    0,
    2,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Donovan Caraballo",
+   "BullsHitters",
+   1.95,
+   12,
+   2,
+   5,
+   1,
+   0,
+   4,
+   1,
    0,
    0,
    0
@@ -1051,18 +1051,6 @@
    5
   ],
   [
-   "Dennis Obrien",
-   "Almost There",
-   15.82,
-   16,
-   1,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Dan Brocht",
    "BullsHitters",
    15.82,
@@ -1073,6 +1061,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Dennis Obrien",
+   "Almost There",
+   15.82,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Robert Crew",
@@ -1780,5 +1780,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-10-24T15:49:40Z"
+ "updated": "2026-10-24T16:50:57Z"
 }
