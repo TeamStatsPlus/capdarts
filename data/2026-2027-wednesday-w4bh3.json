@@ -382,21 +382,6 @@
    0
   ],
   [
-   "Tim Terborg",
-   "Flight Phucked",
-   1.92,
-   6,
-   2,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jay Musshafen",
    "Wasted Talent",
    1.92,
@@ -407,6 +392,21 @@
    0,
    6,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tim Terborg",
+   "Flight Phucked",
+   1.92,
+   6,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -846,18 +846,6 @@
    7
   ],
   [
-   "Bob Newell",
-   "Pig Roasters",
-   20.02,
-   12,
-   0,
-   0,
-   0,
-   0,
-   2,
-   4
-  ],
-  [
    "Joel Diaz",
    "Duckin Farts",
    20.02,
@@ -868,6 +856,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Bob Newell",
+   "Pig Roasters",
+   20.02,
+   12,
+   0,
+   0,
+   0,
+   0,
+   2,
+   4
   ],
   [
    "Tim Terborg",
@@ -1563,5 +1563,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-24T13:48:20Z"
+ "updated": "2026-10-24T14:49:01Z"
 }
