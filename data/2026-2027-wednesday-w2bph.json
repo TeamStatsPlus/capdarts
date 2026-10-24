@@ -16,8 +16,8 @@
   ],
   [
    "Squishy Business",
-   16,
-   14
+   26,
+   19
   ],
   [
    "Where The Bacon",
@@ -41,16 +41,16 @@
   ],
   [
    "Tony And Julian",
-   7,
-   23
+   12,
+   33
   ]
  ],
  "results": [
   [
    "Squishy Business",
-   "We Dem Boyz",
-   "10/07/2026",
-   2,
+   "Tony And Julian",
+   "10/23/2026",
+   4,
    10,
    5
   ],
@@ -87,14 +87,6 @@
    8
   ],
   [
-   "Tony And Julian",
-   "Cheers For Bad Darts",
-   "10/07/2026",
-   2,
-   7,
-   8
-  ],
-  [
    "Carpet Cleaners",
    "We Dem Boyz",
    "10/21/2026",
@@ -109,6 +101,14 @@
    4,
    6,
    9
+  ],
+  [
+   "Tony And Julian",
+   "Squishy Business",
+   "10/23/2026",
+   4,
+   5,
+   10
   ]
  ],
  "improved": {
@@ -120,16 +120,16 @@
     2.95
    ],
    [
+    "Julie DiGrazia",
+    "Squishy Business",
+    1.47,
+    1.57
+   ],
+   [
     "James Mitchell",
     "Dem BOYZ",
     2.57,
     2.65
-   ],
-   [
-    "Mark Sennett",
-    "Brighton Bruins",
-    2.53,
-    2.6
    ]
   ],
   "x": [
@@ -140,16 +140,16 @@
     25.91
    ],
    [
+    "Anthony Mineo",
+    "Tony And Julian",
+    16.58,
+    17.78
+   ],
+   [
     "Jason Miles",
     "Cheers For Bad Darts",
     17.49,
     18.46
-   ],
-   [
-    "Shaun Stocking",
-    "Cheers For Bad Darts",
-    25.85,
-    26.55
    ]
   ]
  },
@@ -172,17 +172,17 @@
   [
    "Erika Mardo",
    "Squishy Business",
-   3.25,
-   12,
-   8,
-   0,
-   1,
-   0,
+   3.27,
+   18,
    13,
-   3,
-   2,
+   0,
    1,
-   1
+   0,
+   20,
+   5,
+   3,
+   1,
+   3
   ],
   [
    "Dave Wallace",
@@ -337,14 +337,14 @@
   [
    "Anthony Mineo",
    "Tony And Julian",
-   2.21,
-   12,
-   2,
+   2.18,
+   18,
+   4,
    0,
    1,
    0,
-   5,
-   2,
+   7,
+   3,
    0,
    0,
    0
@@ -412,14 +412,14 @@
   [
    "Julie DiGrazia",
    "Squishy Business",
-   1.47,
-   12,
+   1.57,
+   18,
+   1,
+   9,
    0,
-   5,
    0,
-   0,
-   2,
-   0,
+   4,
+   1,
    0,
    0,
    0
@@ -427,15 +427,15 @@
   [
    "Julian Diaz",
    "Tony And Julian",
-   1.41,
-   12,
+   1.4,
+   18,
    0,
    1,
    0,
    0,
-   2,
+   4,
    0,
-   0,
+   1,
    0,
    0
   ]
@@ -457,13 +457,13 @@
    "Erika Mardo",
    "Squishy Business",
    27.33,
-   14,
-   8,
-   11,
+   21,
+   12,
+   15,
    0,
    0,
-   1,
-   31
+   2,
+   48
   ],
   [
    "Shaun Stocking",
@@ -598,6 +598,18 @@
    18
   ],
   [
+   "Anthony Mineo",
+   "Tony And Julian",
+   17.78,
+   21,
+   7,
+   2,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
    "Robyn Ralston",
    "We Dem Boyz",
    17.57,
@@ -634,22 +646,10 @@
    21
   ],
   [
-   "Anthony Mineo",
-   "Tony And Julian",
-   16.58,
-   14,
-   4,
-   1,
-   0,
-   0,
-   0,
-   11
-  ],
-  [
    "Julie DiGrazia",
    "Squishy Business",
-   14.49,
-   14,
+   14.13,
+   21,
    0,
    0,
    0,
@@ -660,14 +660,14 @@
   [
    "Julian Diaz",
    "Tony And Julian",
-   12.67,
-   14,
+   12.78,
+   21,
    1,
    0,
    0,
    0,
    0,
-   2
+   3
   ]
  ],
  "teams": [
@@ -1261,5 +1261,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-22T02:33:33Z"
+ "updated": "2026-10-24T01:56:04Z"
 }

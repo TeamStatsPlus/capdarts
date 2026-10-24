@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Scott Fry",
-   "Thunderbuddies",
-   1.8,
-   12,
-   2,
-   4,
-   0,
-   0,
-   4,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Travis Hall",
    "Lady And The Tramps",
    1.8,
@@ -330,6 +315,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Scott Fry",
+   "Thunderbuddies",
+   1.8,
+   12,
+   2,
+   4,
+   0,
+   0,
+   4,
+   2,
    0,
    0,
    0
@@ -1819,5 +1819,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-24T01:11:06Z"
+ "updated": "2026-10-24T01:55:47Z"
 }
