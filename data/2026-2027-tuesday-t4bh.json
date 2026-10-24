@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Brian Sloan",
-   "The Critters",
-   1.78,
-   12,
-   3,
-   1,
-   1,
-   0,
-   3,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Joe Rowland",
    "Team Name",
    1.78,
@@ -360,6 +345,21 @@
    0,
    3,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.78,
+   12,
+   3,
+   1,
+   1,
+   0,
+   3,
+   2,
    0,
    0,
    0
@@ -560,6 +560,21 @@
    0
   ],
   [
+   "Debbie Lillie",
+   "Lady And The Tramps",
+   1.31,
+   12,
+   4,
+   4,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Jimmy Mietus",
    "Team Name",
    1.31,
@@ -585,21 +600,6 @@
    0,
    3,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Debbie Lillie",
-   "Lady And The Tramps",
-   1.31,
-   12,
-   4,
-   4,
-   0,
-   0,
-   2,
-   0,
    0,
    0,
    0
@@ -898,6 +898,18 @@
    1
   ],
   [
+   "Scott Fry",
+   "Thunderbuddies",
+   17.37,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
    "Jimmy Mietus",
    "Team Name",
    17.37,
@@ -920,18 +932,6 @@
    0,
    0,
    2
-  ],
-  [
-   "Scott Fry",
-   "Thunderbuddies",
-   17.37,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   8
   ],
   [
    "Michael Justis",
@@ -1819,5 +1819,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-24T04:51:18Z"
+ "updated": "2026-10-24T05:51:17Z"
 }

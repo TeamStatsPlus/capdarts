@@ -687,21 +687,6 @@
    0
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.71,
-   12,
-   3,
-   3,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Pat Turco",
    "Trippin On Trips",
    1.71,
@@ -712,6 +697,21 @@
    0,
    1,
    0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Leach",
+   "Truckin Bulls",
+   1.71,
+   12,
+   3,
+   3,
+   0,
+   0,
+   0,
+   1,
    1,
    0,
    0
@@ -2601,5 +2601,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-24T04:51:22Z"
+ "updated": "2026-10-24T05:51:21Z"
 }
