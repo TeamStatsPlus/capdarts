@@ -172,10 +172,10 @@
     17.88
    ],
    [
-    "Shawn Thurley",
+    "Nick Gatti",
     "Your In Treble",
-    16.41,
-    16.7
+    16.82,
+    17.11
    ]
   ]
  },
@@ -406,21 +406,6 @@
    0
   ],
   [
-   "Steve Gallwey",
-   "636ers",
-   1.35,
-   24,
-   4,
-   5,
-   0,
-   0,
-   5,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Jessica Zimmerman",
    "Dark Sharts",
    1.35,
@@ -431,6 +416,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Gallwey",
+   "636ers",
+   1.35,
+   24,
+   4,
+   5,
+   0,
+   0,
+   5,
+   2,
    0,
    0,
    0
@@ -1569,5 +1569,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-10-24T02:52:14Z"
+ "updated": "2026-10-24T03:53:50Z"
 }

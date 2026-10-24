@@ -275,21 +275,6 @@
    0
   ],
   [
-   "Brandon Bacon",
-   "Bacon Titz",
-   2.08,
-   18,
-   7,
-   4,
-   1,
-   0,
-   5,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Tie Lightle",
    "Tie And Spye",
    2.08,
@@ -301,6 +286,21 @@
    8,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Brandon Bacon",
+   "Bacon Titz",
+   2.08,
+   18,
+   7,
+   4,
+   1,
+   0,
+   5,
+   4,
+   0,
    0,
    0
   ],
@@ -335,6 +335,21 @@
    0
   ],
   [
+   "Sarah Szewczyk",
+   "Pinky And The Brain",
+   1.83,
+   24,
+   4,
+   10,
+   0,
+   0,
+   5,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Ethan Burnham Fay",
    "Thats An Out",
    1.83,
@@ -360,21 +375,6 @@
    0,
    4,
    5,
-   0,
-   0,
-   0
-  ],
-  [
-   "Sarah Szewczyk",
-   "Pinky And The Brain",
-   1.83,
-   24,
-   4,
-   10,
-   0,
-   0,
-   5,
-   3,
    0,
    0,
    0
@@ -1246,5 +1246,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-10-24T02:53:26Z"
+ "updated": "2026-10-24T03:55:03Z"
 }
