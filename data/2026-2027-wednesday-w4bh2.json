@@ -469,21 +469,6 @@
    0
   ],
   [
-   "Zach Gooding",
-   "Toasted Darts",
-   1.96,
-   9,
-   2,
-   2,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Robinson",
    "Dart Vaders",
    1.96,
@@ -494,6 +479,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Zach Gooding",
+   "Toasted Darts",
+   1.96,
+   9,
+   2,
+   2,
+   0,
+   0,
+   5,
+   1,
    0,
    0,
    0
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-24T20:47:05Z"
+ "updated": "2026-10-24T21:49:12Z"
 }
