@@ -454,21 +454,6 @@
    0
   ],
   [
-   "Melissa Miles",
-   "Pusc Paninis",
-   2.26,
-   24,
-   7,
-   9,
-   1,
-   0,
-   10,
-   5,
-   1,
-   0,
-   0
-  ],
-  [
    "Jason Miles",
    "Drunken Squids",
    2.26,
@@ -480,6 +465,21 @@
    7,
    6,
    3,
+   0,
+   0
+  ],
+  [
+   "Melissa Miles",
+   "Pusc Paninis",
+   2.26,
+   24,
+   7,
+   9,
+   1,
+   0,
+   10,
+   5,
+   1,
    0,
    0
   ],
@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Robyn Ralston",
-   "Sprinkles On Top",
-   1.79,
-   12,
-   4,
-   4,
-   0,
-   0,
-   1,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Grace Maracle",
    "Big And Little",
    1.79,
@@ -630,6 +615,21 @@
    3,
    2,
    2,
+   0,
+   0
+  ],
+  [
+   "Robyn Ralston",
+   "Sprinkles On Top",
+   1.79,
+   12,
+   4,
+   4,
+   0,
+   0,
+   1,
+   3,
+   0,
    0,
    0
   ],
@@ -664,21 +664,6 @@
    0
   ],
   [
-   "James Shell",
-   "Dartaholicz",
-   1.53,
-   24,
-   6,
-   2,
-   0,
-   0,
-   4,
-   3,
-   2,
-   0,
-   1
-  ],
-  [
    "Katrina ReedMullen",
    "Pointless",
    1.53,
@@ -692,6 +677,21 @@
    0,
    0,
    0
+  ],
+  [
+   "James Shell",
+   "Dartaholicz",
+   1.53,
+   24,
+   6,
+   2,
+   0,
+   0,
+   4,
+   3,
+   2,
+   0,
+   1
   ],
   [
    "Shaunna Maloney",
@@ -1107,18 +1107,6 @@
    6
   ],
   [
-   "Tyler CannonBailey",
-   "Squeaky Wheel",
-   13.3,
-   7,
-   0,
-   1,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Alyssa Ham",
    "Highmark Hitters",
    13.3,
@@ -1129,6 +1117,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Tyler CannonBailey",
+   "Squeaky Wheel",
+   13.3,
+   7,
+   0,
+   1,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Jametta Boston",
@@ -1986,5 +1986,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-24T18:53:17Z"
+ "updated": "2026-10-24T19:43:31Z"
 }
