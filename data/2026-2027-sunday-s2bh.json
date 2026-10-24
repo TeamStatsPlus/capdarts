@@ -224,16 +224,16 @@
     2.78
    ],
    [
-    "John Salamone",
-    "Brothas",
-    2.22,
-    2.34
-   ],
-   [
     "Dave Heschke",
     "Fing The Neighbors",
     1.86,
     1.98
+   ],
+   [
+    "Donovan Caraballo",
+    "Talk Darty To Me",
+    1.72,
+    1.84
    ]
   ],
   "x": [
@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Ethan Glashauser",
-   "Glass N Stache",
-   1.77,
-   12,
-   3,
-   1,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Chaz Carley",
    "Night Shot",
    1.77,
@@ -634,16 +619,16 @@
    0
   ],
   [
-   "James Lee",
-   "Double 1s",
-   1.64,
-   18,
-   2,
+   "Ethan Glashauser",
+   "Glass N Stache",
+   1.77,
+   12,
+   3,
+   1,
    0,
    0,
-   0,
-   2,
-   2,
+   3,
+   1,
    0,
    0,
    0
@@ -659,6 +644,21 @@
    0,
    4,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "James Lee",
+   "Double 1s",
+   1.64,
+   18,
+   2,
+   0,
+   0,
+   0,
+   2,
+   2,
    0,
    0,
    0
@@ -2259,5 +2259,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-24T22:46:12Z"
+ "updated": "2026-10-24T23:41:30Z"
 }

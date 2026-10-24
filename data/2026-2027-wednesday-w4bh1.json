@@ -852,6 +852,21 @@
    0
   ],
   [
+   "Andrea Sutherland",
+   "Closer To Zero",
+   1.15,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Shawn Double Deuces",
    "Double Deuces",
    1.15,
@@ -877,21 +892,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Andrea Sutherland",
-   "Closer To Zero",
-   1.15,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
    0,
    0,
    0
@@ -957,21 +957,6 @@
    0
   ],
   [
-   "Jamie Brown",
-   "Tips Dont Lie",
-   1.03,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Erin Lamar",
    "Throwgasms",
    1.03,
@@ -987,16 +972,16 @@
    0
   ],
   [
-   "Jill Calvert",
-   "Squeekertips",
-   0.99,
-   9,
-   2,
+   "Jamie Brown",
+   "Tips Dont Lie",
+   1.03,
+   6,
+   1,
    1,
    0,
    0,
-   1,
    0,
+   1,
    0,
    0,
    0
@@ -1012,6 +997,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Squeekertips",
+   0.99,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1703,6 +1703,18 @@
    1
   ],
   [
+   "Marin Valentino",
+   "The Limp Wristers",
+   13.14,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
    "Nancy Miller",
    "3some Plus 1",
    13.14,
@@ -1725,18 +1737,6 @@
    0,
    0,
    0
-  ],
-  [
-   "Marin Valentino",
-   "The Limp Wristers",
-   13.14,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
   ],
   [
    "Erin Lamar",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-24T22:47:12Z"
+ "updated": "2026-10-24T23:42:33Z"
 }

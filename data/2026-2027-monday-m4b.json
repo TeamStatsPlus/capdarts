@@ -1390,18 +1390,6 @@
    8
   ],
   [
-   "David Wills",
-   "Tegridy",
-   20.85,
-   12,
-   3,
-   1,
-   1,
-   0,
-   1,
-   5
-  ],
-  [
    "Matt Cortese",
    "Off Target",
    20.85,
@@ -1412,6 +1400,18 @@
    0,
    0,
    6
+  ],
+  [
+   "David Wills",
+   "Tegridy",
+   20.85,
+   12,
+   3,
+   1,
+   1,
+   0,
+   1,
+   5
   ],
   [
    "Shondell Kirton",
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-24T22:46:32Z"
+ "updated": "2026-10-24T23:41:50Z"
 }
