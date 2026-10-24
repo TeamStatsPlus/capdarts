@@ -140,16 +140,16 @@
  "improved": {
   "c": [
    [
-    "Brian Pintagro",
-    "Dave N Buster",
-    1.68,
-    1.79
-   ],
-   [
     "Paul Guadagna",
     "Tipped Out",
     1.52,
     1.63
+   ],
+   [
+    "Brian Pintagro",
+    "Dave N Buster",
+    1.68,
+    1.79
    ],
    [
     "Dan Mousseau Jr",
@@ -1473,5 +1473,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-24T11:50:30Z"
+ "updated": "2026-10-24T13:48:32Z"
 }

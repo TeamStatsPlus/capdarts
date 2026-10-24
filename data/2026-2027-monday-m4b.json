@@ -503,6 +503,21 @@
    0
   ],
   [
+   "Shawn Hodgeman",
+   "Here 4 The Beer",
+   2.13,
+   12,
+   6,
+   3,
+   1,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Steve Wemett",
    "Good Smoke BBQ",
    2.13,
@@ -525,21 +540,6 @@
    5,
    4,
    0,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
-   "Shawn Hodgeman",
-   "Here 4 The Beer",
-   2.13,
-   12,
-   6,
-   3,
-   1,
    0,
    5,
    1,
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Rory Doran",
-   "Bad News Beers",
-   1.94,
-   12,
-   5,
-   5,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Matt Cortese",
    "Off Target",
    1.94,
@@ -666,6 +651,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Rory Doran",
+   "Bad News Beers",
+   1.94,
+   12,
+   5,
+   5,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Scott Musial",
@@ -923,6 +923,21 @@
    0
   ],
   [
+   "Chuck Coates",
+   "Wired",
+   1.62,
+   12,
+   0,
+   5,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Bill Greenough",
    "Slow Mother Chuckers",
    1.62,
@@ -947,21 +962,6 @@
    0,
    0,
    3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Chuck Coates",
-   "Wired",
-   1.62,
-   12,
-   0,
-   5,
-   0,
-   0,
-   4,
    0,
    0,
    0,
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-24T12:59:59Z"
+ "updated": "2026-10-24T13:47:32Z"
 }
