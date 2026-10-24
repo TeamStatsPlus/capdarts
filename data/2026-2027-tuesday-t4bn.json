@@ -627,21 +627,6 @@
    1
   ],
   [
-   "Jim Oneill",
-   "Points And Pints",
-   1.76,
-   12,
-   2,
-   5,
-   0,
-   0,
-   2,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Kevin Moses",
    "Is It In",
    1.76,
@@ -652,6 +637,21 @@
    0,
    1,
    0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   1.76,
+   12,
+   2,
+   5,
+   0,
+   0,
+   2,
+   3,
    1,
    0,
    0
@@ -1619,18 +1619,6 @@
    0
   ],
   [
-   "Jim Oneill",
-   "Points And Pints",
-   15.3,
-   16,
-   2,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Joey Tortora",
    "Points And Pints",
    15.3,
@@ -1641,6 +1629,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   15.3,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "John Dole",
@@ -2601,5 +2601,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-24T18:53:31Z"
+ "updated": "2026-10-24T20:46:40Z"
 }
