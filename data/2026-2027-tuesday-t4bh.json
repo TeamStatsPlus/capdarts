@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Travis Hall",
-   "Lady And The Tramps",
-   1.8,
-   12,
-   4,
-   6,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Scott Fry",
    "Thunderbuddies",
    1.8,
@@ -330,6 +315,21 @@
    0,
    4,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Travis Hall",
+   "Lady And The Tramps",
+   1.8,
+   12,
+   4,
+   6,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -560,21 +560,6 @@
    0
   ],
   [
-   "Debbie Lillie",
-   "Lady And The Tramps",
-   1.31,
-   12,
-   4,
-   4,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jimmy Mietus",
    "Team Name",
    1.31,
@@ -600,6 +585,21 @@
    0,
    3,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Debbie Lillie",
+   "Lady And The Tramps",
+   1.31,
+   12,
+   4,
+   4,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -1819,5 +1819,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-24T11:49:47Z"
+ "updated": "2026-10-24T13:00:18Z"
 }
