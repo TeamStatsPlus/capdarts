@@ -477,21 +477,6 @@
    0
   ],
   [
-   "Amy Poltorak",
-   "In Whiskey We Trust",
-   1.46,
-   12,
-   1,
-   6,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Kolberg",
    "In Whiskey We Trust",
    1.46,
@@ -503,6 +488,21 @@
    1,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Amy Poltorak",
+   "In Whiskey We Trust",
+   1.46,
+   12,
+   1,
+   6,
+   0,
+   0,
+   1,
+   1,
+   1,
    0,
    0
   ],
@@ -1758,5 +1758,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-24T10:50:17Z"
+ "updated": "2026-10-24T11:49:55Z"
 }

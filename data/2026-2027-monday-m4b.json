@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Rory Doran",
-   "Bad News Beers",
-   1.94,
-   12,
-   5,
-   5,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Matt Cortese",
    "Off Target",
    1.94,
@@ -666,6 +651,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Rory Doran",
+   "Bad News Beers",
+   1.94,
+   12,
+   5,
+   5,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Scott Musial",
@@ -1942,18 +1942,6 @@
    4
   ],
   [
-   "Michelle Nguyen",
-   "Bad News Beers",
-   15.39,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Chuck Marchbanks",
    "Wired",
    15.39,
@@ -1964,6 +1952,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Michelle Nguyen",
+   "Bad News Beers",
+   15.39,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "John Mitrano",
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-24T08:52:06Z"
+ "updated": "2026-10-24T11:49:31Z"
 }
