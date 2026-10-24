@@ -214,21 +214,6 @@
    0
   ],
   [
-   "Zaccary Maguire",
-   "Team Stinky",
-   2.43,
-   12,
-   3,
-   1,
-   1,
-   0,
-   3,
-   0,
-   1,
-   0,
-   1
-  ],
-  [
    "Mike Infantino",
    "Wrong Hole",
    2.43,
@@ -242,6 +227,21 @@
    2,
    0,
    0
+  ],
+  [
+   "Zaccary Maguire",
+   "Team Stinky",
+   2.43,
+   12,
+   3,
+   1,
+   1,
+   0,
+   3,
+   0,
+   1,
+   0,
+   1
   ],
   [
    "Jay Jaz",
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-24T16:51:05Z"
+ "updated": "2026-10-24T17:46:13Z"
 }
