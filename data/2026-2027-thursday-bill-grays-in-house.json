@@ -120,16 +120,16 @@
     1.07
    ],
    [
-    "Nick Lawlor",
-    "Alex And Lawlor",
-    1.82,
-    1.87
-   ],
-   [
     "Josh Krause",
     "BadDarts StankyFarts",
     1.52,
     1.57
+   ],
+   [
+    "Nick Lawlor",
+    "Alex And Lawlor",
+    1.82,
+    1.87
    ]
   ],
   "x": [
@@ -146,10 +146,10 @@
     18.0
    ],
    [
-    "Caleb Lee",
-    "Just The Tip",
-    15.41,
-    16.14
+    "Rick Falvo",
+    "Sweet Pickles",
+    14.25,
+    14.98
    ]
   ]
  },
@@ -813,7 +813,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-24T03:54:56Z",
+ "updated": "2026-10-24T04:52:01Z",
  "teams": [
   {
    "name": "Alex And Lawlor",

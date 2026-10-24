@@ -126,10 +126,10 @@
     1.42
    ],
    [
-    "Mike Ribis",
-    "Gameday",
-    1.81,
-    1.89
+    "Willie Szabo",
+    "Yearoff",
+    2.3,
+    2.38
    ]
   ],
   "x": [
@@ -260,21 +260,6 @@
    0
   ],
   [
-   "Tom Barnard",
-   "Tip Deep",
-   2.21,
-   12,
-   2,
-   7,
-   0,
-   0,
-   8,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Matt Horst",
    "FTO",
    2.21,
@@ -286,6 +271,21 @@
    3,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Tom Barnard",
+   "Tip Deep",
+   2.21,
+   12,
+   2,
+   7,
+   0,
+   0,
+   8,
+   0,
+   0,
    0,
    0
   ],
@@ -335,6 +335,21 @@
    0
   ],
   [
+   "Jason Ehmann",
+   "Anotha One",
+   1.97,
+   9,
+   4,
+   0,
+   1,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Tom Clark",
    "Yearoff",
    1.97,
@@ -350,15 +365,15 @@
    0
   ],
   [
-   "Jason Ehmann",
-   "Anotha One",
-   1.97,
-   9,
+   "Donovan Caraballo",
+   "BullsHitters",
+   1.95,
+   12,
+   2,
+   5,
+   1,
+   0,
    4,
-   0,
-   1,
-   0,
-   1,
    1,
    0,
    0,
@@ -375,21 +390,6 @@
    0,
    2,
    2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Donovan Caraballo",
-   "BullsHitters",
-   1.95,
-   12,
-   2,
-   5,
-   1,
-   0,
-   4,
-   1,
    0,
    0,
    0
@@ -1051,18 +1051,6 @@
    5
   ],
   [
-   "Dan Brocht",
-   "BullsHitters",
-   15.82,
-   12,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Dennis Obrien",
    "Almost There",
    15.82,
@@ -1073,6 +1061,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Dan Brocht",
+   "BullsHitters",
+   15.82,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Robert Crew",
@@ -1780,5 +1780,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-10-24T03:54:33Z"
+ "updated": "2026-10-24T04:51:40Z"
 }
