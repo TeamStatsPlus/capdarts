@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Shawn Hodgeman",
-   "Here 4 The Beer",
-   2.13,
-   12,
-   6,
-   3,
-   1,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Steve Wemett",
    "Good Smoke BBQ",
    2.13,
@@ -540,6 +525,21 @@
    5,
    4,
    0,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Shawn Hodgeman",
+   "Here 4 The Beer",
+   2.13,
+   12,
+   6,
+   3,
+   1,
    0,
    5,
    1,
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Matt Cortese",
-   "Off Target",
-   1.94,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Rory Doran",
    "Bad News Beers",
    1.94,
@@ -666,6 +651,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Matt Cortese",
+   "Off Target",
+   1.94,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "Scott Musial",
@@ -923,6 +923,21 @@
    0
   ],
   [
+   "Bill Greenough",
+   "Slow Mother Chuckers",
+   1.62,
+   12,
+   3,
+   3,
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Brian Wills",
    "Tegridy",
    1.62,
@@ -947,21 +962,6 @@
    0,
    0,
    4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Bill Greenough",
-   "Slow Mother Chuckers",
-   1.62,
-   12,
-   3,
-   3,
-   1,
-   0,
-   1,
    0,
    0,
    0,
@@ -1942,18 +1942,6 @@
    4
   ],
   [
-   "Chuck Marchbanks",
-   "Wired",
-   15.39,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Michelle Nguyen",
    "Bad News Beers",
    15.39,
@@ -1964,6 +1952,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Chuck Marchbanks",
+   "Wired",
+   15.39,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "John Mitrano",
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-25T19:44:08Z"
+ "updated": "2026-10-25T21:47:56Z"
 }

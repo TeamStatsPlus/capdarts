@@ -846,18 +846,6 @@
    7
   ],
   [
-   "Bob Newell",
-   "Pig Roasters",
-   20.02,
-   12,
-   0,
-   0,
-   0,
-   0,
-   2,
-   4
-  ],
-  [
    "Joel Diaz",
    "Duckin Farts",
    20.02,
@@ -868,6 +856,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Bob Newell",
+   "Pig Roasters",
+   20.02,
+   12,
+   0,
+   0,
+   0,
+   0,
+   2,
+   4
   ],
   [
    "Tim Terborg",
@@ -1563,5 +1563,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-25T20:48:09Z"
+ "updated": "2026-10-25T21:48:47Z"
 }

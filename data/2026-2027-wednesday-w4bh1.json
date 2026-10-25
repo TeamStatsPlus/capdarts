@@ -507,21 +507,6 @@
    0
   ],
   [
-   "Dan Berger",
-   "Emerald Society",
-   1.57,
-   12,
-   2,
-   1,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Loucks",
    "3some Plus 1",
    1.57,
@@ -532,6 +517,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dan Berger",
+   "Emerald Society",
+   1.57,
+   12,
+   2,
+   1,
+   0,
+   0,
+   4,
+   1,
    0,
    0,
    0
@@ -1703,18 +1703,6 @@
    1
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   13.14,
-   8,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Marin Valentino",
    "The Limp Wristers",
    13.14,
@@ -1732,6 +1720,18 @@
    13.14,
    12,
    2,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   13.14,
+   8,
+   0,
    0,
    0,
    0,
@@ -1775,18 +1775,6 @@
    1
   ],
   [
-   "Brian Cassidy",
-   "Emerald Society",
-   12.4,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Jess Post",
    "Closer To Zero",
    12.4,
@@ -1797,6 +1785,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Brian Cassidy",
+   "Emerald Society",
+   12.4,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Lydia Wheeler",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-25T20:48:01Z"
+ "updated": "2026-10-25T21:48:39Z"
 }
