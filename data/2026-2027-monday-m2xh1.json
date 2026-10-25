@@ -496,21 +496,6 @@
    0
   ],
   [
-   "Paul Humennyj",
-   "Couples Terapy",
-   1.21,
-   24,
-   3,
-   10,
-   0,
-   0,
-   3,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Rob Hall",
    "Girls Wanna Have Fun",
    1.21,
@@ -522,6 +507,21 @@
    2,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Paul Humennyj",
+   "Couples Terapy",
+   1.21,
+   24,
+   3,
+   10,
+   0,
+   0,
+   3,
+   2,
+   0,
    0,
    0
   ],
@@ -1569,5 +1569,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-10-25T18:54:53Z"
+ "updated": "2026-10-25T20:47:11Z"
 }
