@@ -484,21 +484,6 @@
    0
   ],
   [
-   "Zach Gooding",
-   "Toasted Darts",
-   1.96,
-   9,
-   2,
-   2,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Robinson",
    "Dart Vaders",
    1.96,
@@ -509,6 +494,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Zach Gooding",
+   "Toasted Darts",
+   1.96,
+   9,
+   2,
+   2,
+   0,
+   0,
+   5,
+   1,
    0,
    0,
    0
@@ -679,21 +679,6 @@
    0
   ],
   [
-   "Rob Ayotte",
-   "Liquor Box",
-   1.76,
-   6,
-   2,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Joe Porcaro",
    "Dart Vaders",
    1.76,
@@ -704,6 +689,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Ayotte",
+   "Liquor Box",
+   1.76,
+   6,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -1491,18 +1491,6 @@
    5
   ],
   [
-   "Adam Northrup",
-   "Wrong Hole",
-   16.84,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Jason Gould",
    "Average Joes",
    16.84,
@@ -1513,6 +1501,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Adam Northrup",
+   "Wrong Hole",
+   16.84,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Jay Jaz",
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-25T07:53:03Z"
+ "updated": "2026-10-25T08:52:27Z"
 }
