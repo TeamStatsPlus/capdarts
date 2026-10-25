@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Scott Fry",
-   "Thunderbuddies",
-   1.8,
-   12,
-   2,
-   4,
-   0,
-   0,
-   4,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Travis Hall",
    "Lady And The Tramps",
    1.8,
@@ -330,6 +315,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Scott Fry",
+   "Thunderbuddies",
+   1.8,
+   12,
+   2,
+   4,
+   0,
+   0,
+   4,
+   2,
    0,
    0,
    0
@@ -898,6 +898,18 @@
    1
   ],
   [
+   "Jimmy Mietus",
+   "Team Name",
+   17.37,
+   12,
+   4,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
    "Steve Strowbridge",
    "Team Name",
    17.37,
@@ -920,18 +932,6 @@
    0,
    0,
    8
-  ],
-  [
-   "Jimmy Mietus",
-   "Team Name",
-   17.37,
-   12,
-   4,
-   0,
-   0,
-   0,
-   0,
-   7
   ],
   [
    "Michael Justis",
@@ -1819,5 +1819,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-25T01:49:13Z"
+ "updated": "2026-10-25T02:52:26Z"
 }
