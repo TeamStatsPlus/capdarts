@@ -1379,18 +1379,6 @@
    0
   ],
   [
-   "Geoff Milunich",
-   "Tips Dont Lie",
-   15.55,
-   8,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Justine Moore",
    "ProjectileDysfncion",
    15.55,
@@ -1401,6 +1389,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Geoff Milunich",
+   "Tips Dont Lie",
+   15.55,
+   8,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Stephen Popowych",
@@ -1523,18 +1523,6 @@
    0
   ],
   [
-   "Jason Post",
-   "Struggle Bus",
-   14.4,
-   12,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Matt Goldman",
    "Double Deuces",
    14.4,
@@ -1545,6 +1533,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Jason Post",
+   "Struggle Bus",
+   14.4,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Collin Owczarzak",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-25T17:47:04Z"
+ "updated": "2026-10-25T18:55:37Z"
 }
