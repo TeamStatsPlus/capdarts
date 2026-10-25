@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Brian Sloan",
-   "The Critters",
-   1.78,
-   12,
-   3,
-   1,
-   1,
-   0,
-   3,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Joe Rowland",
    "Team Name",
    1.78,
@@ -360,6 +345,21 @@
    0,
    3,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.78,
+   12,
+   3,
+   1,
+   1,
+   0,
+   3,
+   2,
    0,
    0,
    0
@@ -1819,5 +1819,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-25T22:45:29Z"
+ "updated": "2026-10-25T23:43:30Z"
 }
