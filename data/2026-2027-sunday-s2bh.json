@@ -45,14 +45,19 @@
    21
   ],
   [
-   "Talk Darty To Me",
-   23,
-   29
+   "Ones Are Closed",
+   29,
+   36
   ],
   [
    "Team Titos",
    23,
    29
+  ],
+  [
+   "Talk Darty To Me",
+   28,
+   37
   ],
   [
    "Glass N Stache",
@@ -68,11 +73,6 @@
    "Tires And Soda",
    22,
    30
-  ],
-  [
-   "Ones Are Closed",
-   21,
-   31
   ],
   [
    "Double 1s",
@@ -95,10 +95,10 @@
    2
   ],
   [
+   "Ones Are Closed",
    "Talk Darty To Me",
-   "Brothas",
-   "10/18/2026",
-   4,
+   "10/24/2026",
+   5,
    8,
    5
   ],
@@ -175,10 +175,10 @@
    7
   ],
   [
+   "Talk Darty To Me",
    "Ones Are Closed",
-   "We Dem Boyz",
-   "10/18/2026",
-   4,
+   "10/24/2026",
+   5,
    5,
    8
   ],
@@ -218,42 +218,18 @@
  "improved": {
   "c": [
    [
-    "Dave Coin",
-    "We Dem Boyz",
-    2.51,
-    2.78
-   ],
-   [
-    "Dave Heschke",
-    "Fing The Neighbors",
-    1.86,
-    1.98
-   ],
-   [
-    "Donovan Caraballo",
-    "Talk Darty To Me",
-    1.72,
-    1.84
+    "James Davis",
+    "Ones Are Closed",
+    2.06,
+    2.1
    ]
   ],
   "x": [
    [
-    "Brian Kea",
-    "TWINS",
-    17.68,
-    19.41
-   ],
-   [
-    "Neal Kenyon",
-    "One Hole Off",
-    17.84,
-    19.51
-   ],
-   [
-    "Dustin Nelson",
-    "TWINS",
-    16.25,
-    17.62
+    "James Davis",
+    "Ones Are Closed",
+    17.53,
+    18.06
    ]
   ]
  },
@@ -409,6 +385,21 @@
    0
   ],
   [
+   "James Davis",
+   "Ones Are Closed",
+   2.1,
+   30,
+   9,
+   3,
+   0,
+   0,
+   10,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
    "David Caesar",
    "Night Shot",
    2.09,
@@ -437,21 +428,6 @@
    0,
    0,
    1
-  ],
-  [
-   "James Davis",
-   "Ones Are Closed",
-   2.06,
-   24,
-   6,
-   2,
-   0,
-   0,
-   8,
-   2,
-   0,
-   0,
-   0
   ],
   [
    "Karl Taylor",
@@ -529,21 +505,6 @@
    0
   ],
   [
-   "Donovan Caraballo",
-   "Talk Darty To Me",
-   1.84,
-   18,
-   8,
-   4,
-   0,
-   0,
-   4,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Jeff Bush",
    "Tires And Soda",
    1.83,
@@ -574,16 +535,16 @@
    0
   ],
   [
-   "Adam Martinez",
+   "Donovan Caraballo",
    "Talk Darty To Me",
    1.81,
-   18,
-   4,
-   8,
+   24,
+   9,
+   5,
    0,
    0,
-   2,
-   1,
+   5,
+   3,
    1,
    0,
    0
@@ -630,6 +591,21 @@
    3,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Adam Martinez",
+   "Talk Darty To Me",
+   1.71,
+   24,
+   5,
+   9,
+   0,
+   0,
+   2,
+   1,
+   1,
    0,
    0
   ],
@@ -694,21 +670,6 @@
    0
   ],
   [
-   "Ken Azzarello",
-   "Ones Are Closed",
-   1.33,
-   18,
-   2,
-   5,
-   0,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Kristin Southwick",
    "Tintins",
    1.32,
@@ -719,6 +680,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ken Azzarello",
+   "Ones Are Closed",
+   1.31,
+   24,
+   3,
+   8,
+   0,
+   0,
+   3,
+   2,
    0,
    0,
    0
@@ -917,26 +893,14 @@
   [
    "Adam Martinez",
    "Talk Darty To Me",
-   19.17,
-   21,
-   8,
+   18.99,
+   28,
+   9,
    0,
    0,
    0,
    0,
-   17
-  ],
-  [
-   "Donovan Caraballo",
-   "Talk Darty To Me",
-   18.82,
-   21,
-   3,
-   0,
-   0,
-   0,
-   0,
-   17
+   23
   ],
   [
    "Robyn Ralston",
@@ -961,6 +925,18 @@
    0,
    0,
    14
+  ],
+  [
+   "Donovan Caraballo",
+   "Talk Darty To Me",
+   18.6,
+   28,
+   5,
+   1,
+   0,
+   0,
+   1,
+   20
   ],
   [
    "David Caesar",
@@ -1011,6 +987,18 @@
    7
   ],
   [
+   "James Davis",
+   "Ones Are Closed",
+   18.06,
+   35,
+   15,
+   1,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
    "Jeff Bush",
    "Tires And Soda",
    17.94,
@@ -1033,18 +1021,6 @@
    0,
    0,
    6
-  ],
-  [
-   "James Davis",
-   "Ones Are Closed",
-   17.53,
-   28,
-   13,
-   1,
-   0,
-   0,
-   0,
-   14
   ],
   [
    "Chaz Carley",
@@ -1143,10 +1119,10 @@
    2
   ],
   [
-   "Ken Azzarello",
+   "Aaron Davis",
    "Ones Are Closed",
-   13.72,
-   21,
+   13.5,
+   7,
    0,
    0,
    0,
@@ -1155,11 +1131,11 @@
    1
   ],
   [
-   "Aaron Davis",
+   "Ken Azzarello",
    "Ones Are Closed",
-   13.5,
-   7,
-   0,
+   13.39,
+   28,
+   2,
    0,
    0,
    0,
@@ -2259,5 +2235,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-24T23:41:30Z"
+ "updated": "2026-10-25T01:48:35Z"
 }

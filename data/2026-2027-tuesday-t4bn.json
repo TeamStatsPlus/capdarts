@@ -552,21 +552,6 @@
    0
   ],
   [
-   "Barry Barklund",
-   "Dartbags",
-   1.92,
-   12,
-   1,
-   6,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Jasen Torres",
    "Trippin On Trips",
    1.92,
@@ -591,6 +576,21 @@
    0,
    0,
    0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Barry Barklund",
+   "Dartbags",
+   1.92,
+   12,
+   1,
+   6,
+   0,
+   0,
+   2,
    0,
    1,
    0,
@@ -1619,18 +1619,6 @@
    0
   ],
   [
-   "Joey Tortora",
-   "Points And Pints",
-   15.3,
-   16,
-   2,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Jim Oneill",
    "Points And Pints",
    15.3,
@@ -1641,6 +1629,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Joey Tortora",
+   "Points And Pints",
+   15.3,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "John Dole",
@@ -2601,5 +2601,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-25T01:01:08Z"
+ "updated": "2026-10-25T01:49:17Z"
 }
