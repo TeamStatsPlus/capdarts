@@ -275,21 +275,6 @@
    0
   ],
   [
-   "Desmond Parris",
-   "Kookeez Krumble",
-   2.3,
-   24,
-   4,
-   10,
-   0,
-   0,
-   14,
-   8,
-   0,
-   0,
-   1
-  ],
-  [
    "Todd Keller",
    "CHEERS",
    2.3,
@@ -303,6 +288,21 @@
    2,
    0,
    0
+  ],
+  [
+   "Desmond Parris",
+   "Kookeez Krumble",
+   2.3,
+   24,
+   4,
+   10,
+   0,
+   0,
+   14,
+   8,
+   0,
+   0,
+   1
   ],
   [
    "Todd Guichard",
@@ -320,21 +320,6 @@
    0
   ],
   [
-   "Alli Distler",
-   "Galactic Platypus",
-   2.22,
-   24,
-   3,
-   15,
-   0,
-   0,
-   11,
-   5,
-   1,
-   0,
-   0
-  ],
-  [
    "Mian Saladeen",
    "ApologiseNow",
    2.22,
@@ -347,6 +332,21 @@
    2,
    1,
    1,
+   0
+  ],
+  [
+   "Alli Distler",
+   "Galactic Platypus",
+   2.22,
+   24,
+   3,
+   15,
+   0,
+   0,
+   11,
+   5,
+   1,
+   0,
    0
   ],
   [
@@ -409,18 +409,6 @@
    42
   ],
   [
-   "Mike Infantino",
-   "Galactic Platypus",
-   26.04,
-   28,
-   9,
-   5,
-   0,
-   0,
-   1,
-   38
-  ],
-  [
    "Dillen Malone",
    "Oh Look Butterflies",
    26.04,
@@ -431,6 +419,18 @@
    0,
    0,
    19
+  ],
+  [
+   "Mike Infantino",
+   "Galactic Platypus",
+   26.04,
+   28,
+   9,
+   5,
+   0,
+   0,
+   1,
+   38
   ],
   [
    "Jim Gangarossa",
@@ -1198,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-25T13:48:14Z"
+ "updated": "2026-10-25T14:49:15Z"
 }
