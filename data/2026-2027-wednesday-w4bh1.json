@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.37,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.37,
@@ -683,6 +668,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Ellen Post",
+   "Closer To Zero",
+   1.37,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0
   ],
@@ -1775,18 +1775,6 @@
    1
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   12.4,
-   8,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Cassidy",
    "Emerald Society",
    12.4,
@@ -1797,6 +1785,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   12.4,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Lydia Wheeler",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-25T16:51:44Z"
+ "updated": "2026-10-25T17:47:04Z"
 }

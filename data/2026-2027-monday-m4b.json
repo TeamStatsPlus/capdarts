@@ -593,21 +593,6 @@
    0
   ],
   [
-   "Neal Kenyon",
-   "The Happy Accidents",
-   2.03,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Steve Wright",
    "Wired",
    2.03,
@@ -619,6 +604,21 @@
    4,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Neal Kenyon",
+   "The Happy Accidents",
+   2.03,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-25T16:51:00Z"
+ "updated": "2026-10-25T17:46:24Z"
 }
