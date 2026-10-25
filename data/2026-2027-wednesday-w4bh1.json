@@ -852,21 +852,6 @@
    0
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   1.15,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -887,6 +872,21 @@
    1.15,
    3,
    0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   1.15,
+   6,
+   1,
    1,
    0,
    0,
@@ -1032,21 +1032,6 @@
    0
   ],
   [
-   "Tracy Waud",
-   "Shart Shooters",
-   0.91,
-   12,
-   0,
-   4,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Hayley Perine",
    "Throwgasms",
    0.91,
@@ -1056,6 +1041,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tracy Waud",
+   "Shart Shooters",
+   0.91,
+   12,
+   0,
+   4,
+   0,
+   0,
+   2,
    0,
    0,
    0,
@@ -1703,18 +1703,6 @@
    1
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   13.14,
-   8,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Marin Valentino",
    "The Limp Wristers",
    13.14,
@@ -1732,6 +1720,18 @@
    13.14,
    12,
    2,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   13.14,
+   8,
+   0,
    0,
    0,
    0,
@@ -1775,18 +1775,6 @@
    1
   ],
   [
-   "Brian Cassidy",
-   "Emerald Society",
-   12.4,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Jess Post",
    "Closer To Zero",
    12.4,
@@ -1797,6 +1785,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Brian Cassidy",
+   "Emerald Society",
+   12.4,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Lydia Wheeler",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-25T11:48:52Z"
+ "updated": "2026-10-25T13:00:45Z"
 }
