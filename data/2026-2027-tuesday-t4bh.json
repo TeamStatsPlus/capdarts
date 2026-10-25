@@ -898,18 +898,6 @@
    1
   ],
   [
-   "Jimmy Mietus",
-   "Team Name",
-   17.37,
-   12,
-   4,
-   0,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Steve Strowbridge",
    "Team Name",
    17.37,
@@ -932,6 +920,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Jimmy Mietus",
+   "Team Name",
+   17.37,
+   12,
+   4,
+   0,
+   0,
+   0,
+   0,
+   7
   ],
   [
    "Michael Justis",
@@ -1819,5 +1819,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-25T02:52:26Z"
+ "updated": "2026-10-25T03:55:06Z"
 }
