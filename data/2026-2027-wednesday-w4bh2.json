@@ -469,21 +469,6 @@
    0
   ],
   [
-   "Juan Rosado",
-   "Liquor Box",
-   1.96,
-   12,
-   4,
-   3,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Robinson",
    "Dart Vaders",
    1.96,
@@ -509,6 +494,21 @@
    0,
    5,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Juan Rosado",
+   "Liquor Box",
+   1.96,
+   12,
+   4,
+   3,
+   0,
+   0,
+   2,
+   3,
    0,
    0,
    0
@@ -649,21 +649,6 @@
    0
   ],
   [
-   "Mike Monster",
-   "Liquor Box",
-   1.79,
-   6,
-   0,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Justin Gould",
    "Average Joes",
    1.79,
@@ -674,6 +659,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Monster",
+   "Liquor Box",
+   1.79,
+   6,
+   0,
+   2,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1491,18 +1491,6 @@
    5
   ],
   [
-   "Jason Gould",
-   "Average Joes",
-   16.84,
-   12,
-   3,
-   1,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Adam Northrup",
    "Wrong Hole",
    16.84,
@@ -1513,6 +1501,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Jason Gould",
+   "Average Joes",
+   16.84,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Jay Jaz",
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-25T13:00:49Z"
+ "updated": "2026-10-25T13:49:00Z"
 }

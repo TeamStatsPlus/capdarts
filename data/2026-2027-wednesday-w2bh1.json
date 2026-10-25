@@ -327,21 +327,6 @@
    0
   ],
   [
-   "Keith Seiffert",
-   "BitterDisappointment",
-   1.86,
-   18,
-   5,
-   1,
-   0,
-   0,
-   2,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Zach Morgan",
    "Two Furry Dudes",
    1.86,
@@ -352,6 +337,21 @@
    0,
    5,
    3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Keith Seiffert",
+   "BitterDisappointment",
+   1.86,
+   18,
+   5,
+   1,
+   0,
+   0,
+   2,
+   2,
    1,
    0,
    0
@@ -372,21 +372,6 @@
    0
   ],
   [
-   "Tim Turner",
-   "Fairly Oddparents",
-   1.76,
-   18,
-   5,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Syrica Story",
    "Two Girls One Bull",
    1.76,
@@ -398,6 +383,21 @@
    4,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Tim Turner",
+   "Fairly Oddparents",
+   1.76,
+   18,
+   5,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -477,21 +477,6 @@
    0
   ],
   [
-   "Amy Poltorak",
-   "In Whiskey We Trust",
-   1.46,
-   12,
-   1,
-   6,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Kolberg",
    "In Whiskey We Trust",
    1.46,
@@ -503,6 +488,21 @@
    1,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Amy Poltorak",
+   "In Whiskey We Trust",
+   1.46,
+   12,
+   1,
+   6,
+   0,
+   0,
+   1,
+   1,
+   1,
    0,
    0
   ],
@@ -1758,5 +1758,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-25T13:00:30Z"
+ "updated": "2026-10-25T13:48:40Z"
 }
