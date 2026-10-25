@@ -172,10 +172,10 @@
     17.88
    ],
    [
-    "Nick Gatti",
+    "Shawn Thurley",
     "Your In Treble",
-    16.82,
-    17.11
+    16.41,
+    16.7
    ]
   ]
  },
@@ -496,21 +496,6 @@
    0
   ],
   [
-   "Rob Hall",
-   "Girls Wanna Have Fun",
-   1.21,
-   6,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Paul Humennyj",
    "Couples Terapy",
    1.21,
@@ -522,6 +507,21 @@
    3,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Rob Hall",
+   "Girls Wanna Have Fun",
+   1.21,
+   6,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1,
    0,
    0
   ],
@@ -1569,5 +1569,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-10-25T14:49:11Z"
+ "updated": "2026-10-25T15:49:33Z"
 }
