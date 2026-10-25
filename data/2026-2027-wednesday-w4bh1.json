@@ -852,6 +852,21 @@
    0
   ],
   [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Jess Post",
    "Closer To Zero",
    1.15,
@@ -877,21 +892,6 @@
    0,
    0,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
    0,
    0,
    0
@@ -957,21 +957,6 @@
    0
   ],
   [
-   "Erin Lamar",
-   "Throwgasms",
-   1.03,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    1.03,
@@ -982,6 +967,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Erin Lamar",
+   "Throwgasms",
+   1.03,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1523,18 +1523,6 @@
    0
   ],
   [
-   "Jason Post",
-   "Struggle Bus",
-   14.4,
-   12,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Matt Goldman",
    "Double Deuces",
    14.4,
@@ -1545,6 +1533,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Jason Post",
+   "Struggle Bus",
+   14.4,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Collin Owczarzak",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-25T05:50:08Z"
+ "updated": "2026-10-25T07:06:56Z"
 }
