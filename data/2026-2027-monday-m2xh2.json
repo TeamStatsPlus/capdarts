@@ -409,18 +409,6 @@
    42
   ],
   [
-   "Mike Infantino",
-   "Galactic Platypus",
-   26.04,
-   28,
-   9,
-   5,
-   0,
-   0,
-   1,
-   38
-  ],
-  [
    "Dillen Malone",
    "Oh Look Butterflies",
    26.04,
@@ -431,6 +419,18 @@
    0,
    0,
    19
+  ],
+  [
+   "Mike Infantino",
+   "Galactic Platypus",
+   26.04,
+   28,
+   9,
+   5,
+   0,
+   0,
+   1,
+   38
   ],
   [
    "Jim Gangarossa",
@@ -1198,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-25T18:54:56Z"
+ "updated": "2026-10-25T19:44:04Z"
 }
