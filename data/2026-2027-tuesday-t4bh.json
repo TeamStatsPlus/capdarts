@@ -898,6 +898,18 @@
    1
   ],
   [
+   "Steve Strowbridge",
+   "Team Name",
+   17.37,
+   4,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
    "Scott Fry",
    "Thunderbuddies",
    17.37,
@@ -920,18 +932,6 @@
    0,
    0,
    7
-  ],
-  [
-   "Steve Strowbridge",
-   "Team Name",
-   17.37,
-   4,
-   2,
-   0,
-   0,
-   0,
-   0,
-   2
   ],
   [
    "Michael Justis",
@@ -1819,5 +1819,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-26T01:16:09Z"
+ "updated": "2026-10-26T02:02:14Z"
 }

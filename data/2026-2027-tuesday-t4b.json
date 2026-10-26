@@ -620,21 +620,6 @@
    0
   ],
   [
-   "Matthew Griffin",
-   "Dirty O Boys",
-   1.54,
-   12,
-   2,
-   3,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Hernandez Michael",
    "Goodlife",
    1.54,
@@ -660,6 +645,21 @@
    0,
    3,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matthew Griffin",
+   "Dirty O Boys",
+   1.54,
+   12,
+   2,
+   3,
+   0,
+   0,
+   4,
+   0,
    0,
    0,
    0
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-26T01:16:05Z"
+ "updated": "2026-10-26T02:02:09Z"
 }
