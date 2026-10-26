@@ -230,10 +230,10 @@
     3.59
    ],
    [
-    "Julie DiGrazia",
-    "And Then There Was 2",
-    1.3,
-    1.39
+    "Ashley Gault",
+    "Right There",
+    1.95,
+    2.04
    ]
   ],
   "x": [
@@ -454,21 +454,6 @@
    0
   ],
   [
-   "Melissa Miles",
-   "Pusc Paninis",
-   2.26,
-   24,
-   7,
-   9,
-   1,
-   0,
-   10,
-   5,
-   1,
-   0,
-   0
-  ],
-  [
    "Jason Miles",
    "Drunken Squids",
    2.26,
@@ -480,6 +465,21 @@
    7,
    6,
    3,
+   0,
+   0
+  ],
+  [
+   "Melissa Miles",
+   "Pusc Paninis",
+   2.26,
+   24,
+   7,
+   9,
+   1,
+   0,
+   10,
+   5,
+   1,
    0,
    0
   ],
@@ -1986,5 +1986,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-26T08:10:32Z"
+ "updated": "2026-10-26T09:04:25Z"
 }
