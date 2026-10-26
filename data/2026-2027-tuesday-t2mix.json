@@ -1107,18 +1107,6 @@
    6
   ],
   [
-   "Tyler CannonBailey",
-   "Squeaky Wheel",
-   13.3,
-   7,
-   0,
-   1,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Alyssa Ham",
    "Highmark Hitters",
    13.3,
@@ -1129,6 +1117,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Tyler CannonBailey",
+   "Squeaky Wheel",
+   13.3,
+   7,
+   0,
+   1,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Jametta Boston",
@@ -1986,5 +1986,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-26T19:57:07Z"
+ "updated": "2026-10-26T21:52:34Z"
 }
