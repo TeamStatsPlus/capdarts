@@ -275,21 +275,6 @@
    0
   ],
   [
-   "Patrick Reilly",
-   "Aiming Fluid Needed",
-   1.96,
-   18,
-   4,
-   5,
-   1,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Eddie Gibson",
    "Just The Tip",
    1.96,
@@ -301,6 +286,21 @@
    7,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Patrick Reilly",
+   "Aiming Fluid Needed",
+   1.96,
+   18,
+   4,
+   5,
+   1,
+   0,
+   2,
+   2,
+   0,
    0,
    0
   ],
@@ -547,18 +547,6 @@
    11
   ],
   [
-   "John Lehman",
-   "BullsDeep",
-   17.22,
-   28,
-   4,
-   2,
-   0,
-   0,
-   1,
-   11
-  ],
-  [
    "Patrick Reilly",
    "Aiming Fluid Needed",
    17.22,
@@ -569,6 +557,18 @@
    0,
    0,
    7
+  ],
+  [
+   "John Lehman",
+   "BullsDeep",
+   17.22,
+   28,
+   4,
+   2,
+   0,
+   0,
+   1,
+   11
   ],
   [
    "Joe Ferrigno",
@@ -1252,5 +1252,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-26T13:38:40Z"
+ "updated": "2026-10-26T19:09:21Z"
 }
