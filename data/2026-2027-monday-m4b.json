@@ -308,21 +308,6 @@
    0
   ],
   [
-   "Philip Rowland",
-   "ChJokers",
-   2.39,
-   12,
-   9,
-   3,
-   0,
-   0,
-   3,
-   2,
-   2,
-   0,
-   0
-  ],
-  [
    "Brett W Here For The Beer",
    "Here 4 The Beer",
    2.39,
@@ -334,6 +319,21 @@
    1,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Philip Rowland",
+   "ChJokers",
+   2.39,
+   12,
+   9,
+   3,
+   0,
+   0,
+   3,
+   2,
+   2,
    0,
    0
   ],
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-25T23:43:14Z"
+ "updated": "2026-10-26T01:15:54Z"
 }

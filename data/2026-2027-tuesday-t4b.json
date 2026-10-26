@@ -665,21 +665,6 @@
    0
   ],
   [
-   "Chyanel Adinoel",
-   "Goodlife",
-   1.5,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Hannah Mayne",
    "Bad News Beers",
    1.5,
@@ -691,6 +676,21 @@
    2,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Chyanel Adinoel",
+   "Goodlife",
+   1.5,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-25T23:43:26Z"
+ "updated": "2026-10-26T01:16:05Z"
 }
