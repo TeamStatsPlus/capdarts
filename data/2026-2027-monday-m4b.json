@@ -308,21 +308,6 @@
    0
   ],
   [
-   "Brett W Here For The Beer",
-   "Here 4 The Beer",
-   2.39,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Philip Rowland",
    "ChJokers",
    2.39,
@@ -334,6 +319,21 @@
    3,
    2,
    2,
+   0,
+   0
+  ],
+  [
+   "Brett W Here For The Beer",
+   "Here 4 The Beer",
+   2.39,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
    0,
    0
   ],
@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Steve Wemett",
-   "Good Smoke BBQ",
-   2.13,
-   6,
-   1,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Randy Cook",
    "Money Shot",
    2.13,
@@ -544,6 +529,21 @@
    5,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Steve Wemett",
+   "Good Smoke BBQ",
+   2.13,
+   6,
+   1,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -593,21 +593,6 @@
    0
   ],
   [
-   "Neal Kenyon",
-   "The Happy Accidents",
-   2.03,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Steve Wright",
    "Wired",
    2.03,
@@ -619,6 +604,21 @@
    4,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Neal Kenyon",
+   "The Happy Accidents",
+   2.03,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -923,21 +923,6 @@
    0
   ],
   [
-   "Bill Greenough",
-   "Slow Mother Chuckers",
-   1.62,
-   12,
-   3,
-   3,
-   1,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Wills",
    "Tegridy",
    1.62,
@@ -962,6 +947,21 @@
    0,
    0,
    4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bill Greenough",
+   "Slow Mother Chuckers",
+   1.62,
+   12,
+   3,
+   3,
+   1,
+   0,
+   1,
    0,
    0,
    0,
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-26T03:57:41Z"
+ "updated": "2026-10-26T04:56:11Z"
 }

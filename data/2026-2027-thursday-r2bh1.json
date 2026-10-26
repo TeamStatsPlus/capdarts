@@ -654,18 +654,6 @@
    10
   ],
   [
-   "Andrew Casciani",
-   "Not These Guys Again",
-   15.93,
-   14,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Brian Palermo",
    "B And D",
    15.93,
@@ -676,6 +664,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   15.93,
+   14,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Bill Lutomski",
@@ -1473,5 +1473,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-26T03:58:57Z"
+ "updated": "2026-10-26T04:57:09Z"
 }

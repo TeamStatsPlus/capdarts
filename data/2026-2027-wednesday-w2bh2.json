@@ -547,18 +547,6 @@
    11
   ],
   [
-   "Patrick Reilly",
-   "Aiming Fluid Needed",
-   17.22,
-   21,
-   4,
-   1,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "John Lehman",
    "BullsDeep",
    17.22,
@@ -569,6 +557,18 @@
    0,
    1,
    11
+  ],
+  [
+   "Patrick Reilly",
+   "Aiming Fluid Needed",
+   17.22,
+   21,
+   4,
+   1,
+   0,
+   0,
+   0,
+   7
   ],
   [
    "Joe Ferrigno",
@@ -1252,5 +1252,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-26T03:58:18Z"
+ "updated": "2026-10-26T04:56:38Z"
 }

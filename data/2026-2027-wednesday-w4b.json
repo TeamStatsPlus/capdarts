@@ -1051,18 +1051,6 @@
    5
   ],
   [
-   "Dan Brocht",
-   "BullsHitters",
-   15.82,
-   12,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Dennis Obrien",
    "Almost There",
    15.82,
@@ -1073,6 +1061,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Dan Brocht",
+   "BullsHitters",
+   15.82,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Robert Crew",
@@ -1780,5 +1780,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-10-26T03:58:27Z"
+ "updated": "2026-10-26T04:56:46Z"
 }
