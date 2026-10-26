@@ -120,16 +120,16 @@
     1.07
    ],
    [
-    "Nick Lawlor",
-    "Alex And Lawlor",
-    1.82,
-    1.87
-   ],
-   [
     "Josh Krause",
     "BadDarts StankyFarts",
     1.52,
     1.57
+   ],
+   [
+    "Nick Lawlor",
+    "Alex And Lawlor",
+    1.82,
+    1.87
    ]
   ],
   "x": [
@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Nick DelGaizo",
-   "BadDarts StankyFarts",
-   1.38,
-   20,
-   5,
-   2,
-   0,
-   0,
-   4,
-   2,
-   0,
-   0,
-   1
-  ],
-  [
    "Joe Gravino",
    "Austin And Joe",
    1.38,
@@ -363,6 +348,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Nick DelGaizo",
+   "BadDarts StankyFarts",
+   1.38,
+   20,
+   5,
+   2,
+   0,
+   0,
+   4,
+   2,
+   0,
+   0,
+   1
   ],
   [
    "Alex Stathopoulos",
@@ -813,7 +813,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-26T22:55:16Z",
+ "updated": "2026-10-26T23:50:14Z",
  "teams": [
   {
    "name": "Alex And Lawlor",
