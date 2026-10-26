@@ -214,21 +214,6 @@
    0
   ],
   [
-   "Zaccary Maguire",
-   "Team Stinky",
-   2.43,
-   12,
-   3,
-   1,
-   1,
-   0,
-   3,
-   0,
-   1,
-   0,
-   1
-  ],
-  [
    "Mike Infantino",
    "Wrong Hole",
    2.43,
@@ -242,6 +227,21 @@
    2,
    0,
    0
+  ],
+  [
+   "Zaccary Maguire",
+   "Team Stinky",
+   2.43,
+   12,
+   3,
+   1,
+   1,
+   0,
+   3,
+   0,
+   1,
+   0,
+   1
   ],
   [
    "Jay Jaz",
@@ -484,21 +484,6 @@
    0
   ],
   [
-   "Zach Gooding",
-   "Toasted Darts",
-   1.96,
-   9,
-   2,
-   2,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Robinson",
    "Dart Vaders",
    1.96,
@@ -509,6 +494,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Zach Gooding",
+   "Toasted Darts",
+   1.96,
+   9,
+   2,
+   2,
+   0,
+   0,
+   5,
+   1,
    0,
    0,
    0
@@ -649,21 +649,6 @@
    0
   ],
   [
-   "Justin Gould",
-   "Average Joes",
-   1.79,
-   6,
-   1,
-   3,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Monster",
    "Liquor Box",
    1.79,
@@ -674,6 +659,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Justin Gould",
+   "Average Joes",
+   1.79,
+   6,
+   1,
+   3,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -769,21 +769,6 @@
    0
   ],
   [
-   "Rick Nelson",
-   "Toasted Darts",
-   1.65,
-   12,
-   2,
-   4,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Hale",
    "Id Hit That",
    1.65,
@@ -793,6 +778,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rick Nelson",
+   "Toasted Darts",
+   1.65,
+   12,
+   2,
+   4,
+   0,
+   0,
+   3,
    0,
    0,
    0,
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-26T21:53:09Z"
+ "updated": "2026-10-26T22:55:04Z"
 }
