@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.37,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.37,
@@ -683,6 +668,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Ellen Post",
+   "Closer To Zero",
+   1.37,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0
   ],
@@ -1379,18 +1379,6 @@
    0
   ],
   [
-   "Geoff Milunich",
-   "Tips Dont Lie",
-   15.55,
-   8,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Justine Moore",
    "ProjectileDysfncion",
    15.55,
@@ -1401,6 +1389,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Geoff Milunich",
+   "Tips Dont Lie",
+   15.55,
+   8,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Stephen Popowych",
@@ -1523,18 +1523,6 @@
    0
   ],
   [
-   "Jason Post",
-   "Struggle Bus",
-   14.4,
-   12,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Matt Goldman",
    "Double Deuces",
    14.4,
@@ -1545,6 +1533,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Jason Post",
+   "Struggle Bus",
+   14.4,
+   12,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Collin Owczarzak",
@@ -1775,18 +1775,6 @@
    1
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   12.4,
-   8,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Cassidy",
    "Emerald Society",
    12.4,
@@ -1797,6 +1785,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   12.4,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Lydia Wheeler",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-26T03:58:33Z"
+ "updated": "2026-10-26T05:55:43Z"
 }
