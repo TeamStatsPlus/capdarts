@@ -383,21 +383,6 @@
    0
   ],
   [
-   "Joe Rowland",
-   "ChJokers",
-   2.26,
-   15,
-   4,
-   8,
-   1,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Alan Porteous",
    "Slow Mother Chuckers",
    2.26,
@@ -409,6 +394,21 @@
    6,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Joe Rowland",
+   "ChJokers",
+   2.26,
+   15,
+   4,
+   8,
+   1,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Joe Soriano",
-   "The Shockers",
-   2.14,
-   3,
-   0,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Matt Cortese",
    "Off Target",
    2.14,
@@ -514,6 +499,21 @@
    1,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Joe Soriano",
+   "The Shockers",
+   2.14,
+   3,
+   0,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -833,21 +833,6 @@
    0
   ],
   [
-   "John Mitrano",
-   "Here 4 The Beer",
-   1.71,
-   15,
-   0,
-   6,
-   1,
-   0,
-   2,
-   2,
-   3,
-   0,
-   0
-  ],
-  [
    "Orion Wilkerson",
    "IDF NightCaps",
    1.71,
@@ -859,6 +844,21 @@
    2,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "John Mitrano",
+   "Here 4 The Beer",
+   1.71,
+   15,
+   0,
+   6,
+   1,
+   0,
+   2,
+   2,
+   3,
    0,
    0
   ],
@@ -893,21 +893,6 @@
    0
   ],
   [
-   "Bill Greenough",
-   "Slow Mother Chuckers",
-   1.67,
-   15,
-   4,
-   5,
-   1,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Rowland",
    "Off Target",
    1.67,
@@ -919,6 +904,21 @@
    0,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Bill Greenough",
+   "Slow Mother Chuckers",
+   1.67,
+   15,
+   4,
+   5,
+   1,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-27T19:55:47Z"
+ "updated": "2026-10-27T20:55:32Z"
 }

@@ -114,16 +114,16 @@
  "improved": {
   "c": [
    [
-    "Ken Nicolay",
-    "Take It Out",
-    2.53,
-    2.65
-   ],
-   [
     "Matt Kraft",
     "Wrong Hole",
     1.87,
     1.99
+   ],
+   [
+    "Ken Nicolay",
+    "Take It Out",
+    2.53,
+    2.65
    ],
    [
     "Tony Villani",
@@ -380,6 +380,21 @@
    1
   ],
   [
+   "Todd Palmer",
+   "Take It Out",
+   2.22,
+   15,
+   4,
+   1,
+   0,
+   0,
+   3,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
    "Sean Grimes",
    "Wrong Hole",
    2.22,
@@ -406,21 +421,6 @@
    5,
    1,
    0,
-   0,
-   0
-  ],
-  [
-   "Todd Palmer",
-   "Take It Out",
-   2.22,
-   15,
-   4,
-   1,
-   0,
-   0,
-   3,
-   4,
-   1,
    0,
    0
   ],
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T19:55:51Z"
+ "updated": "2026-10-27T20:55:36Z"
 }

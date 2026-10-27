@@ -620,6 +620,21 @@
    0
   ],
   [
+   "Matthew Griffin",
+   "Dirty O Boys",
+   1.54,
+   12,
+   2,
+   3,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Hernandez Michael",
    "Goodlife",
    1.54,
@@ -650,15 +665,15 @@
    0
   ],
   [
-   "Matthew Griffin",
-   "Dirty O Boys",
-   1.54,
-   12,
-   2,
+   "Chyanel Adinoel",
+   "Goodlife",
+   1.5,
    3,
    0,
    0,
-   4,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -676,21 +691,6 @@
    2,
    0,
    1,
-   0,
-   0
-  ],
-  [
-   "Chyanel Adinoel",
-   "Goodlife",
-   1.5,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T19:55:59Z"
+ "updated": "2026-10-27T20:55:44Z"
 }
