@@ -185,21 +185,6 @@
    2
   ],
   [
-   "Peter Rogers",
-   "Bad Boys",
-   2.51,
-   9,
-   4,
-   4,
-   1,
-   0,
-   8,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Erick Ramos",
    "Goodlife",
    2.51,
@@ -211,6 +196,21 @@
    1,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Peter Rogers",
+   "Bad Boys",
+   2.51,
+   9,
+   4,
+   4,
+   1,
+   0,
+   8,
+   0,
+   1,
    0,
    0
   ],
@@ -455,21 +455,6 @@
    0
   ],
   [
-   "Kyle Blumenstock",
-   "Bad Boys",
-   1.85,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Darrin Costantini",
    "Bad Boys",
    1.85,
@@ -480,6 +465,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kyle Blumenstock",
+   "Bad Boys",
+   1.85,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -620,21 +620,6 @@
    0
   ],
   [
-   "Hernandez Michael",
-   "Goodlife",
-   1.54,
-   6,
-   0,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Chuck Marchbanks",
    "Bad Boys",
    1.54,
@@ -665,17 +650,17 @@
    0
   ],
   [
-   "Hannah Mayne",
-   "Bad News Beers",
-   1.5,
-   9,
-   1,
-   1,
-   1,
+   "Hernandez Michael",
+   "Goodlife",
+   1.54,
+   6,
    0,
    2,
    0,
+   0,
    1,
+   0,
+   0,
    0,
    0
   ],
@@ -691,6 +676,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Hannah Mayne",
+   "Bad News Beers",
+   1.5,
+   9,
+   1,
+   1,
+   1,
+   0,
+   2,
+   0,
+   1,
    0,
    0
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T11:54:31Z"
+ "updated": "2026-10-27T13:10:38Z"
 }
