@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Steve Wright",
-   "Bad Boys",
-   2.07,
-   3,
-   0,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Robert Gare",
    "3 Guys And A Girl",
    2.07,
@@ -331,6 +316,21 @@
    5,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Steve Wright",
+   "Bad Boys",
+   2.07,
+   3,
+   0,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
    0,
    0
   ],
@@ -455,21 +455,6 @@
    0
   ],
   [
-   "Kyle Blumenstock",
-   "Bad Boys",
-   1.85,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Darrin Costantini",
    "Bad Boys",
    1.85,
@@ -480,6 +465,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kyle Blumenstock",
+   "Bad Boys",
+   1.85,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -907,18 +907,6 @@
    5
   ],
   [
-   "Dun Goodlife",
-   "Goodlife",
-   18.85,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Sara Williams",
    "Bulls And Brews",
    18.85,
@@ -929,6 +917,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Dun Goodlife",
+   "Goodlife",
+   18.85,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Fredo Martinez",
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T05:53:31Z"
+ "updated": "2026-10-27T07:10:17Z"
 }
