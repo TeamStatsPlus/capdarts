@@ -462,21 +462,6 @@
    0
   ],
   [
-   "Graham Wheeler",
-   "Shart Shooters",
-   1.61,
-   12,
-   7,
-   1,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Chris Murgatroyd",
    "Double Deuces",
    1.61,
@@ -488,6 +473,21 @@
    1,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Graham Wheeler",
+   "Shart Shooters",
+   1.61,
+   12,
+   7,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2,
    0,
    0
   ],
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.37,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.37,
@@ -683,6 +668,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Ellen Post",
+   "Closer To Zero",
+   1.37,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0
   ],
@@ -792,6 +792,21 @@
    0
   ],
   [
+   "Jacob Post",
+   "Struggle Bus",
+   1.2,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "John Inzinna",
    "Cant Close",
    1.2,
@@ -822,21 +837,6 @@
    0
   ],
   [
-   "Jacob Post",
-   "Struggle Bus",
-   1.2,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jason Post",
    "Struggle Bus",
    1.18,
@@ -847,6 +847,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrea Sutherland",
+   "Closer To Zero",
+   1.15,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -877,21 +892,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Andrea Sutherland",
-   "Closer To Zero",
-   1.15,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
    0,
    0,
    0
@@ -957,21 +957,6 @@
    0
   ],
   [
-   "Jamie Brown",
-   "Tips Dont Lie",
-   1.03,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Erin Lamar",
    "Throwgasms",
    1.03,
@@ -987,16 +972,16 @@
    0
   ],
   [
-   "Jill Calvert",
-   "Squeekertips",
-   0.99,
-   9,
-   2,
+   "Jamie Brown",
+   "Tips Dont Lie",
+   1.03,
+   6,
+   1,
    1,
    0,
    0,
-   1,
    0,
+   1,
    0,
    0,
    0
@@ -1012,6 +997,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Squeekertips",
+   0.99,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1703,6 +1703,18 @@
    1
   ],
   [
+   "Marin Valentino",
+   "The Limp Wristers",
+   13.14,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
    "Nancy Miller",
    "3some Plus 1",
    13.14,
@@ -1725,18 +1737,6 @@
    0,
    0,
    0
-  ],
-  [
-   "Marin Valentino",
-   "The Limp Wristers",
-   13.14,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
   ],
   [
    "Erin Lamar",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-27T04:54:25Z"
+ "updated": "2026-10-27T05:54:00Z"
 }
