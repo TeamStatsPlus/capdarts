@@ -275,21 +275,6 @@
    0
   ],
   [
-   "Patrick Reilly",
-   "Aiming Fluid Needed",
-   1.96,
-   18,
-   4,
-   5,
-   1,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Eddie Gibson",
    "Just The Tip",
    1.96,
@@ -301,6 +286,21 @@
    7,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Patrick Reilly",
+   "Aiming Fluid Needed",
+   1.96,
+   18,
+   4,
+   5,
+   1,
+   0,
+   2,
+   2,
+   0,
    0,
    0
   ],
@@ -1252,5 +1252,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T07:10:35Z"
+ "updated": "2026-10-27T08:03:05Z"
 }

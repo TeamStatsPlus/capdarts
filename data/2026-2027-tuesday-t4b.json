@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Robert Gare",
-   "3 Guys And A Girl",
-   2.07,
-   9,
-   2,
-   4,
-   0,
-   0,
-   5,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Steve Wright",
    "Bad Boys",
    2.07,
@@ -331,6 +316,21 @@
    1,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Robert Gare",
+   "3 Guys And A Girl",
+   2.07,
+   9,
+   2,
+   4,
+   0,
+   0,
+   5,
+   0,
+   1,
    0,
    0
   ],
@@ -410,21 +410,6 @@
    0
   ],
   [
-   "Goel Adinoel",
-   "Goodlife",
-   1.94,
-   6,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Queron Jenkins",
    "Bulls And Brews",
    1.94,
@@ -434,6 +419,21 @@
    0,
    0,
    2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Goel Adinoel",
+   "Goodlife",
+   1.94,
+   6,
+   0,
+   1,
+   0,
+   0,
+   1,
    0,
    0,
    0,
@@ -455,21 +455,6 @@
    0
   ],
   [
-   "Darrin Costantini",
-   "Bad Boys",
-   1.85,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Kyle Blumenstock",
    "Bad Boys",
    1.85,
@@ -480,6 +465,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Darrin Costantini",
+   "Bad Boys",
+   1.85,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T07:10:17Z"
+ "updated": "2026-10-27T08:02:50Z"
 }
