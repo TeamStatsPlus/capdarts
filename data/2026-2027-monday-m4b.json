@@ -443,21 +443,6 @@
    0
   ],
   [
-   "Tim Smith",
-   "ChJokers",
-   2.22,
-   15,
-   2,
-   8,
-   0,
-   0,
-   3,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Neal Kenyon",
    "The Happy Accidents",
    2.22,
@@ -469,6 +454,21 @@
    2,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Tim Smith",
+   "ChJokers",
+   2.22,
+   15,
+   2,
+   8,
+   0,
+   0,
+   3,
+   2,
+   0,
    0,
    0
   ],
@@ -938,8 +938,8 @@
    0
   ],
   [
-   "ALEX TODISCO",
-   "{Substitutes}",
+   "Alex Todisco",
+   "Slow Mother Chuckers",
    1.64,
    3,
    2,
@@ -968,21 +968,6 @@
    0
   ],
   [
-   "Danny Zysman",
-   "The Shockers",
-   1.62,
-   15,
-   5,
-   2,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Michelle Nguyen",
    "Bad News Beers",
    1.62,
@@ -994,6 +979,21 @@
    2,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Danny Zysman",
+   "The Shockers",
+   1.62,
+   15,
+   5,
+   2,
+   0,
+   0,
+   3,
+   0,
+   0,
    0,
    0
   ],
@@ -1028,21 +1028,6 @@
    0
   ],
   [
-   "Brian Wills",
-   "Tegridy",
-   1.59,
-   12,
-   0,
-   5,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dickie Rowland",
    "ChJokers",
    1.59,
@@ -1053,6 +1038,21 @@
    0,
    0,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Wills",
+   "Tegridy",
+   1.59,
+   12,
+   0,
+   5,
+   0,
+   0,
+   4,
+   0,
    0,
    0,
    0
@@ -1333,18 +1333,6 @@
    19
   ],
   [
-   "Chad Pike",
-   "Here 4 The Beer",
-   22.25,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   12
-  ],
-  [
    "Philip Rowland",
    "ChJokers",
    22.25,
@@ -1355,6 +1343,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Chad Pike",
+   "Here 4 The Beer",
+   22.25,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   12
   ],
   [
    "Judson Brown",
@@ -1729,8 +1729,8 @@
    3
   ],
   [
-   "ALEX TODISCO",
-   "{Substitutes}",
+   "Alex Todisco",
+   "Slow Mother Chuckers",
    17.49,
    4,
    2,
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-27T13:10:24Z"
+ "updated": "2026-10-27T14:09:08Z"
 }
