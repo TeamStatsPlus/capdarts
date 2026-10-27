@@ -6,8 +6,8 @@
  "standings": [
   [
    "Money Shot",
-   42,
-   10
+   54,
+   11
   ],
   [
    "Bad News Beers",
@@ -61,8 +61,8 @@
   ],
   [
    "The Shockers",
-   17,
-   35
+   18,
+   47
   ],
   [
    "Halluciminatin",
@@ -76,6 +76,14 @@
   ]
  ],
  "results": [
+  [
+   "Money Shot",
+   "The Shockers",
+   "10/26/2026",
+   5,
+   12,
+   1
+  ],
   [
    "ChJokers",
    "The Happy Accidents",
@@ -125,22 +133,6 @@
    6
   ],
   [
-   "Money Shot",
-   "Good Smoke BBQ",
-   "10/19/2026",
-   4,
-   7,
-   6
-  ],
-  [
-   "The Shockers",
-   "Tegridy",
-   "10/19/2026",
-   4,
-   6,
-   7
-  ],
-  [
    "Good Smoke BBQ",
    "Money Shot",
    "10/19/2026",
@@ -187,47 +179,55 @@
    4,
    2,
    11
+  ],
+  [
+   "The Shockers",
+   "Money Shot",
+   "10/26/2026",
+   5,
+   1,
+   12
   ]
  ],
  "improved": {
   "c": [
    [
-    "Ben Kulikowski",
-    "Good Smoke BBQ",
-    1.96,
-    2.24
+    "Mark Quill",
+    "Money Shot",
+    2.28,
+    2.36
    ],
    [
-    "David Caesar",
-    "IDF NightCaps",
-    1.62,
-    1.89
+    "Brandon English",
+    "The Shockers",
+    1.3,
+    1.33
    ],
    [
-    "Alan Porteous",
-    "Slow Mother Chuckers",
-    1.99,
-    2.19
+    "Chad Newbauer",
+    "Money Shot",
+    2.76,
+    2.77
    ]
   ],
   "x": [
    [
-    "Steve Wemett",
-    "Good Smoke BBQ",
-    15.16,
-    17.13
+    "Eric Westrich",
+    "Money Shot",
+    19.46,
+    20.99
    ],
    [
-    "Ryan Cuer",
-    "RedEye",
-    16.5,
-    17.77
+    "Jason Sherman",
+    "The Shockers",
+    19.65,
+    19.96
    ],
    [
-    "Nick Wahal",
-    "Slow Mother Chuckers",
-    22.83,
-    24.09
+    "Randy Cook",
+    "Money Shot",
+    19.07,
+    19.35
    ]
   ]
  },
@@ -250,13 +250,13 @@
   [
    "Chad Newbauer",
    "Money Shot",
-   2.76,
-   12,
+   2.77,
+   15,
+   7,
    6,
-   4,
    0,
    0,
-   4,
+   6,
    4,
    1,
    0,
@@ -296,12 +296,12 @@
    "Eric Westrich",
    "Money Shot",
    2.4,
-   9,
-   2,
-   6,
+   12,
+   3,
+   8,
    0,
    0,
-   7,
+   8,
    3,
    1,
    0,
@@ -353,6 +353,21 @@
    0
   ],
   [
+   "Mark Quill",
+   "Money Shot",
+   2.36,
+   15,
+   9,
+   4,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   1
+  ],
+  [
    "Joe Rowland",
    "ChJokers",
    2.35,
@@ -381,21 +396,6 @@
    1,
    0,
    0
-  ],
-  [
-   "Mark Quill",
-   "Money Shot",
-   2.28,
-   12,
-   6,
-   4,
-   0,
-   0,
-   3,
-   0,
-   1,
-   0,
-   1
   ],
   [
    "Shondell Kirton",
@@ -518,21 +518,6 @@
    0
   ],
   [
-   "Randy Cook",
-   "Money Shot",
-   2.13,
-   12,
-   5,
-   4,
-   0,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Shawn Hodgeman",
    "Here 4 The Beer",
    2.13,
@@ -543,6 +528,21 @@
    0,
    5,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Randy Cook",
+   "Money Shot",
+   2.12,
+   15,
+   6,
+   6,
+   0,
+   0,
+   6,
+   2,
    1,
    0,
    0
@@ -668,21 +668,6 @@
    0
   ],
   [
-   "Scott Musial",
-   "The Shockers",
-   1.92,
-   12,
-   2,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Rowland",
    "Off Target",
    1.92,
@@ -728,27 +713,27 @@
    0
   ],
   [
+   "Scott Musial",
+   "The Shockers",
+   1.88,
+   15,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
    "Steve Strowbridge",
    "Off Target",
    1.87,
    9,
    6,
    2,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jason Sherman",
-   "The Shockers",
-   1.84,
-   9,
-   1,
-   4,
    0,
    0,
    2,
@@ -788,6 +773,21 @@
    0
   ],
   [
+   "Jason Sherman",
+   "The Shockers",
+   1.82,
+   12,
+   1,
+   4,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Rick Ernst",
    "Bad News Beers",
    1.78,
@@ -814,21 +814,6 @@
    3,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Danny Zysman",
-   "The Shockers",
-   1.74,
-   12,
-   5,
-   2,
-   0,
-   0,
-   3,
-   0,
-   0,
    0,
    0
   ],
@@ -932,6 +917,21 @@
    1,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Danny Zysman",
+   "The Shockers",
+   1.62,
+   15,
+   5,
+   2,
+   0,
+   0,
+   3,
    0,
    0,
    0,
@@ -1150,13 +1150,13 @@
   [
    "Brandon English",
    "The Shockers",
-   1.3,
-   12,
+   1.33,
+   15,
    1,
    2,
    0,
    0,
-   0,
+   1,
    0,
    0,
    0,
@@ -1308,14 +1308,14 @@
   [
    "Chad Newbauer",
    "Money Shot",
-   23.48,
-   16,
-   5,
+   23.74,
+   20,
+   8,
    1,
    0,
    0,
    0,
-   15
+   19
   ],
   [
    "Chad Pike",
@@ -1390,16 +1390,16 @@
    8
   ],
   [
-   "David Wills",
-   "Tegridy",
-   20.85,
-   12,
-   3,
-   1,
-   1,
+   "Eric Westrich",
+   "Money Shot",
+   20.99,
+   16,
+   5,
    0,
-   1,
-   5
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Matt Cortese",
@@ -1414,6 +1414,18 @@
    6
   ],
   [
+   "David Wills",
+   "Tegridy",
+   20.85,
+   12,
+   3,
+   1,
+   1,
+   0,
+   1,
+   5
+  ],
+  [
    "Shondell Kirton",
    "IDF NightCaps",
    20.65,
@@ -1424,18 +1436,6 @@
    0,
    0,
    10
-  ],
-  [
-   "Mark Quill",
-   "Money Shot",
-   20.62,
-   16,
-   5,
-   2,
-   0,
-   0,
-   0,
-   9
   ],
   [
    "Brian Wemett",
@@ -1472,6 +1472,30 @@
    0,
    0,
    3
+  ],
+  [
+   "Mark Quill",
+   "Money Shot",
+   20.28,
+   20,
+   6,
+   3,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Jason Sherman",
+   "The Shockers",
+   19.96,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Shawn Hodgeman",
@@ -1522,40 +1546,16 @@
    9
   ],
   [
-   "Jason Sherman",
-   "The Shockers",
-   19.65,
-   12,
-   3,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
-   "Eric Westrich",
-   "Money Shot",
-   19.46,
-   12,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Randy Cook",
    "Money Shot",
-   19.07,
-   16,
+   19.35,
+   20,
    5,
    0,
    0,
    0,
    0,
-   7
+   10
   ],
   [
    "Steve Wright",
@@ -1654,6 +1654,18 @@
    6
   ],
   [
+   "Scott Musial",
+   "The Shockers",
+   18.05,
+   20,
+   3,
+   0,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
    "Taylor Koffenberger",
    "Tegridy",
    17.94,
@@ -1664,18 +1676,6 @@
    0,
    0,
    4
-  ],
-  [
-   "Scott Musial",
-   "The Shockers",
-   17.84,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   6
   ],
   [
    "Ryan Cuer",
@@ -1716,14 +1716,14 @@
   [
    "Danny Zysman",
    "The Shockers",
-   17.51,
-   16,
+   17.57,
+   20,
    2,
    2,
    0,
    0,
    0,
-   2
+   3
   ],
   [
    "Whitney Sawyer",
@@ -1942,18 +1942,6 @@
    4
   ],
   [
-   "Chuck Marchbanks",
-   "Wired",
-   15.39,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Michelle Nguyen",
    "Bad News Beers",
    15.39,
@@ -1964,6 +1952,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Chuck Marchbanks",
+   "Wired",
+   15.39,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "John Mitrano",
@@ -1990,11 +1990,11 @@
    2
   ],
   [
-   "Brandon English",
-   "The Shockers",
-   15.02,
-   16,
-   0,
+   "John Seward",
+   "RedEye",
+   14.96,
+   12,
+   1,
    0,
    0,
    0,
@@ -2002,11 +2002,11 @@
    1
   ],
   [
-   "John Seward",
-   "RedEye",
-   14.96,
-   12,
-   1,
+   "Brandon English",
+   "The Shockers",
+   14.89,
+   20,
+   0,
    0,
    0,
    0,
@@ -2973,5 +2973,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-26T23:49:19Z"
+ "updated": "2026-10-27T01:10:28Z"
 }

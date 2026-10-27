@@ -11,8 +11,8 @@
   ],
   [
    "Right There",
-   35,
-   25
+   45,
+   30
   ],
   [
    "The Four Horseman",
@@ -36,8 +36,8 @@
   ],
   [
    "Roasted Shenanigans",
-   18,
-   27
+   23,
+   37
   ],
   [
    "Connor And The Jets",
@@ -64,11 +64,11 @@
   ],
   [
    "Right There",
-   "The Four Horseman",
-   "10/19/2026",
-   4,
-   8,
-   7
+   "Roasted Shenanigans",
+   "10/26/2026",
+   5,
+   10,
+   5
   ],
   [
    "Take It Out",
@@ -96,9 +96,9 @@
   ],
   [
    "Roasted Shenanigans",
-   "RamRod",
-   "10/19/2026",
-   4,
+   "Right There",
+   "10/26/2026",
+   5,
    5,
    10
   ],
@@ -114,42 +114,42 @@
  "improved": {
   "c": [
    [
-    "Brad Virkler",
-    "RamRod",
-    3.0,
-    3.25
+    "Chris Nesci",
+    "Right There",
+    2.43,
+    2.51
    ],
    [
-    "Tom Reeder",
+    "Chris Jones",
     "Right There",
-    1.85,
-    2.09
+    2.28,
+    2.34
    ],
    [
-    "Fred James",
-    "Right There",
-    2.64,
-    2.83
+    "Angie Coville",
+    "Roasted Shenanigans",
+    1.43,
+    1.46
    ]
   ],
   "x": [
    [
-    "Chad Benedict",
-    "Wrong Hole",
-    20.7,
-    21.89
+    "Fred James",
+    "Right There",
+    23.13,
+    24.23
    ],
    [
-    "Joel Diaz",
-    "RamRod",
-    23.09,
-    23.98
+    "Chris Nesci",
+    "Right There",
+    20.58,
+    21.27
    ],
    [
-    "Brad Virkler",
-    "RamRod",
-    25.17,
-    26.02
+    "Angie Coville",
+    "Roasted Shenanigans",
+    13.73,
+    14.14
    ]
   ]
  },
@@ -187,14 +187,14 @@
   [
    "Fred James",
    "Right There",
-   2.83,
-   12,
-   5,
+   2.79,
+   15,
+   7,
    2,
    0,
    0,
-   6,
-   7,
+   8,
+   8,
    2,
    0,
    1
@@ -230,6 +230,21 @@
    0
   ],
   [
+   "Chris Nesci",
+   "Right There",
+   2.51,
+   15,
+   5,
+   5,
+   0,
+   0,
+   6,
+   6,
+   6,
+   0,
+   0
+  ],
+  [
    "Greg Poltorak",
    "Take It Out",
    2.51,
@@ -256,21 +271,6 @@
    10,
    2,
    1,
-   0,
-   0
-  ],
-  [
-   "Chris Nesci",
-   "Right There",
-   2.43,
-   12,
-   3,
-   4,
-   0,
-   0,
-   5,
-   4,
-   3,
    0,
    0
   ],
@@ -315,6 +315,21 @@
    0,
    7,
    2,
+   2,
+   0,
+   0
+  ],
+  [
+   "Chris Jones",
+   "Right There",
+   2.34,
+   15,
+   8,
+   3,
+   1,
+   0,
+   3,
+   6,
    2,
    0,
    0
@@ -365,21 +380,6 @@
    0
   ],
   [
-   "Chris Jones",
-   "Right There",
-   2.28,
-   12,
-   7,
-   2,
-   1,
-   0,
-   2,
-   5,
-   2,
-   0,
-   0
-  ],
-  [
    "Nick Pritchard",
    "The Four Horseman",
    2.27,
@@ -410,21 +410,6 @@
    0
   ],
   [
-   "James Oneal",
-   "Roasted Shenanigans",
-   2.21,
-   3,
-   1,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Todd Palmer",
    "Take It Out",
    2.19,
@@ -435,21 +420,6 @@
    0,
    3,
    3,
-   0,
-   0,
-   0
-  ],
-  [
-   "Brett ONeal",
-   "Roasted Shenanigans",
-   2.18,
-   6,
-   4,
-   1,
-   0,
-   0,
-   3,
-   0,
    0,
    0,
    0
@@ -470,17 +440,17 @@
    0
   ],
   [
-   "Tom Reeder",
-   "Right There",
+   "James Oneal",
+   "Roasted Shenanigans",
    2.09,
-   12,
-   4,
+   6,
+   3,
+   0,
+   0,
+   0,
    2,
-   0,
-   0,
-   5,
    2,
-   0,
+   1,
    0,
    0
   ],
@@ -495,6 +465,21 @@
    0,
    4,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brett ONeal",
+   "Roasted Shenanigans",
+   2.07,
+   9,
+   4,
+   2,
+   1,
+   0,
+   3,
+   2,
    0,
    0,
    0
@@ -575,16 +560,16 @@
    0
   ],
   [
-   "Aaron Lindenberg",
-   "Roasted Shenanigans",
-   1.88,
-   9,
-   1,
+   "Tom Reeder",
+   "Right There",
+   1.9,
+   15,
+   4,
    2,
    0,
    0,
-   1,
-   0,
+   6,
+   2,
    0,
    0,
    0
@@ -600,6 +585,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Aaron Lindenberg",
+   "Roasted Shenanigans",
+   1.83,
+   12,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -697,13 +697,13 @@
   [
    "Angie Coville",
    "Roasted Shenanigans",
-   1.43,
-   9,
+   1.46,
+   12,
+   2,
    1,
    0,
    0,
-   0,
-   2,
+   3,
    0,
    1,
    0,
@@ -769,6 +769,18 @@
    27
   ],
   [
+   "Fred James",
+   "Right There",
+   24.23,
+   20,
+   7,
+   9,
+   0,
+   0,
+   2,
+   28
+  ],
+  [
    "Joel Diaz",
    "RamRod",
    23.98,
@@ -791,18 +803,6 @@
    0,
    0,
    21
-  ],
-  [
-   "Fred James",
-   "Right There",
-   23.13,
-   16,
-   5,
-   7,
-   0,
-   0,
-   1,
-   20
   ],
   [
    "Nick Pritchard",
@@ -865,6 +865,18 @@
    4
   ],
   [
+   "Chris Nesci",
+   "Right There",
+   21.27,
+   20,
+   6,
+   2,
+   0,
+   0,
+   1,
+   20
+  ],
+  [
    "Greg Poltorak",
    "Take It Out",
    21.11,
@@ -875,18 +887,6 @@
    0,
    0,
    26
-  ],
-  [
-   "James Oneal",
-   "Roasted Shenanigans",
-   20.99,
-   4,
-   0,
-   1,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "Johnny Spinks",
@@ -911,18 +911,6 @@
    0,
    0,
    5
-  ],
-  [
-   "Chris Nesci",
-   "Right There",
-   20.58,
-   16,
-   4,
-   1,
-   0,
-   0,
-   1,
-   14
   ],
   [
    "Pat Childs",
@@ -961,16 +949,28 @@
    16
   ],
   [
+   "James Oneal",
+   "Roasted Shenanigans",
+   19.4,
+   8,
+   0,
+   3,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
    "Chris Jones",
    "Right There",
-   19.41,
-   16,
+   19.04,
+   20,
    5,
    1,
    0,
    0,
    0,
-   16
+   18
   ],
   [
    "Brian Faucher",
@@ -1009,18 +1009,6 @@
    17
   ],
   [
-   "Brett ONeal",
-   "Roasted Shenanigans",
-   17.85,
-   8,
-   3,
-   2,
-   0,
-   0,
-   1,
-   4
-  ],
-  [
    "Roger Furmanski",
    "The Four Horseman",
    17.74,
@@ -1031,6 +1019,18 @@
    0,
    1,
    7
+  ],
+  [
+   "Brett ONeal",
+   "Roasted Shenanigans",
+   17.65,
+   12,
+   4,
+   2,
+   0,
+   0,
+   1,
+   6
   ],
   [
    "Matt Kraft",
@@ -1067,18 +1067,6 @@
    0,
    0,
    8
-  ],
-  [
-   "Aaron Lindenberg",
-   "Roasted Shenanigans",
-   16.34,
-   12,
-   3,
-   0,
-   0,
-   0,
-   0,
-   6
   ],
   [
    "Tony Villani",
@@ -1119,14 +1107,26 @@
   [
    "Tom Reeder",
    "Right There",
-   15.69,
+   15.81,
+   20,
+   3,
+   0,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Aaron Lindenberg",
+   "Roasted Shenanigans",
+   15.64,
    16,
-   2,
+   3,
    0,
    0,
    0,
    0,
-   9
+   7
   ],
   [
    "Keith West",
@@ -1155,14 +1155,14 @@
   [
    "Angie Coville",
    "Roasted Shenanigans",
-   13.73,
-   12,
-   1,
+   14.14,
+   16,
+   2,
    0,
    0,
    0,
    0,
-   5
+   8
   ],
   [
    "Samuel Gordinier",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-26T23:49:26Z"
+ "updated": "2026-10-27T01:10:35Z"
 }

@@ -560,6 +560,21 @@
    0
   ],
   [
+   "Jimmy Mietus",
+   "Team Name",
+   1.31,
+   9,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
    "Casey Birch",
    "The Critters",
    1.31,
@@ -586,21 +601,6 @@
    2,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Jimmy Mietus",
-   "Team Name",
-   1.31,
-   9,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
    0,
    0
   ],
@@ -1819,5 +1819,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-26T23:49:37Z"
+ "updated": "2026-10-27T01:10:51Z"
 }
