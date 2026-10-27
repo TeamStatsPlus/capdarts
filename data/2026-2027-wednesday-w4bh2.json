@@ -469,21 +469,6 @@
    0
   ],
   [
-   "Juan Rosado",
-   "Liquor Box",
-   1.96,
-   12,
-   4,
-   3,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Robinson",
    "Dart Vaders",
    1.96,
@@ -509,6 +494,21 @@
    0,
    5,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Juan Rosado",
+   "Liquor Box",
+   1.96,
+   12,
+   4,
+   3,
+   0,
+   0,
+   2,
+   3,
    0,
    0,
    0
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T14:09:53Z"
+ "updated": "2026-10-27T15:07:02Z"
 }
