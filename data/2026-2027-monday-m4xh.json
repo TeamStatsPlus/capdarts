@@ -16,13 +16,8 @@
   ],
   [
    "RamRod",
-   33,
-   27
-  ],
-  [
-   "Wrong Hole",
-   24,
-   21
+   42,
+   33
   ],
   [
    "The Four Horseman",
@@ -30,9 +25,14 @@
    36
   ],
   [
+   "Wrong Hole",
+   30,
+   30
+  ],
+  [
    "Dartbags",
-   27,
-   33
+   36,
+   39
   ],
   [
    "Roasted Shenanigans",
@@ -41,8 +41,8 @@
   ],
   [
    "Connor And The Jets",
-   16,
-   44
+   22,
+   53
   ]
  ],
  "results": [
@@ -55,22 +55,6 @@
    4
   ],
   [
-   "Wrong Hole",
-   "Connor And The Jets",
-   "10/19/2026",
-   4,
-   11,
-   4
-  ],
-  [
-   "RamRod",
-   "Roasted Shenanigans",
-   "10/19/2026",
-   4,
-   10,
-   5
-  ],
-  [
    "Right There",
    "Roasted Shenanigans",
    "10/26/2026",
@@ -80,11 +64,35 @@
   ],
   [
    "Dartbags",
-   "Take It Out",
-   "10/19/2026",
-   4,
-   7,
-   8
+   "Connor And The Jets",
+   "10/26/2026",
+   5,
+   9,
+   6
+  ],
+  [
+   "RamRod",
+   "Wrong Hole",
+   "10/26/2026",
+   5,
+   9,
+   6
+  ],
+  [
+   "Connor And The Jets",
+   "Dartbags",
+   "10/26/2026",
+   5,
+   6,
+   9
+  ],
+  [
+   "Wrong Hole",
+   "RamRod",
+   "10/26/2026",
+   5,
+   6,
+   9
   ],
   [
    "Roasted Shenanigans",
@@ -93,14 +101,6 @@
    5,
    5,
    10
-  ],
-  [
-   "Connor And The Jets",
-   "Wrong Hole",
-   "10/19/2026",
-   4,
-   4,
-   11
   ],
   [
    "The Four Horseman",
@@ -120,19 +120,25 @@
     2.65
    ],
    [
-    "Chris Nesci",
-    "Right There",
-    2.43,
-    2.51
+    "Matt Kraft",
+    "Wrong Hole",
+    1.87,
+    1.99
    ],
    [
-    "Chris Jones",
-    "Right There",
-    2.28,
-    2.34
+    "Tony Villani",
+    "Wrong Hole",
+    2.05,
+    2.16
    ]
   ],
   "x": [
+   [
+    "Blake Stevenson",
+    "RamRod",
+    12.88,
+    14.29
+   ],
    [
     "Ken Nicolay",
     "Take It Out",
@@ -144,12 +150,6 @@
     "Right There",
     23.13,
     24.23
-   ],
-   [
-    "Chris Nesci",
-    "Right There",
-    20.58,
-    21.27
    ]
   ]
  },
@@ -157,28 +157,28 @@
   [
    "Brad Virkler",
    "RamRod",
-   3.25,
-   12,
-   5,
+   3.32,
+   15,
+   7,
    2,
    1,
    0,
-   11,
+   13,
    3,
-   4,
+   9,
    0,
    0
   ],
   [
    "Chad Benedict",
    "Wrong Hole",
-   2.98,
-   9,
+   2.87,
+   12,
    4,
-   2,
-   0,
-   0,
    3,
+   0,
+   0,
+   5,
    3,
    2,
    0,
@@ -262,15 +262,15 @@
   [
    "Sean Clarke",
    "Dartbags",
-   2.48,
-   12,
-   6,
+   2.46,
+   15,
+   8,
    5,
    1,
    0,
-   10,
+   11,
    2,
-   1,
+   2,
    0,
    0
   ],
@@ -305,6 +305,21 @@
    0
   ],
   [
+   "Joel Diaz",
+   "RamRod",
+   2.37,
+   15,
+   5,
+   3,
+   0,
+   0,
+   4,
+   4,
+   2,
+   0,
+   1
+  ],
+  [
    "Chris Jones",
    "Right There",
    2.34,
@@ -318,36 +333,6 @@
    2,
    0,
    0
-  ],
-  [
-   "Sean Grimes",
-   "Wrong Hole",
-   2.32,
-   9,
-   2,
-   2,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Joel Diaz",
-   "RamRod",
-   2.3,
-   12,
-   3,
-   2,
-   0,
-   0,
-   4,
-   4,
-   1,
-   0,
-   1
   ],
   [
    "Johnny Spinks",
@@ -395,21 +380,6 @@
    1
   ],
   [
-   "Todd Palmer",
-   "Take It Out",
-   2.22,
-   15,
-   4,
-   1,
-   0,
-   0,
-   3,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
    "Keith West",
    "Take It Out",
    2.22,
@@ -425,17 +395,47 @@
    0
   ],
   [
-   "Bailey Plummer",
-   "Dartbags",
-   2.16,
-   12,
+   "Todd Palmer",
+   "Take It Out",
+   2.22,
+   15,
+   4,
+   1,
+   0,
+   0,
    3,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Sean Grimes",
+   "Wrong Hole",
+   2.22,
+   12,
+   2,
    3,
    1,
    0,
-   6,
+   5,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tony Villani",
+   "Wrong Hole",
+   2.16,
+   12,
+   3,
    1,
+   0,
+   0,
+   4,
+   3,
+   2,
    0,
    0
   ],
@@ -455,21 +455,6 @@
    0
   ],
   [
-   "Steve Wehry",
-   "RamRod",
-   2.08,
-   9,
-   2,
-   2,
-   1,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Brett ONeal",
    "Roasted Shenanigans",
    2.07,
@@ -481,21 +466,6 @@
    3,
    2,
    0,
-   0,
-   0
-  ],
-  [
-   "Tony Villani",
-   "Wrong Hole",
-   2.05,
-   9,
-   3,
-   1,
-   0,
-   0,
-   2,
-   2,
-   2,
    0,
    0
   ],
@@ -515,6 +485,36 @@
    0
   ],
   [
+   "Bailey Plummer",
+   "Dartbags",
+   2.0,
+   15,
+   4,
+   3,
+   1,
+   0,
+   7,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Matt Kraft",
+   "Wrong Hole",
+   1.99,
+   9,
+   5,
+   1,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Pat Childs",
    "Roasted Shenanigans",
    1.96,
@@ -525,6 +525,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Wehry",
+   "RamRod",
+   1.96,
+   12,
+   3,
+   2,
+   1,
+   0,
+   4,
+   1,
    0,
    0,
    0
@@ -575,21 +590,6 @@
    0
   ],
   [
-   "Matt Kraft",
-   "Wrong Hole",
-   1.87,
-   6,
-   2,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Aaron Lindenberg",
    "Roasted Shenanigans",
    1.83,
@@ -605,45 +605,30 @@
    0
   ],
   [
-   "Connor Starr",
-   "Connor And The Jets",
-   1.78,
-   9,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Anthony Alletto",
    "Dartbags",
-   1.77,
-   12,
+   1.8,
+   15,
+   6,
+   2,
+   0,
+   0,
    5,
    1,
    0,
    0,
+   0
+  ],
+  [
+   "Connor Starr",
+   "Connor And The Jets",
+   1.68,
+   12,
    4,
    1,
    0,
    0,
-   0
-  ],
-  [
-   "Tim Olmsted",
-   "Dartbags",
-   1.67,
-   12,
-   4,
-   0,
-   0,
-   0,
-   2,
+   1,
    1,
    0,
    0,
@@ -652,13 +637,28 @@
   [
    "Samuel Gordinier",
    "Connor And The Jets",
-   1.58,
-   12,
+   1.59,
+   15,
    3,
    2,
    0,
    0,
    1,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "John Wiemer",
+   "Connor And The Jets",
+   1.56,
+   15,
+   3,
+   1,
+   1,
+   0,
+   4,
    1,
    0,
    0,
@@ -680,15 +680,30 @@
    0
   ],
   [
-   "John Wiemer",
-   "Connor And The Jets",
-   1.52,
-   12,
-   1,
-   1,
-   1,
+   "Tim Olmsted",
+   "Dartbags",
+   1.53,
+   15,
+   4,
+   2,
+   0,
    0,
    3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Blake Stevenson",
+   "RamRod",
+   1.47,
+   12,
+   5,
+   2,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -710,30 +725,15 @@
    0
   ],
   [
-   "Blake Stevenson",
-   "RamRod",
-   1.42,
-   9,
-   5,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Harrison",
    "Connor And The Jets",
-   1.35,
-   12,
-   2,
+   1.37,
+   15,
+   3,
    2,
    0,
    0,
-   1,
+   2,
    1,
    0,
    0,
@@ -759,14 +759,14 @@
   [
    "Brad Virkler",
    "RamRod",
-   26.02,
-   16,
-   6,
-   9,
+   26.99,
+   20,
+   7,
+   11,
    0,
    0,
    1,
-   27
+   37
   ],
   [
    "Fred James",
@@ -783,14 +783,14 @@
   [
    "Joel Diaz",
    "RamRod",
-   23.98,
-   16,
-   4,
+   24.05,
+   20,
+   6,
    8,
    0,
    0,
-   0,
-   17
+   1,
+   28
   ],
   [
    "Scott Prince",
@@ -805,6 +805,18 @@
    26
   ],
   [
+   "Chad Benedict",
+   "Wrong Hole",
+   22.56,
+   16,
+   2,
+   0,
+   0,
+   0,
+   4,
+   23
+  ],
+  [
    "Nick Pritchard",
    "The Four Horseman",
    22.53,
@@ -817,18 +829,6 @@
    24
   ],
   [
-   "Chad Benedict",
-   "Wrong Hole",
-   21.89,
-   12,
-   2,
-   0,
-   0,
-   0,
-   3,
-   16
-  ],
-  [
    "Todd Hanley",
    "Take It Out",
    21.74,
@@ -839,18 +839,6 @@
    0,
    0,
    5
-  ],
-  [
-   "Sean Clarke",
-   "Dartbags",
-   21.61,
-   16,
-   6,
-   4,
-   0,
-   0,
-   0,
-   16
   ],
   [
    "Greg Poltorak",
@@ -875,6 +863,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Sean Clarke",
+   "Dartbags",
+   21.45,
+   20,
+   6,
+   5,
+   0,
+   0,
+   0,
+   21
   ],
   [
    "Chris Nesci",
@@ -913,6 +913,18 @@
    5
   ],
   [
+   "Sean Grimes",
+   "Wrong Hole",
+   20.55,
+   16,
+   5,
+   0,
+   0,
+   0,
+   1,
+   18
+  ],
+  [
    "Pat Childs",
    "Roasted Shenanigans",
    20.49,
@@ -935,18 +947,6 @@
    0,
    2,
    8
-  ],
-  [
-   "Sean Grimes",
-   "Wrong Hole",
-   19.85,
-   12,
-   4,
-   0,
-   0,
-   0,
-   1,
-   16
   ],
   [
    "James Oneal",
@@ -997,6 +997,18 @@
    19
   ],
   [
+   "Steve Wehry",
+   "RamRod",
+   18.0,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
    "Ken Nicolay",
    "Take It Out",
    18.0,
@@ -1007,18 +1019,6 @@
    0,
    1,
    12
-  ],
-  [
-   "Steve Wehry",
-   "RamRod",
-   17.92,
-   12,
-   3,
-   1,
-   0,
-   0,
-   0,
-   8
   ],
   [
    "Roger Furmanski",
@@ -1033,18 +1033,6 @@
    9
   ],
   [
-   "Matt Kraft",
-   "Wrong Hole",
-   17.65,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Brett ONeal",
    "Roasted Shenanigans",
    17.65,
@@ -1057,52 +1045,52 @@
    6
   ],
   [
-   "Connor Starr",
-   "Connor And The Jets",
-   16.66,
+   "Matt Kraft",
+   "Wrong Hole",
+   17.33,
    12,
-   2,
-   1,
+   3,
    0,
    0,
    0,
-   8
+   0,
+   7
   ],
   [
    "Tony Villani",
    "Wrong Hole",
-   16.24,
-   12,
+   17.31,
+   16,
    4,
    0,
    0,
    0,
    0,
-   8
+   12
   ],
   [
-   "Tim Olmsted",
-   "Dartbags",
-   15.9,
+   "Connor Starr",
+   "Connor And The Jets",
+   16.46,
    16,
+   3,
    1,
-   1,
    0,
    0,
    0,
-   6
+   11
   ],
   [
    "Bailey Plummer",
    "Dartbags",
-   15.89,
-   16,
-   2,
+   16.41,
+   20,
+   6,
+   1,
    0,
    0,
    0,
-   0,
-   4
+   7
   ],
   [
    "Tom Reeder",
@@ -1141,16 +1129,40 @@
    7
   ],
   [
+   "Tim Olmsted",
+   "Dartbags",
+   15.43,
+   20,
+   2,
+   1,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
    "Anthony Alletto",
    "Dartbags",
-   14.97,
+   15.15,
+   20,
+   0,
+   0,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Blake Stevenson",
+   "RamRod",
+   14.29,
    16,
+   3,
+   0,
+   1,
    0,
    0,
-   0,
-   0,
-   0,
-   9
+   5
   ],
   [
    "Angie Coville",
@@ -1167,50 +1179,38 @@
   [
    "Samuel Gordinier",
    "Connor And The Jets",
-   13.34,
-   16,
+   13.96,
+   20,
    3,
-   1,
+   2,
    0,
    0,
    0,
    7
   ],
   [
-   "Blake Stevenson",
-   "RamRod",
-   12.88,
-   12,
-   2,
-   0,
-   1,
-   0,
-   0,
-   2
-  ],
-  [
    "John Wiemer",
    "Connor And The Jets",
-   12.67,
-   16,
+   13.02,
+   20,
    1,
    0,
    0,
    0,
    0,
-   5
+   6
   ],
   [
    "Mike Harrison",
    "Connor And The Jets",
-   12.42,
-   16,
-   1,
+   12.84,
+   20,
+   2,
    0,
    0,
    0,
    0,
-   4
+   6
   ],
   [
    "Sarah McKnight",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T01:58:35Z"
+ "updated": "2026-10-27T02:54:24Z"
 }

@@ -6,8 +6,8 @@
  "standings": [
   [
    "Who Darted",
-   28,
-   11
+   37,
+   15
   ],
   [
    "Dark Sharts",
@@ -35,14 +35,14 @@
    35
   ],
   [
-   "Bulleye Bandits",
-   24,
-   28
-  ],
-  [
    "Double Trouble",
    30,
    35
+  ],
+  [
+   "Bulleye Bandits",
+   28,
+   37
   ],
   [
    "Couples Terapy",
@@ -58,11 +58,11 @@
  "results": [
   [
    "Who Darted",
-   "636ers",
-   "10/19/2026",
-   4,
-   10,
-   3
+   "Bulleye Bandits",
+   "10/26/2026",
+   5,
+   9,
+   4
   ],
   [
    "636ers",
@@ -85,14 +85,6 @@
    "Dark Sharts",
    "10/26/2026",
    5,
-   7,
-   6
-  ],
-  [
-   "Bulleye Bandits",
-   "Ballsagna",
-   "10/19/2026",
-   4,
    7,
    6
   ],
@@ -129,6 +121,14 @@
    8
   ],
   [
+   "Bulleye Bandits",
+   "Who Darted",
+   "10/26/2026",
+   5,
+   4,
+   9
+  ],
+  [
    "No Bulls",
    "636ers",
    "10/26/2026",
@@ -152,10 +152,10 @@
     1.1
    ],
    [
-    "Nick Gatti",
-    "Your In Treble",
-    1.7,
-    1.75
+    "Benjamin Gill",
+    "Who Darted",
+    1.65,
+    1.71
    ]
   ],
   "x": [
@@ -243,14 +243,14 @@
   [
    "Pat Cocchiara",
    "Bulleye Bandits",
-   1.85,
-   24,
-   7,
+   1.81,
+   30,
+   9,
    2,
    1,
    0,
+   6,
    4,
-   3,
    1,
    0,
    0
@@ -303,15 +303,15 @@
   [
    "Benjamin Gill",
    "Who Darted",
-   1.65,
-   18,
-   10,
-   3,
+   1.71,
+   24,
+   13,
+   4,
    0,
    0,
-   5,
+   6,
+   2,
    1,
-   0,
    0,
    0
   ],
@@ -348,13 +348,13 @@
   [
    "Kendra Loya",
    "Who Darted",
-   1.48,
-   18,
-   3,
-   10,
+   1.49,
+   24,
+   4,
+   13,
    0,
    0,
-   2,
+   4,
    4,
    2,
    0,
@@ -406,21 +406,6 @@
    0
   ],
   [
-   "Steve Gallwey",
-   "636ers",
-   1.37,
-   30,
-   5,
-   8,
-   0,
-   0,
-   5,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Ed Rowland",
    "Double Trouble",
    1.37,
@@ -431,6 +416,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Gallwey",
+   "636ers",
+   1.37,
+   30,
+   5,
+   8,
+   0,
+   0,
+   5,
+   2,
    0,
    0,
    0
@@ -466,21 +466,6 @@
    0
   ],
   [
-   "Melissa Cocchiara",
-   "Bulleye Bandits",
-   1.27,
-   24,
-   2,
-   7,
-   0,
-   0,
-   5,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Kristen Hall",
    "Girls Wanna Have Fun",
    1.25,
@@ -507,6 +492,21 @@
    2,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Melissa Cocchiara",
+   "Bulleye Bandits",
+   1.19,
+   30,
+   2,
+   9,
+   0,
+   0,
+   6,
+   2,
+   0,
    0,
    0
   ],
@@ -593,14 +593,14 @@
   [
    "Pat Cocchiara",
    "Bulleye Bandits",
-   17.88,
-   28,
+   17.78,
+   35,
    10,
    1,
    0,
    0,
    0,
-   16
+   19
   ],
   [
    "Nick Gatti",
@@ -617,14 +617,14 @@
   [
    "Benjamin Gill",
    "Who Darted",
-   17.42,
-   21,
-   7,
+   17.01,
+   28,
+   9,
    2,
    0,
    0,
    0,
-   13
+   14
   ],
   [
    "Brian Zicari",
@@ -701,14 +701,14 @@
   [
    "Kendra Loya",
    "Who Darted",
-   15.77,
-   21,
-   7,
+   15.91,
+   28,
+   10,
    0,
    0,
    0,
    0,
-   14
+   18
   ],
   [
    "Jessica Zimmerman",
@@ -785,9 +785,9 @@
   [
    "Melissa Cocchiara",
    "Bulleye Bandits",
-   13.78,
-   28,
-   5,
+   13.46,
+   35,
+   7,
    0,
    0,
    0,
@@ -1569,5 +1569,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-10-27T01:58:23Z"
+ "updated": "2026-10-27T02:54:09Z"
 }

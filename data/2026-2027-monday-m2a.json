@@ -46,13 +46,13 @@
   ],
   [
    "IGY6",
-   10,
-   24
+   19,
+   32
   ],
   [
    "Dirty Kids MFWs",
-   11,
-   40
+   19,
+   49
   ],
   [
    "Respectdabull",
@@ -102,6 +102,22 @@
    8
   ],
   [
+   "IGY6",
+   "Dirty Kids MFWs",
+   "10/26/2026",
+   5,
+   9,
+   8
+  ],
+  [
+   "Dirty Kids MFWs",
+   "IGY6",
+   "10/26/2026",
+   5,
+   8,
+   9
+  ],
+  [
    "Off In Church",
    "Dirty Draws",
    "10/19/2026",
@@ -124,22 +140,6 @@
    4,
    7,
    10
-  ],
-  [
-   "IGY6",
-   "Dave And Rich",
-   "10/19/2026",
-   4,
-   4,
-   13
-  ],
-  [
-   "Dirty Kids MFWs",
-   "Straight 2 The Point",
-   "10/19/2026",
-   4,
-   3,
-   14
   ],
   [
    "Respectdabull",
@@ -165,10 +165,10 @@
     3.14
    ],
    [
-    "Dave Wallace",
-    "Dave And Rich",
-    2.94,
-    2.99
+    "Jay Pierce",
+    "IGY6",
+    2.66,
+    2.72
    ]
   ],
   "x": [
@@ -434,21 +434,6 @@
    0
   ],
   [
-   "Alex Hoestermann",
-   "Dirty Kids MFWs",
-   2.9,
-   24,
-   4,
-   1,
-   4,
-   1,
-   13,
-   5,
-   5,
-   0,
-   0
-  ],
-  [
    "Dashay Earlsey",
    "Water Off",
    2.87,
@@ -464,49 +449,64 @@
    1
   ],
   [
-   "Archie Donaldson",
-   "IGY6",
-   2.81,
-   16,
-   4,
-   3,
-   0,
-   0,
+   "Alex Hoestermann",
+   "Dirty Kids MFWs",
+   2.86,
+   32,
    8,
-   5,
-   2,
    1,
-   1
+   4,
+   1,
+   18,
+   5,
+   6,
+   0,
+   0
   ],
   [
-   "Amy DeBruyne",
-   "Dirty Kids MFWs",
-   2.67,
+   "Archie Donaldson",
+   "IGY6",
+   2.82,
    24,
-   1,
-   3,
-   1,
-   0,
-   12,
+   7,
    5,
-   4,
+   1,
    0,
+   11,
+   8,
+   5,
+   1,
    1
   ],
   [
    "Jay Pierce",
    "IGY6",
-   2.66,
-   16,
-   3,
+   2.72,
+   24,
+   5,
+   4,
    2,
-   1,
    0,
-   9,
-   3,
-   3,
+   14,
+   5,
+   4,
    0,
    0
+  ],
+  [
+   "Amy DeBruyne",
+   "Dirty Kids MFWs",
+   2.64,
+   32,
+   2,
+   5,
+   1,
+   0,
+   17,
+   8,
+   4,
+   0,
+   1
   ],
   [
    "William Lupiani",
@@ -654,14 +654,14 @@
   [
    "Alex Hoestermann",
    "Dirty Kids MFWs",
-   26.72,
-   21,
-   3,
-   7,
+   26.42,
+   28,
+   6,
+   12,
    0,
    1,
-   1,
-   32
+   2,
+   42
   ],
   [
    "Dave Wallace",
@@ -736,18 +736,6 @@
    29
   ],
   [
-   "Archie Donaldson",
-   "IGY6",
-   24.19,
-   14,
-   2,
-   2,
-   0,
-   0,
-   1,
-   21
-  ],
-  [
    "Tashawn Rucker",
    "Straight 2 The Point",
    23.85,
@@ -758,6 +746,18 @@
    0,
    0,
    46
+  ],
+  [
+   "Archie Donaldson",
+   "IGY6",
+   23.75,
+   21,
+   4,
+   3,
+   0,
+   0,
+   2,
+   34
   ],
   [
    "Dashay Earlsey",
@@ -808,28 +808,16 @@
    29
   ],
   [
-   "Amy DeBruyne",
-   "Dirty Kids MFWs",
-   21.2,
-   21,
-   3,
-   2,
-   0,
-   0,
-   1,
-   26
-  ],
-  [
    "Jay Pierce",
    "IGY6",
-   21.1,
-   14,
-   1,
-   5,
+   20.83,
+   21,
+   3,
+   7,
    0,
    0,
    0,
-   12
+   20
   ],
   [
    "Austin Prince",
@@ -842,6 +830,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Amy DeBruyne",
+   "Dirty Kids MFWs",
+   20.03,
+   28,
+   3,
+   3,
+   0,
+   0,
+   1,
+   31
   ]
  ],
  "teams": [
@@ -1570,5 +1570,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-27T01:58:19Z"
+ "updated": "2026-10-27T02:54:05Z"
 }
