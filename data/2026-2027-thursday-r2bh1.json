@@ -140,16 +140,16 @@
  "improved": {
   "c": [
    [
-    "Paul Guadagna",
-    "Tipped Out",
-    1.52,
-    1.63
-   ],
-   [
     "Brian Pintagro",
     "Dave N Buster",
     1.68,
     1.79
+   ],
+   [
+    "Paul Guadagna",
+    "Tipped Out",
+    1.52,
+    1.63
    ],
    [
     "Dan Mousseau Jr",
@@ -654,18 +654,6 @@
    10
   ],
   [
-   "Andrew Casciani",
-   "Not These Guys Again",
-   15.93,
-   14,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Brian Palermo",
    "B And D",
    15.93,
@@ -676,6 +664,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   15.93,
+   14,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Bill Lutomski",
@@ -1473,5 +1473,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-27T21:54:56Z"
+ "updated": "2026-10-27T22:54:46Z"
 }
