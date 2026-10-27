@@ -15,19 +15,24 @@
    23
   ],
   [
-   "No Bulls",
-   31,
-   21
-  ],
-  [
    "Ballsagna",
    28,
    24
   ],
   [
+   "No Bulls",
+   35,
+   30
+  ],
+  [
    "Your In Treble",
    35,
    30
+  ],
+  [
+   "636ers",
+   30,
+   35
   ],
   [
    "Bulleye Bandits",
@@ -41,18 +46,13 @@
   ],
   [
    "Couples Terapy",
-   23,
-   29
-  ],
-  [
-   "636ers",
-   21,
-   31
+   28,
+   37
   ],
   [
    "Girls Wanna Have Fun",
-   11,
-   41
+   19,
+   46
   ]
  ],
  "results": [
@@ -65,12 +65,20 @@
    3
   ],
   [
+   "636ers",
    "No Bulls",
+   "10/26/2026",
+   5,
+   9,
+   4
+  ],
+  [
    "Girls Wanna Have Fun",
-   "10/19/2026",
-   4,
-   10,
-   3
+   "Couples Terapy",
+   "10/26/2026",
+   5,
+   8,
+   5
   ],
   [
    "Ballsagna",
@@ -97,14 +105,6 @@
    6
   ],
   [
-   "Couples Terapy",
-   "Your In Treble",
-   "10/19/2026",
-   4,
-   6,
-   7
-  ],
-  [
    "Dark Sharts",
    "Ballsagna",
    "10/26/2026",
@@ -121,20 +121,20 @@
    7
   ],
   [
-   "636ers",
-   "Who Darted",
-   "10/19/2026",
-   4,
-   3,
-   10
+   "Couples Terapy",
+   "Girls Wanna Have Fun",
+   "10/26/2026",
+   5,
+   5,
+   8
   ],
   [
-   "Girls Wanna Have Fun",
    "No Bulls",
-   "10/19/2026",
+   "636ers",
+   "10/26/2026",
+   5,
    4,
-   3,
-   10
+   9
   ]
  ],
  "improved": {
@@ -172,10 +172,10 @@
     21.05
    ],
    [
-    "Alyssa Rank",
-    "Dark Sharts",
-    17.56,
-    17.92
+    "Chris Wagner",
+    "636ers",
+    16.34,
+    16.82
    ]
   ]
  },
@@ -196,21 +196,6 @@
    0
   ],
   [
-   "Chris Wagner",
-   "636ers",
-   2.08,
-   12,
-   4,
-   2,
-   0,
-   0,
-   5,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Zach Gooding",
    "Ballsagna",
    2.02,
@@ -226,6 +211,21 @@
    0
   ],
   [
+   "Chris Wagner",
+   "636ers",
+   1.99,
+   18,
+   7,
+   3,
+   0,
+   0,
+   7,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Jimmy Mietus",
    "Double Trouble",
    1.88,
@@ -235,21 +235,6 @@
    0,
    0,
    10,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
-   "Brian Zicari",
-   "No Bulls",
-   1.87,
-   24,
-   8,
-   9,
-   0,
-   0,
-   12,
    4,
    1,
    0,
@@ -286,6 +271,21 @@
    0
   ],
   [
+   "Brian Zicari",
+   "No Bulls",
+   1.79,
+   30,
+   8,
+   11,
+   0,
+   0,
+   13,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
    "Nick Gatti",
    "Your In Treble",
    1.75,
@@ -299,21 +299,6 @@
    2,
    0,
    1
-  ],
-  [
-   "Jordyn Sullivan",
-   "Girls Wanna Have Fun",
-   1.68,
-   12,
-   1,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2,
-   1,
-   0
   ],
   [
    "Benjamin Gill",
@@ -331,15 +316,30 @@
    0
   ],
   [
+   "Jordyn Sullivan",
+   "Girls Wanna Have Fun",
+   1.64,
+   18,
+   2,
+   5,
+   0,
+   0,
+   0,
+   2,
+   2,
+   1,
+   0
+  ],
+  [
    "Carrie Shaw",
    "Couples Terapy",
-   1.55,
-   24,
-   10,
-   3,
+   1.54,
+   30,
+   11,
+   5,
    1,
    0,
-   4,
+   5,
    2,
    0,
    0,
@@ -406,6 +406,21 @@
    0
   ],
   [
+   "Steve Gallwey",
+   "636ers",
+   1.37,
+   30,
+   5,
+   8,
+   0,
+   0,
+   5,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
    "Ed Rowland",
    "Double Trouble",
    1.37,
@@ -421,26 +436,11 @@
    0
   ],
   [
-   "Steve Gallwey",
-   "636ers",
-   1.35,
-   24,
-   4,
-   5,
-   0,
-   0,
-   5,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Ted Temple",
    "No Bulls",
-   1.31,
-   24,
-   9,
+   1.34,
+   30,
+   11,
    8,
    0,
    0,
@@ -483,29 +483,14 @@
   [
    "Kristen Hall",
    "Girls Wanna Have Fun",
-   1.23,
-   24,
-   4,
-   1,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Paul Humennyj",
-   "Couples Terapy",
-   1.21,
-   24,
-   3,
-   10,
-   0,
-   0,
-   3,
+   1.25,
+   30,
+   6,
    2,
+   0,
+   0,
+   4,
+   1,
    0,
    0,
    0
@@ -522,6 +507,21 @@
    2,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Paul Humennyj",
+   "Couples Terapy",
+   1.17,
+   30,
+   5,
+   11,
+   0,
+   0,
+   4,
+   3,
+   0,
    0,
    0
   ],
@@ -569,14 +569,14 @@
   [
    "Jordyn Sullivan",
    "Girls Wanna Have Fun",
-   17.96,
-   14,
-   2,
+   18.07,
+   21,
+   5,
    0,
    0,
    0,
    0,
-   5
+   12
   ],
   [
    "Alyssa Rank",
@@ -629,14 +629,14 @@
   [
    "Brian Zicari",
    "No Bulls",
-   17.35,
-   28,
+   16.97,
+   35,
    8,
    3,
    0,
    0,
    0,
-   6
+   8
   ],
   [
    "Jimmy Mietus",
@@ -649,6 +649,18 @@
    0,
    0,
    13
+  ],
+  [
+   "Chris Wagner",
+   "636ers",
+   16.82,
+   21,
+   8,
+   1,
+   0,
+   0,
+   0,
+   10
   ],
   [
    "Shawn Thurley",
@@ -675,28 +687,16 @@
    2
   ],
   [
-   "Chris Wagner",
-   "636ers",
-   16.34,
-   14,
-   4,
-   0,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Ted Temple",
    "No Bulls",
-   15.79,
-   28,
-   6,
+   16.17,
+   35,
+   8,
    0,
    0,
    0,
-   0,
-   6
+   1,
+   7
   ],
   [
    "Kendra Loya",
@@ -735,18 +735,6 @@
    5
   ],
   [
-   "Carrie Shaw",
-   "Couples Terapy",
-   14.89,
-   28,
-   5,
-   1,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
    "Todd Cornell",
    "Ballsagna",
    14.86,
@@ -759,16 +747,28 @@
    3
   ],
   [
+   "Carrie Shaw",
+   "Couples Terapy",
+   14.61,
+   35,
+   7,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
    "Steve Gallwey",
    "636ers",
-   14.61,
-   28,
-   2,
+   14.59,
+   35,
+   3,
    0,
    0,
    0,
    0,
-   3
+   4
   ],
   [
    "Lou Sanchez",
@@ -809,26 +809,26 @@
   [
    "Kristen Hall",
    "Girls Wanna Have Fun",
-   13.02,
-   28,
-   4,
+   13.05,
+   35,
+   6,
    0,
    0,
    0,
    0,
-   4
+   6
   ],
   [
    "Paul Humennyj",
    "Couples Terapy",
-   12.35,
-   28,
+   12.44,
+   35,
    5,
    0,
    0,
    0,
    0,
-   3
+   4
   ]
  ],
  "teams": [
@@ -1569,5 +1569,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-10-27T01:10:18Z"
+ "updated": "2026-10-27T01:58:23Z"
 }

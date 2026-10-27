@@ -11,8 +11,8 @@
   ],
   [
    "Dave And Rich",
-   24,
-   10
+   40,
+   11
   ],
   [
    "Dirty Draws",
@@ -56,11 +56,19 @@
   ],
   [
    "Respectdabull",
-   14,
-   54
+   15,
+   70
   ]
  ],
  "results": [
+  [
+   "Dave And Rich",
+   "Respectdabull",
+   "10/26/2026",
+   5,
+   16,
+   1
+  ],
   [
    "RCE",
    "Respectdabull",
@@ -68,14 +76,6 @@
    4,
    14,
    3
-  ],
-  [
-   "Dave And Rich",
-   "IGY6",
-   "10/19/2026",
-   4,
-   13,
-   4
   ],
   [
    "The Regulators",
@@ -143,15 +143,21 @@
   ],
   [
    "Respectdabull",
-   "RCE",
-   "10/19/2026",
-   4,
-   3,
-   14
+   "Dave And Rich",
+   "10/26/2026",
+   5,
+   1,
+   16
   ]
  ],
  "improved": {
   "c": [
+   [
+    "Rich Allen",
+    "Dave And Rich",
+    2.99,
+    3.09
+   ],
    [
     "Tashawn Rucker",
     "Straight 2 The Point",
@@ -159,10 +165,10 @@
     3.14
    ],
    [
-    "Cory Kent",
-    "Gingers Unite",
-    3.18,
-    3.19
+    "Dave Wallace",
+    "Dave And Rich",
+    2.94,
+    2.99
    ]
   ],
   "x": [
@@ -177,6 +183,12 @@
     "Gingers Unite",
     23.5,
     24.37
+   ],
+   [
+    "Anthony Nesci",
+    "Respectdabull",
+    21.5,
+    21.75
    ]
   ]
  },
@@ -347,19 +359,19 @@
    1
   ],
   [
-   "Aaron Garrett",
-   "Respectdabull",
+   "Rich Allen",
+   "Dave And Rich",
    3.09,
-   16,
+   24,
+   9,
+   8,
    4,
-   2,
    0,
+   16,
+   5,
+   6,
    0,
-   11,
-   7,
-   7,
-   0,
-   0
+   3
   ],
   [
    "Joe Gillett",
@@ -377,19 +389,19 @@
    1
   ],
   [
-   "Rich Allen",
+   "Dave Wallace",
    "Dave And Rich",
    2.99,
-   16,
+   24,
+   13,
+   5,
    4,
-   5,
-   3,
    0,
-   12,
-   5,
-   3,
+   21,
+   10,
+   6,
    0,
-   2
+   0
   ],
   [
    "Cory Humphries",
@@ -407,17 +419,17 @@
    2
   ],
   [
-   "Dave Wallace",
-   "Dave And Rich",
-   2.94,
-   16,
-   8,
+   "Aaron Garrett",
+   "Respectdabull",
+   2.91,
+   24,
+   4,
    2,
-   3,
+   1,
    0,
-   16,
-   5,
-   5,
+   14,
+   9,
+   9,
    0,
    0
   ],
@@ -514,17 +526,17 @@
   [
    "Anthony Nesci",
    "Respectdabull",
-   2.41,
-   24,
+   2.43,
+   32,
    3,
    3,
    1,
    0,
    9,
-   6,
+   8,
    4,
    0,
-   0
+   1
   ],
   [
    "Austin Prince",
@@ -616,30 +628,6 @@
    52
   ],
   [
-   "Dave Wallace",
-   "Dave And Rich",
-   27.4,
-   14,
-   8,
-   4,
-   0,
-   2,
-   2,
-   30
-  ],
-  [
-   "Rich Allen",
-   "Dave And Rich",
-   26.96,
-   14,
-   4,
-   6,
-   0,
-   0,
-   0,
-   26
-  ],
-  [
    "Matt Herne",
    "Respectdabull",
    26.84,
@@ -652,6 +640,18 @@
    24
   ],
   [
+   "Rich Allen",
+   "Dave And Rich",
+   26.75,
+   21,
+   9,
+   12,
+   0,
+   0,
+   0,
+   34
+  ],
+  [
    "Alex Hoestermann",
    "Dirty Kids MFWs",
    26.72,
@@ -662,6 +662,18 @@
    1,
    1,
    32
+  ],
+  [
+   "Dave Wallace",
+   "Dave And Rich",
+   26.16,
+   21,
+   9,
+   5,
+   0,
+   2,
+   2,
+   45
   ],
   [
    "Cory Humphries",
@@ -748,18 +760,6 @@
    46
   ],
   [
-   "Aaron Garrett",
-   "Respectdabull",
-   23.04,
-   14,
-   1,
-   4,
-   0,
-   0,
-   0,
-   20
-  ],
-  [
    "Dashay Earlsey",
    "Water Off",
    23.02,
@@ -784,16 +784,28 @@
    31
   ],
   [
+   "Aaron Garrett",
+   "Respectdabull",
+   22.25,
+   21,
+   2,
+   6,
+   0,
+   0,
+   0,
+   29
+  ],
+  [
    "Anthony Nesci",
    "Respectdabull",
-   21.5,
-   21,
+   21.75,
+   28,
    0,
-   4,
+   6,
    0,
    0,
    0,
-   19
+   29
   ],
   [
    "Amy DeBruyne",
@@ -1558,5 +1570,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-27T01:10:13Z"
+ "updated": "2026-10-27T01:58:19Z"
 }

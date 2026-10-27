@@ -6,18 +6,13 @@
  "standings": [
   [
    "Take It Out",
-   37,
-   23
+   48,
+   27
   ],
   [
    "Right There",
    45,
    30
-  ],
-  [
-   "The Four Horseman",
-   35,
-   25
   ],
   [
    "RamRod",
@@ -28,6 +23,11 @@
    "Wrong Hole",
    24,
    21
+  ],
+  [
+   "The Four Horseman",
+   39,
+   36
   ],
   [
    "Dartbags",
@@ -46,6 +46,14 @@
   ]
  ],
  "results": [
+  [
+   "Take It Out",
+   "The Four Horseman",
+   "10/26/2026",
+   5,
+   11,
+   4
+  ],
   [
    "Wrong Hole",
    "Connor And The Jets",
@@ -71,24 +79,8 @@
    5
   ],
   [
-   "Take It Out",
-   "Dartbags",
-   "10/19/2026",
-   4,
-   8,
-   7
-  ],
-  [
    "Dartbags",
    "Take It Out",
-   "10/19/2026",
-   4,
-   7,
-   8
-  ],
-  [
-   "The Four Horseman",
-   "Right There",
    "10/19/2026",
    4,
    7,
@@ -109,10 +101,24 @@
    4,
    4,
    11
+  ],
+  [
+   "The Four Horseman",
+   "Take It Out",
+   "10/26/2026",
+   5,
+   4,
+   11
   ]
  ],
  "improved": {
   "c": [
+   [
+    "Ken Nicolay",
+    "Take It Out",
+    2.53,
+    2.65
+   ],
    [
     "Chris Nesci",
     "Right There",
@@ -124,15 +130,15 @@
     "Right There",
     2.28,
     2.34
-   ],
-   [
-    "Angie Coville",
-    "Roasted Shenanigans",
-    1.43,
-    1.46
    ]
   ],
   "x": [
+   [
+    "Ken Nicolay",
+    "Take It Out",
+    16.84,
+    18.0
+   ],
    [
     "Fred James",
     "Right There",
@@ -144,12 +150,6 @@
     "Right There",
     20.58,
     21.27
-   ],
-   [
-    "Angie Coville",
-    "Roasted Shenanigans",
-    13.73,
-    14.14
    ]
   ]
  },
@@ -217,15 +217,30 @@
   [
    "Ken Nicolay",
    "Take It Out",
-   2.53,
-   6,
+   2.65,
+   9,
+   5,
    4,
-   2,
    0,
    0,
-   3,
+   8,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Greg Poltorak",
+   "Take It Out",
+   2.57,
+   15,
+   4,
+   4,
+   1,
+   0,
+   5,
+   4,
+   2,
    0,
    0
   ],
@@ -245,21 +260,6 @@
    0
   ],
   [
-   "Greg Poltorak",
-   "Take It Out",
-   2.51,
-   12,
-   3,
-   4,
-   1,
-   0,
-   4,
-   2,
-   2,
-   0,
-   0
-  ],
-  [
    "Sean Clarke",
    "Dartbags",
    2.48,
@@ -275,15 +275,15 @@
    0
   ],
   [
-   "Johnny Spinks",
+   "Roger Furmanski",
    "The Four Horseman",
-   2.39,
-   12,
-   2,
-   4,
+   2.44,
+   15,
+   8,
    0,
+   1,
    0,
-   3,
+   9,
    3,
    2,
    0,
@@ -301,21 +301,6 @@
    3,
    1,
    0,
-   0,
-   0
-  ],
-  [
-   "Roger Furmanski",
-   "The Four Horseman",
-   2.38,
-   12,
-   7,
-   0,
-   1,
-   0,
-   7,
-   2,
-   2,
    0,
    0
   ],
@@ -365,16 +350,31 @@
    1
   ],
   [
+   "Johnny Spinks",
+   "The Four Horseman",
+   2.29,
+   15,
+   2,
+   5,
+   0,
+   0,
+   5,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
    "Scott Prince",
    "The Four Horseman",
-   2.3,
-   12,
+   2.28,
+   15,
    1,
-   4,
+   5,
    1,
    0,
    7,
-   2,
+   3,
    0,
    0,
    0
@@ -383,43 +383,43 @@
    "Nick Pritchard",
    "The Four Horseman",
    2.27,
-   12,
-   6,
+   15,
+   8,
    1,
    1,
    0,
    3,
-   1,
+   2,
    4,
+   0,
+   1
+  ],
+  [
+   "Todd Palmer",
+   "Take It Out",
+   2.22,
+   15,
+   4,
+   1,
+   0,
+   0,
+   3,
+   4,
+   1,
    0,
    0
   ],
   [
    "Keith West",
    "Take It Out",
-   2.26,
-   9,
-   4,
+   2.22,
+   12,
+   6,
    2,
    0,
    0,
-   3,
+   5,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Todd Palmer",
-   "Take It Out",
-   2.19,
-   12,
-   3,
-   1,
-   0,
-   0,
-   3,
-   3,
    0,
    0,
    0
@@ -795,26 +795,26 @@
   [
    "Scott Prince",
    "The Four Horseman",
-   23.79,
-   16,
-   6,
+   23.5,
+   20,
+   7,
    2,
    0,
    0,
    0,
-   21
+   26
   ],
   [
    "Nick Pritchard",
    "The Four Horseman",
-   22.55,
-   16,
+   22.53,
+   20,
    5,
-   1,
+   2,
    0,
    0,
    0,
-   19
+   24
   ],
   [
    "Chad Benedict",
@@ -853,6 +853,18 @@
    16
   ],
   [
+   "Greg Poltorak",
+   "Take It Out",
+   21.61,
+   20,
+   5,
+   2,
+   0,
+   0,
+   0,
+   34
+  ],
+  [
    "Mike Murphy",
    "Wrong Hole",
    21.58,
@@ -877,28 +889,16 @@
    20
   ],
   [
-   "Greg Poltorak",
-   "Take It Out",
-   21.11,
-   16,
-   2,
-   2,
-   0,
-   0,
-   0,
-   26
-  ],
-  [
    "Johnny Spinks",
    "The Four Horseman",
-   20.97,
-   16,
+   20.91,
+   20,
    4,
    1,
    0,
    0,
-   0,
-   16
+   1,
+   17
   ],
   [
    "Jamie Johnson",
@@ -985,6 +985,30 @@
    3
   ],
   [
+   "Todd Palmer",
+   "Take It Out",
+   18.13,
+   20,
+   5,
+   1,
+   0,
+   1,
+   1,
+   19
+  ],
+  [
+   "Ken Nicolay",
+   "Take It Out",
+   18.0,
+   12,
+   3,
+   0,
+   0,
+   0,
+   1,
+   12
+  ],
+  [
    "Steve Wehry",
    "RamRod",
    17.92,
@@ -997,40 +1021,16 @@
    8
   ],
   [
-   "Todd Palmer",
-   "Take It Out",
-   17.88,
-   16,
-   5,
-   1,
-   0,
-   1,
-   1,
-   17
-  ],
-  [
    "Roger Furmanski",
    "The Four Horseman",
-   17.74,
-   16,
+   17.87,
+   20,
    4,
    1,
    0,
    0,
    1,
-   7
-  ],
-  [
-   "Brett ONeal",
-   "Roasted Shenanigans",
-   17.65,
-   12,
-   4,
-   2,
-   0,
-   0,
-   1,
-   6
+   9
   ],
   [
    "Matt Kraft",
@@ -1045,16 +1045,16 @@
    7
   ],
   [
-   "Ken Nicolay",
-   "Take It Out",
-   16.84,
-   8,
+   "Brett ONeal",
+   "Roasted Shenanigans",
+   17.65,
+   12,
+   4,
+   2,
+   0,
+   0,
    1,
-   0,
-   0,
-   0,
-   1,
-   8
+   6
   ],
   [
    "Connor Starr",
@@ -1117,6 +1117,18 @@
    10
   ],
   [
+   "Keith West",
+   "Take It Out",
+   15.73,
+   16,
+   6,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
    "Aaron Lindenberg",
    "Roasted Shenanigans",
    15.64,
@@ -1127,18 +1139,6 @@
    0,
    0,
    7
-  ],
-  [
-   "Keith West",
-   "Take It Out",
-   15.1,
-   12,
-   5,
-   0,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "Anthony Alletto",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T01:10:35Z"
+ "updated": "2026-10-27T01:58:35Z"
 }

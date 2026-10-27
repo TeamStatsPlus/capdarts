@@ -769,21 +769,6 @@
    0
   ],
   [
-   "Rick Nelson",
-   "Toasted Darts",
-   1.65,
-   12,
-   2,
-   4,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Hale",
    "Id Hit That",
    1.65,
@@ -793,6 +778,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rick Nelson",
+   "Toasted Darts",
+   1.65,
+   12,
+   2,
+   4,
+   0,
+   0,
+   3,
    0,
    0,
    0,
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T01:11:21Z"
+ "updated": "2026-10-27T01:59:16Z"
 }
