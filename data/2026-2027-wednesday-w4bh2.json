@@ -214,21 +214,6 @@
    0
   ],
   [
-   "Mike Infantino",
-   "Wrong Hole",
-   2.43,
-   12,
-   2,
-   1,
-   0,
-   0,
-   8,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Zaccary Maguire",
    "Team Stinky",
    2.43,
@@ -242,6 +227,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Mike Infantino",
+   "Wrong Hole",
+   2.43,
+   12,
+   2,
+   1,
+   0,
+   0,
+   8,
+   1,
+   2,
+   0,
+   0
   ],
   [
    "Jay Jaz",
@@ -484,21 +484,6 @@
    0
   ],
   [
-   "Dave Robinson",
-   "Dart Vaders",
-   1.96,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Zach Gooding",
    "Toasted Darts",
    1.96,
@@ -509,6 +494,21 @@
    0,
    5,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Robinson",
+   "Dart Vaders",
+   1.96,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-27T23:50:25Z"
+ "updated": "2026-10-28T01:23:59Z"
 }

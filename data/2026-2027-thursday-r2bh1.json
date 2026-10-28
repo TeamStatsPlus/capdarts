@@ -10,19 +10,19 @@
    14
   ],
   [
-   "Not These Guys Again",
-   16,
-   10
-  ],
-  [
    "2 Guys 1 Bull",
    22,
    17
   ],
   [
+   "Not These Guys Again",
+   22,
+   17
+  ],
+  [
    "Top Shottas",
-   20,
-   19
+   27,
+   25
   ],
   [
    "Tipped Out",
@@ -81,6 +81,14 @@
    6
   ],
   [
+   "Top Shottas",
+   "Not These Guys Again",
+   "10/27/2026",
+   4,
+   7,
+   6
+  ],
+  [
    "Italian Stallions",
    "Split Decision",
    "10/15/2026",
@@ -105,18 +113,10 @@
    7
   ],
   [
-   "Top Shottas",
-   "B And D",
-   "10/15/2026",
-   3,
-   6,
-   7
-  ],
-  [
    "Not These Guys Again",
-   "B And D",
-   "10/08/2026",
-   2,
+   "Top Shottas",
+   "10/27/2026",
+   4,
    6,
    7
   ],
@@ -140,6 +140,12 @@
  "improved": {
   "c": [
    [
+    "Bill Lutomski",
+    "Top Shottas",
+    1.36,
+    1.47
+   ],
+   [
     "Paul Guadagna",
     "Tipped Out",
     1.52,
@@ -150,12 +156,6 @@
     "Dave N Buster",
     1.68,
     1.79
-   ],
-   [
-    "Dan Mousseau Jr",
-    "B And D",
-    2.49,
-    2.53
    ]
   ],
   "x": [
@@ -166,16 +166,16 @@
     19.06
    ],
    [
+    "Andrew Casciani",
+    "Not These Guys Again",
+    15.93,
+    16.72
+   ],
+   [
     "Dave DeCarlo",
     "Dave N Buster",
     17.08,
     17.63
-   ],
-   [
-    "Jon Green",
-    "Split Decision",
-    17.6,
-    18.12
    ]
   ]
  },
@@ -226,36 +226,6 @@
    0
   ],
   [
-   "Andrew Casciani",
-   "Not These Guys Again",
-   2.24,
-   12,
-   3,
-   4,
-   0,
-   0,
-   4,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
-   "David Benwell",
-   "Top Shottas",
-   2.12,
-   18,
-   7,
-   2,
-   1,
-   0,
-   8,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Dan Carroll",
    "Not These Guys Again",
    2.08,
@@ -267,6 +237,36 @@
    1,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   2.04,
+   18,
+   4,
+   5,
+   0,
+   0,
+   5,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "David Benwell",
+   "Top Shottas",
+   2.04,
+   24,
+   10,
+   3,
+   1,
+   0,
+   9,
+   3,
+   1,
    0,
    0
   ],
@@ -312,6 +312,21 @@
    4,
    4,
    0,
+   0,
+   0
+  ],
+  [
+   "Peter Patall",
+   "Not These Guys Again",
+   1.88,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0
   ],
@@ -391,6 +406,21 @@
    0
   ],
   [
+   "Bill Lutomski",
+   "Top Shottas",
+   1.47,
+   24,
+   3,
+   10,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Trenton Harvey",
    "BYE INCOMPLETE",
    1.47,
@@ -430,21 +460,6 @@
    0,
    0,
    1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
-   "Bill Lutomski",
-   "Top Shottas",
-   1.36,
-   18,
-   2,
-   7,
-   0,
-   0,
-   2,
    1,
    1,
    0,
@@ -512,14 +527,14 @@
   [
    "David Benwell",
    "Top Shottas",
-   22.47,
-   21,
-   6,
+   21.79,
+   28,
+   9,
    1,
    0,
    0,
    0,
-   22
+   31
   ],
   [
    "Jack Ruppert",
@@ -642,6 +657,18 @@
    8
   ],
   [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   16.72,
+   21,
+   7,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
    "Paul Guadagna",
    "Tipped Out",
    15.94,
@@ -652,18 +679,6 @@
    0,
    0,
    10
-  ],
-  [
-   "Andrew Casciani",
-   "Not These Guys Again",
-   15.93,
-   14,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "Brian Palermo",
@@ -680,14 +695,26 @@
   [
    "Bill Lutomski",
    "Top Shottas",
-   15.59,
-   21,
+   15.62,
+   28,
    4,
    1,
    1,
    0,
    0,
-   5
+   7
+  ],
+  [
+   "Peter Patall",
+   "Not These Guys Again",
+   15.12,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Holden Sandlar",
@@ -1473,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-27T23:50:40Z"
+ "updated": "2026-10-28T01:24:19Z"
 }
