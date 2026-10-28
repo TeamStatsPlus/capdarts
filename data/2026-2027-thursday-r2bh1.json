@@ -140,12 +140,6 @@
  "improved": {
   "c": [
    [
-    "Paul Guadagna",
-    "Tipped Out",
-    1.52,
-    1.63
-   ],
-   [
     "Brian Pintagro",
     "Dave N Buster",
     1.68,
@@ -156,6 +150,12 @@
     "Top Shottas",
     1.36,
     1.47
+   ],
+   [
+    "Paul Guadagna",
+    "Tipped Out",
+    1.52,
+    1.63
    ]
   ],
   "x": [
@@ -1500,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-28T21:01:01Z"
+ "updated": "2026-10-28T21:24:08Z"
 }
