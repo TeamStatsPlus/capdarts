@@ -224,16 +224,16 @@
     3.33
    ],
    [
-    "Jill Calvert",
-    "Squeaky Wheel",
-    1.0,
-    1.15
-   ],
-   [
     "John Andolsek",
     "Pusc Paninis",
     3.39,
     3.54
+   ],
+   [
+    "Jill Calvert",
+    "Squeaky Wheel",
+    1.0,
+    1.15
    ]
   ],
   "x": [
@@ -2067,5 +2067,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-28T11:02:30Z"
+ "updated": "2026-10-28T12:00:22Z"
 }

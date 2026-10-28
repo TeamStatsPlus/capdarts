@@ -485,21 +485,6 @@
    0
   ],
   [
-   "Chris Philbin",
-   "Dirty O Boys",
-   1.75,
-   15,
-   3,
-   4,
-   0,
-   0,
-   4,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Brendan Sheerwood",
    "Dirty O Boys",
    1.75,
@@ -511,6 +496,21 @@
    8,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Chris Philbin",
+   "Dirty O Boys",
+   1.75,
+   15,
+   3,
+   4,
+   0,
+   0,
+   4,
+   3,
+   1,
    0,
    0
   ],
@@ -605,21 +605,6 @@
    0
   ],
   [
-   "Ashley Samuelson",
-   "Bad News Beers",
-   1.62,
-   15,
-   2,
-   3,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrew Bochetto",
    "Sloppy Darts",
    1.62,
@@ -630,6 +615,21 @@
    0,
    5,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ashley Samuelson",
+   "Bad News Beers",
+   1.62,
+   15,
+   2,
+   3,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -1921,5 +1921,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-28T11:02:34Z"
+ "updated": "2026-10-28T12:00:26Z"
 }

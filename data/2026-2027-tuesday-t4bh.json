@@ -590,21 +590,6 @@
    0
   ],
   [
-   "Kevin Rowland",
-   "Team Name",
-   1.33,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Sue Fuhry",
    "4 Of Clubs",
    1.33,
@@ -620,12 +605,12 @@
    0
   ],
   [
-   "Fiona Nelson",
-   "The Critters",
-   1.32,
+   "Kevin Rowland",
+   "Team Name",
+   1.33,
    3,
    1,
-   0,
+   1,
    0,
    0,
    0,
@@ -644,6 +629,21 @@
    0,
    0,
    2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Fiona Nelson",
+   "The Critters",
+   1.32,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -970,18 +970,6 @@
    9
   ],
   [
-   "Brad Wight",
-   "Thunderbuddies",
-   17.2,
-   20,
-   8,
-   2,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Jimmy Mietus",
    "Team Name",
    17.2,
@@ -992,6 +980,18 @@
    0,
    0,
    10
+  ],
+  [
+   "Brad Wight",
+   "Thunderbuddies",
+   17.2,
+   20,
+   8,
+   2,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "John Clark",
@@ -1927,5 +1927,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-28T11:02:38Z"
+ "updated": "2026-10-28T12:00:31Z"
 }

@@ -372,12 +372,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   15,
-   8,
-   3,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   15,
+   8,
+   3,
    1,
    0,
    3,
@@ -537,21 +537,6 @@
    0
   ],
   [
-   "Mike Bisig",
-   "Trippin On Trips",
-   1.93,
-   12,
-   5,
-   6,
-   0,
-   0,
-   6,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Barry Barklund",
    "Dartbags",
    1.93,
@@ -563,6 +548,21 @@
    3,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Mike Bisig",
+   "Trippin On Trips",
+   1.93,
+   12,
+   5,
+   6,
+   0,
+   0,
+   6,
+   0,
+   1,
    0,
    0
   ],
@@ -642,21 +642,6 @@
    0
   ],
   [
-   "Scott Stipulski",
-   "Chicks And Dicks",
-   1.78,
-   15,
-   2,
-   2,
-   0,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Pat Turco",
    "Trippin On Trips",
    1.78,
@@ -669,6 +654,21 @@
    0,
    1,
    1,
+   0
+  ],
+  [
+   "Scott Stipulski",
+   "Chicks And Dicks",
+   1.78,
+   15,
+   2,
+   2,
+   0,
+   0,
+   5,
+   1,
+   1,
+   0,
    0
   ],
   [
@@ -702,21 +702,6 @@
    1
   ],
   [
-   "Dan Spencer",
-   "Peppers And Onions",
-   1.75,
-   12,
-   2,
-   1,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Jim Oneill",
    "Points And Pints",
    1.75,
@@ -742,6 +727,21 @@
    0,
    0,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dan Spencer",
+   "Peppers And Onions",
+   1.75,
+   12,
+   2,
+   1,
+   0,
+   0,
+   3,
+   2,
    1,
    0,
    0
@@ -777,21 +777,6 @@
    0
   ],
   [
-   "Eric Smith",
-   "Show Your Tips",
-   1.68,
-   12,
-   3,
-   1,
-   0,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Rialdi",
    "Show Your Tips",
    1.68,
@@ -817,6 +802,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Eric Smith",
+   "Show Your Tips",
+   1.68,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   3,
    0,
    0,
    0
@@ -2655,5 +2655,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-28T11:02:42Z"
+ "updated": "2026-10-28T12:00:35Z"
 }

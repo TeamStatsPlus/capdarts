@@ -140,16 +140,16 @@
  "improved": {
   "c": [
    [
-    "Brian Pintagro",
-    "Dave N Buster",
-    1.68,
-    1.79
-   ],
-   [
     "Bill Lutomski",
     "Top Shottas",
     1.36,
     1.47
+   ],
+   [
+    "Brian Pintagro",
+    "Dave N Buster",
+    1.68,
+    1.79
    ],
    [
     "Paul Guadagna",
@@ -241,21 +241,6 @@
    0
   ],
   [
-   "Andrew Casciani",
-   "Not These Guys Again",
-   2.04,
-   18,
-   4,
-   5,
-   0,
-   0,
-   5,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "David Benwell",
    "Top Shottas",
    2.04,
@@ -267,6 +252,21 @@
    9,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   2.04,
+   18,
+   4,
+   5,
+   0,
+   0,
+   5,
+   1,
+   2,
    0,
    0
   ],
@@ -406,21 +406,6 @@
    0
   ],
   [
-   "Bill Lutomski",
-   "Top Shottas",
-   1.47,
-   24,
-   3,
-   10,
-   0,
-   0,
-   2,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Trenton Harvey",
    "BYE INCOMPLETE",
    1.47,
@@ -432,6 +417,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Bill Lutomski",
+   "Top Shottas",
+   1.47,
+   24,
+   3,
+   10,
+   0,
+   0,
+   2,
+   1,
+   1,
    0,
    0
   ],
@@ -1500,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-28T11:03:21Z"
+ "updated": "2026-10-28T12:01:18Z"
 }
