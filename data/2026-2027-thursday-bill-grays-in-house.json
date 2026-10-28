@@ -146,10 +146,10 @@
     18.0
    ],
    [
-    "Caleb Lee",
-    "Just The Tip",
-    15.41,
-    16.14
+    "Rick Falvo",
+    "Sweet Pickles",
+    14.25,
+    14.98
    ]
   ]
  },
@@ -365,21 +365,6 @@
    0
   ],
   [
-   "Rich Ciaccio",
-   "Nuch And Rich",
-   1.37,
-   8,
-   3,
-   0,
-   0,
-   0,
-   2,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Alex Stathopoulos",
    "Alex And Lawlor",
    1.37,
@@ -391,6 +376,21 @@
    3,
    3,
    0,
+   0,
+   0
+  ],
+  [
+   "Rich Ciaccio",
+   "Nuch And Rich",
+   1.37,
+   8,
+   3,
+   0,
+   0,
+   0,
+   2,
+   1,
+   1,
    0,
    0
   ],
@@ -813,7 +813,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-28T18:01:40Z",
+ "updated": "2026-10-28T19:00:33Z",
  "teams": [
   {
    "name": "Alex And Lawlor",

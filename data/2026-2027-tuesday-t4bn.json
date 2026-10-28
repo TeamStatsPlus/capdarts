@@ -687,21 +687,6 @@
    0
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.77,
-   15,
-   4,
-   4,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dale Pickens",
    "Points And Pints",
    1.77,
@@ -715,6 +700,21 @@
    2,
    0,
    1
+  ],
+  [
+   "Brian Leach",
+   "Truckin Bulls",
+   1.77,
+   15,
+   4,
+   4,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
   ],
   [
    "Jim Oneill",
@@ -837,21 +837,6 @@
    0
   ],
   [
-   "Chris Laloggia",
-   "Fat Bastards",
-   1.62,
-   15,
-   3,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Bradburn",
    "Truckin Bulls",
    1.62,
@@ -863,6 +848,21 @@
    3,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Chris Laloggia",
+   "Fat Bastards",
+   1.62,
+   15,
+   3,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-28T18:01:08Z"
+ "updated": "2026-10-28T19:00:00Z"
 }
