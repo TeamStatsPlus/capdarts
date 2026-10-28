@@ -5,6 +5,11 @@
  },
  "standings": [
   [
+   "Highmark Hitters",
+   47,
+   13
+  ],
+  [
    "Pusc Paninis",
    56,
    19
@@ -15,19 +20,19 @@
    20
   ],
   [
-   "Highmark Hitters",
-   33,
-   12
-  ],
-  [
    "Better Together",
    44,
    16
   ],
   [
    "Right There",
-   41,
-   19
+   47,
+   28
+  ],
+  [
+   "Ya Know What I Mean",
+   42,
+   33
   ],
   [
    "Sprinkles On Top",
@@ -41,23 +46,18 @@
   ],
   [
    "Big And Little",
-   30,
-   30
+   39,
+   36
   ],
   [
-   "Ya Know What I Mean",
-   29,
-   31
+   "BetR WallaceMaloney",
+   36,
+   39
   ],
   [
    "One Hole Away",
    34,
    41
-  ],
-  [
-   "BetR WallaceMaloney",
-   26,
-   34
   ],
   [
    "Drunken Squids",
@@ -66,8 +66,8 @@
   ],
   [
    "Pointless",
-   21,
-   39
+   26,
+   49
   ],
   [
    "Dartaholicz",
@@ -76,16 +76,32 @@
   ],
   [
    "And Then There Was 2",
-   8,
-   37
+   10,
+   50
   ],
   [
    "Squeaky Wheel",
-   1,
-   44
+   2,
+   58
   ]
  ],
  "results": [
+  [
+   "Highmark Hitters",
+   "Squeaky Wheel",
+   "10/27/2026",
+   5,
+   14,
+   1
+  ],
+  [
+   "Ya Know What I Mean",
+   "And Then There Was 2",
+   "10/27/2026",
+   5,
+   13,
+   2
+  ],
   [
    "Better Together",
    "Dartaholicz",
@@ -103,20 +119,28 @@
    5
   ],
   [
-   "Highmark Hitters",
-   "BetR WallaceMaloney",
-   "10/20/2026",
-   4,
-   10,
-   5
-  ],
-  [
    "Pusc Paninis",
    "Wags To Richs",
    "10/27/2026",
    5,
    10,
    5
+  ],
+  [
+   "BetR WallaceMaloney",
+   "Pointless",
+   "10/27/2026",
+   5,
+   10,
+   5
+  ],
+  [
+   "Big And Little",
+   "Right There",
+   "10/27/2026",
+   5,
+   9,
+   6
   ],
   [
    "One Hole Away",
@@ -127,14 +151,6 @@
    6
   ],
   [
-   "Right There",
-   "Wags To Richs",
-   "10/20/2026",
-   4,
-   8,
-   7
-  ],
-  [
    "Drunken Squids",
    "One Hole Away",
    "10/27/2026",
@@ -143,26 +159,18 @@
    9
   ],
   [
-   "Ya Know What I Mean",
-   "One Hole Away",
-   "10/20/2026",
-   4,
+   "Right There",
+   "Big And Little",
+   "10/27/2026",
+   5,
    6,
    9
   ],
   [
-   "Big And Little",
-   "Sprinkles On Top",
-   "10/20/2026",
-   4,
-   5,
-   10
-  ],
-  [
+   "Pointless",
    "BetR WallaceMaloney",
-   "Highmark Hitters",
-   "10/20/2026",
-   4,
+   "10/27/2026",
+   5,
    5,
    10
   ],
@@ -192,31 +200,29 @@
   ],
   [
    "And Then There Was 2",
-   "Pusc Paninis",
-   "10/20/2026",
-   4,
+   "Ya Know What I Mean",
+   "10/27/2026",
+   5,
    2,
    13
   ],
   [
-   "Pointless",
-   "Better Together",
-   "10/20/2026",
-   4,
+   "Squeaky Wheel",
+   "Highmark Hitters",
+   "10/27/2026",
+   5,
    1,
    14
-  ],
-  [
-   "Squeaky Wheel",
-   "Turtle Time",
-   "10/20/2026",
-   4,
-   0,
-   15
   ]
  ],
  "improved": {
   "c": [
+   [
+    "Tashawn Rucker",
+    "Big And Little",
+    3.15,
+    3.33
+   ],
    [
     "John Andolsek",
     "Pusc Paninis",
@@ -224,16 +230,10 @@
     3.54
    ],
    [
-    "Chris Diaz",
-    "Better Together",
-    3.59,
-    3.69
-   ],
-   [
-    "Chris Maloney",
-    "Turtle Time",
-    3.26,
-    3.35
+    "Jill Calvert",
+    "Squeaky Wheel",
+    1.0,
+    1.15
    ]
   ],
   "x": [
@@ -304,32 +304,32 @@
    2
   ],
   [
-   "Dave Wallace",
-   "BetR WallaceMaloney",
-   3.18,
+   "Tashawn Rucker",
+   "Big And Little",
+   3.33,
    24,
-   16,
-   1,
-   3,
-   1,
-   13,
-   9,
    10,
+   1,
+   4,
+   1,
+   25,
+   9,
+   12,
    0,
    1
   ],
   [
-   "Tashawn Rucker",
-   "Big And Little",
+   "Dave Wallace",
+   "BetR WallaceMaloney",
    3.15,
-   18,
-   7,
-   0,
+   30,
+   19,
    3,
-   0,
-   15,
-   5,
-   7,
+   3,
+   1,
+   19,
+   10,
+   12,
    0,
    1
   ],
@@ -381,45 +381,45 @@
   [
    "Dan Freese",
    "Right There",
-   2.88,
-   24,
-   11,
-   4,
+   2.95,
+   30,
+   13,
+   5,
+   2,
    1,
-   1,
+   17,
    11,
-   6,
-   4,
+   7,
    0,
-   0
+   1
   ],
   [
    "Justin Burdett",
    "Highmark Hitters",
-   2.68,
-   18,
-   11,
-   3,
+   2.76,
+   24,
+   16,
+   4,
    0,
    0,
-   12,
-   5,
-   5,
+   14,
+   7,
+   7,
    0,
    0
   ],
   [
    "Jamie Labbate",
    "Ya Know What I Mean",
-   2.62,
-   24,
-   8,
-   3,
+   2.56,
+   30,
+   13,
+   4,
    3,
    0,
-   15,
-   8,
-   2,
+   19,
+   11,
+   3,
    0,
    0
   ],
@@ -499,16 +499,31 @@
    0
   ],
   [
+   "Kara Santelli",
+   "BetR WallaceMaloney",
+   2.14,
+   6,
+   4,
+   2,
+   0,
+   0,
+   1,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Ashley Gault",
    "Right There",
-   2.04,
-   24,
-   10,
+   2.05,
+   30,
+   11,
    5,
    0,
    0,
-   9,
-   3,
+   11,
+   7,
    2,
    0,
    0
@@ -559,21 +574,6 @@
    0
   ],
   [
-   "Brian Zicari",
-   "Pointless",
-   1.89,
-   24,
-   7,
-   2,
-   1,
-   0,
-   5,
-   4,
-   1,
-   1,
-   0
-  ],
-  [
    "Mark Dalberth",
    "And Then There Was 2",
    1.88,
@@ -585,6 +585,36 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Brian Zicari",
+   "Pointless",
+   1.84,
+   30,
+   8,
+   2,
+   2,
+   0,
+   5,
+   4,
+   1,
+   1,
+   0
+  ],
+  [
+   "SYLVAN",
+   "{Substitutes}",
+   1.83,
+   12,
+   1,
+   0,
+   0,
+   0,
+   2,
+   1,
+   0,
    0,
    0
   ],
@@ -637,27 +667,27 @@
    "Grace Maracle",
    "Big And Little",
    1.79,
-   18,
+   24,
+   2,
+   6,
    0,
-   4,
    0,
-   0,
+   5,
+   2,
    3,
-   2,
-   2,
    0,
    0
   ],
   [
    "Sue Dalton",
    "Ya Know What I Mean",
-   1.71,
-   24,
-   6,
-   5,
-   0,
-   0,
+   1.7,
+   30,
    7,
+   8,
+   1,
+   0,
+   11,
    1,
    1,
    0,
@@ -666,14 +696,14 @@
   [
    "Alyssa Ham",
    "Highmark Hitters",
-   1.57,
-   18,
-   6,
-   6,
+   1.54,
+   24,
+   8,
+   9,
    0,
    0,
    4,
-   4,
+   5,
    0,
    0,
    0
@@ -682,13 +712,13 @@
    "Katrina ReedMullen",
    "Pointless",
    1.53,
-   24,
+   30,
    4,
    4,
    0,
    0,
-   8,
-   1,
+   9,
+   3,
    0,
    0,
    0
@@ -741,14 +771,14 @@
   [
    "Julie DiGrazia",
    "And Then There Was 2",
-   1.39,
-   18,
-   2,
+   1.41,
+   24,
+   3,
    2,
    0,
    0,
    0,
-   2,
+   4,
    0,
    0,
    0
@@ -771,9 +801,9 @@
   [
    "Jill Calvert",
    "Squeaky Wheel",
-   1.0,
-   12,
-   0,
+   1.15,
+   18,
+   1,
    0,
    0,
    0,
@@ -798,18 +828,6 @@
    76
   ],
   [
-   "Tashawn Rucker",
-   "Big And Little",
-   29.23,
-   21,
-   7,
-   18,
-   0,
-   0,
-   1,
-   49
-  ],
-  [
    "Chris Diaz",
    "Better Together",
    29.04,
@@ -820,6 +838,18 @@
    0,
    1,
    55
+  ],
+  [
+   "Tashawn Rucker",
+   "Big And Little",
+   28.95,
+   28,
+   11,
+   26,
+   0,
+   0,
+   1,
+   64
   ],
   [
    "Rich Allen",
@@ -860,38 +890,38 @@
   [
    "Dan Freese",
    "Right There",
-   24.96,
-   28,
-   16,
-   11,
-   0,
-   0,
-   1,
-   55
-  ],
-  [
-   "Dave Wallace",
-   "BetR WallaceMaloney",
    24.46,
-   28,
-   7,
-   11,
+   35,
+   18,
+   15,
    0,
    0,
    1,
-   62
+   68
   ],
   [
    "Justin Burdett",
    "Highmark Hitters",
-   24.31,
-   21,
-   11,
-   9,
+   24.32,
+   28,
+   17,
+   14,
    0,
    0,
    0,
-   47
+   64
+  ],
+  [
+   "Dave Wallace",
+   "BetR WallaceMaloney",
+   24.28,
+   35,
+   10,
+   15,
+   0,
+   0,
+   2,
+   76
   ],
   [
    "Tom Ralston",
@@ -920,14 +950,14 @@
   [
    "Jamie Labbate",
    "Ya Know What I Mean",
-   21.57,
-   28,
-   12,
-   11,
+   21.53,
+   35,
+   19,
+   16,
    0,
    0,
    0,
-   47
+   57
   ],
   [
    "Melissa Wallace",
@@ -1016,14 +1046,14 @@
   [
    "Ashley Gault",
    "Right There",
-   17.01,
-   28,
+   16.93,
+   35,
+   5,
    4,
-   3,
    0,
    0,
    0,
-   20
+   24
   ],
   [
    "Mark Dalberth",
@@ -1036,6 +1066,18 @@
    0,
    0,
    12
+  ],
+  [
+   "SYLVAN",
+   "{Substitutes}",
+   16.31,
+   14,
+   0,
+   1,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "Kelli Nash",
@@ -1052,38 +1094,50 @@
   [
    "Brian Zicari",
    "Pointless",
-   16.1,
-   28,
+   15.77,
+   35,
+   4,
+   2,
+   0,
+   0,
+   0,
+   26
+  ],
+  [
+   "Sue Dalton",
+   "Ya Know What I Mean",
+   15.74,
+   35,
    3,
-   1,
+   4,
    0,
    0,
    0,
    23
   ],
   [
-   "Sue Dalton",
-   "Ya Know What I Mean",
-   16.04,
-   28,
-   3,
-   4,
-   0,
-   0,
-   0,
-   20
-  ],
-  [
    "Katrina ReedMullen",
    "Pointless",
-   14.87,
-   28,
+   15.29,
+   35,
+   10,
+   2,
+   0,
+   0,
+   1,
+   23
+  ],
+  [
+   "Kara Santelli",
+   "BetR WallaceMaloney",
+   14.95,
    7,
-   1,
    0,
    0,
-   1,
-   20
+   0,
+   0,
+   0,
+   3
   ],
   [
    "James Shell",
@@ -1110,23 +1164,23 @@
    15
   ],
   [
-   "Julie DiGrazia",
-   "And Then There Was 2",
-   14.28,
-   21,
-   0,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Grace Maracle",
    "Big And Little",
-   13.77,
-   21,
+   13.84,
+   28,
    1,
+   1,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Julie DiGrazia",
+   "And Then There Was 2",
+   13.34,
+   28,
+   0,
    0,
    0,
    0,
@@ -1146,18 +1200,6 @@
    2
   ],
   [
-   "Alyssa Ham",
-   "Highmark Hitters",
-   13.3,
-   21,
-   3,
-   0,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Jametta Boston",
    "Dartaholicz",
    13.27,
@@ -1170,16 +1212,16 @@
    14
   ],
   [
-   "Jill Calvert",
-   "Squeaky Wheel",
-   12.85,
-   14,
+   "Alyssa Ham",
+   "Highmark Hitters",
+   13.23,
+   28,
+   4,
    0,
    0,
    0,
    0,
-   0,
-   1
+   9
   ],
   [
    "Shaunna Maloney",
@@ -1192,6 +1234,18 @@
    0,
    0,
    10
+  ],
+  [
+   "Jill Calvert",
+   "Squeaky Wheel",
+   12.58,
+   21,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Luke Barry",
@@ -2013,5 +2067,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-28T01:23:15Z"
+ "updated": "2026-10-28T03:02:20Z"
 }
