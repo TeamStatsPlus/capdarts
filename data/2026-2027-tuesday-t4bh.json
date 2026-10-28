@@ -620,21 +620,6 @@
    0
   ],
   [
-   "Debbie Olyer",
-   "Gettin Looped",
-   1.32,
-   15,
-   3,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Fiona Nelson",
    "The Critters",
    1.32,
@@ -644,6 +629,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Debbie Olyer",
+   "Gettin Looped",
+   1.32,
+   15,
+   3,
+   2,
+   0,
+   0,
+   2,
    0,
    0,
    0,
@@ -985,18 +985,6 @@
    9
   ],
   [
-   "Jimmy Mietus",
-   "Team Name",
-   17.2,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   10
-  ],
-  [
    "Brad Wight",
    "Thunderbuddies",
    17.2,
@@ -1007,6 +995,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Jimmy Mietus",
+   "Team Name",
+   17.2,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   10
   ],
   [
    "Andy D The Critters",
@@ -1954,5 +1954,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-28T18:59:56Z"
+ "updated": "2026-10-28T20:01:24Z"
 }

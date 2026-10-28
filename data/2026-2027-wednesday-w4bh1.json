@@ -387,21 +387,6 @@
    0
   ],
   [
-   "Brian Cassidy",
-   "Emerald Society",
-   1.7,
-   6,
-   1,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Adam Fowles",
    "Tips Dont Lie",
    1.7,
@@ -428,6 +413,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Brian Cassidy",
+   "Emerald Society",
+   1.7,
+   6,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -1379,18 +1379,6 @@
    0
   ],
   [
-   "Justine Moore",
-   "ProjectileDysfncion",
-   15.55,
-   16,
-   5,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Geoff Milunich",
    "Tips Dont Lie",
    15.55,
@@ -1401,6 +1389,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Justine Moore",
+   "ProjectileDysfncion",
+   15.55,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Stephen Popowych",
@@ -1523,18 +1523,6 @@
    0
   ],
   [
-   "Matt Goldman",
-   "Double Deuces",
-   14.4,
-   8,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Jason Post",
    "Struggle Bus",
    14.4,
@@ -1545,6 +1533,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Matt Goldman",
+   "Double Deuces",
+   14.4,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Collin Owczarzak",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-28T19:00:19Z"
+ "updated": "2026-10-28T20:01:47Z"
 }
