@@ -372,12 +372,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   15,
+   8,
+   3,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   15,
-   8,
-   3,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -672,21 +672,6 @@
    0
   ],
   [
-   "Dale Pickens",
-   "Points And Pints",
-   1.77,
-   15,
-   3,
-   4,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
-   1
-  ],
-  [
    "Brian Leach",
    "Truckin Bulls",
    1.77,
@@ -700,6 +685,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Dale Pickens",
+   "Points And Pints",
+   1.77,
+   15,
+   3,
+   4,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1
   ],
   [
    "Jim Oneill",
@@ -777,6 +777,21 @@
    0
   ],
   [
+   "Jamie Rialdi",
+   "Show Your Tips",
+   1.68,
+   12,
+   0,
+   4,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Chris New Wave",
    "New Wave",
    1.68,
@@ -803,21 +818,6 @@
    0,
    3,
    0,
-   0,
-   0
-  ],
-  [
-   "Jamie Rialdi",
-   "Show Your Tips",
-   1.68,
-   12,
-   0,
-   4,
-   0,
-   0,
-   4,
-   1,
-   1,
    0,
    0
   ],
@@ -2655,5 +2655,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-28T03:02:31Z"
+ "updated": "2026-10-28T04:04:11Z"
 }
