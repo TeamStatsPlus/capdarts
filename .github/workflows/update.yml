@@ -37,10 +37,10 @@ jobs:
         run: |
           git config user.name "league-bot"
           git config user.email "league-bot@users.noreply.github.com"
-          git add catalog.json data
+          git add catalog.json players.json data
           git diff --cached --quiet || (git commit -m "Update league data" && git push)
       - name: Build site folder
-        run: mkdir site && cp -r index.html catalog.json data manifest.webmanifest sw.js icon-192.png icon-512.png apple-touch-icon.png site/
+        run: mkdir site && cp -r index.html catalog.json players.json data manifest.webmanifest sw.js icon-192.png icon-512.png apple-touch-icon.png site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
