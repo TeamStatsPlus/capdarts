@@ -214,21 +214,6 @@
    0
   ],
   [
-   "Mike Infantino",
-   "Wrong Hole",
-   2.43,
-   12,
-   2,
-   1,
-   0,
-   0,
-   8,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Zaccary Maguire",
    "Team Stinky",
    2.43,
@@ -242,6 +227,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Mike Infantino",
+   "Wrong Hole",
+   2.43,
+   12,
+   2,
+   1,
+   0,
+   0,
+   8,
+   1,
+   2,
+   0,
+   0
   ],
   [
    "Jay Jaz",
@@ -469,16 +469,16 @@
    0
   ],
   [
-   "Juan Rosado",
-   "Liquor Box",
+   "Dave Robinson",
+   "Dart Vaders",
    1.96,
-   12,
-   4,
    3,
+   1,
+   1,
    0,
    0,
-   2,
-   3,
+   1,
+   0,
    0,
    0,
    0
@@ -499,16 +499,16 @@
    0
   ],
   [
-   "Dave Robinson",
-   "Dart Vaders",
+   "Juan Rosado",
+   "Liquor Box",
    1.96,
+   12,
+   4,
    3,
-   1,
-   1,
    0,
    0,
-   1,
-   0,
+   2,
+   3,
    0,
    0,
    0
@@ -649,21 +649,6 @@
    0
   ],
   [
-   "Mike Monster",
-   "Liquor Box",
-   1.79,
-   6,
-   0,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Justin Gould",
    "Average Joes",
    1.79,
@@ -674,6 +659,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Monster",
+   "Liquor Box",
+   1.79,
+   6,
+   0,
+   2,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1491,18 +1491,6 @@
    5
   ],
   [
-   "Jason Gould",
-   "Average Joes",
-   16.84,
-   12,
-   3,
-   1,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Adam Northrup",
    "Wrong Hole",
    16.84,
@@ -1513,6 +1501,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Jason Gould",
+   "Average Joes",
+   16.84,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Jay Jaz",
@@ -2629,5 +2629,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-28T07:23:15Z"
+ "updated": "2026-10-28T09:09:02Z"
 }
