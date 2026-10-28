@@ -140,6 +140,12 @@
  "improved": {
   "c": [
    [
+    "Paul Guadagna",
+    "Tipped Out",
+    1.52,
+    1.63
+   ],
+   [
     "Brian Pintagro",
     "Dave N Buster",
     1.68,
@@ -150,12 +156,6 @@
     "Top Shottas",
     1.36,
     1.47
-   ],
-   [
-    "Paul Guadagna",
-    "Tipped Out",
-    1.52,
-    1.63
    ]
   ],
   "x": [
@@ -241,21 +241,6 @@
    0
   ],
   [
-   "David Benwell",
-   "Top Shottas",
-   2.04,
-   24,
-   10,
-   3,
-   1,
-   0,
-   9,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Andrew Casciani",
    "Not These Guys Again",
    2.04,
@@ -267,6 +252,21 @@
    5,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "David Benwell",
+   "Top Shottas",
+   2.04,
+   24,
+   10,
+   3,
+   1,
+   0,
+   9,
+   3,
+   1,
    0,
    0
   ],
@@ -1500,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-28T16:10:49Z"
+ "updated": "2026-10-28T17:09:26Z"
 }
