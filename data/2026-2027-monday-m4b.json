@@ -443,21 +443,6 @@
    0
   ],
   [
-   "Tim Smith",
-   "ChJokers",
-   2.22,
-   15,
-   2,
-   8,
-   0,
-   0,
-   3,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Neal Kenyon",
    "The Happy Accidents",
    2.22,
@@ -469,6 +454,21 @@
    2,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Tim Smith",
+   "ChJokers",
+   2.22,
+   15,
+   2,
+   8,
+   0,
+   0,
+   3,
+   2,
+   0,
    0,
    0
   ],
@@ -578,21 +578,6 @@
    0
   ],
   [
-   "Dave Biedrzycki",
-   "Here 4 The Beer",
-   2.04,
-   15,
-   5,
-   3,
-   0,
-   0,
-   6,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Hodgeman",
    "Here 4 The Beer",
    2.04,
@@ -604,6 +589,21 @@
    5,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Dave Biedrzycki",
+   "Here 4 The Beer",
+   2.04,
+   15,
+   5,
+   3,
+   0,
+   0,
+   6,
+   4,
+   0,
    0,
    0
   ],
@@ -923,21 +923,6 @@
    0
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   1.64,
-   3,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Chuck Coates",
    "Wired",
    1.64,
@@ -947,6 +932,21 @@
    0,
    0,
    5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   1.64,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-28T21:22:51Z"
+ "updated": "2026-10-28T21:59:58Z"
 }
