@@ -537,21 +537,6 @@
    0
   ],
   [
-   "Barry Barklund",
-   "Dartbags",
-   1.93,
-   15,
-   1,
-   6,
-   0,
-   0,
-   3,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Mike Bisig",
    "Trippin On Trips",
    1.93,
@@ -563,6 +548,21 @@
    6,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Barry Barklund",
+   "Dartbags",
+   1.93,
+   15,
+   1,
+   6,
+   0,
+   0,
+   3,
+   0,
+   2,
    0,
    0
   ],
@@ -608,6 +608,21 @@
    4,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Christopher Welling",
+   "Chicks And Dicks",
+   1.84,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -672,21 +687,6 @@
    0
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.77,
-   15,
-   4,
-   4,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dale Pickens",
    "Points And Pints",
    1.77,
@@ -702,16 +702,16 @@
    1
   ],
   [
-   "Jim Oneill",
-   "Points And Pints",
-   1.75,
+   "Brian Leach",
+   "Truckin Bulls",
+   1.77,
    15,
-   2,
-   5,
+   4,
+   4,
    0,
    0,
-   2,
-   3,
+   1,
+   1,
    1,
    0,
    0
@@ -747,6 +747,21 @@
    0
   ],
   [
+   "Jim Oneill",
+   "Points And Pints",
+   1.75,
+   15,
+   2,
+   5,
+   0,
+   0,
+   2,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
    "Mike Coyle",
    "Fat Bastards",
    1.73,
@@ -762,16 +777,31 @@
    0
   ],
   [
-   "CHRIS WELLING",
-   "{Substitutes}",
-   1.7,
-   9,
+   "Justin Ricci",
+   "Show Your Tips",
+   1.69,
    3,
-   3,
-   0,
-   0,
+   1,
    1,
    0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Eric Smith",
+   "Show Your Tips",
+   1.68,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   3,
    0,
    0,
    0
@@ -807,21 +837,6 @@
    0
   ],
   [
-   "Eric Smith",
-   "Show Your Tips",
-   1.68,
-   12,
-   3,
-   1,
-   0,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Bradburn",
    "Truckin Bulls",
    1.62,
@@ -846,6 +861,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ken Geer",
+   "Chicks And Dicks",
+   1.58,
+   3,
+   2,
+   1,
+   0,
+   0,
+   1,
    0,
    0,
    0,
@@ -1313,6 +1343,18 @@
    7
   ],
   [
+   "Ken Geer",
+   "Chicks And Dicks",
+   19.44,
+   4,
+   2,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Zach Zeek Smith",
    "Is It In",
    19.34,
@@ -1457,6 +1499,18 @@
    7
   ],
   [
+   "Christopher Welling",
+   "Chicks And Dicks",
+   17.35,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
    "Brian Leach",
    "Truckin Bulls",
    17.33,
@@ -1563,18 +1617,6 @@
    0,
    0,
    7
-  ],
-  [
-   "KEN GEER",
-   "{Substitutes}",
-   16.48,
-   12,
-   2,
-   2,
-   0,
-   0,
-   0,
-   1
   ],
   [
    "TJ Leverett",
@@ -1748,6 +1790,18 @@
    "Sean New Wave",
    "New Wave",
    13.49,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Justin Ricci",
+   "Show Your Tips",
+   13.47,
    4,
    0,
    0,
@@ -2655,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-28T12:00:35Z"
+ "updated": "2026-10-28T13:20:50Z"
 }

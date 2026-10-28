@@ -327,21 +327,6 @@
    0
   ],
   [
-   "Zach Morgan",
-   "Two Furry Dudes",
-   1.86,
-   24,
-   5,
-   6,
-   0,
-   0,
-   5,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Keith Seiffert",
    "BitterDisappointment",
    1.86,
@@ -352,6 +337,21 @@
    0,
    2,
    2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Zach Morgan",
+   "Two Furry Dudes",
+   1.86,
+   24,
+   5,
+   6,
+   0,
+   0,
+   5,
+   3,
    1,
    0,
    0
@@ -372,21 +372,6 @@
    0
   ],
   [
-   "Syrica Story",
-   "Two Girls One Bull",
-   1.76,
-   24,
-   10,
-   2,
-   1,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Tim Turner",
    "Fairly Oddparents",
    1.76,
@@ -398,6 +383,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Syrica Story",
+   "Two Girls One Bull",
+   1.76,
+   24,
+   10,
+   2,
+   1,
+   0,
+   4,
+   0,
+   1,
    0,
    0
   ],
@@ -1758,5 +1758,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-28T12:00:39Z"
+ "updated": "2026-10-28T13:20:55Z"
 }

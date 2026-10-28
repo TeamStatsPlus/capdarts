@@ -140,6 +140,12 @@
  "improved": {
   "c": [
    [
+    "Paul Guadagna",
+    "Tipped Out",
+    1.52,
+    1.63
+   ],
+   [
     "Bill Lutomski",
     "Top Shottas",
     1.36,
@@ -150,12 +156,6 @@
     "Dave N Buster",
     1.68,
     1.79
-   ],
-   [
-    "Paul Guadagna",
-    "Tipped Out",
-    1.52,
-    1.63
    ]
   ],
   "x": [
@@ -406,21 +406,6 @@
    0
   ],
   [
-   "Trenton Harvey",
-   "BYE INCOMPLETE",
-   1.47,
-   6,
-   2,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Lutomski",
    "Top Shottas",
    1.47,
@@ -432,6 +417,21 @@
    2,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Trenton Harvey",
+   "BYE INCOMPLETE",
+   1.47,
+   6,
+   2,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -1500,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-28T12:01:18Z"
+ "updated": "2026-10-28T13:21:35Z"
 }
