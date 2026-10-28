@@ -177,6 +177,27 @@ def write_if_changed(path, new, stamp):
     return True
 
 
+def build_players(divs):
+    """One combined list of every player (Cricket + 01 stats) across all divisions."""
+    out = []
+    for d in divs:
+        path = DATA / f"{div_id(d)}.json"
+        if not path.exists():
+            continue
+        data = json.loads(path.read_text())
+        rec = {}
+        for row in data.get("cricket", []):
+            rec[(row[0].lower(), row[1])] = [row[0], row[1], div_id(d), row[2:], None]
+        for row in data.get("x01", []):
+            k = (row[0].lower(), row[1])
+            if k in rec:
+                rec[k][4] = row[2:]
+            else:
+                rec[k] = [row[0], row[1], div_id(d), None, row[2:]]
+        out.extend(rec.values())
+    return {"players": out}
+
+
 def main():
     cfg = json.loads((ROOT / "config.json").read_text())
     divs = cfg["divisions"]
@@ -198,6 +219,7 @@ def main():
                 print(f"FAIL  {did} / {name}: {e}")
             time.sleep(1)
         print(f"{did}: " + ("data changed" if write_if_changed(path, new, True) else "no changes"))
+    print("players.json: " + ("changed" if write_if_changed(ROOT / "players.json", build_players(divs), True) else "no changes"))
     cat = build_catalog(divs, cfg.get("default"))
     print("catalog.json: " + ("changed" if write_if_changed(ROOT / "catalog.json", cat, False) else "no changes"))
     if errors:
