@@ -120,16 +120,16 @@
     1.07
    ],
    [
-    "Josh Krause",
-    "BadDarts StankyFarts",
-    1.52,
-    1.57
-   ],
-   [
     "Nick Lawlor",
     "Alex And Lawlor",
     1.82,
     1.87
+   ],
+   [
+    "Josh Krause",
+    "BadDarts StankyFarts",
+    1.52,
+    1.57
    ]
   ],
   "x": [
@@ -813,7 +813,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-28T06:00:04Z",
+ "updated": "2026-10-28T07:23:28Z",
  "teams": [
   {
    "name": "Alex And Lawlor",
