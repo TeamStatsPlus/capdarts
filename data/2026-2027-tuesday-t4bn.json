@@ -642,21 +642,6 @@
    0
   ],
   [
-   "Scott Stipulski",
-   "Chicks And Dicks",
-   1.78,
-   15,
-   2,
-   2,
-   0,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Pat Turco",
    "Trippin On Trips",
    1.78,
@@ -672,15 +657,15 @@
    0
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.77,
+   "Scott Stipulski",
+   "Chicks And Dicks",
+   1.78,
    15,
-   4,
-   4,
+   2,
+   2,
    0,
    0,
-   1,
+   5,
    1,
    1,
    0,
@@ -700,6 +685,36 @@
    2,
    0,
    1
+  ],
+  [
+   "Brian Leach",
+   "Truckin Bulls",
+   1.77,
+   15,
+   4,
+   4,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   1.75,
+   15,
+   2,
+   5,
+   0,
+   0,
+   2,
+   3,
+   1,
+   0,
+   0
   ],
   [
    "Joe Tortora",
@@ -727,21 +742,6 @@
    0,
    3,
    2,
-   1,
-   0,
-   0
-  ],
-  [
-   "Jim Oneill",
-   "Points And Pints",
-   1.75,
-   15,
-   2,
-   5,
-   0,
-   0,
-   2,
-   3,
    1,
    0,
    0
@@ -777,6 +777,21 @@
    0
   ],
   [
+   "Chris New Wave",
+   "New Wave",
+   1.68,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Eric Smith",
    "Show Your Tips",
    1.68,
@@ -803,21 +818,6 @@
    4,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Chris New Wave",
-   "New Wave",
-   1.68,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0
   ],
@@ -2655,5 +2655,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-28T05:02:47Z"
+ "updated": "2026-10-28T05:59:25Z"
 }
