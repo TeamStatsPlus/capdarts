@@ -327,21 +327,6 @@
    0
   ],
   [
-   "Keith Seiffert",
-   "BitterDisappointment",
-   1.86,
-   18,
-   5,
-   1,
-   0,
-   0,
-   2,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Zach Morgan",
    "Two Furry Dudes",
    1.86,
@@ -352,6 +337,21 @@
    0,
    5,
    3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Keith Seiffert",
+   "BitterDisappointment",
+   1.86,
+   18,
+   5,
+   1,
+   0,
+   0,
+   2,
+   2,
    1,
    0,
    0
@@ -1758,5 +1758,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-28T13:20:55Z"
+ "updated": "2026-10-28T15:10:39Z"
 }

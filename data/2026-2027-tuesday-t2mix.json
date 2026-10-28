@@ -499,6 +499,21 @@
    0
   ],
   [
+   "Michael Ryder",
+   "And Then There Was 2",
+   2.2,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Kara Santelli",
    "BetR WallaceMaloney",
    2.14,
@@ -601,21 +616,6 @@
    4,
    1,
    1,
-   0
-  ],
-  [
-   "SYLVAN",
-   "{Substitutes}",
-   1.83,
-   12,
-   1,
-   0,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
    0
   ],
   [
@@ -737,6 +737,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Sylvan Hemingway",
+   "Squeaky Wheel",
+   1.49,
+   6,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Shaunna Maloney",
@@ -972,6 +987,18 @@
    45
   ],
   [
+   "Michael Ryder",
+   "And Then There Was 2",
+   20.61,
+   7,
+   0,
+   1,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
    "Melissa Miles",
    "Pusc Paninis",
    20.3,
@@ -1066,18 +1093,6 @@
    0,
    0,
    12
-  ],
-  [
-   "SYLVAN",
-   "{Substitutes}",
-   16.31,
-   14,
-   0,
-   1,
-   0,
-   0,
-   0,
-   15
   ],
   [
    "Kelli Nash",
@@ -1246,6 +1261,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Sylvan Hemingway",
+   "Squeaky Wheel",
+   11.96,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Luke Barry",
@@ -2067,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-28T13:20:28Z"
+ "updated": "2026-10-28T15:10:23Z"
 }

@@ -224,16 +224,16 @@
     1.87
    ],
    [
-    "Brian Kea",
-    "TWINS",
-    1.82,
-    1.9
-   ],
-   [
     "Cameron Giles",
     "Team Titos",
     1.88,
     1.96
+   ],
+   [
+    "Brian Kea",
+    "TWINS",
+    1.82,
+    1.9
    ]
   ],
   "x": [
@@ -424,21 +424,6 @@
    0
   ],
   [
-   "Steve Bauman",
-   "Docs Crew",
-   2.07,
-   18,
-   6,
-   4,
-   0,
-   0,
-   2,
-   2,
-   0,
-   0,
-   1
-  ],
-  [
    "Robyn Ralston",
    "We Dem Boyz",
    2.07,
@@ -452,6 +437,21 @@
    1,
    1,
    0
+  ],
+  [
+   "Steve Bauman",
+   "Docs Crew",
+   2.07,
+   18,
+   6,
+   4,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   1
   ],
   [
    "Jason Miles",
@@ -619,13 +619,13 @@
    0
   ],
   [
-   "Adam Martinez",
-   "Talk Darty To Me",
+   "Dustin Nelson",
+   "TWINS",
    1.71,
    24,
-   5,
-   9,
-   0,
+   4,
+   7,
+   1,
    0,
    2,
    1,
@@ -634,13 +634,13 @@
    0
   ],
   [
-   "Dustin Nelson",
-   "TWINS",
+   "Adam Martinez",
+   "Talk Darty To Me",
    1.71,
    24,
-   4,
-   7,
-   1,
+   5,
+   9,
+   0,
    0,
    2,
    1,
@@ -2286,5 +2286,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-28T11:59:51Z"
+ "updated": "2026-10-28T15:09:56Z"
 }
