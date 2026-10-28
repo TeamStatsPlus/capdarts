@@ -146,16 +146,16 @@
     1.88
    ],
    [
-    "Lou Sanchez",
-    "Double Trouble",
-    1.04,
-    1.1
-   ],
-   [
     "Benjamin Gill",
     "Who Darted",
     1.65,
     1.71
+   ],
+   [
+    "Lou Sanchez",
+    "Double Trouble",
+    1.04,
+    1.1
    ]
   ],
   "x": [
@@ -361,21 +361,6 @@
    0
   ],
   [
-   "Todd Cornell",
-   "Ballsagna",
-   1.42,
-   24,
-   1,
-   13,
-   0,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Alyssa Rank",
    "Dark Sharts",
    1.42,
@@ -387,6 +372,21 @@
    2,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Todd Cornell",
+   "Ballsagna",
+   1.42,
+   24,
+   1,
+   13,
+   0,
+   0,
+   0,
+   3,
+   0,
    0,
    0
   ],
@@ -1569,5 +1569,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-10-28T09:08:13Z"
+ "updated": "2026-10-28T10:06:23Z"
 }

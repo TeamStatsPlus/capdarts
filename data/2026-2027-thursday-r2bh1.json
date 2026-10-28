@@ -140,10 +140,10 @@
  "improved": {
   "c": [
    [
-    "Paul Guadagna",
-    "Tipped Out",
-    1.52,
-    1.63
+    "Brian Pintagro",
+    "Dave N Buster",
+    1.68,
+    1.79
    ],
    [
     "Bill Lutomski",
@@ -152,10 +152,10 @@
     1.47
    ],
    [
-    "Brian Pintagro",
-    "Dave N Buster",
-    1.68,
-    1.79
+    "Paul Guadagna",
+    "Tipped Out",
+    1.52,
+    1.63
    ]
   ],
   "x": [
@@ -1500,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-28T09:09:17Z"
+ "updated": "2026-10-28T10:07:33Z"
 }

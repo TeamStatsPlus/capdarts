@@ -387,6 +387,21 @@
    0
   ],
   [
+   "Brian Cassidy",
+   "Emerald Society",
+   1.7,
+   6,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Adam Fowles",
    "Tips Dont Lie",
    1.7,
@@ -413,21 +428,6 @@
    1,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Cassidy",
-   "Emerald Society",
-   1.7,
-   6,
-   1,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
    0,
    0
   ],
@@ -462,21 +462,6 @@
    0
   ],
   [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.61,
-   9,
-   2,
-   2,
-   0,
-   0,
-   1,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Graham Wheeler",
    "Shart Shooters",
    1.61,
@@ -488,6 +473,21 @@
    0,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.61,
+   9,
+   2,
+   2,
+   0,
+   0,
+   1,
+   2,
+   0,
    0,
    0
   ],
@@ -582,21 +582,6 @@
    0
   ],
   [
-   "John Brennan",
-   "Emerald Society",
-   1.43,
-   12,
-   1,
-   3,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Danielle Henry",
    "The Limp Wristers",
    1.43,
@@ -609,6 +594,21 @@
    0,
    0,
    1,
+   0
+  ],
+  [
+   "John Brennan",
+   "Emerald Society",
+   1.43,
+   12,
+   1,
+   3,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
    0
   ],
   [
@@ -702,13 +702,13 @@
    0
   ],
   [
-   "Sammy Boy Closer To Zero",
-   "Closer To Zero",
+   "Howie Klick",
+   "Emerald Society",
    1.33,
-   3,
-   0,
-   0,
-   0,
+   6,
+   1,
+   1,
+   1,
    0,
    0,
    0,
@@ -717,13 +717,13 @@
    0
   ],
   [
-   "Howie Klick",
-   "Emerald Society",
+   "Sammy Boy Closer To Zero",
+   "Closer To Zero",
    1.33,
-   6,
-   1,
-   1,
-   1,
+   3,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Jacob Post",
-   "Struggle Bus",
-   1.2,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "John Inzinna",
    "Cant Close",
    1.2,
@@ -837,6 +822,21 @@
    0
   ],
   [
+   "Jacob Post",
+   "Struggle Bus",
+   1.2,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Jason Post",
    "Struggle Bus",
    1.18,
@@ -846,6 +846,21 @@
    0,
    0,
    2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   1.15,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -872,21 +887,6 @@
    1.15,
    3,
    0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jess Post",
-   "Closer To Zero",
-   1.15,
-   6,
-   1,
    1,
    0,
    0,
@@ -1379,18 +1379,6 @@
    0
   ],
   [
-   "Geoff Milunich",
-   "Tips Dont Lie",
-   15.55,
-   8,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Justine Moore",
    "ProjectileDysfncion",
    15.55,
@@ -1401,6 +1389,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Geoff Milunich",
+   "Tips Dont Lie",
+   15.55,
+   8,
+   3,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Stephen Popowych",
@@ -1703,6 +1703,18 @@
    1
   ],
   [
+   "Christa Herbst",
+   "Cant Close",
+   13.14,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Marin Valentino",
    "The Limp Wristers",
    13.14,
@@ -1720,18 +1732,6 @@
    13.14,
    12,
    2,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Christa Herbst",
-   "Cant Close",
-   13.14,
-   8,
-   0,
    0,
    0,
    0,
@@ -1775,18 +1775,6 @@
    1
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   12.4,
-   8,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Cassidy",
    "Emerald Society",
    12.4,
@@ -1797,6 +1785,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   12.4,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Lydia Wheeler",
@@ -2727,5 +2727,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-28T09:08:59Z"
+ "updated": "2026-10-28T10:07:15Z"
 }
