@@ -5,39 +5,39 @@
  },
  "standings": [
   [
-   "Wheres My Darts",
-   28,
-   11
-  ],
-  [
-   "Aiming Fluid Needed",
-   33,
-   19
-  ],
-  [
    "No Bulls Hit",
-   33,
-   19
+   43,
+   22
+  ],
+  [
+   "Wheres My Darts",
+   31,
+   21
   ],
   [
    "Tre Stronzi",
-   28,
-   24
+   38,
+   27
+  ],
+  [
+   "Aiming Fluid Needed",
+   36,
+   29
   ],
   [
    "Just The Tip",
-   26,
-   26
+   32,
+   33
+  ],
+  [
+   "Cant Hit Bull",
+   16,
+   23
   ],
   [
    "BullsDeep",
    21,
    31
-  ],
-  [
-   "Cant Hit Bull",
-   9,
-   17
   ],
   [
    "Yagers",
@@ -47,6 +47,22 @@
  ],
  "results": [
   [
+   "No Bulls Hit",
+   "Wheres My Darts",
+   "10/28/2026",
+   5,
+   10,
+   3
+  ],
+  [
+   "Tre Stronzi",
+   "Aiming Fluid Needed",
+   "10/28/2026",
+   5,
+   10,
+   3
+  ],
+  [
    "BullsDeep",
    "Aiming Fluid Needed",
    "10/21/2026",
@@ -55,52 +71,20 @@
    5
   ],
   [
-   "No Bulls Hit",
+   "Cant Hit Bull",
    "Just The Tip",
-   "10/21/2026",
-   4,
-   8,
-   5
-  ],
-  [
-   "Wheres My Darts",
-   "Tre Stronzi",
-   "10/21/2026",
-   4,
+   "10/28/2026",
+   5,
    7,
    6
   ],
   [
-   "Tre Stronzi",
-   "Wheres My Darts",
-   "10/21/2026",
-   4,
-   6,
-   7
-  ],
-  [
-   "Cant Hit Bull",
-   "Aiming Fluid Needed",
-   "10/14/2026",
-   3,
-   6,
-   7
-  ],
-  [
-   "Aiming Fluid Needed",
-   "BullsDeep",
-   "10/21/2026",
-   4,
-   5,
-   8
-  ],
-  [
    "Just The Tip",
-   "No Bulls Hit",
-   "10/21/2026",
-   4,
+   "Cant Hit Bull",
+   "10/28/2026",
    5,
-   8
+   6,
+   7
   ],
   [
    "Yagers",
@@ -109,47 +93,63 @@
    3,
    4,
    9
+  ],
+  [
+   "Aiming Fluid Needed",
+   "Tre Stronzi",
+   "10/28/2026",
+   5,
+   3,
+   10
+  ],
+  [
+   "Wheres My Darts",
+   "No Bulls Hit",
+   "10/28/2026",
+   5,
+   3,
+   10
   ]
  ],
  "improved": {
   "c": [
    [
-    "Daniel Roberts",
+    "Kimberly Deuel",
     "Wheres My Darts",
-    2.28,
-    2.69
-   ],
-   [
-    "Daniel Skerritt",
-    "No Bulls Hit",
-    1.71,
-    1.93
-   ],
-   [
-    "Chris Hughson",
-    "Aiming Fluid Needed",
-    2.14,
-    2.23
-   ]
-  ],
-  "x": [
-   [
-    "Todd Hanley",
-    "No Bulls Hit",
-    22.45,
-    23.17
+    1.59,
+    1.67
    ],
    [
     "Eddie Gibson",
     "Just The Tip",
-    18.28,
-    18.8
+    1.96,
+    2.03
    ],
    [
-    "Sean Wiggins",
-    "BullsDeep",
-    16.9,
-    17.27
+    "Daniel Roberts",
+    "Wheres My Darts",
+    2.69,
+    2.73
+   ]
+  ],
+  "x": [
+   [
+    "Aaron Garrett",
+    "Cant Hit Bull",
+    20.64,
+    21.42
+   ],
+   [
+    "Eddie Gibson",
+    "Just The Tip",
+    18.8,
+    19.53
+   ],
+   [
+    "Kimberly Deuel",
+    "Wheres My Darts",
+    15.14,
+    15.52
    ]
   ]
  },
@@ -157,74 +157,74 @@
   [
    "Daniel Roberts",
    "Wheres My Darts",
-   2.69,
-   12,
-   7,
+   2.73,
+   18,
+   8,
    1,
-   1,
-   0,
-   9,
    3,
+   0,
+   10,
+   7,
    4,
    0,
-   0
+   1
   ],
   [
    "Aaron Garrett",
    "Cant Hit Bull",
-   2.66,
-   12,
-   3,
+   2.59,
+   18,
+   6,
    1,
    1,
    0,
-   5,
+   6,
    2,
    3,
    0,
-   0
+   1
   ],
   [
    "Enzo Maiola",
    "Tre Stronzi",
-   2.47,
-   18,
-   3,
+   2.49,
+   24,
+   8,
    5,
    1,
    0,
-   11,
-   4,
-   1,
+   15,
+   6,
+   2,
    0,
    0
   ],
   [
    "Todd Hanley",
    "No Bulls Hit",
-   2.38,
-   24,
-   16,
-   4,
-   0,
-   0,
-   7,
+   2.37,
+   30,
+   19,
+   6,
    1,
+   0,
+   8,
    1,
+   2,
    0,
    0
   ],
   [
-   "Chris Hughson",
-   "Aiming Fluid Needed",
-   2.23,
-   18,
-   5,
-   4,
+   "Keith West",
+   "No Bulls Hit",
+   2.21,
+   6,
+   2,
+   3,
+   0,
    0,
    1,
-   4,
-   1,
+   0,
    1,
    0,
    0
@@ -232,15 +232,30 @@
   [
    "Tony Maiola",
    "Tre Stronzi",
-   2.13,
-   12,
+   2.15,
+   18,
    3,
-   2,
+   7,
    0,
    0,
    5,
+   2,
+   1,
    0,
+   0
+  ],
+  [
+   "Chris Hughson",
+   "Aiming Fluid Needed",
+   2.13,
+   24,
+   6,
+   4,
    0,
+   1,
+   4,
+   2,
+   1,
    0,
    0
   ],
@@ -275,30 +290,15 @@
    0
   ],
   [
-   "Patrick Reilly",
-   "Aiming Fluid Needed",
-   1.96,
-   18,
-   4,
-   5,
-   1,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Eddie Gibson",
    "Just The Tip",
-   1.96,
-   24,
+   2.03,
+   30,
+   10,
+   4,
+   0,
+   0,
    8,
-   3,
-   0,
-   0,
-   7,
    3,
    1,
    0,
@@ -320,15 +320,30 @@
    1
   ],
   [
-   "Josh Bzduch Melino",
-   "Just The Tip",
-   1.84,
+   "Patrick Reilly",
+   "Aiming Fluid Needed",
+   1.83,
    24,
+   4,
+   6,
+   1,
+   0,
    3,
-   8,
    2,
    0,
-   1,
+   0,
+   0
+  ],
+  [
+   "Josh Bzduch Melino",
+   "Just The Tip",
+   1.82,
+   30,
+   4,
+   10,
+   3,
+   0,
+   2,
    1,
    0,
    0,
@@ -397,28 +412,28 @@
   [
    "Kimberly Deuel",
    "Wheres My Darts",
-   1.59,
-   12,
+   1.67,
+   18,
    1,
-   7,
+   8,
    0,
    0,
+   4,
    1,
-   1,
-   1,
+   2,
    0,
    0
   ],
   [
    "John Lyn",
    "Cant Hit Bull",
-   1.51,
-   12,
+   1.52,
+   18,
    1,
-   3,
+   6,
    0,
    0,
-   0,
+   1,
    1,
    0,
    0,
@@ -427,64 +442,52 @@
  ],
  "x01": [
   [
-   "Daniel Roberts",
-   "Wheres My Darts",
-   25.7,
-   14,
-   6,
-   2,
-   0,
-   0,
-   0,
-   21
-  ],
-  [
    "Enzo Maiola",
    "Tre Stronzi",
-   25.46,
-   21,
-   9,
-   3,
-   0,
-   0,
-   0,
-   29
-  ],
-  [
-   "Todd Hanley",
-   "No Bulls Hit",
-   23.17,
+   25.55,
    28,
-   8,
-   6,
-   0,
-   0,
-   0,
-   32
-  ],
-  [
-   "Aaron Garrett",
-   "Cant Hit Bull",
-   20.64,
    14,
    4,
    0,
    0,
-   1,
-   1,
-   13
+   0,
+   39
   ],
   [
-   "Chris Hughson",
-   "Aiming Fluid Needed",
-   20.57,
+   "Daniel Roberts",
+   "Wheres My Darts",
+   25.01,
    21,
-   6,
+   8,
+   3,
+   0,
+   0,
+   0,
+   28
+  ],
+  [
+   "Todd Hanley",
+   "No Bulls Hit",
+   23.37,
+   35,
+   11,
+   9,
+   0,
+   0,
+   0,
+   38
+  ],
+  [
+   "Aaron Garrett",
+   "Cant Hit Bull",
+   21.42,
+   21,
+   7,
    1,
    0,
-   0,
-   0,
-   21
+   1,
+   2,
+   18
   ],
   [
    "Mike Ward",
@@ -499,28 +502,52 @@
    3
   ],
   [
+   "Chris Hughson",
+   "Aiming Fluid Needed",
+   19.94,
+   28,
+   7,
+   1,
+   0,
+   0,
+   0,
+   26
+  ],
+  [
+   "Eddie Gibson",
+   "Just The Tip",
+   19.53,
+   35,
+   12,
+   3,
+   0,
+   0,
+   0,
+   29
+  ],
+  [
    "Josh Bzduch Melino",
    "Just The Tip",
-   19.18,
-   28,
+   18.85,
+   35,
    6,
    1,
    0,
    0,
    0,
-   23
+   26
   ],
   [
-   "Eddie Gibson",
-   "Just The Tip",
-   18.8,
-   28,
-   9,
-   3,
+   "Keith West",
+   "No Bulls Hit",
+   17.52,
+   7,
+   2,
    0,
    0,
    0,
-   19
+   0,
+   2
   ],
   [
    "Terrance Odum",
@@ -561,9 +588,9 @@
   [
    "Patrick Reilly",
    "Aiming Fluid Needed",
-   17.22,
-   21,
-   4,
+   17.07,
+   28,
+   5,
    1,
    0,
    0,
@@ -586,7 +613,7 @@
    "Tony Maiola",
    "Tre Stronzi",
    16.45,
-   14,
+   21,
    3,
    0,
    0,
@@ -609,25 +636,25 @@
   [
    "John Lyn",
    "Cant Hit Bull",
-   15.7,
-   14,
-   1,
+   15.95,
+   21,
+   2,
    0,
    0,
    0,
    0,
-   3
+   4
   ],
   [
    "Kimberly Deuel",
    "Wheres My Darts",
-   15.14,
-   14,
+   15.52,
+   21,
    1,
    0,
    0,
    0,
-   0,
+   1,
    3
   ],
   [
@@ -1252,5 +1279,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-28T23:54:10Z"
+ "updated": "2026-10-29T01:21:56Z"
 }

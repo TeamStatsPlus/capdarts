@@ -10,6 +10,11 @@
    16
   ],
   [
+   "In Whiskey We Trust",
+   41,
+   24
+  ],
+  [
    "Methodical Missers",
    31,
    21
@@ -25,11 +30,6 @@
    22
   ],
   [
-   "In Whiskey We Trust",
-   29,
-   23
-  ],
-  [
    "Pointless",
    28,
    24
@@ -40,11 +40,6 @@
    25
   ],
   [
-   "Shared Brain Cell",
-   24,
-   28
-  ],
-  [
    "Two Girls One Bull",
    24,
    28
@@ -53,6 +48,11 @@
    "Two Furry Dudes",
    23,
    29
+  ],
+  [
+   "Shared Brain Cell",
+   25,
+   40
   ],
   [
    "BitterDisappointment",
@@ -68,11 +68,11 @@
  "results": [
   [
    "In Whiskey We Trust",
-   "Two Furry Dudes",
-   "10/21/2026",
-   4,
-   11,
-   2
+   "Shared Brain Cell",
+   "10/28/2026",
+   5,
+   12,
+   1
   ],
   [
    "Turd Ferguson",
@@ -131,14 +131,6 @@
    8
   ],
   [
-   "Shared Brain Cell",
-   "Pointless",
-   "10/21/2026",
-   4,
-   5,
-   8
-  ],
-  [
    "Darts Deep",
    "Methodical Missers",
    "10/21/2026",
@@ -161,47 +153,55 @@
    4,
    2,
    11
+  ],
+  [
+   "Shared Brain Cell",
+   "In Whiskey We Trust",
+   "10/28/2026",
+   5,
+   1,
+   12
   ]
  ],
  "improved": {
   "c": [
    [
-    "Joe Martinez",
-    "Darts Deep",
-    1.07,
-    1.36
+    "Breonna Provorse",
+    "Shared Brain Cell",
+    1.9,
+    1.97
    ],
    [
-    "Kelly Hodgkins",
-    "Girls Night",
-    1.31,
-    1.44
-   ],
-   [
-    "Amy Poltorak",
+    "Mike Kolberg",
     "In Whiskey We Trust",
-    1.34,
-    1.46
+    1.46,
+    1.52
+   ],
+   [
+    "Greg Poltorak",
+    "In Whiskey We Trust",
+    2.49,
+    2.52
    ]
   ],
   "x": [
    [
-    "Amy Poltorak",
+    "Greg Poltorak",
     "In Whiskey We Trust",
-    15.01,
-    15.94
+    23.95,
+    24.56
    ],
    [
-    "Keith Seiffert",
-    "BitterDisappointment",
-    16.34,
-    17.08
+    "Mike Kolberg",
+    "In Whiskey We Trust",
+    15.72,
+    16.13
    ],
    [
-    "Kevin Tierney",
-    "BitterDisappointment",
-    12.63,
-    13.27
+    "Grace Maracle",
+    "Shared Brain Cell",
+    14.28,
+    14.29
    ]
   ]
  },
@@ -209,15 +209,15 @@
   [
    "Greg Poltorak",
    "In Whiskey We Trust",
-   2.49,
-   24,
-   11,
-   2,
+   2.52,
+   30,
+   15,
+   3,
    2,
    0,
-   10,
+   13,
    5,
-   2,
+   3,
    0,
    0
   ],
@@ -297,6 +297,21 @@
    1
   ],
   [
+   "Breonna Provorse",
+   "Shared Brain Cell",
+   1.97,
+   30,
+   6,
+   7,
+   0,
+   0,
+   12,
+   1,
+   3,
+   0,
+   0
+  ],
+  [
    "Oscar Wheeler",
    "Two Furry Dudes",
    1.96,
@@ -308,21 +323,6 @@
    6,
    3,
    2,
-   0,
-   0
-  ],
-  [
-   "Breonna Provorse",
-   "Shared Brain Cell",
-   1.9,
-   24,
-   5,
-   7,
-   0,
-   0,
-   9,
-   0,
-   3,
    0,
    0
   ],
@@ -417,21 +417,6 @@
    0
   ],
   [
-   "Grace Maracle",
-   "Shared Brain Cell",
-   1.56,
-   24,
-   7,
-   5,
-   0,
-   0,
-   4,
-   3,
-   3,
-   0,
-   0
-  ],
-  [
    "Jim Cox",
    "Methodical Missers",
    1.54,
@@ -442,6 +427,21 @@
    0,
    5,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Kolberg",
+   "In Whiskey We Trust",
+   1.52,
+   18,
+   2,
+   9,
+   0,
+   0,
+   2,
+   2,
    0,
    0,
    0
@@ -458,6 +458,21 @@
    4,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Grace Maracle",
+   "Shared Brain Cell",
+   1.5,
+   30,
+   7,
+   6,
+   0,
+   0,
+   5,
+   3,
+   3,
    0,
    0
   ],
@@ -488,21 +503,6 @@
    1,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Mike Kolberg",
-   "In Whiskey We Trust",
-   1.46,
-   12,
-   1,
-   5,
-   0,
-   0,
-   1,
-   2,
-   0,
    0,
    0
   ],
@@ -614,6 +614,18 @@
  ],
  "x01": [
   [
+   "Greg Poltorak",
+   "In Whiskey We Trust",
+   24.56,
+   35,
+   20,
+   4,
+   0,
+   1,
+   4,
+   49
+  ],
+  [
    "Melissa Wallace",
    "Girls Night",
    24.25,
@@ -624,18 +636,6 @@
    0,
    0,
    21
-  ],
-  [
-   "Greg Poltorak",
-   "In Whiskey We Trust",
-   23.95,
-   28,
-   13,
-   4,
-   0,
-   1,
-   4,
-   35
   ],
   [
    "Matthew Sutherland",
@@ -710,18 +710,6 @@
    13
   ],
   [
-   "Breonna Provorse",
-   "Shared Brain Cell",
-   17.52,
-   28,
-   4,
-   2,
-   0,
-   0,
-   0,
-   12
-  ],
-  [
    "Vinny Cardinale",
    "Bull Shitters",
    17.36,
@@ -732,6 +720,18 @@
    0,
    0,
    9
+  ],
+  [
+   "Breonna Provorse",
+   "Shared Brain Cell",
+   17.33,
+   35,
+   4,
+   3,
+   0,
+   0,
+   0,
+   17
   ],
   [
    "Keith Seiffert",
@@ -782,6 +782,18 @@
    12
   ],
   [
+   "Mike Kolberg",
+   "In Whiskey We Trust",
+   16.13,
+   21,
+   1,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
    "Amiee Story",
    "Two Girls One Bull",
    16.11,
@@ -830,18 +842,6 @@
    3
   ],
   [
-   "Mike Kolberg",
-   "In Whiskey We Trust",
-   15.72,
-   14,
-   1,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Kelly Hodgkins",
    "Girls Night",
    14.6,
@@ -856,14 +856,14 @@
   [
    "Grace Maracle",
    "Shared Brain Cell",
-   14.28,
-   28,
+   14.29,
+   35,
    7,
    1,
    0,
    0,
    0,
-   7
+   8
   ],
   [
    "Kae Lovell",
@@ -1758,5 +1758,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-28T23:54:06Z"
+ "updated": "2026-10-29T01:21:50Z"
 }
