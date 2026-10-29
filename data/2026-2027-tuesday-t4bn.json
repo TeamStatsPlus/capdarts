@@ -267,21 +267,6 @@
    0
   ],
   [
-   "Hector Hernandez",
-   "Fat Bastards",
-   2.35,
-   15,
-   8,
-   2,
-   1,
-   0,
-   7,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Chris Contrera",
    "AM Lumber",
    2.35,
@@ -293,6 +278,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Hector Hernandez",
+   "Fat Bastards",
+   2.35,
+   15,
+   8,
+   2,
+   1,
+   0,
+   7,
+   1,
+   2,
    0,
    0
   ],
@@ -372,12 +372,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   15,
+   8,
+   3,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   15,
-   8,
-   3,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -657,6 +657,21 @@
    0
   ],
   [
+   "Scott Stipulski",
+   "Chicks And Dicks",
+   1.78,
+   15,
+   2,
+   2,
+   0,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Pat Turco",
    "Trippin On Trips",
    1.78,
@@ -672,15 +687,15 @@
    0
   ],
   [
-   "Scott Stipulski",
-   "Chicks And Dicks",
-   1.78,
+   "Brian Leach",
+   "Truckin Bulls",
+   1.77,
    15,
-   2,
-   2,
+   4,
+   4,
    0,
    0,
-   5,
+   1,
    1,
    1,
    0,
@@ -702,16 +717,16 @@
    1
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.77,
+   "Jim Oneill",
+   "Points And Pints",
+   1.75,
    15,
-   4,
-   4,
+   2,
+   5,
    0,
    0,
-   1,
-   1,
+   2,
+   3,
    1,
    0,
    0
@@ -747,21 +762,6 @@
    0
   ],
   [
-   "Jim Oneill",
-   "Points And Pints",
-   1.75,
-   15,
-   2,
-   5,
-   0,
-   0,
-   2,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Coyle",
    "Fat Bastards",
    1.73,
@@ -783,6 +783,21 @@
    3,
    1,
    1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris New Wave",
+   "New Wave",
+   1.68,
+   3,
+   0,
+   0,
    0,
    0,
    0,
@@ -818,21 +833,6 @@
    4,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Chris New Wave",
-   "New Wave",
-   1.68,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0
   ],
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-29T04:06:04Z"
+ "updated": "2026-10-29T05:04:42Z"
 }
