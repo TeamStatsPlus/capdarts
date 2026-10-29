@@ -230,21 +230,6 @@
    0
   ],
   [
-   "Ian Heath",
-   "Lady And The Tramps",
-   1.89,
-   12,
-   7,
-   1,
-   0,
-   0,
-   1,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "Scott Fry",
    "Thunderbuddies",
    1.89,
@@ -255,6 +240,21 @@
    0,
    5,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ian Heath",
+   "Lady And The Tramps",
+   1.89,
+   12,
+   7,
+   1,
+   0,
+   0,
+   1,
+   5,
    0,
    0,
    0
@@ -275,21 +275,6 @@
    0
   ],
   [
-   "Brian Sloan",
-   "The Critters",
-   1.85,
-   15,
-   3,
-   2,
-   2,
-   0,
-   4,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Michael Justis",
    "4 Of Clubs",
    1.85,
@@ -300,6 +285,21 @@
    0,
    5,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.85,
+   15,
+   3,
+   2,
+   2,
+   0,
+   4,
+   3,
    0,
    0,
    0
@@ -380,21 +380,6 @@
    0
   ],
   [
-   "Brad Wight",
-   "Thunderbuddies",
-   1.79,
-   15,
-   8,
-   2,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "John Clark",
    "Lady And The Tramps",
    1.79,
@@ -404,6 +389,21 @@
    0,
    0,
    3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brad Wight",
+   "Thunderbuddies",
+   1.79,
+   15,
+   8,
+   2,
+   0,
+   0,
+   4,
    0,
    1,
    0,
@@ -560,6 +560,21 @@
    0
   ],
   [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   1.34,
+   15,
+   3,
+   6,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Edward Gschrey",
    "Team Name",
    1.34,
@@ -575,15 +590,15 @@
    0
   ],
   [
-   "Tom Solorzano",
-   "4 Of Clubs",
-   1.34,
-   15,
+   "Kevin Rowland",
+   "Team Name",
+   1.33,
    3,
-   6,
-   0,
-   0,
    1,
+   1,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -605,15 +620,15 @@
    0
   ],
   [
-   "Kevin Rowland",
-   "Team Name",
-   1.33,
+   "Debbie Olyer",
+   "Gettin Looped",
+   1.32,
+   15,
    3,
-   1,
-   1,
+   2,
    0,
    0,
-   0,
+   2,
    0,
    0,
    0,
@@ -629,21 +644,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Debbie Olyer",
-   "Gettin Looped",
-   1.32,
-   15,
-   3,
-   2,
-   0,
-   0,
-   2,
    0,
    0,
    0,
@@ -985,18 +985,6 @@
    9
   ],
   [
-   "Jimmy Mietus",
-   "Team Name",
-   17.2,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   10
-  ],
-  [
    "Brad Wight",
    "Thunderbuddies",
    17.2,
@@ -1007,6 +995,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Jimmy Mietus",
+   "Team Name",
+   17.2,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   10
   ],
   [
    "Andy D The Critters",
@@ -1081,18 +1081,6 @@
    6
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   15.51,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Sue Fuhry",
    "4 Of Clubs",
    15.51,
@@ -1103,6 +1091,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   15.51,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Ben Vassallo",
@@ -1954,5 +1954,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-29T11:04:28Z"
+ "updated": "2026-10-29T12:00:21Z"
 }

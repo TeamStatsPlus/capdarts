@@ -120,16 +120,16 @@
     1.07
    ],
    [
-    "Josh Krause",
-    "BadDarts StankyFarts",
-    1.52,
-    1.57
-   ],
-   [
     "Nick Lawlor",
     "Alex And Lawlor",
     1.82,
     1.87
+   ],
+   [
+    "Josh Krause",
+    "BadDarts StankyFarts",
+    1.52,
+    1.57
    ]
   ],
   "x": [
@@ -146,10 +146,10 @@
     18.0
    ],
    [
-    "Rick Falvo",
-    "Sweet Pickles",
-    14.25,
-    14.98
+    "Caleb Lee",
+    "Just The Tip",
+    15.41,
+    16.14
    ]
   ]
  },
@@ -365,21 +365,6 @@
    0
   ],
   [
-   "Rich Ciaccio",
-   "Nuch And Rich",
-   1.37,
-   8,
-   3,
-   0,
-   0,
-   0,
-   2,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Alex Stathopoulos",
    "Alex And Lawlor",
    1.37,
@@ -391,6 +376,21 @@
    3,
    3,
    0,
+   0,
+   0
+  ],
+  [
+   "Rich Ciaccio",
+   "Nuch And Rich",
+   1.37,
+   8,
+   3,
+   0,
+   0,
+   0,
+   2,
+   1,
+   1,
    0,
    0
   ],
@@ -813,7 +813,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-29T11:05:07Z",
+ "updated": "2026-10-29T12:01:10Z",
  "teams": [
   {
    "name": "Alex And Lawlor",
