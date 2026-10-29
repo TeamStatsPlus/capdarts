@@ -275,21 +275,6 @@
    0
   ],
   [
-   "Brandon Bacon",
-   "Bacon Titz",
-   2.08,
-   18,
-   7,
-   4,
-   1,
-   0,
-   5,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Tie Lightle",
    "Tie And Spye",
    2.08,
@@ -301,6 +286,21 @@
    8,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Brandon Bacon",
+   "Bacon Titz",
+   2.08,
+   18,
+   7,
+   4,
+   1,
+   0,
+   5,
+   4,
+   0,
    0,
    0
   ],
@@ -1246,5 +1246,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-10-29T05:05:29Z"
+ "updated": "2026-10-29T06:01:08Z"
 }

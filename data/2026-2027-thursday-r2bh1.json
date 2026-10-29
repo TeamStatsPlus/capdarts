@@ -140,16 +140,16 @@
  "improved": {
   "c": [
    [
-    "Bill Lutomski",
-    "Top Shottas",
-    1.36,
-    1.47
-   ],
-   [
     "Paul Guadagna",
     "Tipped Out",
     1.52,
     1.63
+   ],
+   [
+    "Bill Lutomski",
+    "Top Shottas",
+    1.36,
+    1.47
    ],
    [
     "Brian Pintagro",
@@ -241,21 +241,6 @@
    0
   ],
   [
-   "Andrew Casciani",
-   "Not These Guys Again",
-   2.04,
-   18,
-   4,
-   5,
-   0,
-   0,
-   5,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "David Benwell",
    "Top Shottas",
    2.04,
@@ -267,6 +252,21 @@
    9,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   2.04,
+   18,
+   4,
+   5,
+   0,
+   0,
+   5,
+   1,
+   2,
    0,
    0
   ],
@@ -1500,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-29T05:05:25Z"
+ "updated": "2026-10-29T06:01:05Z"
 }
