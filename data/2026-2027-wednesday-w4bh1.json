@@ -342,21 +342,6 @@
    0
   ],
   [
-   "Steve Caufield",
-   "ProjectileDysfncion",
-   1.73,
-   15,
-   5,
-   5,
-   1,
-   0,
-   2,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Miller",
    "3some Plus 1",
    1.73,
@@ -368,6 +353,21 @@
    5,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Steve Caufield",
+   "ProjectileDysfncion",
+   1.73,
+   15,
+   5,
+   5,
+   1,
+   0,
+   2,
+   3,
+   1,
    0,
    0
   ],
@@ -642,21 +642,6 @@
    0
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   1.37,
-   6,
-   3,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ellen Post",
    "Closer To Zero",
    1.37,
@@ -668,6 +653,21 @@
    0,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   1.37,
+   6,
+   3,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -717,21 +717,6 @@
    0
   ],
   [
-   "AARON",
-   "{Substitutes}",
-   1.33,
-   6,
-   2,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Sammy Boy Closer To Zero",
    "Closer To Zero",
    1.33,
@@ -742,6 +727,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "AARON",
+   "{Substitutes}",
+   1.33,
+   6,
+   2,
+   1,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -867,6 +867,21 @@
    0
   ],
   [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -882,12 +897,12 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
+   "Brandon Shampoe",
+   "Struggle Bus",
+   1.13,
+   9,
    1,
+   2,
    0,
    0,
    0,
@@ -921,21 +936,6 @@
    0,
    0,
    1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Brandon Shampoe",
-   "Struggle Bus",
-   1.13,
-   9,
-   1,
-   2,
-   0,
-   0,
-   0,
    0,
    0,
    0,
@@ -2808,5 +2808,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-29T12:00:46Z"
+ "updated": "2026-10-29T13:23:01Z"
 }

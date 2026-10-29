@@ -229,21 +229,6 @@
    0
   ],
   [
-   "Michael TeWinkle",
-   "Bullshots",
-   2.39,
-   15,
-   3,
-   7,
-   0,
-   0,
-   6,
-   3,
-   3,
-   0,
-   0
-  ],
-  [
    "Jay Jaz",
    "Ask Bobby",
    2.39,
@@ -255,6 +240,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Michael TeWinkle",
+   "Bullshots",
+   2.39,
+   15,
+   3,
+   7,
+   0,
+   0,
+   6,
+   3,
+   3,
    0,
    0
   ],
@@ -379,21 +379,6 @@
    0
   ],
   [
-   "Kurt Krahenbuhl",
-   "Rizm With The Tizm",
-   2.13,
-   9,
-   3,
-   4,
-   0,
-   0,
-   5,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Eric Porter",
    "Liquor Box",
    2.13,
@@ -404,6 +389,21 @@
    0,
    3,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kurt Krahenbuhl",
+   "Rizm With The Tizm",
+   2.13,
+   9,
+   3,
+   4,
+   0,
+   0,
+   5,
+   0,
    0,
    0,
    0
@@ -469,21 +469,6 @@
    0
   ],
   [
-   "Jim Iorio",
-   "Average Joes",
-   1.96,
-   15,
-   4,
-   5,
-   1,
-   0,
-   3,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Dave Robinson",
    "Dart Vaders",
    1.96,
@@ -495,6 +480,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jim Iorio",
+   "Average Joes",
+   1.96,
+   15,
+   4,
+   5,
+   1,
+   0,
+   3,
+   3,
+   2,
    0,
    0
   ],
@@ -589,21 +589,6 @@
    1
   ],
   [
-   "Juan Rosado",
-   "Liquor Box",
-   1.81,
-   15,
-   4,
-   3,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Rob Ayotte",
    "Liquor Box",
    1.81,
@@ -614,6 +599,21 @@
    0,
    3,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Juan Rosado",
+   "Liquor Box",
+   1.81,
+   15,
+   4,
+   3,
+   0,
+   0,
+   2,
+   3,
    0,
    0,
    0
@@ -649,6 +649,21 @@
    0
   ],
   [
+   "Courtney Armstrong",
+   "Rizm With The Tizm",
+   1.78,
+   15,
+   5,
+   4,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Aaron Meeks",
    "Bullshots",
    1.78,
@@ -664,16 +679,16 @@
    0
   ],
   [
-   "Courtney Armstrong",
-   "Rizm With The Tizm",
-   1.78,
-   15,
-   5,
-   4,
+   "Brian Lawler",
+   "Ask Bobby",
+   1.77,
+   12,
+   2,
+   3,
    0,
    0,
-   4,
-   1,
+   3,
+   0,
    1,
    0,
    0
@@ -690,21 +705,6 @@
    2,
    2,
    0,
-   0,
-   0
-  ],
-  [
-   "Brian Lawler",
-   "Ask Bobby",
-   1.77,
-   12,
-   2,
-   3,
-   0,
-   0,
-   3,
-   0,
-   1,
    0,
    0
   ],
@@ -754,12 +754,12 @@
    1
   ],
   [
-   "Thomas Macomber",
-   "Ask Bobby",
+   "Jon Nolte",
+   "Average Joes",
    1.67,
-   12,
+   15,
    3,
-   1,
+   4,
    0,
    0,
    1,
@@ -769,12 +769,12 @@
    0
   ],
   [
-   "Jon Nolte",
-   "Average Joes",
+   "Thomas Macomber",
+   "Ask Bobby",
    1.67,
-   15,
+   12,
    3,
-   4,
+   1,
    0,
    0,
    1,
@@ -844,21 +844,6 @@
    0
   ],
   [
-   "Matthew Griffith",
-   "Rizm With The Tizm",
-   1.57,
-   15,
-   6,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Nick Maguire",
    "Team Stinky",
    1.57,
@@ -870,6 +855,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Matthew Griffith",
+   "Rizm With The Tizm",
+   1.57,
+   15,
+   6,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -1590,24 +1590,24 @@
    5
   ],
   [
-   "Joe Arrajj",
-   "Ask Bobby",
-   15.9,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Jill Davids",
    "Id Hit That",
    15.9,
    12,
    0,
    1,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Joe Arrajj",
+   "Ask Bobby",
+   15.9,
+   8,
+   1,
+   0,
    0,
    0,
    0,
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-29T12:00:53Z"
+ "updated": "2026-10-29T13:23:06Z"
 }
