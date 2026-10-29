@@ -166,16 +166,16 @@
  "improved": {
   "c": [
    [
-    "Matthew Sutherland",
-    "Darts Deep",
-    2.25,
-    2.32
-   ],
-   [
     "Breonna Provorse",
     "Shared Brain Cell",
     1.9,
     1.97
+   ],
+   [
+    "Matthew Sutherland",
+    "Darts Deep",
+    2.25,
+    2.32
    ],
    [
     "Mike Kolberg",
@@ -1779,5 +1779,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-29T17:12:17Z"
+ "updated": "2026-10-29T18:04:16Z"
 }
