@@ -861,18 +861,6 @@
    7
   ],
   [
-   "Joel Diaz",
-   "Duckin Farts",
-   20.02,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Bob Newell",
    "Pig Roasters",
    20.02,
@@ -883,6 +871,18 @@
    0,
    2,
    4
+  ],
+  [
+   "Joel Diaz",
+   "Duckin Farts",
+   20.02,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "John Frazer",
@@ -1590,5 +1590,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-29T22:00:57Z"
+ "updated": "2026-10-29T23:54:52Z"
 }

@@ -275,21 +275,6 @@
    1
   ],
   [
-   "Todd Guichard",
-   "ApologiseNow",
-   2.26,
-   30,
-   9,
-   3,
-   0,
-   0,
-   4,
-   4,
-   5,
-   0,
-   0
-  ],
-  [
    "Mian Saladeen",
    "ApologiseNow",
    2.26,
@@ -305,17 +290,17 @@
    0
   ],
   [
-   "Alli Distler",
-   "Galactic Platypus",
-   2.25,
+   "Todd Guichard",
+   "ApologiseNow",
+   2.26,
    30,
-   5,
-   16,
+   9,
+   3,
    0,
    0,
-   13,
+   4,
+   4,
    5,
-   1,
    0,
    0
   ],
@@ -331,6 +316,21 @@
    11,
    5,
    2,
+   0,
+   0
+  ],
+  [
+   "Alli Distler",
+   "Galactic Platypus",
+   2.25,
+   30,
+   5,
+   16,
+   0,
+   0,
+   13,
+   5,
+   1,
    0,
    0
   ],
@@ -1198,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-29T22:57:56Z"
+ "updated": "2026-10-29T23:53:48Z"
 }
