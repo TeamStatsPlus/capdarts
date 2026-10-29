@@ -589,21 +589,6 @@
    1
   ],
   [
-   "Rob Ayotte",
-   "Liquor Box",
-   1.81,
-   9,
-   2,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Juan Rosado",
    "Liquor Box",
    1.81,
@@ -614,6 +599,21 @@
    0,
    2,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Ayotte",
+   "Liquor Box",
+   1.81,
+   9,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -679,21 +679,6 @@
    0
   ],
   [
-   "Brian Lawler",
-   "Ask Bobby",
-   1.77,
-   12,
-   2,
-   3,
-   0,
-   0,
-   3,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Hale",
    "Id Hit That",
    1.77,
@@ -705,6 +690,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Brian Lawler",
+   "Ask Bobby",
+   1.77,
+   12,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
+   1,
    0,
    0
   ],
@@ -754,12 +754,12 @@
    1
   ],
   [
-   "Jon Nolte",
-   "Average Joes",
+   "Thomas Macomber",
+   "Ask Bobby",
    1.67,
-   15,
+   12,
    3,
-   4,
+   1,
    0,
    0,
    1,
@@ -769,12 +769,12 @@
    0
   ],
   [
-   "Thomas Macomber",
-   "Ask Bobby",
+   "Jon Nolte",
+   "Average Joes",
    1.67,
-   12,
+   15,
    3,
-   1,
+   4,
    0,
    0,
    1,
@@ -1590,24 +1590,24 @@
    5
   ],
   [
-   "Jill Davids",
-   "Id Hit That",
-   15.9,
-   12,
-   0,
-   1,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Joe Arrajj",
    "Ask Bobby",
    15.9,
    8,
    1,
    0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Jill Davids",
+   "Id Hit That",
+   15.9,
+   12,
+   0,
+   1,
    0,
    0,
    0,
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-29T05:05:09Z"
+ "updated": "2026-10-29T07:24:17Z"
 }

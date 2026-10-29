@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Jason Post",
-    "Struggle Bus",
-    1.18,
-    1.25
+    "Graham Wheeler",
+    "Shart Shooters",
+    1.61,
+    1.68
    ]
   ],
   "x": [
@@ -717,21 +717,6 @@
    0
   ],
   [
-   "AARON",
-   "{Substitutes}",
-   1.33,
-   6,
-   2,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Sammy Boy Closer To Zero",
    "Closer To Zero",
    1.33,
@@ -742,6 +727,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "AARON",
+   "{Substitutes}",
+   1.33,
+   6,
+   2,
+   1,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -867,6 +867,21 @@
    0
   ],
   [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -882,12 +897,12 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
+   "Brandon Shampoe",
+   "Struggle Bus",
+   1.13,
+   9,
    1,
+   2,
    0,
    0,
    0,
@@ -921,21 +936,6 @@
    0,
    0,
    1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Brandon Shampoe",
-   "Struggle Bus",
-   1.13,
-   9,
-   1,
-   2,
-   0,
-   0,
-   0,
    0,
    0,
    0,
@@ -2808,5 +2808,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-29T06:00:48Z"
+ "updated": "2026-10-29T07:24:11Z"
 }
