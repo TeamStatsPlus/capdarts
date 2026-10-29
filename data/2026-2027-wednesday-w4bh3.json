@@ -5,14 +5,14 @@
  },
  "standings": [
   [
-   "Andycapped",
-   18,
-   8
-  ],
-  [
    "Duckin Farts",
    34,
    18
+  ],
+  [
+   "Andycapped",
+   25,
+   14
   ],
   [
    "Flight Phucked",
@@ -26,8 +26,8 @@
   ],
   [
    "Wasted Talent",
-   28,
-   24
+   34,
+   31
   ],
   [
    "Pig Roasters",
@@ -42,28 +42,28 @@
  ],
  "results": [
   [
-   "Andycapped",
-   "Pig Roasters",
-   "10/07/2026",
-   2,
-   10,
-   3
-  ],
-  [
-   "Wasted Talent",
-   "Flight Phucked",
-   "10/21/2026",
-   4,
-   8,
-   5
-  ],
-  [
    "Duckin Farts",
    "Flight Phucked",
    "10/28/2026",
    5,
    8,
    5
+  ],
+  [
+   "Andycapped",
+   "Wasted Talent",
+   "10/28/2026",
+   5,
+   7,
+   6
+  ],
+  [
+   "Wasted Talent",
+   "Andycapped",
+   "10/28/2026",
+   5,
+   6,
+   7
   ],
   [
    "Flight Phucked",
@@ -101,42 +101,42 @@
  "improved": {
   "c": [
    [
-    "John Clarke",
-    "Duckin Farts",
-    1.9,
-    2.08
-   ],
-   [
     "John Frazer",
     "Duckin Farts",
     1.7,
     1.88
    ],
    [
-    "Jamie Johnson",
+    "John Clarke",
     "Duckin Farts",
-    2.39,
-    2.44
+    1.9,
+    2.08
+   ],
+   [
+    "Kayla Ross",
+    "Andycapped",
+    1.29,
+    1.44
    ]
   ],
   "x": [
+   [
+    "Jay Musshafen",
+    "Wasted Talent",
+    20.31,
+    21.86
+   ],
+   [
+    "Andy Georgetti",
+    "Andycapped",
+    24.66,
+    26.12
+   ],
    [
     "Zach Baker",
     "Flight Phucked",
     21.66,
     22.31
-   ],
-   [
-    "Brian Faucher",
-    "Duckin Farts",
-    21.66,
-    22.28
-   ],
-   [
-    "John Clarke",
-    "Duckin Farts",
-    18.76,
-    19.36
    ]
   ]
  },
@@ -144,15 +144,15 @@
   [
    "Andy Georgetti",
    "Andycapped",
-   2.87,
-   6,
-   4,
+   2.86,
+   9,
+   7,
    1,
    1,
    0,
+   3,
    2,
-   2,
-   2,
+   5,
    0,
    0
   ],
@@ -292,6 +292,21 @@
    0
   ],
   [
+   "Dominick Posadni",
+   "Andycapped",
+   2.17,
+   9,
+   3,
+   2,
+   0,
+   0,
+   3,
+   5,
+   0,
+   0,
+   0
+  ],
+  [
    "John Bailey",
    "One For The Ditch",
    2.13,
@@ -302,21 +317,6 @@
    0,
    7,
    2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Dominick Posadni",
-   "Andycapped",
-   2.1,
-   6,
-   2,
-   1,
-   0,
-   0,
-   1,
-   4,
    0,
    0,
    0
@@ -352,6 +352,21 @@
    0
   ],
   [
+   "Johnny Nichols",
+   "Wasted Talent",
+   2.01,
+   12,
+   4,
+   4,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Steve Danzig",
    "TQMB",
    2.0,
@@ -362,36 +377,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Johnny Nichols",
-   "Wasted Talent",
-   1.99,
-   9,
-   3,
-   4,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Bob Newell",
-   "Pig Roasters",
-   1.95,
-   9,
-   2,
-   2,
-   0,
-   0,
-   4,
-   1,
    0,
    0,
    0
@@ -412,15 +397,15 @@
    0
   ],
   [
-   "Jay Musshafen",
-   "Wasted Talent",
-   1.92,
-   12,
-   6,
+   "Bob Newell",
+   "Pig Roasters",
+   1.95,
+   9,
+   2,
    2,
    0,
    0,
-   6,
+   4,
    1,
    0,
    0,
@@ -438,6 +423,21 @@
    3,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Jay Musshafen",
+   "Wasted Talent",
+   1.86,
+   15,
+   6,
+   4,
+   0,
+   0,
+   7,
+   1,
+   0,
    0,
    0
   ],
@@ -482,21 +482,6 @@
    0,
    5,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Pat Nichols",
-   "Wasted Talent",
-   1.68,
-   6,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
    0,
    0,
    0
@@ -547,6 +532,21 @@
    0
   ],
   [
+   "Pat Nichols",
+   "Wasted Talent",
+   1.61,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Steve Ruffino",
    "Flight Phucked",
    1.55,
@@ -579,14 +579,14 @@
   [
    "Matt Rothenburgh",
    "Wasted Talent",
-   1.45,
-   12,
-   2,
+   1.47,
+   15,
+   3,
    6,
    0,
    0,
-   0,
-   0,
+   2,
+   1,
    0,
    0,
    0
@@ -594,10 +594,10 @@
   [
    "Kayla Ross",
    "Andycapped",
-   1.29,
-   6,
+   1.44,
+   9,
    2,
-   2,
+   4,
    0,
    0,
    1,
@@ -650,6 +650,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Win Herne",
+   "Andycapped",
+   1.04,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ]
  ],
  "x01": [
@@ -692,14 +707,14 @@
   [
    "Andy Georgetti",
    "Andycapped",
-   24.66,
-   8,
-   3,
-   1,
+   26.12,
+   12,
+   4,
+   2,
    0,
    0,
    0,
-   10
+   15
   ],
   [
    "Jamie Johnson",
@@ -750,6 +765,18 @@
    11
   ],
   [
+   "Jay Musshafen",
+   "Wasted Talent",
+   21.86,
+   20,
+   5,
+   2,
+   0,
+   0,
+   1,
+   11
+  ],
+  [
    "John Bailey",
    "One For The Ditch",
    21.78,
@@ -774,18 +801,6 @@
    7
   ],
   [
-   "Dominick Posadni",
-   "Andycapped",
-   21.38,
-   8,
-   2,
-   2,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Steve Ruffino",
    "Flight Phucked",
    21.02,
@@ -796,6 +811,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Dominick Posadni",
+   "Andycapped",
+   20.98,
+   12,
+   2,
+   2,
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Christopher Welling",
@@ -828,18 +855,6 @@
    12,
    2,
    1,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
-   "Jay Musshafen",
-   "Wasted Talent",
-   20.31,
-   16,
-   4,
-   2,
    0,
    0,
    0,
@@ -920,14 +935,14 @@
   [
    "Johnny Nichols",
    "Wasted Talent",
-   18.51,
-   12,
+   18.66,
+   16,
+   1,
    0,
    0,
    0,
    0,
-   0,
-   6
+   8
   ],
   [
    "Mike Meyers",
@@ -956,9 +971,9 @@
   [
    "Pat Nichols",
    "Wasted Talent",
-   17.24,
-   8,
-   4,
+   16.0,
+   12,
+   6,
    0,
    0,
    0,
@@ -966,28 +981,40 @@
    6
   ],
   [
-   "Kayla Ross",
+   "Matt Rothenburgh",
+   "Wasted Talent",
+   15.93,
+   20,
+   0,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Win Herne",
    "Andycapped",
-   15.99,
-   8,
+   15.92,
+   4,
    1,
    0,
    0,
    0,
    0,
-   1
+   2
   ],
   [
-   "Matt Rothenburgh",
-   "Wasted Talent",
-   15.88,
-   16,
+   "Kayla Ross",
+   "Andycapped",
+   15.38,
+   12,
+   2,
    0,
    0,
    0,
    0,
-   0,
-   4
+   1
   ],
   [
    "Jim Chodak",
@@ -1563,5 +1590,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-29T01:22:21Z"
+ "updated": "2026-10-29T03:05:03Z"
 }

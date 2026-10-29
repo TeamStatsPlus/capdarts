@@ -11,23 +11,23 @@
   ],
   [
    "3some Plus 1",
-   26,
-   13
+   33,
+   19
+  ],
+  [
+   "Double Deuces",
+   32,
+   20
   ],
   [
    "Tips Dont Lie",
-   32,
-   20
+   38,
+   27
   ],
   [
    "Cant Close",
    37,
    28
-  ],
-  [
-   "Double Deuces",
-   22,
-   17
   ],
   [
    "The Limp Wristers",
@@ -40,32 +40,40 @@
    34
   ],
   [
-   "Emerald Society",
-   20,
-   32
-  ],
-  [
-   "Struggle Bus",
-   18,
-   34
+   "Throwgasms",
+   16,
+   23
   ],
   [
    "Closer To Zero",
-   13,
-   26
+   21,
+   31
+  ],
+  [
+   "Emerald Society",
+   23,
+   42
+  ],
+  [
+   "Struggle Bus",
+   22,
+   43
   ],
   [
    "Squeekertips",
-   12,
-   27
-  ],
-  [
-   "Throwgasms",
-   7,
-   19
+   17,
+   35
   ]
  ],
  "results": [
+  [
+   "Double Deuces",
+   "Emerald Society",
+   "10/28/2026",
+   5,
+   10,
+   3
+  ],
   [
    "ProjectileDysfncion",
    "The Limp Wristers",
@@ -75,20 +83,12 @@
    4
   ],
   [
-   "3some Plus 1",
-   "Squeekertips",
-   "10/21/2026",
-   4,
+   "Throwgasms",
+   "Struggle Bus",
+   "10/28/2026",
+   5,
    9,
    4
-  ],
-  [
-   "Double Deuces",
-   "Struggle Bus",
-   "10/14/2026",
-   3,
-   8,
-   5
   ],
   [
    "Shart Shooters",
@@ -99,24 +99,40 @@
    5
   ],
   [
-   "Struggle Bus",
-   "Shart Shooters",
-   "10/21/2026",
-   4,
+   "Closer To Zero",
+   "Squeekertips",
+   "10/28/2026",
+   5,
+   8,
+   5
+  ],
+  [
+   "3some Plus 1",
+   "Tips Dont Lie",
+   "10/28/2026",
+   5,
    7,
    6
   ],
   [
    "Tips Dont Lie",
-   "The Limp Wristers",
-   "10/21/2026",
-   4,
+   "3some Plus 1",
+   "10/28/2026",
+   5,
    6,
    7
   ],
   [
    "Cant Close",
    "Shart Shooters",
+   "10/28/2026",
+   5,
+   5,
+   8
+  ],
+  [
+   "Squeekertips",
+   "Closer To Zero",
    "10/28/2026",
    5,
    5,
@@ -131,34 +147,18 @@
    9
   ],
   [
-   "Closer To Zero",
-   "Cant Close",
-   "10/21/2026",
-   4,
-   4,
-   9
-  ],
-  [
-   "Squeekertips",
-   "3some Plus 1",
-   "10/21/2026",
-   4,
-   4,
-   9
-  ],
-  [
+   "Struggle Bus",
    "Throwgasms",
-   "ProjectileDysfncion",
-   "10/14/2026",
-   3,
-   3,
-   10
+   "10/28/2026",
+   5,
+   4,
+   9
   ],
   [
    "Emerald Society",
-   "ProjectileDysfncion",
-   "10/21/2026",
-   4,
+   "Double Deuces",
+   "10/28/2026",
+   5,
    3,
    10
   ]
@@ -166,22 +166,22 @@
  "improved": {
   "c": [
    [
-    "Lydia Wheeler",
-    "Shart Shooters",
-    0.87,
-    0.94
+    "Tanner Curtis",
+    "Closer To Zero",
+    1.52,
+    1.64
    ],
    [
-    "Graham Wheeler",
-    "Shart Shooters",
-    1.61,
-    1.68
+    "Ashley McLaughlin",
+    "Throwgasms",
+    0.88,
+    0.99
    ],
    [
-    "Tracy Waud",
-    "Shart Shooters",
-    0.91,
-    0.96
+    "Jason Post",
+    "Struggle Bus",
+    1.18,
+    1.25
    ]
   ],
   "x": [
@@ -192,16 +192,16 @@
     16.88
    ],
    [
+    "Nancy Miller",
+    "3some Plus 1",
+    13.14,
+    13.84
+   ],
+   [
     "Corey Hartung",
     "The Limp Wristers",
     19.35,
     20.04
-   ],
-   [
-    "Stephanie Carlson",
-    "The Limp Wristers",
-    13.86,
-    14.42
    ]
   ]
  },
@@ -222,21 +222,6 @@
    0
   ],
   [
-   "Eric Porte",
-   "Throwgasms",
-   2.18,
-   3,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Adam Darder",
    "Cant Close",
    2.13,
@@ -246,6 +231,21 @@
    1,
    0,
    3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Eric Porte",
+   "Throwgasms",
+   2.11,
+   6,
+   3,
+   1,
+   0,
+   0,
+   4,
    1,
    0,
    0,
@@ -299,60 +299,15 @@
   [
    "Brent Flynn",
    "Tips Dont Lie",
-   1.9,
-   12,
-   6,
-   4,
-   0,
-   0,
-   4,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
-   "Brian Miller",
-   "3some Plus 1",
-   1.83,
-   9,
-   2,
-   4,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Chuck Hathaway",
-   "Closer To Zero",
    1.82,
-   6,
-   2,
-   2,
+   15,
+   7,
+   5,
    0,
    0,
-   1,
-   1,
-   0,
-   0,
-   1
-  ],
-  [
-   "Ryan Boardman",
-   "Double Deuces",
-   1.76,
-   9,
-   3,
-   3,
-   0,
+   4,
    0,
    2,
-   1,
-   0,
    0,
    0
   ],
@@ -372,6 +327,36 @@
    0
   ],
   [
+   "Adam Fowles",
+   "Tips Dont Lie",
+   1.73,
+   15,
+   3,
+   6,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Miller",
+   "3some Plus 1",
+   1.73,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Steve Caufield",
    "ProjectileDysfncion",
    1.73,
@@ -387,31 +372,16 @@
    0
   ],
   [
-   "Adam Fowles",
-   "Tips Dont Lie",
-   1.7,
+   "Ryan Boardman",
+   "Double Deuces",
+   1.69,
    12,
    3,
-   4,
+   5,
    0,
    0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Brian Cassidy",
-   "Emerald Society",
-   1.7,
-   6,
+   2,
    1,
-   1,
-   0,
-   0,
-   1,
-   0,
    0,
    0,
    0
@@ -432,21 +402,6 @@
    0
   ],
   [
-   "Philip Salvaggio",
-   "Tips Dont Lie",
-   1.67,
-   12,
-   3,
-   5,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Stephen Popowych",
    "ProjectileDysfncion",
    1.67,
@@ -457,6 +412,51 @@
    0,
    0,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mark Pelcher",
+   "Emerald Society",
+   1.65,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris Coulter",
+   "Double Deuces",
+   1.64,
+   12,
+   5,
+   3,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tanner Curtis",
+   "Closer To Zero",
+   1.64,
+   6,
+   1,
+   0,
+   0,
+   0,
+   5,
+   0,
    0,
    0,
    0
@@ -479,43 +479,43 @@
   [
    "Chris Murgatroyd",
    "Double Deuces",
-   1.61,
-   9,
-   2,
-   2,
-   0,
-   0,
-   1,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Chris Coulter",
-   "Double Deuces",
-   1.59,
-   9,
+   1.62,
+   12,
    4,
+   3,
+   0,
+   0,
    2,
-   0,
-   0,
-   0,
-   1,
+   2,
    0,
    0,
    0
   ],
   [
-   "Mike Loucks",
-   "3some Plus 1",
-   1.57,
+   "Philip Salvaggio",
+   "Tips Dont Lie",
+   1.61,
+   15,
+   4,
+   5,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Cassidy",
+   "Emerald Society",
+   1.6,
    9,
-   3,
-   3,
+   2,
    1,
    0,
-   2,
+   0,
+   1,
    0,
    0,
    0,
@@ -537,15 +537,15 @@
    0
   ],
   [
-   "Tanner Curtis",
-   "Closer To Zero",
-   1.52,
+   "Mike Loucks",
+   "3some Plus 1",
+   1.56,
+   12,
    3,
-   0,
-   0,
-   0,
-   0,
+   4,
    1,
+   0,
+   4,
    0,
    0,
    0,
@@ -597,10 +597,25 @@
    0
   ],
   [
+   "Chuck Hathaway",
+   "Closer To Zero",
+   1.45,
+   9,
+   3,
+   3,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  [
    "John Brennan",
    "Emerald Society",
-   1.43,
-   12,
+   1.41,
+   15,
    1,
    3,
    0,
@@ -627,32 +642,17 @@
    0
   ],
   [
-   "Nancy Miller",
-   "3some Plus 1",
-   1.39,
-   9,
-   3,
-   4,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Geoff Milunich",
-   "Tips Dont Lie",
-   1.38,
+   "Ellen Post",
+   "Closer To Zero",
+   1.37,
    6,
-   3,
-   2,
+   1,
+   1,
    0,
    0,
    0,
    0,
-   0,
+   1,
    0,
    0
   ],
@@ -672,21 +672,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.37,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Josh Struggle Bus",
    "Struggle Bus",
    1.35,
@@ -696,6 +681,36 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bri Smith",
+   "3some Plus 1",
+   1.35,
+   12,
+   6,
+   3,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Byrd",
+   "Closer To Zero",
+   1.34,
+   12,
+   2,
+   3,
+   0,
+   0,
+   4,
    0,
    0,
    0,
@@ -717,46 +732,76 @@
    0
   ],
   [
-   "Howie Klick",
-   "Emerald Society",
+   "AARON",
+   "{Substitutes}",
    1.33,
    6,
-   1,
-   1,
+   2,
    1,
    0,
    0,
-   0,
+   2,
+   1,
    0,
    0,
    0
   ],
   [
-   "Bri Smith",
-   "3some Plus 1",
+   "Geoff Milunich",
+   "Tips Dont Lie",
    1.32,
    9,
-   5,
+   4,
    2,
    0,
    0,
    0,
+   0,
+   0,
    1,
-   0,
-   0,
    0
   ],
   [
-   "Rob Byrd",
-   "Closer To Zero",
+   "Howie Klick",
+   "Emerald Society",
    1.31,
    9,
    1,
-   2,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Nancy Miller",
+   "3some Plus 1",
+   1.28,
+   12,
+   4,
+   4,
    0,
    0,
    2,
+   1,
    0,
+   0,
+   0
+  ],
+  [
+   "Jason Post",
+   "Struggle Bus",
+   1.25,
+   12,
+   0,
+   1,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -807,46 +852,16 @@
    0
   ],
   [
-   "Jacob Post",
-   "Struggle Bus",
-   1.2,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Tyler Voellinger",
    "Struggle Bus",
-   1.2,
-   9,
-   1,
+   1.19,
+   12,
+   2,
    2,
    0,
    0,
    0,
    2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jason Post",
-   "Struggle Bus",
-   1.18,
-   9,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
    0,
    0,
    0
@@ -882,36 +897,6 @@
    0
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   1.15,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Sylvan Hemingway",
-   "Squeekertips",
-   1.14,
-   6,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Brandon Shampoe",
    "Struggle Bus",
    1.13,
@@ -929,28 +914,43 @@
   [
    "Tyler CannonBailey",
    "Squeekertips",
-   1.12,
-   9,
+   1.13,
+   12,
+   2,
+   2,
+   0,
+   0,
    1,
-   1,
-   0,
-   0,
-   0,
    0,
    0,
    0,
    0
   ],
   [
-   "Katy Carges",
-   "Throwgasms",
-   1.04,
-   6,
-   0,
+   "Jacob Post",
+   "Struggle Bus",
+   1.13,
+   12,
+   2,
    1,
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   1.1,
+   9,
+   2,
+   3,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -989,10 +989,25 @@
   [
    "Jill Calvert",
    "Squeekertips",
-   0.99,
-   9,
-   2,
+   1.02,
+   12,
+   3,
    1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Katy Carges",
+   "Throwgasms",
+   1.01,
+   9,
+   1,
+   2,
    0,
    0,
    1,
@@ -1017,15 +1032,45 @@
    0
   ],
   [
-   "Carly Kostiw",
-   "Squeekertips",
-   0.96,
+   "Ashley McLaughlin",
+   "Throwgasms",
+   0.99,
    9,
    1,
    2,
    0,
    0,
+   1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Carly Kostiw",
+   "Squeekertips",
+   0.98,
+   12,
+   1,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sylvan Hemingway",
+   "Squeekertips",
+   0.97,
+   9,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0,
@@ -1077,6 +1122,21 @@
    0
   ],
   [
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
+   0.9,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Cindy Simpson",
    "Squeekertips",
    0.9,
@@ -1101,21 +1161,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Ashley McLaughlin",
-   "Throwgasms",
-   0.88,
-   6,
-   0,
-   0,
-   0,
-   0,
-   1,
    0,
    0,
    0,
@@ -1189,26 +1234,14 @@
   [
    "Brian Miller",
    "3some Plus 1",
-   17.72,
-   12,
-   3,
+   18.17,
+   16,
+   5,
+   1,
    0,
    0,
    0,
-   0,
-   8
-  ],
-  [
-   "Eric Porte",
-   "Throwgasms",
-   17.59,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
+   11
   ],
   [
    "Rachel Popowych",
@@ -1223,16 +1256,16 @@
    12
   ],
   [
-   "Brent Flynn",
-   "Tips Dont Lie",
-   17.4,
-   16,
-   5,
+   "Eric Porte",
+   "Throwgasms",
+   17.42,
+   8,
+   3,
    0,
    0,
    0,
    0,
-   11
+   4
   ],
   [
    "Sammy Boy Closer To Zero",
@@ -1247,6 +1280,30 @@
    0
   ],
   [
+   "Brent Flynn",
+   "Tips Dont Lie",
+   17.21,
+   20,
+   5,
+   0,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
+   "Chris Coulter",
+   "Double Deuces",
+   17.16,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
    "Graham Wheeler",
    "Shart Shooters",
    17.16,
@@ -1259,16 +1316,16 @@
    6
   ],
   [
-   "Chris Coulter",
-   "Double Deuces",
-   16.92,
-   12,
-   3,
+   "Mike Loucks",
+   "3some Plus 1",
+   16.99,
+   16,
+   7,
    0,
    0,
    0,
    0,
-   4
+   6
   ],
   [
    "Stephen Popowych",
@@ -1283,6 +1340,30 @@
    7
   ],
   [
+   "Ryan Boardman",
+   "Double Deuces",
+   16.8,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "AARON",
+   "{Substitutes}",
+   16.77,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
    "James Simpson",
    "Cant Close",
    16.69,
@@ -1295,40 +1376,16 @@
    4
   ],
   [
-   "Mike Loucks",
-   "3some Plus 1",
-   16.55,
-   12,
-   7,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
-   "Ryan Boardman",
-   "Double Deuces",
-   16.52,
-   12,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Chris Murgatroyd",
    "Double Deuces",
-   16.31,
-   12,
-   5,
+   16.46,
+   16,
+   6,
    0,
    0,
    0,
    0,
-   2
+   3
   ],
   [
    "Dan Berger",
@@ -1391,11 +1448,23 @@
    3
   ],
   [
+   "Howie Klick",
+   "Emerald Society",
+   15.42,
+   12,
+   5,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
    "Ashley McLaughlin",
    "Throwgasms",
-   15.57,
-   8,
-   3,
+   15.22,
+   12,
+   4,
    0,
    0,
    0,
@@ -1405,44 +1474,8 @@
   [
    "Geoff Milunich",
    "Tips Dont Lie",
-   15.55,
-   8,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
-   "Katy Carges",
-   "Throwgasms",
-   15.23,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
-   "Chuck Hathaway",
-   "Closer To Zero",
-   15.17,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
-   "Howie Klick",
-   "Emerald Society",
-   15.14,
-   8,
+   14.97,
+   12,
    4,
    0,
    0,
@@ -1453,9 +1486,21 @@
   [
    "Philip Salvaggio",
    "Tips Dont Lie",
-   15.03,
+   14.91,
+   20,
+   5,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Rob Byrd",
+   "Closer To Zero",
+   14.88,
    16,
-   4,
+   2,
    0,
    0,
    0,
@@ -1463,40 +1508,16 @@
    4
   ],
   [
-   "Carly Kostiw",
-   "Squeekertips",
-   14.74,
-   12,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
-   "Jacob Post",
-   "Struggle Bus",
-   14.48,
+   "Chuck Hathaway",
+   "Closer To Zero",
+   14.65,
    12,
    2,
    0,
    0,
    0,
    0,
-   2
-  ],
-  [
-   "Rob Byrd",
-   "Closer To Zero",
-   14.47,
-   12,
-   0,
-   0,
-   0,
-   0,
-   0,
-   3
+   1
   ],
   [
    "John Waud",
@@ -1523,30 +1544,6 @@
    0
   ],
   [
-   "Bri Smith",
-   "3some Plus 1",
-   14.41,
-   12,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jason Post",
-   "Struggle Bus",
-   14.4,
-   12,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Matt Goldman",
    "Double Deuces",
    14.4,
@@ -1557,6 +1554,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Jason Post",
+   "Struggle Bus",
+   14.34,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Danielle Henry",
@@ -1583,10 +1592,46 @@
    3
   ],
   [
-   "Tyler Voellinger",
-   "Struggle Bus",
-   14.12,
+   "Mark Pelcher",
+   "Emerald Society",
+   14.15,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Katy Carges",
+   "Throwgasms",
+   14.08,
    12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Bri Smith",
+   "3some Plus 1",
+   14.02,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tanner Curtis",
+   "Closer To Zero",
+   14.01,
+   8,
    3,
    0,
    0,
@@ -1607,6 +1652,18 @@
    1
   ],
   [
+   "Tyler Voellinger",
+   "Struggle Bus",
+   13.99,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
    "John Inzinna",
    "Cant Close",
    13.9,
@@ -1619,11 +1676,35 @@
    1
   ],
   [
-   "Tanner Curtis",
-   "Closer To Zero",
+   "John Brennan",
+   "Emerald Society",
    13.86,
+   20,
+   5,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
+   13.85,
    4,
-   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Nancy Miller",
+   "3some Plus 1",
+   13.84,
+   16,
+   3,
    0,
    0,
    0,
@@ -1643,16 +1724,52 @@
    0
   ],
   [
-   "John Brennan",
-   "Emerald Society",
-   13.51,
+   "Carly Kostiw",
+   "Squeekertips",
+   13.78,
    16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Jacob Post",
+   "Struggle Bus",
+   13.78,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Adam Fowles",
+   "Tips Dont Lie",
+   13.52,
+   20,
    4,
    0,
    0,
    0,
    0,
    2
+  ],
+  [
+   "Tyler CannonBailey",
+   "Squeekertips",
+   13.39,
+   16,
+   5,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Josh Struggle Bus",
@@ -1667,18 +1784,6 @@
    0
   ],
   [
-   "Adam Fowles",
-   "Tips Dont Lie",
-   13.25,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Brandon Shampoe",
    "Struggle Bus",
    13.2,
@@ -1691,18 +1796,6 @@
    2
   ],
   [
-   "Tyler CannonBailey",
-   "Squeekertips",
-   13.15,
-   12,
-   4,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Marin Valentino",
    "The Limp Wristers",
    13.14,
@@ -1713,18 +1806,6 @@
    0,
    0,
    1
-  ],
-  [
-   "Nancy Miller",
-   "3some Plus 1",
-   13.14,
-   12,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0
   ],
   [
    "Christa Herbst",
@@ -1763,6 +1844,18 @@
    0
   ],
   [
+   "Brian Cassidy",
+   "Emerald Society",
+   12.86,
+   12,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
    "Lydia Wheeler",
    "Shart Shooters",
    12.59,
@@ -1787,22 +1880,10 @@
    1
   ],
   [
-   "Brian Cassidy",
-   "Emerald Society",
-   12.4,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Jess Post",
    "Closer To Zero",
-   12.4,
-   8,
+   12.35,
+   12,
    0,
    0,
    0,
@@ -1823,6 +1904,18 @@
    0
   ],
   [
+   "Jill Calvert",
+   "Squeekertips",
+   12.13,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
    "Tracy Waud",
    "Shart Shooters",
    11.77,
@@ -1835,23 +1928,11 @@
    0
   ],
   [
-   "Jill Calvert",
+   "Sylvan Hemingway",
    "Squeekertips",
-   11.76,
+   11.53,
    12,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
-   "Andrea Sutherland",
-   "Closer To Zero",
-   11.47,
-   4,
-   0,
+   1,
    0,
    0,
    0,
@@ -1859,10 +1940,10 @@
    0
   ],
   [
-   "Sylvan Hemingway",
-   "Squeekertips",
-   11.06,
-   8,
+   "Andrea Sutherland",
+   "Closer To Zero",
+   11.47,
+   4,
    0,
    0,
    0,
@@ -2727,5 +2808,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-29T01:22:12Z"
+ "updated": "2026-10-29T03:04:54Z"
 }

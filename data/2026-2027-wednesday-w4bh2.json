@@ -35,34 +35,34 @@
    29
   ],
   [
+   "Team Stinky",
+   31,
+   34
+  ],
+  [
    "Average Joes",
    31,
    34
   ],
   [
    "Wrong Hole",
-   23,
-   29
+   27,
+   38
   ],
   [
-   "Team Stinky",
-   22,
-   30
+   "Ask Bobby",
+   18,
+   34
   ],
   [
    "RRP Crew",
-   15,
-   37
+   19,
+   46
   ],
   [
    "Id Hit That",
    13,
    39
-  ],
-  [
-   "Ask Bobby",
-   9,
-   30
   ]
  ],
  "results": [
@@ -73,6 +73,22 @@
    5,
    10,
    3
+  ],
+  [
+   "Ask Bobby",
+   "RRP Crew",
+   "10/28/2026",
+   5,
+   9,
+   4
+  ],
+  [
+   "Team Stinky",
+   "Wrong Hole",
+   "10/28/2026",
+   5,
+   9,
+   4
   ],
   [
    "Rizm With The Tizm",
@@ -99,22 +115,6 @@
    6
   ],
   [
-   "Team Stinky",
-   "Rizm With The Tizm",
-   "10/21/2026",
-   4,
-   7,
-   6
-  ],
-  [
-   "Wrong Hole",
-   "Liquor Box",
-   "10/21/2026",
-   4,
-   6,
-   7
-  ],
-  [
    "Toasted Darts",
    "Liquor Box",
    "10/28/2026",
@@ -131,6 +131,22 @@
    8
   ],
   [
+   "RRP Crew",
+   "Ask Bobby",
+   "10/28/2026",
+   5,
+   4,
+   9
+  ],
+  [
+   "Wrong Hole",
+   "Team Stinky",
+   "10/28/2026",
+   5,
+   4,
+   9
+  ],
+  [
    "Average Joes",
    "Rizm With The Tizm",
    "10/28/2026",
@@ -145,22 +161,6 @@
    5,
    3,
    10
-  ],
-  [
-   "RRP Crew",
-   "Dart Vaders",
-   "10/21/2026",
-   4,
-   3,
-   10
-  ],
-  [
-   "Ask Bobby",
-   "Average Joes",
-   "10/14/2026",
-   3,
-   1,
-   12
   ]
  ],
  "improved": {
@@ -214,32 +214,17 @@
    0
   ],
   [
-   "Zaccary Maguire",
-   "Team Stinky",
-   2.43,
-   12,
-   3,
-   1,
-   1,
-   0,
-   3,
-   0,
-   1,
-   0,
-   1
-  ],
-  [
    "Mike Infantino",
    "Wrong Hole",
-   2.43,
-   12,
-   2,
-   1,
+   2.4,
+   15,
+   3,
+   3,
    0,
    0,
    8,
-   1,
    2,
+   4,
    0,
    0
   ],
@@ -289,19 +274,19 @@
    1
   ],
   [
-   "Tony Villani",
-   "Wrong Hole",
+   "Zaccary Maguire",
+   "Team Stinky",
    2.36,
-   12,
-   2,
-   2,
-   0,
-   0,
-   4,
+   15,
+   5,
    1,
-   3,
+   1,
    0,
-   0
+   3,
+   1,
+   1,
+   0,
+   1
   ],
   [
    "Bob Fox",
@@ -345,6 +330,21 @@
    6,
    4,
    0,
+   0,
+   0
+  ],
+  [
+   "Tony Villani",
+   "Wrong Hole",
+   2.23,
+   15,
+   3,
+   2,
+   0,
+   0,
+   4,
+   2,
+   3,
    0,
    0
   ],
@@ -454,6 +454,21 @@
    0
   ],
   [
+   "Robert Macomber",
+   "Ask Bobby",
+   1.97,
+   9,
+   1,
+   2,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Dave Robinson",
    "Dart Vaders",
    1.96,
@@ -514,21 +529,6 @@
    0
   ],
   [
-   "Robert Macomber",
-   "Ask Bobby",
-   1.89,
-   6,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Frank DiCesare",
    "Bullshots",
    1.89,
@@ -559,6 +559,21 @@
    0
   ],
   [
+   "Jessie Purdy",
+   "Team Stinky",
+   1.85,
+   15,
+   3,
+   4,
+   0,
+   0,
+   4,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Adam TeWinkle",
    "Bullshots",
    1.83,
@@ -574,21 +589,6 @@
    1
   ],
   [
-   "Brian Lawler",
-   "Ask Bobby",
-   1.83,
-   9,
-   1,
-   2,
-   0,
-   0,
-   3,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Rob Ayotte",
    "Liquor Box",
    1.81,
@@ -599,21 +599,6 @@
    0,
    3,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jessie Purdy",
-   "Team Stinky",
-   1.81,
-   12,
-   2,
-   3,
-   0,
-   0,
-   3,
-   2,
    0,
    0,
    0
@@ -694,6 +679,21 @@
    0
   ],
   [
+   "Brian Lawler",
+   "Ask Bobby",
+   1.77,
+   12,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
    "Mike Hale",
    "Id Hit That",
    1.77,
@@ -769,11 +769,26 @@
    0
   ],
   [
-   "Adam Northrup",
-   "Wrong Hole",
+   "Thomas Macomber",
+   "Ask Bobby",
    1.67,
    12,
-   4,
+   3,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Northrup",
+   "Wrong Hole",
+   1.64,
+   15,
+   5,
    1,
    0,
    0,
@@ -799,17 +814,17 @@
    0
   ],
   [
-   "Jeff Bush",
-   "Team Stinky",
-   1.59,
+   "Miguel Carmona",
+   "RRP Crew",
+   1.58,
    12,
-   2,
    3,
+   2,
+   0,
+   0,
+   2,
    1,
    0,
-   0,
-   0,
-   2,
    0,
    0
   ],
@@ -829,17 +844,17 @@
    0
   ],
   [
-   "Thomas Macomber",
-   "Ask Bobby",
+   "Nick Maguire",
+   "Team Stinky",
    1.57,
-   9,
+   15,
    2,
+   4,
    1,
    0,
-   0,
    1,
    1,
-   0,
+   1,
    0,
    0
   ],
@@ -859,17 +874,17 @@
    0
   ],
   [
-   "Miguel Carmona",
-   "RRP Crew",
-   1.54,
-   9,
+   "Jeff Bush",
+   "Team Stinky",
+   1.53,
+   15,
    2,
-   2,
-   0,
-   0,
-   2,
+   3,
    1,
    0,
+   0,
+   0,
+   2,
    0,
    0
   ],
@@ -889,16 +904,16 @@
    0
   ],
   [
-   "Nick Maguire",
-   "Team Stinky",
-   1.51,
-   12,
+   "Dean Affronti",
+   "RRP Crew",
+   1.44,
+   6,
    2,
-   2,
-   0,
-   0,
-   0,
    1,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -913,21 +928,6 @@
    0,
    0,
    2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Mary Affronti",
-   "RRP Crew",
-   1.38,
-   9,
-   0,
-   3,
-   0,
-   0,
-   1,
    0,
    0,
    0,
@@ -979,6 +979,21 @@
    0
   ],
   [
+   "Mary Affronti",
+   "RRP Crew",
+   1.33,
+   12,
+   0,
+   5,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Jill Davids",
    "Id Hit That",
    1.3,
@@ -994,11 +1009,11 @@
    0
   ],
   [
-   "Joe Arrajj",
-   "Ask Bobby",
+   "Bianca Affronti",
+   "RRP Crew",
    1.29,
    3,
-   0,
+   1,
    0,
    0,
    0,
@@ -1026,10 +1041,10 @@
   [
    "Rik Fiordeliso",
    "Wrong Hole",
-   1.28,
-   12,
+   1.27,
+   15,
    0,
-   4,
+   5,
    0,
    0,
    3,
@@ -1039,15 +1054,15 @@
    0
   ],
   [
-   "Dean Affronti",
-   "RRP Crew",
-   1.12,
-   3,
+   "Joe Arrajj",
+   "Ask Bobby",
+   1.19,
+   6,
+   0,
+   2,
+   0,
+   0,
    1,
-   0,
-   0,
-   0,
-   0,
    0,
    0,
    0,
@@ -1131,6 +1146,18 @@
    8
   ],
   [
+   "Zaccary Maguire",
+   "Team Stinky",
+   21.56,
+   20,
+   7,
+   2,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
    "Frank Bancroft",
    "Dart Vaders",
    21.37,
@@ -1141,18 +1168,6 @@
    0,
    0,
    15
-  ],
-  [
-   "Zaccary Maguire",
-   "Team Stinky",
-   21.33,
-   16,
-   4,
-   1,
-   0,
-   0,
-   0,
-   11
   ],
   [
    "Johnny DeSalvo",
@@ -1179,6 +1194,18 @@
    3
   ],
   [
+   "Mike Infantino",
+   "Wrong Hole",
+   21.09,
+   20,
+   3,
+   1,
+   0,
+   0,
+   1,
+   20
+  ],
+  [
    "BJ Ashford",
    "Rizm With The Tizm",
    21.08,
@@ -1189,18 +1216,6 @@
    0,
    0,
    14
-  ],
-  [
-   "Mike Infantino",
-   "Wrong Hole",
-   20.95,
-   16,
-   3,
-   1,
-   0,
-   0,
-   1,
-   17
   ],
   [
    "Zach Gooding",
@@ -1261,18 +1276,6 @@
    0,
    0,
    13
-  ],
-  [
-   "Dean Affronti",
-   "RRP Crew",
-   19.71,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "Michael TeWinkle",
@@ -1337,14 +1340,26 @@
   [
    "Jeff Bush",
    "Team Stinky",
-   18.51,
-   16,
-   3,
-   0,
+   18.57,
+   20,
+   4,
+   1,
    0,
    0,
    0,
    11
+  ],
+  [
+   "Brian Lawler",
+   "Ask Bobby",
+   18.46,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Adam TeWinkle",
@@ -1407,18 +1422,6 @@
    8
   ],
   [
-   "Brian Lawler",
-   "Ask Bobby",
-   17.79,
-   12,
-   0,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Rick Nelson",
    "Toasted Darts",
    17.76,
@@ -1429,6 +1432,18 @@
    0,
    0,
    10
+  ],
+  [
+   "Dean Affronti",
+   "RRP Crew",
+   17.75,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Dan Hall",
@@ -1457,38 +1472,14 @@
   [
    "Tony Villani",
    "Wrong Hole",
-   17.61,
-   16,
+   17.6,
+   20,
    8,
    0,
    0,
    0,
-   0,
-   7
-  ],
-  [
-   "Thomas Macomber",
-   "Ask Bobby",
-   17.48,
-   12,
-   2,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
-   "Nick Maguire",
-   "Team Stinky",
-   17.44,
-   16,
-   3,
    1,
-   0,
-   0,
-   0,
-   8
+   10
   ],
   [
    "Jason Gould",
@@ -1515,16 +1506,28 @@
    8
   ],
   [
-   "Joe Arrajj",
+   "Nick Maguire",
+   "Team Stinky",
+   17.11,
+   20,
+   4,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Thomas Macomber",
    "Ask Bobby",
-   17.18,
+   17.01,
+   16,
    4,
    0,
    0,
    0,
    0,
-   0,
-   2
+   4
   ],
   [
    "Justin Gould",
@@ -1537,18 +1540,6 @@
    0,
    0,
    2
-  ],
-  [
-   "Adam Northrup",
-   "Wrong Hole",
-   16.84,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
   ],
   [
    "Jay Jaz",
@@ -1587,12 +1578,36 @@
    5
   ],
   [
+   "Adam Northrup",
+   "Wrong Hole",
+   16.36,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
    "Jill Davids",
    "Id Hit That",
    15.9,
    12,
    0,
    1,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Joe Arrajj",
+   "Ask Bobby",
+   15.9,
+   8,
+   1,
+   0,
    0,
    0,
    0,
@@ -1635,6 +1650,18 @@
    4
   ],
   [
+   "Jessie Purdy",
+   "Team Stinky",
+   15.64,
+   20,
+   3,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
    "Mike Ask Bobby",
    "Ask Bobby",
    15.57,
@@ -1647,28 +1674,28 @@
    1
   ],
   [
-   "Jessie Purdy",
-   "Team Stinky",
-   15.52,
-   16,
+   "Robert Macomber",
+   "Ask Bobby",
+   15.46,
+   12,
    2,
    0,
    0,
    0,
    0,
-   6
+   4
   ],
   [
-   "Robert Macomber",
-   "Ask Bobby",
-   15.31,
-   8,
+   "Miguel Carmona",
+   "RRP Crew",
+   15.17,
+   16,
    1,
    0,
    0,
    0,
    0,
-   1
+   5
   ],
   [
    "Mike Hale",
@@ -1681,18 +1708,6 @@
    0,
    0,
    6
-  ],
-  [
-   "Miguel Carmona",
-   "RRP Crew",
-   14.89,
-   12,
-   1,
-   0,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "Chester Mathis",
@@ -1733,14 +1748,14 @@
   [
    "Mary Affronti",
    "RRP Crew",
-   14.06,
-   12,
-   3,
+   14.15,
+   16,
+   4,
    0,
    0,
    0,
    0,
-   3
+   4
   ],
   [
    "Al Ask Bobby",
@@ -1757,14 +1772,26 @@
   [
    "Rik Fiordeliso",
    "Wrong Hole",
-   13.7,
-   16,
+   13.67,
+   20,
    1,
    0,
    0,
    0,
    0,
    2
+  ],
+  [
+   "Bianca Affronti",
+   "RRP Crew",
+   13.66,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Josh Davoli",
@@ -2629,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-29T01:22:16Z"
+ "updated": "2026-10-29T03:05:00Z"
 }
