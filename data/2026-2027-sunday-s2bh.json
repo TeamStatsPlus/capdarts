@@ -224,16 +224,16 @@
     1.87
    ],
    [
-    "Brian Kea",
-    "TWINS",
-    1.82,
-    1.9
-   ],
-   [
     "Cameron Giles",
     "Team Titos",
     1.88,
     1.96
+   ],
+   [
+    "Brian Kea",
+    "TWINS",
+    1.82,
+    1.9
    ]
   ],
   "x": [
@@ -424,21 +424,6 @@
    0
   ],
   [
-   "Robyn Ralston",
-   "We Dem Boyz",
-   2.07,
-   18,
-   3,
-   8,
-   1,
-   0,
-   6,
-   1,
-   1,
-   1,
-   0
-  ],
-  [
    "Steve Bauman",
    "Docs Crew",
    2.07,
@@ -452,6 +437,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   2.07,
+   18,
+   3,
+   8,
+   1,
+   0,
+   6,
+   1,
+   1,
+   1,
+   0
   ],
   [
    "Jason Miles",
@@ -589,21 +589,6 @@
    0
   ],
   [
-   "Chaz Carley",
-   "Night Shot",
-   1.77,
-   30,
-   7,
-   13,
-   0,
-   0,
-   7,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Ethan Glashauser",
    "Glass N Stache",
    1.77,
@@ -615,6 +600,21 @@
    3,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Chaz Carley",
+   "Night Shot",
+   1.77,
+   30,
+   7,
+   13,
+   0,
+   0,
+   7,
+   2,
+   1,
    0,
    0
   ],
@@ -2286,5 +2286,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-29T09:09:53Z"
+ "updated": "2026-10-29T10:08:37Z"
 }
