@@ -383,21 +383,6 @@
    0
   ],
   [
-   "Joe Rowland",
-   "ChJokers",
-   2.26,
-   15,
-   4,
-   8,
-   1,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Alan Porteous",
    "Slow Mother Chuckers",
    2.26,
@@ -409,6 +394,21 @@
    6,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Joe Rowland",
+   "ChJokers",
+   2.26,
+   15,
+   4,
+   8,
+   1,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -698,21 +698,6 @@
    1
   ],
   [
-   "Dean Nicosia",
-   "Money Shot",
-   1.88,
-   3,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Scott Musial",
    "The Shockers",
    1.88,
@@ -724,6 +709,21 @@
    0,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Dean Nicosia",
+   "Money Shot",
+   1.88,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -833,21 +833,6 @@
    0
   ],
   [
-   "Orion Wilkerson",
-   "IDF NightCaps",
-   1.71,
-   12,
-   3,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "John Mitrano",
    "Here 4 The Beer",
    1.71,
@@ -859,6 +844,21 @@
    2,
    2,
    3,
+   0,
+   0
+  ],
+  [
+   "Orion Wilkerson",
+   "IDF NightCaps",
+   1.71,
+   12,
+   3,
+   3,
+   0,
+   0,
+   2,
+   1,
+   0,
    0,
    0
   ],
@@ -1028,21 +1028,6 @@
    0
   ],
   [
-   "Dickie Rowland",
-   "ChJokers",
-   1.59,
-   15,
-   6,
-   4,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Wills",
    "Tegridy",
    1.59,
@@ -1053,6 +1038,21 @@
    0,
    4,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   1.59,
+   15,
+   6,
+   4,
+   0,
+   0,
+   0,
+   2,
    0,
    0,
    0
@@ -1741,18 +1741,6 @@
    0
   ],
   [
-   "Dickie Rowland",
-   "ChJokers",
-   17.41,
-   20,
-   3,
-   2,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Taylor Koffenberger",
    "Tegridy",
    17.41,
@@ -1763,6 +1751,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   17.41,
+   20,
+   3,
+   2,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Tyrell Carver",
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-29T01:21:17Z"
+ "updated": "2026-10-29T04:05:42Z"
 }

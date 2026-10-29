@@ -342,21 +342,6 @@
    0
   ],
   [
-   "Brian Miller",
-   "3some Plus 1",
-   1.73,
-   12,
-   3,
-   5,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Caufield",
    "ProjectileDysfncion",
    1.73,
@@ -368,6 +353,21 @@
    2,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Brian Miller",
+   "3some Plus 1",
+   1.73,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -432,6 +432,21 @@
    0
   ],
   [
+   "Tanner Curtis",
+   "Closer To Zero",
+   1.64,
+   6,
+   1,
+   0,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Chris Coulter",
    "Double Deuces",
    1.64,
@@ -447,16 +462,16 @@
    0
   ],
   [
-   "Tanner Curtis",
-   "Closer To Zero",
-   1.64,
-   6,
-   1,
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.62,
+   12,
+   4,
+   3,
    0,
    0,
-   0,
-   5,
-   0,
+   2,
+   2,
    0,
    0,
    0
@@ -473,21 +488,6 @@
    1,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.62,
-   12,
-   4,
-   3,
-   0,
-   0,
-   2,
-   2,
-   0,
    0,
    0
   ],
@@ -642,21 +642,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.37,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.37,
@@ -668,6 +653,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Ellen Post",
+   "Closer To Zero",
+   1.37,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0
   ],
@@ -717,21 +717,6 @@
    0
   ],
   [
-   "Sammy Boy Closer To Zero",
-   "Closer To Zero",
-   1.33,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "AARON",
    "{Substitutes}",
    1.33,
@@ -742,6 +727,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sammy Boy Closer To Zero",
+   "Closer To Zero",
+   1.33,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Jason Post",
-   "Struggle Bus",
-   1.25,
-   12,
-   0,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Stephanie Carlson",
    "The Limp Wristers",
    1.25,
@@ -816,6 +801,21 @@
    0,
    0,
    0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Post",
+   "Struggle Bus",
+   1.25,
+   12,
+   0,
+   1,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -897,6 +897,21 @@
    0
   ],
   [
+   "Jacob Post",
+   "Struggle Bus",
+   1.13,
+   12,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Brandon Shampoe",
    "Struggle Bus",
    1.13,
@@ -918,21 +933,6 @@
    12,
    2,
    2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jacob Post",
-   "Struggle Bus",
-   1.13,
-   12,
-   2,
-   1,
    0,
    0,
    1,
@@ -1122,12 +1122,12 @@
    0
   ],
   [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
+   "Cindy Simpson",
+   "Squeekertips",
    0.9,
    3,
-   1,
-   1,
+   0,
+   0,
    0,
    0,
    0,
@@ -1137,12 +1137,12 @@
    0
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
    0.9,
    3,
-   0,
-   0,
+   1,
+   1,
    0,
    0,
    0,
@@ -1292,18 +1292,6 @@
    12
   ],
   [
-   "Chris Coulter",
-   "Double Deuces",
-   17.16,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Graham Wheeler",
    "Shart Shooters",
    17.16,
@@ -1314,6 +1302,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Chris Coulter",
+   "Double Deuces",
+   17.16,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Mike Loucks",
@@ -2808,5 +2808,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-29T03:04:54Z"
+ "updated": "2026-10-29T04:06:25Z"
 }

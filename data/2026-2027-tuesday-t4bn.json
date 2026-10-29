@@ -687,6 +687,21 @@
    0
   ],
   [
+   "Dale Pickens",
+   "Points And Pints",
+   1.77,
+   15,
+   3,
+   4,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1
+  ],
+  [
    "Brian Leach",
    "Truckin Bulls",
    1.77,
@@ -702,19 +717,19 @@
    0
   ],
   [
-   "Dale Pickens",
+   "Joe Tortora",
    "Points And Pints",
-   1.77,
+   1.75,
    15,
-   3,
-   4,
+   6,
+   1,
+   1,
    0,
    0,
+   1,
+   1,
    0,
-   0,
-   2,
-   0,
-   1
+   0
   ],
   [
    "Dan Spencer",
@@ -742,21 +757,6 @@
    0,
    2,
    3,
-   1,
-   0,
-   0
-  ],
-  [
-   "Joe Tortora",
-   "Points And Pints",
-   1.75,
-   15,
-   6,
-   1,
-   1,
-   0,
-   0,
-   1,
    1,
    0,
    0
@@ -792,6 +792,21 @@
    0
   ],
   [
+   "Eric Smith",
+   "Show Your Tips",
+   1.68,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Jamie Rialdi",
    "Show Your Tips",
    1.68,
@@ -817,21 +832,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Eric Smith",
-   "Show Your Tips",
-   1.68,
-   12,
-   3,
-   1,
-   0,
-   0,
-   0,
-   3,
    0,
    0,
    0
@@ -1799,18 +1799,6 @@
    0
   ],
   [
-   "Kathy Bailey",
-   "Chicks And Dicks",
-   13.47,
-   16,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Justin Ricci",
    "Show Your Tips",
    13.47,
@@ -1821,6 +1809,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Kathy Bailey",
+   "Chicks And Dicks",
+   13.47,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Kev Peppers And Onions",
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-29T03:04:34Z"
+ "updated": "2026-10-29T04:06:04Z"
 }

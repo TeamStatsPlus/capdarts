@@ -514,21 +514,6 @@
    0
   ],
   [
-   "TJ Vay",
-   "Tintins",
-   1.9,
-   12,
-   3,
-   5,
-   1,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Kea",
    "TWINS",
    1.9,
@@ -540,6 +525,21 @@
    4,
    5,
    0,
+   0,
+   0
+  ],
+  [
+   "TJ Vay",
+   "Tintins",
+   1.9,
+   12,
+   3,
+   5,
+   1,
+   0,
+   2,
+   0,
+   1,
    0,
    0
   ],
@@ -619,13 +619,13 @@
    0
   ],
   [
-   "Adam Martinez",
-   "Talk Darty To Me",
+   "Dustin Nelson",
+   "TWINS",
    1.71,
    24,
-   5,
-   9,
-   0,
+   4,
+   7,
+   1,
    0,
    2,
    1,
@@ -634,13 +634,13 @@
    0
   ],
   [
-   "Dustin Nelson",
-   "TWINS",
+   "Adam Martinez",
+   "Talk Darty To Me",
    1.71,
    24,
-   4,
-   7,
-   1,
+   5,
+   9,
+   0,
    0,
    2,
    1,
@@ -2286,5 +2286,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-29T03:03:57Z"
+ "updated": "2026-10-29T04:05:21Z"
 }
