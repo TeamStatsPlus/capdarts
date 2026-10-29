@@ -439,6 +439,21 @@
    0
   ],
   [
+   "Robert Macomber",
+   "Ask Bobby",
+   1.97,
+   9,
+   1,
+   2,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Brian Keefe",
    "Average Joes",
    1.97,
@@ -454,15 +469,15 @@
    0
   ],
   [
-   "Robert Macomber",
-   "Ask Bobby",
-   1.97,
-   9,
+   "Dave Robinson",
+   "Dart Vaders",
+   1.96,
+   3,
    1,
-   2,
-   0,
    1,
    0,
+   0,
+   1,
    0,
    0,
    0,
@@ -480,21 +495,6 @@
    3,
    3,
    2,
-   0,
-   0
-  ],
-  [
-   "Dave Robinson",
-   "Dart Vaders",
-   1.96,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
    0,
    0
   ],
@@ -754,12 +754,12 @@
    1
   ],
   [
-   "Thomas Macomber",
-   "Ask Bobby",
+   "Jon Nolte",
+   "Average Joes",
    1.67,
-   12,
+   15,
    3,
-   1,
+   4,
    0,
    0,
    1,
@@ -769,12 +769,12 @@
    0
   ],
   [
-   "Jon Nolte",
-   "Average Joes",
+   "Thomas Macomber",
+   "Ask Bobby",
    1.67,
-   15,
+   12,
    3,
-   4,
+   1,
    0,
    0,
    1,
@@ -844,21 +844,6 @@
    0
   ],
   [
-   "Matthew Griffith",
-   "Rizm With The Tizm",
-   1.57,
-   15,
-   6,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Nick Maguire",
    "Team Stinky",
    1.57,
@@ -870,6 +855,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Matthew Griffith",
+   "Rizm With The Tizm",
+   1.57,
+   15,
+   6,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -1590,24 +1590,24 @@
    5
   ],
   [
-   "Joe Arrajj",
-   "Ask Bobby",
-   15.9,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Jill Davids",
    "Id Hit That",
    15.9,
    12,
    0,
    1,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "Joe Arrajj",
+   "Ask Bobby",
+   15.9,
+   8,
+   1,
+   0,
    0,
    0,
    0,
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-29T18:04:37Z"
+ "updated": "2026-10-29T21:02:53Z"
 }
