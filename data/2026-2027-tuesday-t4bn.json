@@ -372,12 +372,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   15,
+   8,
+   3,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   15,
-   8,
-   3,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -537,21 +537,6 @@
    0
   ],
   [
-   "Barry Barklund",
-   "Dartbags",
-   1.93,
-   15,
-   1,
-   6,
-   0,
-   0,
-   3,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Mike Bisig",
    "Trippin On Trips",
    1.93,
@@ -563,6 +548,21 @@
    6,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Barry Barklund",
+   "Dartbags",
+   1.93,
+   15,
+   1,
+   6,
+   0,
+   0,
+   3,
+   0,
+   2,
    0,
    0
   ],
@@ -687,21 +687,6 @@
    0
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.77,
-   15,
-   4,
-   4,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dale Pickens",
    "Points And Pints",
    1.77,
@@ -715,6 +700,21 @@
    2,
    0,
    1
+  ],
+  [
+   "Brian Leach",
+   "Truckin Bulls",
+   1.77,
+   15,
+   4,
+   4,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
   ],
   [
    "Jim Oneill",
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Jamie Rialdi",
-   "Show Your Tips",
-   1.68,
-   12,
-   0,
-   4,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Chris New Wave",
    "New Wave",
    1.68,
@@ -837,17 +822,17 @@
    0
   ],
   [
-   "Chris Laloggia",
-   "Fat Bastards",
-   1.62,
-   15,
-   3,
+   "Jamie Rialdi",
+   "Show Your Tips",
+   1.68,
+   12,
+   0,
    4,
    0,
    0,
-   0,
-   0,
-   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -863,6 +848,21 @@
    3,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Chris Laloggia",
+   "Fat Bastards",
+   1.62,
+   15,
+   3,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-29T18:04:10Z"
+ "updated": "2026-10-29T19:14:33Z"
 }

@@ -146,16 +146,16 @@
     1.88
    ],
    [
-    "Lou Sanchez",
-    "Double Trouble",
-    1.04,
-    1.1
-   ],
-   [
     "Benjamin Gill",
     "Who Darted",
     1.65,
     1.71
+   ],
+   [
+    "Lou Sanchez",
+    "Double Trouble",
+    1.04,
+    1.1
    ]
   ],
   "x": [
@@ -406,21 +406,6 @@
    0
   ],
   [
-   "Steve Gallwey",
-   "636ers",
-   1.37,
-   30,
-   5,
-   8,
-   0,
-   0,
-   5,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Ed Rowland",
    "Double Trouble",
    1.37,
@@ -431,6 +416,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Gallwey",
+   "636ers",
+   1.37,
+   30,
+   5,
+   8,
+   0,
+   0,
+   5,
+   2,
    0,
    0,
    0
@@ -1569,5 +1569,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-10-29T18:03:36Z"
+ "updated": "2026-10-29T19:13:57Z"
 }

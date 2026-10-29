@@ -578,21 +578,6 @@
    0
   ],
   [
-   "Shawn Hodgeman",
-   "Here 4 The Beer",
-   2.04,
-   15,
-   6,
-   5,
-   1,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dave Biedrzycki",
    "Here 4 The Beer",
    2.04,
@@ -604,6 +589,21 @@
    6,
    4,
    0,
+   0,
+   0
+  ],
+  [
+   "Shawn Hodgeman",
+   "Here 4 The Beer",
+   2.04,
+   15,
+   6,
+   5,
+   1,
+   0,
+   5,
+   1,
+   1,
    0,
    0
   ],
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-29T18:03:46Z"
+ "updated": "2026-10-29T19:14:07Z"
 }

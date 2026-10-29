@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Jason Post",
-    "Struggle Bus",
-    1.18,
-    1.25
+    "Graham Wheeler",
+    "Shart Shooters",
+    1.61,
+    1.68
    ]
   ],
   "x": [
@@ -342,6 +342,21 @@
    0
   ],
   [
+   "Brian Miller",
+   "3some Plus 1",
+   1.73,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Adam Fowles",
    "Tips Dont Lie",
    1.73,
@@ -368,21 +383,6 @@
    2,
    3,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Miller",
-   "3some Plus 1",
-   1.73,
-   12,
-   3,
-   5,
-   0,
-   0,
-   5,
-   1,
-   0,
    0,
    0
   ],
@@ -447,6 +447,21 @@
    0
   ],
   [
+   "Tanner Curtis",
+   "Closer To Zero",
+   1.64,
+   6,
+   1,
+   0,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Chris Coulter",
    "Double Deuces",
    1.64,
@@ -462,16 +477,16 @@
    0
   ],
   [
-   "Tanner Curtis",
-   "Closer To Zero",
-   1.64,
-   6,
-   1,
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.62,
+   12,
+   4,
+   3,
    0,
    0,
-   0,
-   5,
-   0,
+   2,
+   2,
    0,
    0,
    0
@@ -488,21 +503,6 @@
    1,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.62,
-   12,
-   4,
-   3,
-   0,
-   0,
-   2,
-   2,
-   0,
    0,
    0
   ],
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.37,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.37,
@@ -683,6 +668,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Ellen Post",
+   "Closer To Zero",
+   1.37,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0
   ],
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Jason Post",
-   "Struggle Bus",
-   1.25,
-   12,
-   0,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Stephanie Carlson",
    "The Limp Wristers",
    1.25,
@@ -816,6 +801,21 @@
    0,
    0,
    0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Post",
+   "Struggle Bus",
+   1.25,
+   12,
+   0,
+   1,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -957,21 +957,6 @@
    0
   ],
   [
-   "Erin Lamar",
-   "Throwgasms",
-   1.03,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    1.03,
@@ -982,6 +967,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Erin Lamar",
+   "Throwgasms",
+   1.03,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   0.99,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Ashley McLaughlin",
    "Throwgasms",
    0.99,
@@ -1042,6 +1027,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   0.99,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -1122,12 +1122,12 @@
    0
   ],
   [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
+   "Cindy Simpson",
+   "Squeekertips",
    0.9,
    3,
-   1,
-   1,
+   0,
+   0,
    0,
    0,
    0,
@@ -1137,12 +1137,12 @@
    0
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
    0.9,
    3,
-   0,
-   0,
+   1,
+   1,
    0,
    0,
    0,
@@ -2799,6 +2799,12 @@
    "address": "1104 Monroe Ave, Rochester, NY 14620"
   },
   {
+   "name": "JJs Pub",
+   "machines": 1,
+   "phone": "704-5204",
+   "address": "669 Winton Rd, Rochester, NY 14610"
+  },
+  {
    "name": "Johnnys Irish Pub",
    "machines": 2,
    "phone": "585-224-0990",
@@ -2835,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-29T18:04:33Z"
+ "updated": "2026-10-29T19:14:58Z"
 }

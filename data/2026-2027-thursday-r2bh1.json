@@ -406,21 +406,6 @@
    0
   ],
   [
-   "Bill Lutomski",
-   "Top Shottas",
-   1.47,
-   24,
-   3,
-   10,
-   0,
-   0,
-   2,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Trenton Harvey",
    "BYE INCOMPLETE",
    1.47,
@@ -432,6 +417,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Bill Lutomski",
+   "Top Shottas",
+   1.47,
+   24,
+   3,
+   10,
+   0,
+   0,
+   2,
+   1,
+   1,
    0,
    0
   ],
@@ -1500,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-29T18:04:54Z"
+ "updated": "2026-10-29T19:15:21Z"
 }
