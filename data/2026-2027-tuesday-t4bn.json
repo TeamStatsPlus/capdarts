@@ -267,21 +267,6 @@
    0
   ],
   [
-   "Hector Hernandez",
-   "Fat Bastards",
-   2.35,
-   15,
-   8,
-   2,
-   1,
-   0,
-   7,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Chris Contrera",
    "AM Lumber",
    2.35,
@@ -293,6 +278,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Hector Hernandez",
+   "Fat Bastards",
+   2.35,
+   15,
+   8,
+   2,
+   1,
+   0,
+   7,
+   1,
+   2,
    0,
    0
   ],
@@ -537,21 +537,6 @@
    0
   ],
   [
-   "Mike Bisig",
-   "Trippin On Trips",
-   1.93,
-   12,
-   5,
-   6,
-   0,
-   0,
-   6,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Barry Barklund",
    "Dartbags",
    1.93,
@@ -563,6 +548,21 @@
    3,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Mike Bisig",
+   "Trippin On Trips",
+   1.93,
+   12,
+   5,
+   6,
+   0,
+   0,
+   6,
+   0,
+   1,
    0,
    0
   ],
@@ -657,6 +657,21 @@
    0
   ],
   [
+   "Scott Stipulski",
+   "Chicks And Dicks",
+   1.78,
+   15,
+   2,
+   2,
+   0,
+   0,
+   5,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Pat Turco",
    "Trippin On Trips",
    1.78,
@@ -672,15 +687,15 @@
    0
   ],
   [
-   "Scott Stipulski",
-   "Chicks And Dicks",
-   1.78,
+   "Brian Leach",
+   "Truckin Bulls",
+   1.77,
    15,
-   2,
-   2,
+   4,
+   4,
    0,
    0,
-   5,
+   1,
    1,
    1,
    0,
@@ -702,16 +717,16 @@
    1
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.77,
+   "Jim Oneill",
+   "Points And Pints",
+   1.75,
    15,
-   4,
-   4,
+   2,
+   5,
    0,
    0,
-   1,
-   1,
+   2,
+   3,
    1,
    0,
    0
@@ -747,21 +762,6 @@
    0
   ],
   [
-   "Jim Oneill",
-   "Points And Pints",
-   1.75,
-   15,
-   2,
-   5,
-   0,
-   0,
-   2,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Coyle",
    "Fat Bastards",
    1.73,
@@ -787,21 +787,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Eric Smith",
-   "Show Your Tips",
-   1.68,
-   12,
-   3,
-   1,
-   0,
-   0,
-   0,
-   3,
    0,
    0,
    0
@@ -837,17 +822,17 @@
    0
   ],
   [
-   "Bill Bradburn",
-   "Truckin Bulls",
-   1.62,
+   "Eric Smith",
+   "Show Your Tips",
+   1.68,
    12,
+   3,
    1,
-   2,
+   0,
    0,
    0,
    3,
    0,
-   1,
    0,
    0
   ],
@@ -863,6 +848,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Bill Bradburn",
+   "Truckin Bulls",
+   1.62,
+   12,
+   1,
+   2,
+   0,
+   0,
+   3,
+   0,
+   1,
    0,
    0
   ],
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-29T21:02:26Z"
+ "updated": "2026-10-29T22:00:16Z"
 }

@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Jason Post",
-    "Struggle Bus",
-    1.18,
-    1.25
+    "Lydia Wheeler",
+    "Shart Shooters",
+    0.87,
+    0.94
    ]
   ],
   "x": [
@@ -447,21 +447,6 @@
    0
   ],
   [
-   "Chris Coulter",
-   "Double Deuces",
-   1.64,
-   12,
-   5,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tanner Curtis",
    "Closer To Zero",
    1.64,
@@ -472,6 +457,21 @@
    0,
    5,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris Coulter",
+   "Double Deuces",
+   1.64,
+   12,
+   5,
+   3,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -687,21 +687,6 @@
    0
   ],
   [
-   "Bri Smith",
-   "3some Plus 1",
-   1.35,
-   12,
-   6,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Josh Struggle Bus",
    "Struggle Bus",
    1.35,
@@ -712,6 +697,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bri Smith",
+   "3some Plus 1",
+   1.35,
+   12,
+   6,
+   3,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -1319,18 +1319,6 @@
    12
   ],
   [
-   "Graham Wheeler",
-   "Shart Shooters",
-   17.16,
-   20,
-   4,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Chris Coulter",
    "Double Deuces",
    17.16,
@@ -1341,6 +1329,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Graham Wheeler",
+   "Shart Shooters",
+   17.16,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Mike Loucks",
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-29T21:02:48Z"
+ "updated": "2026-10-29T22:00:46Z"
 }
