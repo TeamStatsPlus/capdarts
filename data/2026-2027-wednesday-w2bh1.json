@@ -166,16 +166,16 @@
  "improved": {
   "c": [
    [
-    "Breonna Provorse",
-    "Shared Brain Cell",
-    1.9,
-    1.97
-   ],
-   [
     "Matthew Sutherland",
     "Darts Deep",
     2.25,
     2.32
+   ],
+   [
+    "Breonna Provorse",
+    "Shared Brain Cell",
+    1.9,
+    1.97
    ],
    [
     "Mike Kolberg",
@@ -785,18 +785,6 @@
    14
   ],
   [
-   "Jim Cox",
-   "Methodical Missers",
-   16.34,
-   35,
-   6,
-   1,
-   0,
-   0,
-   0,
-   17
-  ],
-  [
    "Syrica Story",
    "Two Girls One Bull",
    16.34,
@@ -807,6 +795,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Jim Cox",
+   "Methodical Missers",
+   16.34,
+   35,
+   6,
+   1,
+   0,
+   0,
+   0,
+   17
   ],
   [
    "Mike Kolberg",
@@ -1743,12 +1743,6 @@
    "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
   },
   {
-   "name": "Bar Bill",
-   "machines": 2,
-   "phone": "585-673-0070",
-   "address": "1129 Empire Blvd., Rochester, NY 14609"
-  },
-  {
    "name": "Blitz Bar Room",
    "machines": 2,
    "phone": "585-364-0393",
@@ -1785,5 +1779,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-29T16:12:53Z"
+ "updated": "2026-10-29T17:12:17Z"
 }
