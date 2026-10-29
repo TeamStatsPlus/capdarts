@@ -222,6 +222,21 @@
    0
   ],
   [
+   "Erik Double Deuces",
+   "Double Deuces",
+   2.22,
+   3,
+   2,
+   1,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Adam Darder",
    "Cant Close",
    2.13,
@@ -342,21 +357,6 @@
    0
   ],
   [
-   "Brian Miller",
-   "3some Plus 1",
-   1.73,
-   12,
-   3,
-   5,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Caufield",
    "ProjectileDysfncion",
    1.73,
@@ -368,6 +368,21 @@
    2,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Brian Miller",
+   "3some Plus 1",
+   1.73,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -462,21 +477,6 @@
    0
   ],
   [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.62,
-   12,
-   4,
-   3,
-   0,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Collin Owczarzak",
    "The Limp Wristers",
    1.62,
@@ -488,6 +488,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.62,
+   12,
+   4,
+   3,
+   0,
+   0,
+   2,
+   2,
+   0,
    0,
    0
   ],
@@ -732,21 +747,6 @@
    0
   ],
   [
-   "AARON",
-   "{Substitutes}",
-   1.33,
-   6,
-   2,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Geoff Milunich",
    "Tips Dont Lie",
    1.32,
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Stephanie Carlson",
-   "The Limp Wristers",
-   1.25,
-   9,
-   0,
-   3,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jason Post",
    "Struggle Bus",
    1.25,
@@ -816,6 +801,21 @@
    0,
    0,
    2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Stephanie Carlson",
+   "The Limp Wristers",
+   1.25,
+   9,
+   0,
+   3,
+   0,
+   0,
+   0,
    1,
    0,
    0,
@@ -867,21 +867,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -897,12 +882,12 @@
    0
   ],
   [
-   "Brandon Shampoe",
-   "Struggle Bus",
-   1.13,
-   9,
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
    1,
-   2,
    0,
    0,
    0,
@@ -936,6 +921,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brandon Shampoe",
+   "Struggle Bus",
+   1.13,
+   9,
+   1,
+   2,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -1122,12 +1122,12 @@
    0
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
    0.9,
    3,
-   0,
-   0,
+   1,
+   1,
    0,
    0,
    0,
@@ -1137,12 +1137,12 @@
    0
   ],
   [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
+   "Cindy Simpson",
+   "Squeekertips",
    0.9,
    3,
-   1,
-   1,
+   0,
+   0,
    0,
    0,
    0,
@@ -1173,6 +1173,21 @@
    3,
    0,
    3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Aaron Struggle Bus",
+   "Struggle Bus",
+   0.66,
+   3,
+   0,
+   0,
    0,
    0,
    0,
@@ -1218,6 +1233,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Erik Double Deuces",
+   "Double Deuces",
+   18.89,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Shawn Double Deuces",
@@ -1292,18 +1319,6 @@
    12
   ],
   [
-   "Graham Wheeler",
-   "Shart Shooters",
-   17.16,
-   20,
-   4,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Chris Coulter",
    "Double Deuces",
    17.16,
@@ -1314,6 +1329,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Graham Wheeler",
+   "Shart Shooters",
+   17.16,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Mike Loucks",
@@ -1350,18 +1377,6 @@
    0,
    0,
    6
-  ],
-  [
-   "AARON",
-   "{Substitutes}",
-   16.77,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   2
   ],
   [
    "James Simpson",
@@ -1506,6 +1521,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Aaron Struggle Bus",
+   "Struggle Bus",
+   14.81,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Chuck Hathaway",
@@ -2808,5 +2835,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-29T13:23:01Z"
+ "updated": "2026-10-29T15:13:35Z"
 }

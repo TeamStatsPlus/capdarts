@@ -382,21 +382,6 @@
    0
   ],
   [
-   "Bob Newell",
-   "Pig Roasters",
-   1.95,
-   9,
-   2,
-   2,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tim Terborg",
    "Flight Phucked",
    1.95,
@@ -407,6 +392,21 @@
    0,
    3,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bob Newell",
+   "Pig Roasters",
+   1.95,
+   9,
+   2,
+   2,
+   0,
+   0,
+   4,
+   1,
    0,
    0,
    0
@@ -861,18 +861,6 @@
    7
   ],
   [
-   "Bob Newell",
-   "Pig Roasters",
-   20.02,
-   12,
-   0,
-   0,
-   0,
-   0,
-   2,
-   4
-  ],
-  [
    "Joel Diaz",
    "Duckin Farts",
    20.02,
@@ -883,6 +871,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Bob Newell",
+   "Pig Roasters",
+   20.02,
+   12,
+   0,
+   0,
+   0,
+   0,
+   2,
+   4
   ],
   [
    "John Frazer",
@@ -1590,5 +1590,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-29T13:23:11Z"
+ "updated": "2026-10-29T15:13:42Z"
 }
