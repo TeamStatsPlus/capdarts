@@ -260,21 +260,6 @@
    3
   ],
   [
-   "Archie Donaldson",
-   "Dem BOYZ",
-   2.58,
-   24,
-   11,
-   2,
-   0,
-   0,
-   9,
-   6,
-   5,
-   0,
-   0
-  ],
-  [
    "Tom Ralston",
    "Carpet Cleaners",
    2.58,
@@ -287,6 +272,21 @@
    6,
    6,
    1,
+   0
+  ],
+  [
+   "Archie Donaldson",
+   "Dem BOYZ",
+   2.58,
+   24,
+   11,
+   2,
+   0,
+   0,
+   9,
+   6,
+   5,
+   0,
    0
   ],
   [
@@ -1261,5 +1261,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-30T09:10:54Z"
+ "updated": "2026-10-30T10:10:13Z"
 }
