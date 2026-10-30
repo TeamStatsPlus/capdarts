@@ -383,21 +383,6 @@
    0
   ],
   [
-   "Alan Porteous",
-   "Slow Mother Chuckers",
-   2.26,
-   15,
-   3,
-   7,
-   0,
-   0,
-   6,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Joe Rowland",
    "ChJokers",
    2.26,
@@ -409,6 +394,21 @@
    5,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Alan Porteous",
+   "Slow Mother Chuckers",
+   2.26,
+   15,
+   3,
+   7,
+   0,
+   0,
+   6,
+   3,
+   1,
    0,
    0
   ],
@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Matt Cortese",
-   "Off Target",
-   2.14,
-   9,
-   1,
-   1,
-   0,
-   0,
-   1,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Joe Soriano",
    "The Shockers",
    2.14,
@@ -514,6 +499,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Matt Cortese",
+   "Off Target",
+   2.14,
+   9,
+   1,
+   1,
+   0,
+   0,
+   1,
+   2,
+   1,
    0,
    0
   ],
@@ -578,21 +578,6 @@
    0
   ],
   [
-   "Dave Biedrzycki",
-   "Here 4 The Beer",
-   2.04,
-   15,
-   5,
-   3,
-   0,
-   0,
-   6,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Hodgeman",
    "Here 4 The Beer",
    2.04,
@@ -604,6 +589,21 @@
    5,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Dave Biedrzycki",
+   "Here 4 The Beer",
+   2.04,
+   15,
+   5,
+   3,
+   0,
+   0,
+   6,
+   4,
+   0,
    0,
    0
   ],
@@ -743,21 +743,6 @@
    0
   ],
   [
-   "Jason Sherman",
-   "The Shockers",
-   1.82,
-   12,
-   1,
-   4,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jake Maracle",
    "Slow Mother Chuckers",
    1.82,
@@ -767,6 +752,21 @@
    0,
    0,
    2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Sherman",
+   "The Shockers",
+   1.82,
+   12,
+   1,
+   4,
+   0,
+   0,
+   3,
    1,
    0,
    0,
@@ -893,21 +893,6 @@
    0
   ],
   [
-   "Kevin Rowland",
-   "Off Target",
-   1.67,
-   12,
-   0,
-   4,
-   0,
-   0,
-   0,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Bill Greenough",
    "Slow Mother Chuckers",
    1.67,
@@ -923,17 +908,17 @@
    0
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   1.64,
-   3,
+   "Kevin Rowland",
+   "Off Target",
+   1.67,
+   12,
+   0,
+   4,
+   0,
+   0,
+   0,
+   1,
    2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0
   ],
@@ -947,6 +932,21 @@
    0,
    0,
    5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   1.64,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T01:23:58Z"
+ "updated": "2026-10-30T03:06:05Z"
 }

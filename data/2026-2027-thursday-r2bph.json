@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-30T01:25:22Z",
+ "updated": "2026-10-30T03:07:33Z",
  "standings": [
   [
    "No Clue",
-   43,
-   17
+   54,
+   21
   ],
   [
    "Scotts On The Rocks",
@@ -17,24 +17,19 @@
    24
   ],
   [
+   "Dart Bags T",
+   44,
+   31
+  ],
+  [
    "Draw Two",
    26,
    19
   ],
   [
-   "Dart Bags T",
-   34,
-   26
-  ],
-  [
    "Throwing Shade",
-   30,
-   30
-  ],
-  [
-   "Wags To Richs",
-   30,
-   30
+   38,
+   37
   ],
   [
    "Revenge",
@@ -43,49 +38,54 @@
   ],
   [
    "Handjobs4thehomeless",
-   28,
-   32
+   35,
+   40
   ],
   [
-   "Throw Bros",
-   26,
-   34
+   "Wags To Richs",
+   34,
+   41
   ],
   [
    "Never Trust A Dart",
+   32,
+   43
+  ],
+  [
+   "Retreat",
    25,
    35
   ],
   [
-   "Retreat",
-   17,
-   28
+   "Throw Bros",
+   31,
+   44
   ],
   [
    "Tag Team Tami",
-   15,
-   30
+   24,
+   36
   ],
   [
    "TakingNamesTakingAim",
-   13,
-   32
+   19,
+   41
   ]
  ],
  "results": [
   [
    "No Clue",
-   "TakingNamesTakingAim",
-   "10/22/2026",
-   4,
-   12,
-   3
+   "Wags To Richs",
+   "10/29/2026",
+   5,
+   11,
+   4
   ],
   [
-   "Throwing Shade",
-   "Never Trust A Dart",
-   "10/22/2026",
-   4,
+   "Dart Bags T",
+   "Throw Bros",
+   "10/29/2026",
+   5,
    10,
    5
   ],
@@ -98,6 +98,14 @@
    6
   ],
   [
+   "Tag Team Tami",
+   "TakingNamesTakingAim",
+   "10/29/2026",
+   5,
+   9,
+   6
+  ],
+  [
    "Draw Two",
    "Handjobs4thehomeless",
    "10/22/2026",
@@ -106,18 +114,18 @@
    6
   ],
   [
-   "Dart Bags T",
    "Retreat",
-   "10/22/2026",
-   4,
+   "Never Trust A Dart",
+   "10/29/2026",
+   5,
    8,
    7
   ],
   [
-   "Wags To Richs",
-   "DoubleIn StumbleOut",
-   "10/22/2026",
-   4,
+   "Throwing Shade",
+   "Handjobs4thehomeless",
+   "10/29/2026",
+   5,
    8,
    7
   ],
@@ -130,18 +138,18 @@
    8
   ],
   [
+   "Never Trust A Dart",
    "Retreat",
-   "Dart Bags T",
-   "10/22/2026",
-   4,
+   "10/29/2026",
+   5,
    7,
    8
   ],
   [
-   "Throw Bros",
-   "Scotts On The Rocks",
-   "10/22/2026",
-   4,
+   "Handjobs4thehomeless",
+   "Throwing Shade",
+   "10/29/2026",
+   5,
    7,
    8
   ],
@@ -154,50 +162,42 @@
    9
   ],
   [
-   "Handjobs4thehomeless",
-   "Draw Two",
-   "10/22/2026",
-   4,
+   "TakingNamesTakingAim",
+   "Tag Team Tami",
+   "10/29/2026",
+   5,
    6,
    9
   ],
   [
-   "Never Trust A Dart",
-   "Throwing Shade",
-   "10/22/2026",
-   4,
+   "Throw Bros",
+   "Dart Bags T",
+   "10/29/2026",
+   5,
    5,
    10
   ],
   [
-   "Tag Team Tami",
-   "Revenge",
-   "10/22/2026",
-   4,
+   "Wags To Richs",
+   "No Clue",
+   "10/29/2026",
+   5,
    4,
    11
-  ],
-  [
-   "TakingNamesTakingAim",
-   "No Clue",
-   "10/22/2026",
-   4,
-   3,
-   12
   ]
  ],
  "cricket": [
   [
    "Rich Allen",
    "Wags To Richs",
-   3.26,
-   24,
-   11,
+   3.24,
+   30,
+   12,
    4,
    5,
    1,
-   17,
-   5,
+   22,
+   7,
    10,
    0,
    1
@@ -248,19 +248,19 @@
    0
   ],
   [
-   "Matt Wagner",
-   "Handjobs4thehomeless",
-   2.93,
-   18,
-   5,
-   3,
-   1,
-   0,
+   "Andy Georgetti",
+   "No Clue",
+   2.91,
+   30,
+   15,
    9,
-   8,
-   4,
+   2,
    0,
-   0
+   13,
+   11,
+   9,
+   0,
+   2
   ],
   [
    "Andy Horton",
@@ -278,19 +278,19 @@
    0
   ],
   [
-   "Andy Georgetti",
-   "No Clue",
-   2.8,
+   "Matt Wagner",
+   "Handjobs4thehomeless",
+   2.84,
    24,
-   11,
-   8,
-   2,
+   7,
+   4,
+   1,
    0,
-   11,
+   12,
    10,
    5,
    0,
-   1
+   0
   ],
   [
    "Scott Etter",
@@ -308,6 +308,36 @@
    1
   ],
   [
+   "Mark Sennett",
+   "Dart Bags T",
+   2.69,
+   30,
+   16,
+   4,
+   0,
+   0,
+   20,
+   7,
+   4,
+   1,
+   0
+  ],
+  [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   2.69,
+   24,
+   11,
+   0,
+   2,
+   0,
+   18,
+   4,
+   4,
+   2,
+   0
+  ],
+  [
    "Kevin DeHollander",
    "Draw Two",
    2.69,
@@ -320,51 +350,6 @@
    4,
    3,
    0,
-   0
-  ],
-  [
-   "Daniel Purpura",
-   "Retreat",
-   2.67,
-   18,
-   5,
-   2,
-   0,
-   0,
-   11,
-   8,
-   2,
-   0,
-   1
-  ],
-  [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   2.65,
-   18,
-   8,
-   0,
-   0,
-   0,
-   14,
-   2,
-   3,
-   2,
-   0
-  ],
-  [
-   "Mark Sennett",
-   "Dart Bags T",
-   2.61,
-   24,
-   11,
-   3,
-   0,
-   0,
-   13,
-   5,
-   4,
-   1,
    0
   ],
   [
@@ -383,16 +368,76 @@
    1
   ],
   [
+   "Daniel Purpura",
+   "Retreat",
+   2.58,
+   24,
+   9,
+   2,
+   1,
+   0,
+   12,
+   10,
+   2,
+   0,
+   1
+  ],
+  [
+   "Mike Georgetti",
+   "No Clue",
+   2.58,
+   30,
+   14,
+   8,
+   1,
+   0,
+   16,
+   7,
+   4,
+   0,
+   0
+  ],
+  [
+   "Alexander Blake",
+   "Dart Bags T",
+   2.57,
+   30,
+   10,
+   10,
+   1,
+   0,
+   13,
+   8,
+   6,
+   0,
+   0
+  ],
+  [
+   "Anthony Kelly",
+   "Throw Bros",
+   2.55,
+   24,
+   7,
+   0,
+   1,
+   0,
+   18,
+   2,
+   3,
+   1,
+   1
+  ],
+  [
    "Todd Wagner",
    "Handjobs4thehomeless",
-   2.6,
-   24,
-   6,
-   3,
+   2.54,
+   30,
+   9,
+   4,
    0,
    0,
-   14,
-   6,
+   19,
+   8,
    3,
    0,
    0
@@ -400,45 +445,15 @@
   [
    "Shawn Bentley",
    "Throwing Shade",
-   2.56,
-   24,
-   7,
-   7,
-   1,
-   0,
-   11,
-   5,
+   2.5,
+   30,
    9,
-   0,
-   0
-  ],
-  [
-   "Alexander Blake",
-   "Dart Bags T",
-   2.52,
-   24,
    8,
-   7,
-   1,
+   2,
    0,
-   9,
+   16,
    6,
-   5,
-   0,
-   0
-  ],
-  [
-   "Mike Georgetti",
-   "No Clue",
-   2.51,
-   24,
-   12,
-   5,
-   1,
-   0,
-   11,
-   5,
-   4,
+   10,
    0,
    0
   ],
@@ -473,21 +488,6 @@
    0
   ],
   [
-   "Anthony Kelly",
-   "Throw Bros",
-   2.48,
-   18,
-   6,
-   0,
-   0,
-   0,
-   17,
-   1,
-   1,
-   1,
-   0
-  ],
-  [
    "Jason Bateman",
    "Retreat",
    2.44,
@@ -498,21 +498,6 @@
    0,
    2,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Eric Porte",
-   "Never Trust A Dart",
-   2.42,
-   24,
-   8,
-   4,
-   1,
-   0,
-   15,
-   6,
    0,
    0,
    0
@@ -533,6 +518,21 @@
    1
   ],
   [
+   "Eric Porte",
+   "Never Trust A Dart",
+   2.39,
+   30,
+   9,
+   4,
+   1,
+   0,
+   17,
+   6,
+   0,
+   0,
+   0
+  ],
+  [
    "Jamie Love",
    "Draw Two",
    2.31,
@@ -548,61 +548,61 @@
    1
   ],
   [
-   "Jason Arena",
-   "Throwing Shade",
+   "John Salamone",
+   "Tag Team Tami",
    2.18,
    24,
-   10,
-   3,
-   0,
-   0,
+   6,
    2,
-   4,
-   1,
    0,
-   1
+   0,
+   6,
+   6,
+   4,
+   0,
+   0
   ],
   [
    "Brandon Wheeler",
    "Never Trust A Dart",
-   2.17,
-   24,
-   7,
+   2.15,
+   30,
+   9,
    3,
    1,
    0,
-   12,
-   4,
+   14,
+   7,
    2,
    0,
    1
   ],
   [
-   "John Salamone",
-   "Tag Team Tami",
-   2.14,
-   18,
-   3,
-   1,
-   0,
-   0,
-   5,
+   "Jason Arena",
+   "Throwing Shade",
+   2.13,
+   30,
+   11,
    4,
+   0,
+   0,
+   3,
+   5,
    3,
    0,
-   0
+   1
   ],
   [
    "Chris Contrera",
    "Throw Bros",
    2.13,
-   18,
+   24,
    3,
    3,
    1,
    0,
-   8,
-   1,
+   11,
+   2,
    1,
    0,
    0
@@ -611,14 +611,29 @@
    "Mike Ronzo",
    "Tag Team Tami",
    2.07,
-   18,
-   3,
-   2,
+   24,
+   5,
+   4,
    1,
    0,
-   8,
+   10,
+   7,
+   2,
+   0,
+   0
+  ],
+  [
+   "Carol Bartell",
+   "Wags To Richs",
+   1.77,
+   30,
    5,
+   4,
+   0,
+   0,
+   9,
    1,
+   0,
    0,
    0
   ],
@@ -638,31 +653,16 @@
    0
   ],
   [
-   "Carol Bartell",
-   "Wags To Richs",
-   1.75,
-   24,
-   4,
-   4,
-   0,
-   0,
-   9,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Alyxandria Weaver",
    "Retreat",
-   1.64,
-   12,
-   1,
+   1.76,
+   18,
+   2,
+   4,
    0,
    0,
-   0,
-   7,
-   1,
+   10,
+   2,
    0,
    0,
    0
@@ -670,13 +670,13 @@
   [
    "Jessica Mitrano",
    "TakingNamesTakingAim",
-   1.37,
-   12,
+   1.31,
+   18,
    0,
-   3,
+   4,
    0,
    0,
-   0,
+   1,
    0,
    0,
    0,
@@ -699,14 +699,14 @@
   [
    "Rich Allen",
    "Wags To Richs",
-   27.86,
-   28,
-   11,
+   28.01,
    35,
+   12,
+   43,
    0,
    0,
    0,
-   59
+   72
   ],
   [
    "Kieron Bussom",
@@ -723,14 +723,14 @@
   [
    "Matt Wagner",
    "Handjobs4thehomeless",
-   25.12,
-   21,
-   6,
+   24.52,
+   28,
+   8,
    1,
    0,
    0,
-   6,
-   52
+   7,
+   63
   ],
   [
    "Sean Liddle",
@@ -745,6 +745,18 @@
    53
   ],
   [
+   "Andy Georgetti",
+   "No Clue",
+   24.29,
+   35,
+   10,
+   14,
+   0,
+   0,
+   1,
+   68
+  ],
+  [
    "Will Zimmer",
    "Throw Bros",
    24.28,
@@ -757,28 +769,16 @@
    11
   ],
   [
-   "Andy Georgetti",
-   "No Clue",
-   23.98,
-   28,
-   7,
-   9,
-   0,
-   0,
-   1,
-   55
-  ],
-  [
    "Mark Sennett",
    "Dart Bags T",
-   23.84,
-   28,
-   5,
-   10,
+   23.55,
+   35,
+   7,
+   13,
    0,
    0,
    0,
-   49
+   57
   ],
   [
    "Kirk Santelli",
@@ -795,50 +795,38 @@
   [
    "Daniel Purpura",
    "Retreat",
-   23.18,
-   21,
+   22.89,
+   28,
+   8,
    6,
-   3,
    0,
    0,
-   3,
-   34
+   4,
+   50
   ],
   [
    "Alexander Blake",
    "Dart Bags T",
-   23.17,
-   28,
-   10,
-   6,
+   22.81,
+   35,
+   11,
+   7,
    0,
    0,
    0,
-   48
+   57
   ],
   [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   22.71,
-   21,
-   3,
-   2,
-   0,
-   0,
-   1,
-   43
-  ],
-  [
-   "Todd Wagner",
-   "Handjobs4thehomeless",
-   22.34,
+   "Anthony Kelly",
+   "Throw Bros",
+   22.72,
    28,
-   9,
-   2,
+   7,
+   5,
    0,
    0,
-   3,
-   44
+   0,
+   40
   ],
   [
    "Scott Etter",
@@ -853,16 +841,28 @@
    43
   ],
   [
-   "Anthony Kelly",
-   "Throw Bros",
-   21.85,
-   21,
+   "Todd Wagner",
+   "Handjobs4thehomeless",
+   22.19,
+   35,
+   9,
+   2,
+   0,
+   0,
    3,
-   3,
+   51
+  ],
+  [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   22.1,
+   28,
+   6,
+   2,
    0,
    0,
-   0,
-   28
+   1,
+   55
   ],
   [
    "Scott King",
@@ -875,6 +875,18 @@
    0,
    2,
    48
+  ],
+  [
+   "Mike Georgetti",
+   "No Clue",
+   21.45,
+   35,
+   15,
+   8,
+   0,
+   0,
+   1,
+   52
   ],
   [
    "Andy Horton",
@@ -901,28 +913,16 @@
    29
   ],
   [
-   "Mike Georgetti",
-   "No Clue",
-   21.31,
-   28,
-   13,
-   7,
-   0,
-   0,
-   1,
-   43
-  ],
-  [
    "John Salamone",
    "Tag Team Tami",
-   21.2,
-   21,
+   21.25,
+   28,
+   9,
    5,
-   4,
    0,
    0,
    0,
-   29
+   42
   ],
   [
    "Jamie Love",
@@ -949,76 +949,76 @@
    49
   ],
   [
-   "Mike Ronzo",
-   "Tag Team Tami",
-   20.74,
-   21,
-   4,
-   2,
-   0,
-   0,
-   0,
-   26
-  ],
-  [
-   "Chris Contrera",
-   "Throw Bros",
-   20.45,
-   21,
-   7,
-   4,
-   0,
-   0,
-   0,
-   23
-  ],
-  [
    "Shawn Bentley",
    "Throwing Shade",
-   20.34,
-   28,
-   3,
+   20.61,
+   35,
+   6,
    4,
    1,
    0,
    1,
-   28
+   37
   ],
   [
    "Jason Arena",
    "Throwing Shade",
-   20.23,
-   28,
-   10,
+   19.88,
+   35,
+   12,
    3,
    0,
    0,
-   1,
-   35
+   2,
+   44
   ],
   [
-   "Eric Porte",
-   "Never Trust A Dart",
-   19.64,
+   "Chris Contrera",
+   "Throw Bros",
+   19.78,
    28,
-   4,
-   1,
+   7,
+   5,
    0,
    0,
-   1,
-   26
+   0,
+   30
   ],
   [
    "Brandon Wheeler",
    "Never Trust A Dart",
-   19.62,
+   19.64,
+   35,
+   7,
+   6,
+   0,
+   0,
+   3,
+   38
+  ],
+  [
+   "Mike Ronzo",
+   "Tag Team Tami",
+   19.63,
    28,
-   6,
-   6,
-   0,
-   0,
+   4,
    2,
-   30
+   0,
+   0,
+   0,
+   33
+  ],
+  [
+   "Eric Porte",
+   "Never Trust A Dart",
+   19.29,
+   35,
+   7,
+   1,
+   0,
+   0,
+   1,
+   32
   ],
   [
    "Jason Bateman",
@@ -1045,24 +1045,24 @@
    2
   ],
   [
-   "Alyxandria Weaver",
-   "Retreat",
-   15.52,
-   14,
-   2,
-   0,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Carol Bartell",
    "Wags To Richs",
-   15.2,
-   28,
-   4,
+   15.23,
+   35,
+   5,
    1,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Alyxandria Weaver",
+   "Retreat",
+   14.7,
+   21,
+   3,
+   0,
    0,
    0,
    0,
@@ -1071,32 +1071,44 @@
   [
    "Jessica Mitrano",
    "TakingNamesTakingAim",
-   14.2,
-   14,
+   14.42,
+   21,
    0,
    0,
    0,
    0,
    0,
-   5
+   7
   ]
  ],
  "improved": {
   "c": [
    [
-    "Scott King",
-    "Scotts On The Rocks",
-    2.33,
-    2.39
+    "Alyxandria Weaver",
+    "Retreat",
+    1.64,
+    1.76
    ],
    [
-    "Carlton Smith",
-    "Revenge",
-    3.07,
-    3.09
+    "Andy Georgetti",
+    "No Clue",
+    2.8,
+    2.91
+   ],
+   [
+    "Mark Sennett",
+    "Dart Bags T",
+    2.61,
+    2.69
    ]
   ],
   "x": [
+   [
+    "Anthony Kelly",
+    "Throw Bros",
+    21.85,
+    22.72
+   ],
    [
     "Scott King",
     "Scotts On The Rocks",
@@ -1104,10 +1116,10 @@
     21.69
    ],
    [
-    "Scott Etter",
-    "Scotts On The Rocks",
-    22.11,
-    22.2
+    "Andy Georgetti",
+    "No Clue",
+    23.98,
+    24.29
    ]
   ]
  },
