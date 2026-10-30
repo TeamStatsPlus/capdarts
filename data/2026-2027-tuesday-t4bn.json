@@ -267,21 +267,6 @@
    0
   ],
   [
-   "Hector Hernandez",
-   "Fat Bastards",
-   2.35,
-   15,
-   8,
-   2,
-   1,
-   0,
-   7,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Chris Contrera",
    "AM Lumber",
    2.35,
@@ -293,6 +278,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Hector Hernandez",
+   "Fat Bastards",
+   2.35,
+   15,
+   8,
+   2,
+   1,
+   0,
+   7,
+   1,
+   2,
    0,
    0
   ],
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Pat Turco",
-   "Trippin On Trips",
-   1.78,
-   9,
-   2,
-   5,
-   0,
-   0,
-   1,
-   0,
-   1,
-   1,
-   0
-  ],
-  [
    "Scott Stipulski",
    "Chicks And Dicks",
    1.78,
@@ -684,6 +669,21 @@
    1,
    1,
    0,
+   0
+  ],
+  [
+   "Pat Turco",
+   "Trippin On Trips",
+   1.78,
+   9,
+   2,
+   5,
+   0,
+   0,
+   1,
+   0,
+   1,
+   1,
    0
   ],
   [
@@ -1799,18 +1799,6 @@
    0
   ],
   [
-   "Kathy Bailey",
-   "Chicks And Dicks",
-   13.47,
-   16,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Justin Ricci",
    "Show Your Tips",
    13.47,
@@ -1821,6 +1809,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Kathy Bailey",
+   "Chicks And Dicks",
+   13.47,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Kev Peppers And Onions",
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-30T19:07:58Z"
+ "updated": "2026-10-30T20:00:00Z"
 }

@@ -698,21 +698,6 @@
    1
   ],
   [
-   "Dean Nicosia",
-   "Money Shot",
-   1.88,
-   3,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Scott Musial",
    "The Shockers",
    1.88,
@@ -724,6 +709,21 @@
    0,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Dean Nicosia",
+   "Money Shot",
+   1.88,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -1741,18 +1741,6 @@
    0
   ],
   [
-   "Dickie Rowland",
-   "ChJokers",
-   17.41,
-   20,
-   3,
-   2,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Taylor Koffenberger",
    "Tegridy",
    17.41,
@@ -1763,6 +1751,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   17.41,
+   20,
+   3,
+   2,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Tyrell Carver",
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T18:03:21Z"
+ "updated": "2026-10-30T19:59:31Z"
 }
