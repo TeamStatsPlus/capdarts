@@ -361,21 +361,6 @@
    0
   ],
   [
-   "Alyssa Rank",
-   "Dark Sharts",
-   1.42,
-   30,
-   17,
-   5,
-   0,
-   0,
-   2,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Todd Cornell",
    "Ballsagna",
    1.42,
@@ -387,6 +372,21 @@
    0,
    3,
    0,
+   0,
+   0
+  ],
+  [
+   "Alyssa Rank",
+   "Dark Sharts",
+   1.42,
+   30,
+   17,
+   5,
+   0,
+   0,
+   2,
+   1,
+   2,
    0,
    0
   ],
@@ -1569,5 +1569,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-10-30T16:05:52Z"
+ "updated": "2026-10-30T17:02:03Z"
 }

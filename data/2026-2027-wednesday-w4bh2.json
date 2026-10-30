@@ -469,21 +469,6 @@
    0
   ],
   [
-   "Dave Robinson",
-   "Dart Vaders",
-   1.96,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jim Iorio",
    "Average Joes",
    1.96,
@@ -495,6 +480,21 @@
    3,
    3,
    2,
+   0,
+   0
+  ],
+  [
+   "Dave Robinson",
+   "Dart Vaders",
+   1.96,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-30T16:06:57Z"
+ "updated": "2026-10-30T17:03:00Z"
 }
