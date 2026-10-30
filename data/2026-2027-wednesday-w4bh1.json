@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Jason Post",
-    "Struggle Bus",
-    1.18,
-    1.25
+    "Lydia Wheeler",
+    "Shart Shooters",
+    0.87,
+    0.94
    ]
   ],
   "x": [
@@ -342,6 +342,21 @@
    0
   ],
   [
+   "Brian Miller",
+   "3some Plus 1",
+   1.73,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Adam Fowles",
    "Tips Dont Lie",
    1.73,
@@ -368,21 +383,6 @@
    2,
    3,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Miller",
-   "3some Plus 1",
-   1.73,
-   12,
-   3,
-   5,
-   0,
-   0,
-   5,
-   1,
-   0,
    0,
    0
   ],
@@ -867,21 +867,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -892,6 +877,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T10:10:24Z"
+ "updated": "2026-10-30T11:01:39Z"
 }
