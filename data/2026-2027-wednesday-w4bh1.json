@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Lydia Wheeler",
-    "Shart Shooters",
-    0.87,
-    0.94
+    "Jason Post",
+    "Struggle Bus",
+    1.18,
+    1.25
    ]
   ],
   "x": [
@@ -627,21 +627,6 @@
    1
   ],
   [
-   "Danielle Henry",
-   "The Limp Wristers",
-   1.41,
-   12,
-   3,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0
-  ],
-  [
    "John Brennan",
    "Emerald Society",
    1.41,
@@ -654,6 +639,21 @@
    0,
    0,
    0,
+   0
+  ],
+  [
+   "Danielle Henry",
+   "The Limp Wristers",
+   1.41,
+   12,
+   3,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1,
    0
   ],
   [
@@ -897,21 +897,6 @@
    0
   ],
   [
-   "Brandon Shampoe",
-   "Struggle Bus",
-   1.13,
-   9,
-   1,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Tyler CannonBailey",
    "Squeekertips",
    1.13,
@@ -936,6 +921,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brandon Shampoe",
+   "Struggle Bus",
+   1.13,
+   9,
+   1,
+   2,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "Ashley McLaughlin",
-   "Throwgasms",
-   0.99,
-   9,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Adam Phillips",
    "Struggle Bus",
    0.99,
@@ -1042,6 +1027,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ashley McLaughlin",
+   "Throwgasms",
+   0.99,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1751,18 +1751,6 @@
    0
   ],
   [
-   "Jacob Post",
-   "Struggle Bus",
-   13.78,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Carly Kostiw",
    "Squeekertips",
    13.78,
@@ -1773,6 +1761,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Jacob Post",
+   "Struggle Bus",
+   13.78,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Adam Fowles",
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T16:06:52Z"
+ "updated": "2026-10-30T18:04:14Z"
 }

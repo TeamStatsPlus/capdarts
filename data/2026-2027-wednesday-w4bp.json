@@ -129,21 +129,6 @@
  },
  "cricket": [
   [
-   "Jeff Childs",
-   "Fingerblasters",
-   3.39,
-   12,
-   5,
-   5,
-   4,
-   2,
-   10,
-   5,
-   2,
-   0,
-   0
-  ],
-  [
    "Ashton Maracle",
    "Ryans Renegades",
    3.39,
@@ -157,6 +142,21 @@
    2,
    0,
    1
+  ],
+  [
+   "Jeff Childs",
+   "Fingerblasters",
+   3.39,
+   12,
+   5,
+   5,
+   4,
+   2,
+   10,
+   5,
+   2,
+   0,
+   0
   ],
   [
    "Cory Humphries",
@@ -1336,5 +1336,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-30T13:19:45Z"
+ "updated": "2026-10-30T18:04:28Z"
 }

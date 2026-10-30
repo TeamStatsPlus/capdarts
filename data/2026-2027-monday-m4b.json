@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Matt Cortese",
-   "Off Target",
-   2.14,
-   9,
-   1,
-   1,
-   0,
-   0,
-   1,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Joe Soriano",
    "The Shockers",
    2.14,
@@ -514,6 +499,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Matt Cortese",
+   "Off Target",
+   2.14,
+   9,
+   1,
+   1,
+   0,
+   0,
+   1,
+   2,
+   1,
    0,
    0
   ],
@@ -698,21 +698,6 @@
    1
   ],
   [
-   "Scott Musial",
-   "The Shockers",
-   1.88,
-   15,
-   2,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Dean Nicosia",
    "Money Shot",
    1.88,
@@ -724,6 +709,21 @@
    1,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Scott Musial",
+   "The Shockers",
+   1.88,
+   15,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
    0,
    0
   ],
@@ -743,21 +743,6 @@
    0
   ],
   [
-   "Jason Sherman",
-   "The Shockers",
-   1.82,
-   12,
-   1,
-   4,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jake Maracle",
    "Slow Mother Chuckers",
    1.82,
@@ -767,6 +752,21 @@
    0,
    0,
    2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Sherman",
+   "The Shockers",
+   1.82,
+   12,
+   1,
+   4,
+   0,
+   0,
+   3,
    1,
    0,
    0,
@@ -923,21 +923,6 @@
    0
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   1.64,
-   3,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Chuck Coates",
    "Wired",
    1.64,
@@ -947,6 +932,21 @@
    0,
    0,
    5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   1.64,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -968,21 +968,6 @@
    0
   ],
   [
-   "Danny Zysman",
-   "The Shockers",
-   1.62,
-   15,
-   5,
-   2,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Michelle Nguyen",
    "Bad News Beers",
    1.62,
@@ -994,6 +979,21 @@
    2,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Danny Zysman",
+   "The Shockers",
+   1.62,
+   15,
+   5,
+   2,
+   0,
+   0,
+   3,
+   0,
+   0,
    0,
    0
   ],
@@ -1028,21 +1028,6 @@
    0
   ],
   [
-   "Dickie Rowland",
-   "ChJokers",
-   1.59,
-   15,
-   6,
-   4,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Wills",
    "Tegridy",
    1.59,
@@ -1053,6 +1038,21 @@
    0,
    4,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   1.59,
+   15,
+   6,
+   4,
+   0,
+   0,
+   0,
+   2,
    0,
    0,
    0
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T17:02:12Z"
+ "updated": "2026-10-30T18:03:21Z"
 }
