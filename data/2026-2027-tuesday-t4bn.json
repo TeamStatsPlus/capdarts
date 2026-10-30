@@ -372,12 +372,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   15,
+   8,
+   3,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   15,
-   8,
-   3,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Pat Turco",
-   "Trippin On Trips",
-   1.78,
-   9,
-   2,
-   5,
-   0,
-   0,
-   1,
-   0,
-   1,
-   1,
-   0
-  ],
-  [
    "Scott Stipulski",
    "Chicks And Dicks",
    1.78,
@@ -687,18 +672,18 @@
    0
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.77,
-   15,
-   4,
-   4,
+   "Pat Turco",
+   "Trippin On Trips",
+   1.78,
+   9,
+   2,
+   5,
    0,
    0,
    1,
-   1,
-   1,
    0,
+   1,
+   1,
    0
   ],
   [
@@ -717,16 +702,16 @@
    1
   ],
   [
-   "Dan Spencer",
-   "Peppers And Onions",
-   1.75,
-   12,
-   2,
+   "Brian Leach",
+   "Truckin Bulls",
+   1.77,
+   15,
+   4,
+   4,
+   0,
+   0,
    1,
-   0,
-   0,
-   3,
-   2,
+   1,
    1,
    0,
    0
@@ -762,6 +747,21 @@
    0
   ],
   [
+   "Dan Spencer",
+   "Peppers And Onions",
+   1.75,
+   12,
+   2,
+   1,
+   0,
+   0,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
    "Mike Coyle",
    "Fat Bastards",
    1.73,
@@ -792,6 +792,21 @@
    0
   ],
   [
+   "Eric Smith",
+   "Show Your Tips",
+   1.68,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Jamie Rialdi",
    "Show Your Tips",
    1.68,
@@ -817,21 +832,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Eric Smith",
-   "Show Your Tips",
-   1.68,
-   12,
-   3,
-   1,
-   0,
-   0,
-   0,
-   3,
    0,
    0,
    0
@@ -1799,18 +1799,6 @@
    0
   ],
   [
-   "Kathy Bailey",
-   "Chicks And Dicks",
-   13.47,
-   16,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Justin Ricci",
    "Show Your Tips",
    13.47,
@@ -1821,6 +1809,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Kathy Bailey",
+   "Chicks And Dicks",
+   13.47,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Kev Peppers And Onions",
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-30T11:01:17Z"
+ "updated": "2026-10-30T11:59:39Z"
 }

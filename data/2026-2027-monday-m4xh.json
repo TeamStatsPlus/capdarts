@@ -114,16 +114,16 @@
  "improved": {
   "c": [
    [
-    "Ken Nicolay",
-    "Take It Out",
-    2.53,
-    2.65
-   ],
-   [
     "Matt Kraft",
     "Wrong Hole",
     1.87,
     1.99
+   ],
+   [
+    "Ken Nicolay",
+    "Take It Out",
+    2.53,
+    2.65
    ],
    [
     "Tony Villani",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-30T11:01:00Z"
+ "updated": "2026-10-30T11:59:18Z"
 }

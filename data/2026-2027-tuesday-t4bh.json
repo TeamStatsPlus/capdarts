@@ -230,21 +230,6 @@
    0
   ],
   [
-   "Scott Fry",
-   "Thunderbuddies",
-   1.89,
-   15,
-   2,
-   7,
-   0,
-   0,
-   5,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Ian Heath",
    "Lady And The Tramps",
    1.89,
@@ -255,6 +240,21 @@
    0,
    1,
    5,
+   0,
+   0,
+   0
+  ],
+  [
+   "Scott Fry",
+   "Thunderbuddies",
+   1.89,
+   15,
+   2,
+   7,
+   0,
+   0,
+   5,
+   3,
    0,
    0,
    0
@@ -590,21 +590,6 @@
    0
   ],
   [
-   "Sue Fuhry",
-   "4 Of Clubs",
-   1.33,
-   15,
-   2,
-   4,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Rowland",
    "Team Name",
    1.33,
@@ -615,6 +600,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sue Fuhry",
+   "4 Of Clubs",
+   1.33,
+   15,
+   2,
+   4,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -985,18 +985,6 @@
    9
   ],
   [
-   "Jimmy Mietus",
-   "Team Name",
-   17.2,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   10
-  ],
-  [
    "Brad Wight",
    "Thunderbuddies",
    17.2,
@@ -1007,6 +995,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Jimmy Mietus",
+   "Team Name",
+   17.2,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   10
   ],
   [
    "Andy Del Gandio",
@@ -1081,18 +1081,6 @@
    6
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   15.51,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Sue Fuhry",
    "4 Of Clubs",
    15.51,
@@ -1103,6 +1091,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   15.51,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Ben Vassallo",
@@ -1213,18 +1213,6 @@
    3
   ],
   [
-   "Fiona Nelson",
-   "The Critters",
-   14.13,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Garrity",
    "Thats Bullshoot",
    14.13,
@@ -1235,6 +1223,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Fiona Nelson",
+   "The Critters",
+   14.13,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Emily Chard",
@@ -1954,5 +1954,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-30T11:01:13Z"
+ "updated": "2026-10-30T11:59:34Z"
 }
