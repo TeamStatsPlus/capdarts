@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Alli Distler",
-   "Galactic Platypus",
-   2.25,
-   30,
-   5,
-   16,
-   0,
-   0,
-   13,
-   5,
-   1,
-   0,
-   0
-  ],
-  [
    "Todd Keller",
    "CHEERS",
    2.25,
@@ -331,6 +316,21 @@
    11,
    5,
    2,
+   0,
+   0
+  ],
+  [
+   "Alli Distler",
+   "Galactic Platypus",
+   2.25,
+   30,
+   5,
+   16,
+   0,
+   0,
+   13,
+   5,
+   1,
    0,
    0
   ],
@@ -1198,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-30T21:55:05Z"
+ "updated": "2026-10-30T22:55:06Z"
 }

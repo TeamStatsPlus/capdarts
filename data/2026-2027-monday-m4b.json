@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Joe Soriano",
-   "The Shockers",
-   2.14,
-   3,
-   0,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Matt Cortese",
    "Off Target",
    2.14,
@@ -514,6 +499,21 @@
    1,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Joe Soriano",
+   "The Shockers",
+   2.14,
+   3,
+   0,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -743,21 +743,6 @@
    0
   ],
   [
-   "Jake Maracle",
-   "Slow Mother Chuckers",
-   1.82,
-   9,
-   5,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jason Sherman",
    "The Shockers",
    1.82,
@@ -767,6 +752,21 @@
    0,
    0,
    3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake Maracle",
+   "Slow Mother Chuckers",
+   1.82,
+   9,
+   5,
+   1,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -923,21 +923,6 @@
    0
   ],
   [
-   "Chuck Coates",
-   "Wired",
-   1.64,
-   15,
-   1,
-   6,
-   0,
-   0,
-   5,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Alex Todisco",
    "Slow Mother Chuckers",
    1.64,
@@ -947,6 +932,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chuck Coates",
+   "Wired",
+   1.64,
+   15,
+   1,
+   6,
+   0,
+   0,
+   5,
    0,
    0,
    0,
@@ -968,21 +968,6 @@
    0
   ],
   [
-   "Michelle Nguyen",
-   "Bad News Beers",
-   1.62,
-   15,
-   4,
-   6,
-   0,
-   0,
-   2,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Danny Zysman",
    "The Shockers",
    1.62,
@@ -994,6 +979,21 @@
    3,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Michelle Nguyen",
+   "Bad News Beers",
+   1.62,
+   15,
+   4,
+   6,
+   0,
+   0,
+   2,
+   1,
+   1,
    0,
    0
   ],
@@ -1028,21 +1028,6 @@
    0
   ],
   [
-   "Brian Wills",
-   "Tegridy",
-   1.59,
-   12,
-   0,
-   5,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dickie Rowland",
    "ChJokers",
    1.59,
@@ -1053,6 +1038,21 @@
    0,
    0,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Wills",
+   "Tegridy",
+   1.59,
+   12,
+   0,
+   5,
+   0,
+   0,
+   4,
+   0,
    0,
    0,
    0
@@ -1741,18 +1741,6 @@
    0
   ],
   [
-   "Taylor Koffenberger",
-   "Tegridy",
-   17.41,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Dickie Rowland",
    "ChJokers",
    17.41,
@@ -1763,6 +1751,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Taylor Koffenberger",
+   "Tegridy",
+   17.41,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Tyrell Carver",
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T19:59:31Z"
+ "updated": "2026-10-30T22:55:11Z"
 }
