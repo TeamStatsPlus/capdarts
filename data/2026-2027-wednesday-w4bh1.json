@@ -342,6 +342,21 @@
    0
   ],
   [
+   "Brian Miller",
+   "3some Plus 1",
+   1.73,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Adam Fowles",
    "Tips Dont Lie",
    1.73,
@@ -368,21 +383,6 @@
    2,
    3,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Miller",
-   "3some Plus 1",
-   1.73,
-   12,
-   3,
-   5,
-   0,
-   0,
-   5,
-   1,
-   0,
    0,
    0
   ],
@@ -447,21 +447,6 @@
    0
   ],
   [
-   "Chris Coulter",
-   "Double Deuces",
-   1.64,
-   12,
-   5,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tanner Curtis",
    "Closer To Zero",
    1.64,
@@ -472,6 +457,21 @@
    0,
    5,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris Coulter",
+   "Double Deuces",
+   1.64,
+   12,
+   5,
+   3,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -687,21 +687,6 @@
    0
   ],
   [
-   "Bri Smith",
-   "3some Plus 1",
-   1.35,
-   12,
-   6,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Josh Struggle Bus",
    "Struggle Bus",
    1.35,
@@ -712,6 +697,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bri Smith",
+   "3some Plus 1",
+   1.35,
+   12,
+   6,
+   3,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -1319,18 +1319,6 @@
    12
   ],
   [
-   "Graham Wheeler",
-   "Shart Shooters",
-   17.16,
-   20,
-   4,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Chris Coulter",
    "Double Deuces",
    17.16,
@@ -1341,6 +1329,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Graham Wheeler",
+   "Shart Shooters",
+   17.16,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Mike Loucks",
@@ -1823,18 +1823,6 @@
    2
   ],
   [
-   "Marin Valentino",
-   "The Limp Wristers",
-   13.14,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    13.14,
@@ -1845,6 +1833,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Marin Valentino",
+   "The Limp Wristers",
+   13.14,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Erin Lamar",
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T20:00:33Z"
+ "updated": "2026-10-30T20:58:59Z"
 }
