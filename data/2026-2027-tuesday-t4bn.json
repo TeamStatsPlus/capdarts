@@ -687,21 +687,6 @@
    0
   ],
   [
-   "Dale Pickens",
-   "Points And Pints",
-   1.77,
-   15,
-   3,
-   4,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
-   1
-  ],
-  [
    "Brian Leach",
    "Truckin Bulls",
    1.77,
@@ -715,6 +700,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Dale Pickens",
+   "Points And Pints",
+   1.77,
+   15,
+   3,
+   4,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1
   ],
   [
    "Jim Oneill",
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-30T04:07:23Z"
+ "updated": "2026-10-30T05:05:40Z"
 }
