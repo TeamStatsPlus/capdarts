@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:13:01Z",
+ "updated": "2026-10-30T16:07:27Z",
  "standings": [
   [
    "No Clue",
@@ -368,21 +368,6 @@
    1
   ],
   [
-   "Daniel Purpura",
-   "Retreat",
-   2.58,
-   24,
-   9,
-   2,
-   1,
-   0,
-   12,
-   10,
-   2,
-   0,
-   1
-  ],
-  [
    "Mike Georgetti",
    "No Clue",
    2.58,
@@ -396,6 +381,21 @@
    4,
    0,
    0
+  ],
+  [
+   "Daniel Purpura",
+   "Retreat",
+   2.58,
+   24,
+   9,
+   2,
+   1,
+   0,
+   12,
+   10,
+   2,
+   0,
+   1
   ],
   [
    "Alexander Blake",
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Alyxandria Weaver",
-   "Retreat",
-   1.76,
-   18,
-   2,
-   4,
-   0,
-   0,
-   10,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Chris Dote",
    "TakingNamesTakingAim",
    1.76,
@@ -663,6 +648,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alyxandria Weaver",
+   "Retreat",
+   1.76,
+   18,
+   2,
+   4,
+   0,
+   0,
+   10,
+   2,
    0,
    0,
    0
