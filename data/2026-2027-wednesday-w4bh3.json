@@ -101,16 +101,16 @@
  "improved": {
   "c": [
    [
-    "John Frazer",
-    "Duckin Farts",
-    1.7,
-    1.88
-   ],
-   [
     "John Clarke",
     "Duckin Farts",
     1.9,
     2.08
+   ],
+   [
+    "John Frazer",
+    "Duckin Farts",
+    1.7,
+    1.88
    ],
    [
     "Kayla Ross",
@@ -1590,5 +1590,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-30T22:56:16Z"
+ "updated": "2026-10-30T23:53:22Z"
 }
