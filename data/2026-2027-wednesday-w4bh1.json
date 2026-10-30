@@ -342,6 +342,21 @@
    0
   ],
   [
+   "Brian Miller",
+   "3some Plus 1",
+   1.73,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Adam Fowles",
    "Tips Dont Lie",
    1.73,
@@ -368,21 +383,6 @@
    2,
    3,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Miller",
-   "3some Plus 1",
-   1.73,
-   12,
-   3,
-   5,
-   0,
-   0,
-   5,
-   1,
-   0,
    0,
    0
   ],
@@ -447,6 +447,21 @@
    0
   ],
   [
+   "Tanner Curtis",
+   "Closer To Zero",
+   1.64,
+   6,
+   1,
+   0,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Chris Coulter",
    "Double Deuces",
    1.64,
@@ -462,16 +477,16 @@
    0
   ],
   [
-   "Tanner Curtis",
-   "Closer To Zero",
-   1.64,
-   6,
-   1,
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.62,
+   12,
+   4,
+   3,
    0,
    0,
-   0,
-   5,
-   0,
+   2,
+   2,
    0,
    0,
    0
@@ -488,21 +503,6 @@
    1,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.62,
-   12,
-   4,
-   3,
-   0,
-   0,
-   2,
-   2,
-   0,
    0,
    0
   ],
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.37,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.37,
@@ -683,6 +668,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Ellen Post",
+   "Closer To Zero",
+   1.37,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0
   ],
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Jason Post",
-   "Struggle Bus",
-   1.25,
-   12,
-   0,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Stephanie Carlson",
    "The Limp Wristers",
    1.25,
@@ -816,6 +801,21 @@
    0,
    0,
    0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Post",
+   "Struggle Bus",
+   1.25,
+   12,
+   0,
+   1,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -867,21 +867,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -892,6 +877,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -957,21 +957,6 @@
    0
   ],
   [
-   "Erin Lamar",
-   "Throwgasms",
-   1.03,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    1.03,
@@ -982,6 +967,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Erin Lamar",
+   "Throwgasms",
+   1.03,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   0.99,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Ashley McLaughlin",
    "Throwgasms",
    0.99,
@@ -1042,6 +1027,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   0.99,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -1122,12 +1122,12 @@
    0
   ],
   [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
+   "Cindy Simpson",
+   "Squeekertips",
    0.9,
    3,
-   1,
-   1,
+   0,
+   0,
    0,
    0,
    0,
@@ -1137,12 +1137,12 @@
    0
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
    0.9,
    3,
-   0,
-   0,
+   1,
+   1,
    0,
    0,
    0,
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T07:23:39Z"
+ "updated": "2026-10-30T09:11:04Z"
 }

@@ -372,12 +372,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   15,
+   8,
+   3,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   15,
-   8,
-   3,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -537,21 +537,6 @@
    0
   ],
   [
-   "Barry Barklund",
-   "Dartbags",
-   1.93,
-   15,
-   1,
-   6,
-   0,
-   0,
-   3,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Mike Bisig",
    "Trippin On Trips",
    1.93,
@@ -563,6 +548,21 @@
    6,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Barry Barklund",
+   "Dartbags",
+   1.93,
+   15,
+   1,
+   6,
+   0,
+   0,
+   3,
+   0,
+   2,
    0,
    0
   ],
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-30T07:23:13Z"
+ "updated": "2026-10-30T09:10:39Z"
 }

@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Matt Cortese",
-   "Off Target",
-   2.14,
-   9,
-   1,
-   1,
-   0,
-   0,
-   1,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Joe Soriano",
    "The Shockers",
    2.14,
@@ -514,6 +499,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Matt Cortese",
+   "Off Target",
+   2.14,
+   9,
+   1,
+   1,
+   0,
+   0,
+   1,
+   2,
+   1,
    0,
    0
   ],
@@ -578,21 +578,6 @@
    0
   ],
   [
-   "Dave Biedrzycki",
-   "Here 4 The Beer",
-   2.04,
-   15,
-   5,
-   3,
-   0,
-   0,
-   6,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Hodgeman",
    "Here 4 The Beer",
    2.04,
@@ -604,6 +589,21 @@
    5,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Dave Biedrzycki",
+   "Here 4 The Beer",
+   2.04,
+   15,
+   5,
+   3,
+   0,
+   0,
+   6,
+   4,
+   0,
    0,
    0
   ],
@@ -833,21 +833,6 @@
    0
   ],
   [
-   "Orion Wilkerson",
-   "IDF NightCaps",
-   1.71,
-   12,
-   3,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "John Mitrano",
    "Here 4 The Beer",
    1.71,
@@ -859,6 +844,21 @@
    2,
    2,
    3,
+   0,
+   0
+  ],
+  [
+   "Orion Wilkerson",
+   "IDF NightCaps",
+   1.71,
+   12,
+   3,
+   3,
+   0,
+   0,
+   2,
+   1,
+   0,
    0,
    0
   ],
@@ -893,21 +893,6 @@
    0
   ],
   [
-   "Kevin Rowland",
-   "Off Target",
-   1.67,
-   12,
-   0,
-   4,
-   0,
-   0,
-   0,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Bill Greenough",
    "Slow Mother Chuckers",
    1.67,
@@ -919,6 +904,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Kevin Rowland",
+   "Off Target",
+   1.67,
+   12,
+   0,
+   4,
+   0,
+   0,
+   0,
+   1,
+   2,
    0,
    0
   ],
@@ -1028,21 +1028,6 @@
    0
   ],
   [
-   "Dickie Rowland",
-   "ChJokers",
-   1.59,
-   15,
-   6,
-   4,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Wills",
    "Tegridy",
    1.59,
@@ -1053,6 +1038,21 @@
    0,
    4,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   1.59,
+   15,
+   6,
+   4,
+   0,
+   0,
+   0,
+   2,
    0,
    0,
    0
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T06:01:23Z"
+ "updated": "2026-10-30T09:10:13Z"
 }
