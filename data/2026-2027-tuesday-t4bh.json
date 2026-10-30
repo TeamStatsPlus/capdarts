@@ -1081,18 +1081,6 @@
    6
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   15.51,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Sue Fuhry",
    "4 Of Clubs",
    15.51,
@@ -1103,6 +1091,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   15.51,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Ben Vassallo",
@@ -1213,18 +1213,6 @@
    3
   ],
   [
-   "Fiona Nelson",
-   "The Critters",
-   14.13,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Garrity",
    "Thats Bullshoot",
    14.13,
@@ -1235,6 +1223,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Fiona Nelson",
+   "The Critters",
+   14.13,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Emily Chard",
@@ -1954,5 +1954,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-30T05:05:35Z"
+ "updated": "2026-10-30T07:23:09Z"
 }
