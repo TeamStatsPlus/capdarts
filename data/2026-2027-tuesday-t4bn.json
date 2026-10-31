@@ -687,6 +687,21 @@
    0
   ],
   [
+   "Dale Pickens",
+   "Points And Pints",
+   1.77,
+   15,
+   3,
+   4,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1
+  ],
+  [
    "Brian Leach",
    "Truckin Bulls",
    1.77,
@@ -702,19 +717,19 @@
    0
   ],
   [
-   "Dale Pickens",
+   "Joe Tortora",
    "Points And Pints",
-   1.77,
+   1.75,
    15,
-   3,
-   4,
+   6,
+   1,
+   1,
    0,
    0,
+   1,
+   1,
    0,
-   0,
-   2,
-   0,
-   1
+   0
   ],
   [
    "Dan Spencer",
@@ -742,21 +757,6 @@
    0,
    2,
    3,
-   1,
-   0,
-   0
-  ],
-  [
-   "Joe Tortora",
-   "Points And Pints",
-   1.75,
-   15,
-   6,
-   1,
-   1,
-   0,
-   0,
-   1,
    1,
    0,
    0
@@ -792,6 +792,21 @@
    0
   ],
   [
+   "Eric Smith",
+   "Show Your Tips",
+   1.68,
+   12,
+   3,
+   1,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Jamie Rialdi",
    "Show Your Tips",
    1.68,
@@ -817,21 +832,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Eric Smith",
-   "Show Your Tips",
-   1.68,
-   12,
-   3,
-   1,
-   0,
-   0,
-   0,
-   3,
    0,
    0,
    0
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-31T09:57:59Z"
+ "updated": "2026-10-31T10:54:10Z"
 }

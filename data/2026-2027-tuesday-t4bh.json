@@ -275,21 +275,6 @@
    0
   ],
   [
-   "Brian Sloan",
-   "The Critters",
-   1.85,
-   15,
-   3,
-   2,
-   2,
-   0,
-   4,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Michael Justis",
    "4 Of Clubs",
    1.85,
@@ -300,6 +285,21 @@
    0,
    5,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.85,
+   15,
+   3,
+   2,
+   2,
+   0,
+   4,
+   3,
    0,
    0,
    0
@@ -380,21 +380,6 @@
    0
   ],
   [
-   "Brad Wight",
-   "Thunderbuddies",
-   1.79,
-   15,
-   8,
-   2,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "John Clark",
    "Lady And The Tramps",
    1.79,
@@ -404,6 +389,21 @@
    0,
    0,
    3,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brad Wight",
+   "Thunderbuddies",
+   1.79,
+   15,
+   8,
+   2,
+   0,
+   0,
+   4,
    0,
    1,
    0,
@@ -560,6 +560,21 @@
    0
   ],
   [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   1.34,
+   15,
+   3,
+   6,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Edward Gschrey",
    "Team Name",
    1.34,
@@ -575,15 +590,15 @@
    0
   ],
   [
-   "Tom Solorzano",
-   "4 Of Clubs",
-   1.34,
-   15,
+   "Kevin Rowland",
+   "Team Name",
+   1.33,
    3,
-   6,
-   0,
-   0,
    1,
+   1,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -600,21 +615,6 @@
    0,
    1,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Kevin Rowland",
-   "Team Name",
-   1.33,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
    0,
    0,
    0
@@ -1081,18 +1081,6 @@
    6
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   15.51,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Sue Fuhry",
    "4 Of Clubs",
    15.51,
@@ -1103,6 +1091,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   15.51,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Ben Vassallo",
@@ -1213,18 +1213,6 @@
    3
   ],
   [
-   "Fiona Nelson",
-   "The Critters",
-   14.13,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Garrity",
    "Thats Bullshoot",
    14.13,
@@ -1235,6 +1223,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Fiona Nelson",
+   "The Critters",
+   14.13,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Emily Chard",
@@ -1954,5 +1954,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-10-31T09:57:54Z"
+ "updated": "2026-10-31T10:54:05Z"
 }
