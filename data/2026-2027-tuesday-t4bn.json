@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Jamie Rialdi",
-   "Show Your Tips",
-   1.68,
-   12,
-   0,
-   4,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Chris New Wave",
    "New Wave",
    1.68,
@@ -833,6 +818,21 @@
    0,
    3,
    0,
+   0,
+   0
+  ],
+  [
+   "Jamie Rialdi",
+   "Show Your Tips",
+   1.68,
+   12,
+   0,
+   4,
+   0,
+   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-31T16:55:30Z"
+ "updated": "2026-10-31T19:05:08Z"
 }
