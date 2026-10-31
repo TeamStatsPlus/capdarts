@@ -166,16 +166,16 @@
  "improved": {
   "c": [
    [
-    "Breonna Provorse",
-    "Shared Brain Cell",
-    1.9,
-    1.97
-   ],
-   [
     "Matthew Sutherland",
     "Darts Deep",
     2.25,
     2.32
+   ],
+   [
+    "Breonna Provorse",
+    "Shared Brain Cell",
+    1.9,
+    1.97
    ],
    [
     "Mike Kolberg",
@@ -327,21 +327,6 @@
    0
   ],
   [
-   "Zach Morgan",
-   "Two Furry Dudes",
-   1.81,
-   30,
-   8,
-   6,
-   0,
-   0,
-   5,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Keith Seiffert",
    "BitterDisappointment",
    1.81,
@@ -352,6 +337,21 @@
    0,
    2,
    2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Zach Morgan",
+   "Two Furry Dudes",
+   1.81,
+   30,
+   8,
+   6,
+   0,
+   0,
+   5,
+   3,
    1,
    0,
    0
@@ -1779,5 +1779,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-10-31T13:12:10Z"
+ "updated": "2026-10-31T14:54:05Z"
 }
