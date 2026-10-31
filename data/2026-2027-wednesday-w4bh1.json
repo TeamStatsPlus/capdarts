@@ -342,6 +342,21 @@
    0
   ],
   [
+   "Brian Miller",
+   "3some Plus 1",
+   1.73,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Adam Fowles",
    "Tips Dont Lie",
    1.73,
@@ -368,21 +383,6 @@
    2,
    3,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Miller",
-   "3some Plus 1",
-   1.73,
-   12,
-   3,
-   5,
-   0,
-   0,
-   5,
-   1,
-   0,
    0,
    0
   ],
@@ -477,21 +477,6 @@
    0
   ],
   [
-   "Collin Owczarzak",
-   "The Limp Wristers",
-   1.62,
-   9,
-   1,
-   4,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Chris Murgatroyd",
    "Double Deuces",
    1.62,
@@ -503,6 +488,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Collin Owczarzak",
+   "The Limp Wristers",
+   1.62,
+   9,
+   1,
+   4,
+   0,
+   0,
+   1,
+   1,
+   1,
    0,
    0
   ],
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.37,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.37,
@@ -687,17 +672,17 @@
    0
   ],
   [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
+   "Ellen Post",
+   "Closer To Zero",
+   1.37,
+   6,
+   1,
+   1,
    0,
    0,
    0,
    0,
-   0,
-   0,
-   0,
+   1,
    0,
    0
   ],
@@ -712,6 +697,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Jason Post",
-   "Struggle Bus",
-   1.25,
-   12,
-   0,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Stephanie Carlson",
    "The Limp Wristers",
    1.25,
@@ -816,6 +801,21 @@
    0,
    0,
    0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Post",
+   "Struggle Bus",
+   1.25,
+   12,
+   0,
+   1,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -957,21 +957,6 @@
    0
   ],
   [
-   "Erin Lamar",
-   "Throwgasms",
-   1.03,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    1.03,
@@ -982,6 +967,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Erin Lamar",
+   "Throwgasms",
+   1.03,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   0.99,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Ashley McLaughlin",
    "Throwgasms",
    0.99,
@@ -1042,6 +1027,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   0.99,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -1122,12 +1122,12 @@
    0
   ],
   [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
+   "Cindy Simpson",
+   "Squeekertips",
    0.9,
    3,
-   1,
-   1,
+   0,
+   0,
    0,
    0,
    0,
@@ -1137,12 +1137,12 @@
    0
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
    0.9,
    3,
-   0,
-   0,
+   1,
+   1,
    0,
    0,
    0,
@@ -1319,18 +1319,6 @@
    12
   ],
   [
-   "Chris Coulter",
-   "Double Deuces",
-   17.16,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Graham Wheeler",
    "Shart Shooters",
    17.16,
@@ -1341,6 +1329,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Chris Coulter",
+   "Double Deuces",
+   17.16,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Mike Loucks",
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-31T14:54:24Z"
+ "updated": "2026-10-31T15:53:52Z"
 }

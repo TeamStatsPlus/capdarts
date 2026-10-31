@@ -485,21 +485,6 @@
    0
   ],
   [
-   "Chris Philbin",
-   "Dirty O Boys",
-   1.75,
-   15,
-   3,
-   4,
-   0,
-   0,
-   4,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Brendan Sheerwood",
    "Dirty O Boys",
    1.75,
@@ -511,6 +496,21 @@
    8,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Chris Philbin",
+   "Dirty O Boys",
+   1.75,
+   15,
+   3,
+   4,
+   0,
+   0,
+   4,
+   3,
+   1,
    0,
    0
   ],
@@ -665,11 +665,11 @@
    0
   ],
   [
-   "Chyanel Adinoel",
+   "Hernandez Michael",
    "Goodlife",
    1.51,
-   6,
-   0,
+   9,
+   1,
    2,
    0,
    0,
@@ -680,11 +680,11 @@
    0
   ],
   [
-   "Hernandez Michael",
+   "Chyanel Adinoel",
    "Goodlife",
    1.51,
-   9,
-   1,
+   6,
+   0,
    2,
    0,
    0,
@@ -1186,18 +1186,6 @@
    3
   ],
   [
-   "Andrew Bochetto",
-   "Sloppy Darts",
-   15.07,
-   20,
-   2,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Pete Guerrieri",
    "3 Guys And A Girl",
    15.07,
@@ -1208,6 +1196,18 @@
    0,
    1,
    3
+  ],
+  [
+   "Andrew Bochetto",
+   "Sloppy Darts",
+   15.07,
+   20,
+   2,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Robin Guerrieri",
@@ -1921,5 +1921,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-31T14:53:50Z"
+ "updated": "2026-10-31T15:53:18Z"
 }
