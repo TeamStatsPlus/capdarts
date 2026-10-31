@@ -439,21 +439,6 @@
    0
   ],
   [
-   "Brian Keefe",
-   "Average Joes",
-   1.97,
-   9,
-   5,
-   2,
-   0,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Robert Macomber",
    "Ask Bobby",
    1.97,
@@ -465,6 +450,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Brian Keefe",
+   "Average Joes",
+   1.97,
+   9,
+   5,
+   2,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -814,21 +814,6 @@
    0
   ],
   [
-   "Miguel Carmona",
-   "RRP Crew",
-   1.58,
-   12,
-   3,
-   2,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Dan Hall",
    "RRP Crew",
    1.58,
@@ -844,16 +829,16 @@
    0
   ],
   [
-   "Matthew Griffith",
-   "Rizm With The Tizm",
-   1.57,
-   15,
-   6,
+   "Miguel Carmona",
+   "RRP Crew",
+   1.58,
+   12,
+   3,
    2,
    0,
    0,
-   0,
-   0,
+   2,
+   1,
    0,
    0,
    0
@@ -870,6 +855,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Matthew Griffith",
+   "Rizm With The Tizm",
+   1.57,
+   15,
+   6,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-30T23:53:17Z"
+ "updated": "2026-10-31T01:24:03Z"
 }

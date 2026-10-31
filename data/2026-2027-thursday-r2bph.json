@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:53:46Z",
+ "updated": "2026-10-31T01:24:30Z",
  "standings": [
   [
    "No Clue",
@@ -308,6 +308,21 @@
    1
   ],
   [
+   "Kevin DeHollander",
+   "Draw Two",
+   2.69,
+   18,
+   10,
+   0,
+   0,
+   0,
+   14,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
    "Mark Sennett",
    "Dart Bags T",
    2.69,
@@ -335,21 +350,6 @@
    4,
    4,
    2,
-   0
-  ],
-  [
-   "Kevin DeHollander",
-   "Draw Two",
-   2.69,
-   18,
-   10,
-   0,
-   0,
-   0,
-   14,
-   4,
-   3,
-   0,
    0
   ],
   [
@@ -458,21 +458,6 @@
    0
   ],
   [
-   "Archie Donaldson",
-   "Revenge",
-   2.48,
-   30,
-   10,
-   7,
-   0,
-   0,
-   17,
-   5,
-   5,
-   1,
-   0
-  ],
-  [
    "Will Zimmer",
    "Throw Bros",
    2.48,
@@ -485,6 +470,21 @@
    0,
    2,
    0,
+   0
+  ],
+  [
+   "Archie Donaldson",
+   "Revenge",
+   2.48,
+   30,
+   10,
+   7,
+   0,
+   0,
+   17,
+   5,
+   5,
+   1,
    0
   ],
   [
@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Eric Porte",
-   "Never Trust A Dart",
-   2.39,
-   30,
-   9,
-   4,
-   1,
-   0,
-   17,
-   6,
-   0,
-   0,
-   0
-  ],
-  [
    "Scott King",
    "Scotts On The Rocks",
    2.39,
@@ -531,6 +516,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Eric Porte",
+   "Never Trust A Dart",
+   2.39,
+   30,
+   9,
+   4,
+   1,
+   0,
+   17,
+   6,
+   0,
+   0,
+   0
   ],
   [
    "Jamie Love",
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Alyxandria Weaver",
-   "Retreat",
-   1.76,
-   18,
-   2,
-   4,
-   0,
-   0,
-   10,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Chris Dote",
    "TakingNamesTakingAim",
    1.76,
@@ -663,6 +648,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alyxandria Weaver",
+   "Retreat",
+   1.76,
+   18,
+   2,
+   4,
+   0,
+   0,
+   10,
+   2,
    0,
    0,
    0

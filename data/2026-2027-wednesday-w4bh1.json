@@ -447,21 +447,6 @@
    0
   ],
   [
-   "Chris Coulter",
-   "Double Deuces",
-   1.64,
-   12,
-   5,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tanner Curtis",
    "Closer To Zero",
    1.64,
@@ -477,16 +462,16 @@
    0
   ],
   [
-   "Chris Murgatroyd",
+   "Chris Coulter",
    "Double Deuces",
-   1.62,
+   1.64,
    12,
-   4,
+   5,
    3,
    0,
    0,
    2,
-   2,
+   1,
    0,
    0,
    0
@@ -503,6 +488,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.62,
+   12,
+   4,
+   3,
+   0,
+   0,
+   2,
+   2,
+   0,
    0,
    0
   ],
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   1.37,
-   6,
-   3,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ellen Post",
    "Closer To Zero",
    1.37,
@@ -687,16 +672,16 @@
    0
   ],
   [
-   "Bri Smith",
-   "3some Plus 1",
-   1.35,
-   12,
+   "Christa Herbst",
+   "Cant Close",
+   1.37,
    6,
    3,
-   0,
-   0,
    2,
+   0,
+   0,
    1,
+   0,
    0,
    0,
    0
@@ -712,6 +697,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bri Smith",
+   "3some Plus 1",
+   1.35,
+   12,
+   6,
+   3,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Stephanie Carlson",
-   "The Limp Wristers",
-   1.25,
-   9,
-   0,
-   3,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jason Post",
    "Struggle Bus",
    1.25,
@@ -816,6 +801,21 @@
    0,
    0,
    2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Stephanie Carlson",
+   "The Limp Wristers",
+   1.25,
+   9,
+   0,
+   3,
+   0,
+   0,
+   0,
    1,
    0,
    0,
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "Ashley McLaughlin",
-   "Throwgasms",
-   0.99,
-   9,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Adam Phillips",
    "Struggle Bus",
    0.99,
@@ -1042,6 +1027,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ashley McLaughlin",
+   "Throwgasms",
+   0.99,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1122,12 +1122,12 @@
    0
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
    0.9,
    3,
-   0,
-   0,
+   1,
+   1,
    0,
    0,
    0,
@@ -1137,12 +1137,12 @@
    0
   ],
   [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
+   "Cindy Simpson",
+   "Squeekertips",
    0.9,
    3,
-   1,
-   1,
+   0,
+   0,
    0,
    0,
    0,
@@ -1319,18 +1319,6 @@
    12
   ],
   [
-   "Graham Wheeler",
-   "Shart Shooters",
-   17.16,
-   20,
-   4,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Chris Coulter",
    "Double Deuces",
    17.16,
@@ -1341,6 +1329,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Graham Wheeler",
+   "Shart Shooters",
+   17.16,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Mike Loucks",
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-30T23:53:13Z"
+ "updated": "2026-10-31T01:24:00Z"
 }
