@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Lydia Wheeler",
+    "Graham Wheeler",
     "Shart Shooters",
-    0.87,
-    0.94
+    1.61,
+    1.68
    ]
   ],
   "x": [
@@ -342,6 +342,21 @@
    0
   ],
   [
+   "Steve Caufield",
+   "ProjectileDysfncion",
+   1.73,
+   15,
+   5,
+   5,
+   1,
+   0,
+   2,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
    "Brian Miller",
    "3some Plus 1",
    1.73,
@@ -368,21 +383,6 @@
    5,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Steve Caufield",
-   "ProjectileDysfncion",
-   1.73,
-   15,
-   5,
-   5,
-   1,
-   0,
-   2,
-   3,
-   1,
    0,
    0
   ],
@@ -447,21 +447,6 @@
    0
   ],
   [
-   "Tanner Curtis",
-   "Closer To Zero",
-   1.64,
-   6,
-   1,
-   0,
-   0,
-   0,
-   5,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Chris Coulter",
    "Double Deuces",
    1.64,
@@ -472,6 +457,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tanner Curtis",
+   "Closer To Zero",
+   1.64,
+   6,
+   1,
+   0,
+   0,
+   0,
+   5,
+   0,
    0,
    0,
    0
@@ -687,21 +687,6 @@
    0
   ],
   [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bri Smith",
    "3some Plus 1",
    1.35,
@@ -712,6 +697,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -867,6 +867,21 @@
    0
   ],
   [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -882,15 +897,15 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
+   "Tyler CannonBailey",
+   "Squeekertips",
+   1.13,
+   12,
+   2,
+   2,
+   0,
    0,
    1,
-   0,
-   0,
-   0,
    0,
    0,
    0,
@@ -921,21 +936,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Tyler CannonBailey",
-   "Squeekertips",
-   1.13,
-   12,
-   2,
-   2,
-   0,
-   0,
-   1,
    0,
    0,
    0,
@@ -1751,18 +1751,6 @@
    0
   ],
   [
-   "Jacob Post",
-   "Struggle Bus",
-   13.78,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Carly Kostiw",
    "Squeekertips",
    13.78,
@@ -1773,6 +1761,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Jacob Post",
+   "Struggle Bus",
+   13.78,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Adam Fowles",
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-31T22:53:58Z"
+ "updated": "2026-10-31T23:51:55Z"
 }
