@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Rich Ciaccio",
-   "Nuch And Rich",
-   1.37,
-   8,
-   3,
-   0,
-   0,
-   0,
-   2,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Nick DelGaizo",
    "BadDarts StankyFarts",
    1.37,
@@ -363,6 +348,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Rich Ciaccio",
+   "Nuch And Rich",
+   1.37,
+   8,
+   3,
+   0,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
   ],
   [
    "Alex Stathopoulos",
@@ -813,7 +813,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-30T23:53:31Z",
+ "updated": "2026-10-31T03:05:16Z",
  "teams": [
   {
    "name": "Alex And Lawlor",
