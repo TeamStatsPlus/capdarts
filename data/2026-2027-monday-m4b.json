@@ -833,21 +833,6 @@
    0
   ],
   [
-   "Orion Wilkerson",
-   "IDF NightCaps",
-   1.71,
-   12,
-   3,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "John Mitrano",
    "Here 4 The Beer",
    1.71,
@@ -859,6 +844,21 @@
    2,
    2,
    3,
+   0,
+   0
+  ],
+  [
+   "Orion Wilkerson",
+   "IDF NightCaps",
+   1.71,
+   12,
+   3,
+   3,
+   0,
+   0,
+   2,
+   1,
+   0,
    0,
    0
   ],
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-31T19:52:41Z"
+ "updated": "2026-10-31T20:54:13Z"
 }
