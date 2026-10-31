@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T03:05:30Z",
+ "updated": "2026-10-31T04:03:55Z",
  "standings": [
   [
    "No Clue",
@@ -368,21 +368,6 @@
    1
   ],
   [
-   "Daniel Purpura",
-   "Retreat",
-   2.58,
-   24,
-   9,
-   2,
-   1,
-   0,
-   12,
-   10,
-   2,
-   0,
-   1
-  ],
-  [
    "Mike Georgetti",
    "No Clue",
    2.58,
@@ -396,6 +381,21 @@
    4,
    0,
    0
+  ],
+  [
+   "Daniel Purpura",
+   "Retreat",
+   2.58,
+   24,
+   9,
+   2,
+   1,
+   0,
+   12,
+   10,
+   2,
+   0,
+   1
   ],
   [
    "Alexander Blake",
@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Eric Porte",
-   "Never Trust A Dart",
-   2.39,
-   30,
-   9,
-   4,
-   1,
-   0,
-   17,
-   6,
-   0,
-   0,
-   0
-  ],
-  [
    "Scott King",
    "Scotts On The Rocks",
    2.39,
@@ -531,6 +516,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Eric Porte",
+   "Never Trust A Dart",
+   2.39,
+   30,
+   9,
+   4,
+   1,
+   0,
+   17,
+   6,
+   0,
+   0,
+   0
   ],
   [
    "Jamie Love",
@@ -578,21 +578,6 @@
    1
   ],
   [
-   "Chris Contrera",
-   "Throw Bros",
-   2.13,
-   24,
-   3,
-   3,
-   1,
-   0,
-   11,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Jason Arena",
    "Throwing Shade",
    2.13,
@@ -606,6 +591,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Chris Contrera",
+   "Throw Bros",
+   2.13,
+   24,
+   3,
+   3,
+   1,
+   0,
+   11,
+   2,
+   1,
+   0,
+   0
   ],
   [
    "Mike Ronzo",
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Alyxandria Weaver",
-   "Retreat",
-   1.76,
-   18,
-   2,
-   4,
-   0,
-   0,
-   10,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Chris Dote",
    "TakingNamesTakingAim",
    1.76,
@@ -663,6 +648,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alyxandria Weaver",
+   "Retreat",
+   1.76,
+   18,
+   2,
+   4,
+   0,
+   0,
+   10,
+   2,
    0,
    0,
    0
