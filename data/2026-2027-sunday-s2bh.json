@@ -224,16 +224,16 @@
     1.87
    ],
    [
-    "Cameron Giles",
-    "Team Titos",
-    1.88,
-    1.96
-   ],
-   [
     "Brian Kea",
     "TWINS",
     1.82,
     1.9
+   ],
+   [
+    "Cameron Giles",
+    "Team Titos",
+    1.88,
+    1.96
    ]
   ],
   "x": [
@@ -514,21 +514,6 @@
    0
   ],
   [
-   "Brian Kea",
-   "TWINS",
-   1.9,
-   24,
-   7,
-   4,
-   0,
-   0,
-   4,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "TJ Vay",
    "Tintins",
    1.9,
@@ -540,6 +525,21 @@
    2,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Brian Kea",
+   "TWINS",
+   1.9,
+   24,
+   7,
+   4,
+   0,
+   0,
+   4,
+   5,
+   0,
    0,
    0
   ],
@@ -589,21 +589,6 @@
    0
   ],
   [
-   "Ethan Glashauser",
-   "Glass N Stache",
-   1.77,
-   12,
-   3,
-   1,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Chaz Carley",
    "Night Shot",
    1.77,
@@ -619,17 +604,17 @@
    0
   ],
   [
-   "Dustin Nelson",
-   "TWINS",
-   1.71,
-   24,
-   4,
-   7,
+   "Ethan Glashauser",
+   "Glass N Stache",
+   1.77,
+   12,
+   3,
    1,
    0,
-   2,
+   0,
+   3,
    1,
-   1,
+   0,
    0,
    0
   ],
@@ -641,6 +626,21 @@
    5,
    9,
    0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dustin Nelson",
+   "TWINS",
+   1.71,
+   24,
+   4,
+   7,
+   1,
    0,
    2,
    1,
@@ -1014,18 +1014,6 @@
    18
   ],
   [
-   "Robyn Ralston",
-   "We Dem Boyz",
-   17.81,
-   21,
-   3,
-   2,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
    "Karl Taylor",
    "Tires And Soda",
    17.81,
@@ -1036,6 +1024,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   17.81,
+   21,
+   3,
+   2,
+   0,
+   0,
+   0,
+   9
   ],
   [
    "Jeff Bush",
@@ -2286,5 +2286,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-31T07:17:03Z"
+ "updated": "2026-10-31T08:07:39Z"
 }

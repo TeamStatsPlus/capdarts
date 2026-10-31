@@ -126,8 +126,8 @@
     2.1
    ],
    [
-    "Ethan Burnham Fay",
-    "Thats An Out",
+    "Sarah Szewczyk",
+    "Pinky And The Brain",
     1.83,
     1.9
    ]
@@ -275,21 +275,6 @@
    0
   ],
   [
-   "Timothy Kelly",
-   "DartBods",
-   2.1,
-   24,
-   11,
-   3,
-   1,
-   0,
-   5,
-   3,
-   3,
-   0,
-   0
-  ],
-  [
    "Tie Lightle",
    "Tie And Spye",
    2.1,
@@ -301,6 +286,21 @@
    10,
    3,
    2,
+   0,
+   0
+  ],
+  [
+   "Timothy Kelly",
+   "DartBods",
+   2.1,
+   24,
+   11,
+   3,
+   1,
+   0,
+   5,
+   3,
+   3,
    0,
    0
   ],
@@ -1246,5 +1246,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-10-31T05:58:33Z"
+ "updated": "2026-10-31T08:09:22Z"
 }
