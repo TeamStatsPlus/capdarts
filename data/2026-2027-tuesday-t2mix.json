@@ -769,21 +769,6 @@
    0
   ],
   [
-   "Jametta Boston",
-   "Dartaholicz",
-   1.41,
-   30,
-   6,
-   3,
-   0,
-   0,
-   3,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Julie DiGrazia",
    "And Then There Was 2",
    1.41,
@@ -795,6 +780,21 @@
    0,
    4,
    0,
+   0,
+   0
+  ],
+  [
+   "Jametta Boston",
+   "Dartaholicz",
+   1.41,
+   30,
+   6,
+   3,
+   0,
+   0,
+   3,
+   0,
+   2,
    0,
    0
   ],
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-31T11:53:24Z"
+ "updated": "2026-10-31T13:11:53Z"
 }

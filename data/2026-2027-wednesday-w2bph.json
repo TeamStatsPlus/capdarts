@@ -320,21 +320,6 @@
    0
   ],
   [
-   "William Lupiani",
-   "Cheers For Bad Darts",
-   2.24,
-   6,
-   2,
-   1,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Anthony Mineo",
    "Tony And Julian",
    2.24,
@@ -345,6 +330,21 @@
    0,
    8,
    4,
+   0,
+   0,
+   0
+  ],
+  [
+   "William Lupiani",
+   "Cheers For Bad Darts",
+   2.24,
+   6,
+   2,
+   1,
+   0,
+   0,
+   4,
+   1,
    0,
    0,
    0
@@ -1261,5 +1261,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-10-31T11:53:52Z"
+ "updated": "2026-10-31T13:12:19Z"
 }
