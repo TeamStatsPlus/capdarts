@@ -215,21 +215,6 @@
    0
   ],
   [
-   "Michael Trass",
-   "Nuch And Rich",
-   1.71,
-   4,
-   3,
-   1,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Justin Yokajty",
    "Gotti And Hynes",
    1.71,
@@ -241,6 +226,21 @@
    9,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Michael Trass",
+   "Nuch And Rich",
+   1.71,
+   4,
+   3,
+   1,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -813,7 +813,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-10-31T04:03:41Z",
+ "updated": "2026-10-31T05:58:20Z",
  "teams": [
   {
    "name": "Alex And Lawlor",

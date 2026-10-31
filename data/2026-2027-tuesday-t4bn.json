@@ -372,12 +372,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   15,
-   8,
-   3,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   15,
+   8,
+   3,
    1,
    0,
    3,
@@ -717,21 +717,6 @@
    0
   ],
   [
-   "Joe Tortora",
-   "Points And Pints",
-   1.75,
-   15,
-   6,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dan Spencer",
    "Peppers And Onions",
    1.75,
@@ -757,6 +742,21 @@
    0,
    2,
    3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Joe Tortora",
+   "Points And Pints",
+   1.75,
+   15,
+   6,
+   1,
+   1,
+   0,
+   0,
+   1,
    1,
    0,
    0
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-10-31T05:00:43Z"
+ "updated": "2026-10-31T05:57:36Z"
 }

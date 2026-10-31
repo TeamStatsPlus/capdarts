@@ -114,16 +114,16 @@
  "improved": {
   "c": [
    [
-    "Matt Kraft",
-    "Wrong Hole",
-    1.87,
-    1.99
-   ],
-   [
     "Ken Nicolay",
     "Take It Out",
     2.53,
     2.65
+   ],
+   [
+    "Matt Kraft",
+    "Wrong Hole",
+    1.87,
+    1.99
    ],
    [
     "Tony Villani",
@@ -380,21 +380,6 @@
    1
   ],
   [
-   "Keith West",
-   "Take It Out",
-   2.22,
-   12,
-   6,
-   2,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Todd Palmer",
    "Take It Out",
    2.22,
@@ -420,6 +405,21 @@
    0,
    5,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Keith West",
+   "Take It Out",
+   2.22,
+   12,
+   6,
+   2,
+   0,
+   0,
+   5,
+   1,
    0,
    0,
    0
@@ -515,21 +515,6 @@
    0
   ],
   [
-   "Pat Childs",
-   "Roasted Shenanigans",
-   1.96,
-   3,
-   1,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Wehry",
    "RamRod",
    1.96,
@@ -540,6 +525,21 @@
    0,
    4,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Pat Childs",
+   "Roasted Shenanigans",
+   1.96,
+   3,
+   1,
+   0,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -997,18 +997,6 @@
    19
   ],
   [
-   "Steve Wehry",
-   "RamRod",
-   18.0,
-   16,
-   3,
-   1,
-   0,
-   0,
-   0,
-   12
-  ],
-  [
    "Ken Nicolay",
    "Take It Out",
    18.0,
@@ -1018,6 +1006,18 @@
    0,
    0,
    1,
+   12
+  ],
+  [
+   "Steve Wehry",
+   "RamRod",
+   18.0,
+   16,
+   3,
+   1,
+   0,
+   0,
+   0,
    12
   ],
   [
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-31T05:00:20Z"
+ "updated": "2026-10-31T05:57:16Z"
 }
