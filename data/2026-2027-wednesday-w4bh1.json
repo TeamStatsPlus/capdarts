@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Lydia Wheeler",
+    "Graham Wheeler",
     "Shart Shooters",
-    0.87,
-    0.94
+    1.61,
+    1.68
    ]
   ],
   "x": [
@@ -342,21 +342,6 @@
    0
   ],
   [
-   "Adam Fowles",
-   "Tips Dont Lie",
-   1.73,
-   15,
-   3,
-   6,
-   0,
-   0,
-   5,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Caufield",
    "ProjectileDysfncion",
    1.73,
@@ -382,6 +367,21 @@
    0,
    5,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Fowles",
+   "Tips Dont Lie",
+   1.73,
+   15,
+   3,
+   6,
+   0,
+   0,
+   5,
+   0,
    0,
    0,
    0
@@ -867,21 +867,6 @@
    0
   ],
   [
-   "Andrea Sutherland",
-   "Closer To Zero",
-   1.15,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Double Deuces",
    "Double Deuces",
    1.15,
@@ -892,6 +877,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrea Sutherland",
+   "Closer To Zero",
+   1.15,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -957,21 +957,6 @@
    0
   ],
   [
-   "Erin Lamar",
-   "Throwgasms",
-   1.03,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    1.03,
@@ -982,6 +967,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Erin Lamar",
+   "Throwgasms",
+   1.03,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-31T08:59:33Z"
+ "updated": "2026-10-31T09:58:23Z"
 }

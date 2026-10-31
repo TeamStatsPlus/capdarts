@@ -395,21 +395,6 @@
    0
   ],
   [
-   "Kimberly Deuel",
-   "Wheres My Darts",
-   1.67,
-   18,
-   1,
-   8,
-   0,
-   0,
-   4,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Sean Wiggins",
    "BullsDeep",
    1.67,
@@ -421,6 +406,21 @@
    8,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Kimberly Deuel",
+   "Wheres My Darts",
+   1.67,
+   18,
+   1,
+   8,
+   0,
+   0,
+   4,
+   1,
+   2,
    0,
    0
   ],
@@ -1279,5 +1279,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-31T08:59:19Z"
+ "updated": "2026-10-31T09:58:08Z"
 }

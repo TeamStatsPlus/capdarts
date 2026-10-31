@@ -814,6 +814,21 @@
    0
   ],
   [
+   "Miguel Carmona",
+   "RRP Crew",
+   1.58,
+   12,
+   3,
+   2,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Dan Hall",
    "RRP Crew",
    1.58,
@@ -829,16 +844,16 @@
    0
   ],
   [
-   "Miguel Carmona",
-   "RRP Crew",
-   1.58,
-   12,
-   3,
+   "Matthew Griffith",
+   "Rizm With The Tizm",
+   1.57,
+   15,
+   6,
    2,
    0,
    0,
-   2,
-   1,
+   0,
+   0,
    0,
    0,
    0
@@ -855,21 +870,6 @@
    1,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Matthew Griffith",
-   "Rizm With The Tizm",
-   1.57,
-   15,
-   6,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0
   ],
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-31T08:59:38Z"
+ "updated": "2026-10-31T09:58:29Z"
 }

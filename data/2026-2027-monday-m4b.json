@@ -443,21 +443,6 @@
    0
   ],
   [
-   "Neal Kenyon",
-   "The Happy Accidents",
-   2.22,
-   12,
-   4,
-   2,
-   1,
-   0,
-   2,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Tim Smith",
    "ChJokers",
    2.22,
@@ -469,6 +454,21 @@
    3,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Neal Kenyon",
+   "The Happy Accidents",
+   2.22,
+   12,
+   4,
+   2,
+   1,
+   0,
+   2,
+   0,
+   2,
    0,
    0
   ],
@@ -578,21 +578,6 @@
    0
   ],
   [
-   "Shawn Hodgeman",
-   "Here 4 The Beer",
-   2.04,
-   15,
-   6,
-   5,
-   1,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dave Biedrzycki",
    "Here 4 The Beer",
    2.04,
@@ -604,6 +589,21 @@
    6,
    4,
    0,
+   0,
+   0
+  ],
+  [
+   "Shawn Hodgeman",
+   "Here 4 The Beer",
+   2.04,
+   15,
+   6,
+   5,
+   1,
+   0,
+   5,
+   1,
+   1,
    0,
    0
   ],
@@ -743,21 +743,6 @@
    0
   ],
   [
-   "Jason Sherman",
-   "The Shockers",
-   1.82,
-   12,
-   1,
-   4,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jake Maracle",
    "Slow Mother Chuckers",
    1.82,
@@ -767,6 +752,21 @@
    0,
    0,
    2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jason Sherman",
+   "The Shockers",
+   1.82,
+   12,
+   1,
+   4,
+   0,
+   0,
+   3,
    1,
    0,
    0,
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-31T08:58:47Z"
+ "updated": "2026-10-31T09:57:32Z"
 }
