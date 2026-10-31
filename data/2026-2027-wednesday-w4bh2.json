@@ -844,21 +844,6 @@
    0
   ],
   [
-   "Nick Maguire",
-   "Team Stinky",
-   1.57,
-   15,
-   2,
-   4,
-   1,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Matthew Griffith",
    "Rizm With The Tizm",
    1.57,
@@ -870,6 +855,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Nick Maguire",
+   "Team Stinky",
+   1.57,
+   15,
+   2,
+   4,
+   1,
+   0,
+   1,
+   1,
+   1,
    0,
    0
   ],
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-31T10:54:43Z"
+ "updated": "2026-10-31T11:54:07Z"
 }
