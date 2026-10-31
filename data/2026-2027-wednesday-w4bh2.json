@@ -589,21 +589,6 @@
    1
   ],
   [
-   "Rob Ayotte",
-   "Liquor Box",
-   1.81,
-   9,
-   2,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Juan Rosado",
    "Liquor Box",
    1.81,
@@ -614,6 +599,21 @@
    0,
    2,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Ayotte",
+   "Liquor Box",
+   1.81,
+   9,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -649,21 +649,6 @@
    0
   ],
   [
-   "Courtney Armstrong",
-   "Rizm With The Tizm",
-   1.78,
-   15,
-   5,
-   4,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Aaron Meeks",
    "Bullshots",
    1.78,
@@ -679,16 +664,16 @@
    0
   ],
   [
-   "Brian Lawler",
-   "Ask Bobby",
-   1.77,
-   12,
-   2,
-   3,
+   "Courtney Armstrong",
+   "Rizm With The Tizm",
+   1.78,
+   15,
+   5,
+   4,
    0,
    0,
-   3,
-   0,
+   4,
+   1,
    1,
    0,
    0
@@ -705,6 +690,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Brian Lawler",
+   "Ask Bobby",
+   1.77,
+   12,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
+   1,
    0,
    0
   ],
@@ -964,21 +964,6 @@
    0
   ],
   [
-   "Ryan Anslinger",
-   "ReDarted",
-   1.33,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mary Affronti",
    "RRP Crew",
    1.33,
@@ -988,6 +973,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ryan Anslinger",
+   "ReDarted",
+   1.33,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-10-31T05:58:06Z"
+ "updated": "2026-10-31T07:18:33Z"
 }
