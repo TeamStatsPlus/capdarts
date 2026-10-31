@@ -698,21 +698,6 @@
    1
   ],
   [
-   "Scott Musial",
-   "The Shockers",
-   1.88,
-   15,
-   2,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Dean Nicosia",
    "Money Shot",
    1.88,
@@ -724,6 +709,21 @@
    1,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Scott Musial",
+   "The Shockers",
+   1.88,
+   15,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
    0,
    0
   ],
@@ -833,21 +833,6 @@
    0
   ],
   [
-   "John Mitrano",
-   "Here 4 The Beer",
-   1.71,
-   15,
-   0,
-   6,
-   1,
-   0,
-   2,
-   2,
-   3,
-   0,
-   0
-  ],
-  [
    "Orion Wilkerson",
    "IDF NightCaps",
    1.71,
@@ -859,6 +844,21 @@
    2,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "John Mitrano",
+   "Here 4 The Beer",
+   1.71,
+   15,
+   0,
+   6,
+   1,
+   0,
+   2,
+   2,
+   3,
    0,
    0
   ],
@@ -893,21 +893,6 @@
    0
   ],
   [
-   "Bill Greenough",
-   "Slow Mother Chuckers",
-   1.67,
-   15,
-   4,
-   5,
-   1,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Rowland",
    "Off Target",
    1.67,
@@ -919,6 +904,21 @@
    0,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Bill Greenough",
+   "Slow Mother Chuckers",
+   1.67,
+   15,
+   4,
+   5,
+   1,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-31T21:52:27Z"
+ "updated": "2026-10-31T22:53:05Z"
 }
