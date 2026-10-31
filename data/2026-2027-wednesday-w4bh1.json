@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Jason Post",
-    "Struggle Bus",
-    1.18,
-    1.25
+    "Lydia Wheeler",
+    "Shart Shooters",
+    0.87,
+    0.94
    ]
   ],
   "x": [
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   0.99,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Ashley McLaughlin",
    "Throwgasms",
    0.99,
@@ -1042,6 +1027,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   0.99,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-10-31T04:03:22Z"
+ "updated": "2026-10-31T05:01:15Z"
 }
