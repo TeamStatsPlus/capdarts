@@ -256,21 +256,6 @@
    0
   ],
   [
-   "Shawn Thurley",
-   "Your In Treble",
-   1.79,
-   30,
-   7,
-   6,
-   0,
-   0,
-   4,
-   6,
-   2,
-   0,
-   0
-  ],
-  [
    "Brian Zicari",
    "No Bulls",
    1.79,
@@ -282,6 +267,21 @@
    13,
    4,
    1,
+   0,
+   0
+  ],
+  [
+   "Shawn Thurley",
+   "Your In Treble",
+   1.79,
+   30,
+   7,
+   6,
+   0,
+   0,
+   4,
+   6,
+   2,
    0,
    0
   ],
@@ -1569,5 +1569,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-01T14:00:00Z"
+ "updated": "2026-11-01T14:54:49Z"
 }
