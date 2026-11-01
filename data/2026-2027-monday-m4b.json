@@ -1333,18 +1333,6 @@
    19
   ],
   [
-   "Chad Pike",
-   "Here 4 The Beer",
-   22.25,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   12
-  ],
-  [
    "Philip Rowland",
    "ChJokers",
    22.25,
@@ -1355,6 +1343,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Chad Pike",
+   "Here 4 The Beer",
+   22.25,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   12
   ],
   [
    "Judson Brown",
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-01T09:03:53Z"
+ "updated": "2026-11-01T10:00:36Z"
 }
