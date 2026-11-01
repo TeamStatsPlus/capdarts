@@ -1081,18 +1081,6 @@
    6
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   15.51,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Sue Fuhry",
    "4 Of Clubs",
    15.51,
@@ -1103,6 +1091,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   15.51,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Ben Vassallo",
@@ -1954,5 +1954,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-01T01:29:59Z"
+ "updated": "2026-11-01T03:05:51Z"
 }
