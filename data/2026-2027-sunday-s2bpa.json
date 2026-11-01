@@ -20,19 +20,19 @@
    21
   ],
   [
-   "Box Chevy",
-   47,
-   28
-  ],
-  [
    "Rich And Tom",
    36,
    24
   ],
   [
-   "Straight 2 The Point",
-   36,
+   "Box Chevy",
+   51,
    39
+  ],
+  [
+   "Straight 2 The Point",
+   47,
+   43
   ],
   [
    "Water Off",
@@ -89,12 +89,12 @@
    4
   ],
   [
+   "Straight 2 The Point",
    "Box Chevy",
-   "Black And Brown",
-   "10/25/2026",
-   5,
-   8,
-   7
+   "11/01/2026",
+   6,
+   11,
+   4
   ],
   [
    "Black And Brown",
@@ -103,6 +103,14 @@
    5,
    7,
    8
+  ],
+  [
+   "Box Chevy",
+   "Straight 2 The Point",
+   "11/01/2026",
+   6,
+   4,
+   11
   ],
   [
    "Brown Viper",
@@ -121,14 +129,6 @@
    11
   ],
   [
-   "Straight 2 The Point",
-   "Here For The BEER",
-   "10/25/2026",
-   5,
-   2,
-   13
-  ],
-  [
    "Not Ready 4Primetime",
    "Rich And Tom",
    "10/25/2026",
@@ -140,42 +140,42 @@
  "improved": {
   "c": [
    [
-    "Chris Nesci",
-    "Black And Brown",
-    1.96,
-    2.25
+    "Tashawn Rucker",
+    "Straight 2 The Point",
+    3.09,
+    3.21
    ],
    [
-    "Ashton Maracle",
-    "Ghost Bear",
-    3.01,
+    "Justin Smith",
+    "Box Chevy",
+    2.78,
+    2.89
+   ],
+   [
+    "Carlton Smith",
+    "Straight 2 The Point",
+    3.04,
     3.11
-   ],
-   [
-    "Dashay Earlsey",
-    "Water Off",
-    2.53,
-    2.61
    ]
   ],
   "x": [
    [
-    "Devan Wilson",
-    "Here For The BEER",
-    24.76,
-    25.72
+    "Tashawn Rucker",
+    "Straight 2 The Point",
+    25.19,
+    25.98
    ],
    [
-    "Glenn Wilson",
-    "Here For The BEER",
-    25.24,
-    26.07
+    "Carlton Smith",
+    "Straight 2 The Point",
+    25.27,
+    25.9
    ],
    [
-    "Cory Humphries",
-    "Water Off",
-    23.46,
-    23.88
+    "Archie Donaldson",
+    "Box Chevy",
+    22.34,
+    22.87
    ]
   ]
  },
@@ -271,6 +271,21 @@
    1
   ],
   [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   3.21,
+   36,
+   10,
+   6,
+   3,
+   1,
+   22,
+   12,
+   15,
+   0,
+   3
+  ],
+  [
    "Devan Wilson",
    "Here For The BEER",
    3.21,
@@ -301,34 +316,34 @@
    0
   ],
   [
-   "Tashawn Rucker",
-   "Straight 2 The Point",
-   3.09,
-   30,
-   7,
-   5,
-   3,
-   0,
-   17,
-   8,
-   11,
-   0,
-   2
-  ],
-  [
    "Carlton Smith",
    "Straight 2 The Point",
-   3.04,
-   30,
-   11,
-   5,
+   3.11,
+   36,
+   14,
+   7,
    2,
    0,
-   23,
-   9,
-   8,
+   26,
+   13,
+   11,
    1,
    1
+  ],
+  [
+   "Justin Smith",
+   "Box Chevy",
+   2.89,
+   36,
+   16,
+   5,
+   5,
+   1,
+   18,
+   16,
+   15,
+   0,
+   0
   ],
   [
    "Cory Humphries",
@@ -372,21 +387,6 @@
    13,
    6,
    3,
-   0,
-   0
-  ],
-  [
-   "Justin Smith",
-   "Box Chevy",
-   2.78,
-   30,
-   15,
-   4,
-   4,
-   1,
-   14,
-   9,
-   12,
    0,
    0
   ],
@@ -468,17 +468,17 @@
   [
    "Archie Donaldson",
    "Box Chevy",
-   2.57,
-   24,
-   10,
+   2.58,
+   30,
+   11,
    5,
    2,
    1,
-   14,
-   1,
+   16,
+   2,
    7,
    0,
-   1
+   2
   ],
   [
    "Judson Brown",
@@ -618,6 +618,30 @@
    38
   ],
   [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   25.98,
+   42,
+   10,
+   9,
+   0,
+   0,
+   0,
+   73
+  ],
+  [
+   "Carlton Smith",
+   "Straight 2 The Point",
+   25.9,
+   42,
+   13,
+   13,
+   0,
+   0,
+   0,
+   71
+  ],
+  [
    "Devan Wilson",
    "Here For The BEER",
    25.72,
@@ -630,18 +654,6 @@
    52
   ],
   [
-   "Carlton Smith",
-   "Straight 2 The Point",
-   25.27,
-   35,
-   9,
-   11,
-   0,
-   0,
-   0,
-   59
-  ],
-  [
    "Dave Wallace",
    "Ghost Bear",
    25.25,
@@ -652,18 +664,6 @@
    0,
    1,
    43
-  ],
-  [
-   "Tashawn Rucker",
-   "Straight 2 The Point",
-   25.19,
-   35,
-   9,
-   6,
-   0,
-   0,
-   0,
-   58
   ],
   [
    "Cory Humphries",
@@ -700,6 +700,30 @@
    0,
    0,
    8
+  ],
+  [
+   "Archie Donaldson",
+   "Box Chevy",
+   22.87,
+   35,
+   11,
+   10,
+   0,
+   0,
+   3,
+   47
+  ],
+  [
+   "Justin Smith",
+   "Box Chevy",
+   22.75,
+   42,
+   10,
+   9,
+   0,
+   0,
+   4,
+   48
   ],
   [
    "Ashton Maracle",
@@ -760,30 +784,6 @@
    0,
    0,
    31
-  ],
-  [
-   "Justin Smith",
-   "Box Chevy",
-   22.37,
-   35,
-   8,
-   7,
-   0,
-   0,
-   3,
-   41
-  ],
-  [
-   "Archie Donaldson",
-   "Box Chevy",
-   22.34,
-   28,
-   11,
-   9,
-   0,
-   0,
-   2,
-   37
   ],
   [
    "Andy Mitrano",
@@ -1482,5 +1482,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-01T22:52:55Z"
+ "updated": "2026-11-01T23:50:21Z"
 }
