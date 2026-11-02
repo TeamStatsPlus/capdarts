@@ -2627,7 +2627,7 @@
   },
   {
    "name": "Merchants Grill",
-   "machines": 2,
+   "machines": 3,
    "phone": "585-482-2010",
    "address": "881 Merchants Rd, Rochester, NY 14609"
   },
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-02T19:17:09Z"
+ "updated": "2026-11-02T20:09:09Z"
 }
