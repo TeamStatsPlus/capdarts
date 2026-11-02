@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Lydia Wheeler",
-    "Shart Shooters",
-    0.87,
-    0.94
+    "Jason Post",
+    "Struggle Bus",
+    1.18,
+    1.25
    ]
   ],
   "x": [
@@ -342,21 +342,6 @@
    0
   ],
   [
-   "Brian Miller",
-   "3some Plus 1",
-   1.73,
-   12,
-   3,
-   5,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Adam Fowles",
    "Tips Dont Lie",
    1.73,
@@ -383,6 +368,21 @@
    2,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Brian Miller",
+   "3some Plus 1",
+   1.73,
+   12,
+   3,
+   5,
+   0,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -447,21 +447,6 @@
    0
   ],
   [
-   "Tanner Curtis",
-   "Closer To Zero",
-   1.64,
-   6,
-   1,
-   0,
-   0,
-   0,
-   5,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Chris Coulter",
    "Double Deuces",
    1.64,
@@ -472,6 +457,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tanner Curtis",
+   "Closer To Zero",
+   1.64,
+   6,
+   1,
+   0,
+   0,
+   0,
+   5,
+   0,
    0,
    0,
    0
@@ -897,6 +897,21 @@
    0
   ],
   [
+   "Tyler CannonBailey",
+   "Squeekertips",
+   1.13,
+   12,
+   2,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Jacob Post",
    "Struggle Bus",
    1.13,
@@ -927,27 +942,27 @@
    0
   ],
   [
-   "Tyler CannonBailey",
-   "Squeekertips",
-   1.13,
-   12,
-   2,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jess Post",
    "Closer To Zero",
    1.1,
    9,
    2,
    3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Erin Lamar",
+   "Throwgasms",
+   1.03,
+   6,
+   1,
+   1,
    0,
    0,
    0,
@@ -967,21 +982,6 @@
    0,
    0,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Erin Lamar",
-   "Throwgasms",
-   1.03,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
    0,
    0,
    0
@@ -1751,18 +1751,6 @@
    0
   ],
   [
-   "Jacob Post",
-   "Struggle Bus",
-   13.78,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Carly Kostiw",
    "Squeekertips",
    13.78,
@@ -1773,6 +1761,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Jacob Post",
+   "Struggle Bus",
+   13.78,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Adam Fowles",
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-02T04:19:49Z"
+ "updated": "2026-11-02T06:21:31Z"
 }
