@@ -499,6 +499,21 @@
    0
   ],
   [
+   "Brian Kea",
+   "TWINS",
+   1.9,
+   24,
+   7,
+   4,
+   0,
+   0,
+   4,
+   5,
+   0,
+   0,
+   0
+  ],
+  [
    "TJ Vay",
    "Tintins",
    1.9,
@@ -525,21 +540,6 @@
    1,
    0,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Kea",
-   "TWINS",
-   1.9,
-   24,
-   7,
-   4,
-   0,
-   0,
-   4,
-   5,
-   0,
    0,
    0
   ],
@@ -574,21 +574,6 @@
    0
   ],
   [
-   "Adam Martinez",
-   "Talk Darty To Me",
-   1.79,
-   30,
-   5,
-   10,
-   2,
-   0,
-   2,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Karl Taylor",
    "Tires And Soda",
    1.79,
@@ -599,6 +584,21 @@
    0,
    10,
    2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Adam Martinez",
+   "Talk Darty To Me",
+   1.79,
+   30,
+   5,
+   10,
+   2,
+   0,
+   2,
+   3,
    1,
    0,
    0
@@ -921,18 +921,6 @@
    22
   ],
   [
-   "Donovan Caraballo",
-   "Talk Darty To Me",
-   19.26,
-   35,
-   6,
-   4,
-   0,
-   0,
-   1,
-   22
-  ],
-  [
    "TONY MAIOLA",
    "{Substitutes}",
    19.26,
@@ -943,6 +931,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Donovan Caraballo",
+   "Talk Darty To Me",
+   19.26,
+   35,
+   6,
+   4,
+   0,
+   0,
+   1,
+   22
   ],
   [
    "Brian Kea",
@@ -2313,5 +2313,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-02T15:14:08Z"
+ "updated": "2026-11-02T16:22:03Z"
 }
