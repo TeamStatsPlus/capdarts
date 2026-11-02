@@ -15,6 +15,11 @@
    22
   ],
   [
+   "TWINS",
+   49,
+   29
+  ],
+  [
    "Docs Crew",
    32,
    20
@@ -33,11 +38,6 @@
    "Fing The Neighbors",
    29,
    23
-  ],
-  [
-   "TWINS",
-   36,
-   29
   ],
   [
    "Brothas",
@@ -65,11 +65,6 @@
    45
   ],
   [
-   "Tipsy Tossers",
-   11,
-   15
-  ],
-  [
    "Tires And Soda",
    28,
    50
@@ -80,12 +75,25 @@
    52
   ],
   [
+   "Tipsy Tossers",
+   11,
+   28
+  ],
+  [
    "The Dartbags",
    16,
    49
   ]
  ],
  "results": [
+  [
+   "TWINS",
+   "Tipsy Tossers",
+   "11/01/2026",
+   6,
+   13,
+   0
+  ],
   [
    "One Hole Off",
    "Team Titos",
@@ -175,14 +183,6 @@
    8
   ],
   [
-   "Tipsy Tossers",
-   "Talk Darty To Me",
-   "10/04/2026",
-   2,
-   4,
-   9
-  ],
-  [
    "The Dartbags",
    "Docs Crew",
    "11/01/2026",
@@ -207,12 +207,12 @@
    11
   ],
   [
+   "Tipsy Tossers",
    "TWINS",
-   "Night Shot",
-   "10/25/2026",
-   5,
-   2,
-   11
+   "11/01/2026",
+   6,
+   0,
+   13
   ]
  ],
  "improved": {
@@ -499,6 +499,21 @@
    0
   ],
   [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   1.9,
+   24,
+   7,
+   7,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
    "Brian Kea",
    "TWINS",
    1.9,
@@ -523,21 +538,6 @@
    1,
    0,
    2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
-   "Dave Heschke",
-   "Fing The Neighbors",
-   1.9,
-   24,
-   7,
-   7,
-   0,
-   0,
-   1,
    0,
    1,
    0,
@@ -2313,5 +2313,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-02T18:10:01Z"
+ "updated": "2026-11-02T19:15:54Z"
 }

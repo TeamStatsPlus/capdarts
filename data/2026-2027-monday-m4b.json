@@ -443,21 +443,6 @@
    0
   ],
   [
-   "Tim Smith",
-   "ChJokers",
-   2.22,
-   15,
-   2,
-   8,
-   0,
-   0,
-   3,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Neal Kenyon",
    "The Happy Accidents",
    2.22,
@@ -469,6 +454,21 @@
    2,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Tim Smith",
+   "ChJokers",
+   2.22,
+   15,
+   2,
+   8,
+   0,
+   0,
+   3,
+   2,
+   0,
    0,
    0
   ],
@@ -743,21 +743,6 @@
    0
   ],
   [
-   "Jake Maracle",
-   "Slow Mother Chuckers",
-   1.82,
-   9,
-   5,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jason Sherman",
    "The Shockers",
    1.82,
@@ -767,6 +752,21 @@
    0,
    0,
    3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake Maracle",
+   "Slow Mother Chuckers",
+   1.82,
+   9,
+   5,
+   1,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-02T16:22:28Z"
+ "updated": "2026-11-02T19:16:16Z"
 }
