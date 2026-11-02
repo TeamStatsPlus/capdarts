@@ -46,13 +46,13 @@
   ],
   [
    "Brothas",
-   28,
-   24
+   34,
+   31
   ],
   [
    "Ones Are Closed",
-   29,
-   36
+   36,
+   42
   ],
   [
    "Talk Darty To Me",
@@ -111,22 +111,6 @@
    2
   ],
   [
-   "Brothas",
-   "Tires And Soda",
-   "10/25/2026",
-   5,
-   10,
-   3
-  ],
-  [
-   "Ones Are Closed",
-   "Talk Darty To Me",
-   "10/24/2026",
-   5,
-   8,
-   5
-  ],
-  [
    "We Dem Boyz",
    "Glass N Stache",
    "10/25/2026",
@@ -143,6 +127,14 @@
    5
   ],
   [
+   "Ones Are Closed",
+   "Brothas",
+   "11/01/2026",
+   6,
+   7,
+   6
+  ],
+  [
    "Tintins",
    "Night Shot",
    "10/18/2026",
@@ -155,6 +147,14 @@
    "Team Titos",
    "10/18/2026",
    4,
+   6,
+   7
+  ],
+  [
+   "Brothas",
+   "Ones Are Closed",
+   "11/01/2026",
+   6,
    6,
    7
   ],
@@ -218,42 +218,24 @@
  "improved": {
   "c": [
    [
-    "Kenny Williams",
-    "Glass N Stache",
-    1.64,
-    1.87
-   ],
-   [
-    "Brian Kea",
-    "TWINS",
-    1.82,
-    1.9
-   ],
-   [
-    "Cameron Giles",
-    "Team Titos",
-    1.88,
-    1.96
+    "John Salamone",
+    "Brothas",
+    2.37,
+    2.39
    ]
   ],
   "x": [
    [
-    "Charles Adger",
-    "Team Titos",
-    15.51,
-    16.1
-   ],
-   [
     "James Davis",
     "Ones Are Closed",
-    17.53,
-    18.06
+    18.06,
+    18.45
    ],
    [
-    "David Caesar",
-    "Night Shot",
-    18.55,
-    19.01
+    "John Salamone",
+    "Brothas",
+    22.76,
+    22.88
    ]
   ]
  },
@@ -321,15 +303,15 @@
   [
    "John Salamone",
    "Brothas",
-   2.37,
-   24,
-   4,
-   9,
+   2.39,
+   30,
+   7,
+   11,
    1,
    0,
-   8,
-   8,
-   2,
+   9,
+   10,
+   4,
    0,
    1
   ],
@@ -382,13 +364,13 @@
    "Claude Yeoumas",
    "Brothas",
    2.25,
-   24,
-   9,
-   4,
+   30,
+   11,
+   7,
    1,
    1,
-   9,
-   4,
+   11,
+   5,
    2,
    0,
    0
@@ -411,31 +393,16 @@
   [
    "James Davis",
    "Ones Are Closed",
-   2.1,
-   30,
+   2.08,
+   36,
    9,
-   3,
-   0,
-   0,
-   10,
    4,
    0,
    0,
-   0
-  ],
-  [
-   "Robyn Ralston",
-   "We Dem Boyz",
-   2.07,
-   18,
-   3,
-   8,
-   1,
+   13,
+   4,
    0,
-   6,
-   1,
-   1,
-   1,
+   0,
    0
   ],
   [
@@ -452,6 +419,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   2.07,
+   18,
+   3,
+   8,
+   1,
+   0,
+   6,
+   1,
+   1,
+   1,
+   0
   ],
   [
    "Jason Miles",
@@ -514,21 +496,6 @@
    0
   ],
   [
-   "Brian Kea",
-   "TWINS",
-   1.9,
-   24,
-   7,
-   4,
-   0,
-   0,
-   4,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "TJ Vay",
    "Tintins",
    1.9,
@@ -540,6 +507,21 @@
    2,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Brian Kea",
+   "TWINS",
+   1.9,
+   24,
+   7,
+   4,
+   0,
+   0,
+   4,
+   5,
+   0,
    0,
    0
   ],
@@ -619,13 +601,13 @@
    0
   ],
   [
-   "Dustin Nelson",
-   "TWINS",
+   "Adam Martinez",
+   "Talk Darty To Me",
    1.71,
    24,
-   4,
-   7,
-   1,
+   5,
+   9,
+   0,
    0,
    2,
    1,
@@ -634,13 +616,13 @@
    0
   ],
   [
-   "Adam Martinez",
-   "Talk Darty To Me",
+   "Dustin Nelson",
+   "TWINS",
    1.71,
    24,
-   5,
-   9,
-   0,
+   4,
+   7,
+   1,
    0,
    2,
    1,
@@ -726,9 +708,9 @@
   [
    "Ken Azzarello",
    "Ones Are Closed",
-   1.31,
-   24,
-   3,
+   1.3,
+   30,
+   4,
    8,
    0,
    0,
@@ -824,14 +806,14 @@
   [
    "John Salamone",
    "Brothas",
-   22.76,
-   28,
+   22.88,
+   35,
    7,
-   3,
+   5,
    0,
    0,
    0,
-   28
+   36
   ],
   [
    "Cameron Giles",
@@ -894,18 +876,6 @@
    8
   ],
   [
-   "Claude Yeoumas",
-   "Brothas",
-   19.54,
-   28,
-   8,
-   1,
-   0,
-   0,
-   0,
-   16
-  ],
-  [
    "Neal Kenyon",
    "One Hole Off",
    19.51,
@@ -966,6 +936,18 @@
    20
   ],
   [
+   "James Davis",
+   "Ones Are Closed",
+   18.45,
+   42,
+   19,
+   1,
+   0,
+   0,
+   0,
+   22
+  ],
+  [
    "Kenny Williams",
    "Glass N Stache",
    18.44,
@@ -1002,16 +984,16 @@
    7
   ],
   [
-   "James Davis",
-   "Ones Are Closed",
-   18.06,
+   "Claude Yeoumas",
+   "Brothas",
+   18.31,
    35,
-   15,
+   9,
    1,
    0,
    0,
    0,
-   18
+   16
   ],
   [
    "Robyn Ralston",
@@ -1184,9 +1166,9 @@
   [
    "Ken Azzarello",
    "Ones Are Closed",
-   13.39,
-   28,
-   2,
+   13.37,
+   35,
+   4,
    0,
    0,
    0,
@@ -2286,5 +2268,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-01T23:50:17Z"
+ "updated": "2026-11-02T01:29:09Z"
 }

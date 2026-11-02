@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Lydia Wheeler",
-    "Shart Shooters",
-    0.87,
-    0.94
+    "Jason Post",
+    "Struggle Bus",
+    1.18,
+    1.25
    ]
   ],
   "x": [
@@ -867,21 +867,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -892,6 +877,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-01T23:51:25Z"
+ "updated": "2026-11-02T01:30:18Z"
 }
