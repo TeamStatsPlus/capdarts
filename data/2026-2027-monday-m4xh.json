@@ -605,21 +605,6 @@
    0
   ],
   [
-   "Connor Starr",
-   "Connor And The Jets",
-   1.78,
-   15,
-   5,
-   2,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Anthony Alletto",
    "Dartbags",
    1.78,
@@ -631,6 +616,21 @@
    5,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Connor Starr",
+   "Connor And The Jets",
+   1.78,
+   15,
+   5,
+   2,
+   0,
+   0,
+   1,
+   1,
+   1,
    0,
    0
   ],
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-03T10:13:28Z"
+ "updated": "2026-11-03T12:04:46Z"
 }
