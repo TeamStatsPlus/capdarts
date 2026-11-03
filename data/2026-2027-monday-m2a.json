@@ -5,19 +5,14 @@
  },
  "standings": [
   [
-   "RCE",
-   27,
-   7
-  ],
-  [
    "Dave And Rich",
-   40,
-   11
+   51,
+   17
   ],
   [
-   "Dirty Draws",
-   35,
-   16
+   "RCE",
+   38,
+   13
   ],
   [
    "Off In Church",
@@ -25,19 +20,24 @@
    12
   ],
   [
+   "Dirty Draws",
+   41,
+   27
+  ],
+  [
    "Straight 2 The Point",
    40,
    28
   ],
   [
-   "The Regulators",
-   29,
-   22
-  ],
-  [
    "Gingers Unite",
    27,
    24
+  ],
+  [
+   "The Regulators",
+   35,
+   33
   ],
   [
    "Water Off",
@@ -62,36 +62,20 @@
  ],
  "results": [
   [
-   "Dave And Rich",
-   "Respectdabull",
-   "10/26/2026",
-   5,
-   16,
-   1
-  ],
-  [
    "RCE",
-   "Respectdabull",
-   "10/19/2026",
-   4,
-   14,
-   3
-  ],
-  [
-   "The Regulators",
-   "Water Off",
-   "10/19/2026",
-   4,
-   10,
-   7
-  ],
-  [
    "Dirty Draws",
-   "Off In Church",
-   "10/19/2026",
-   4,
-   9,
-   8
+   "11/02/2026",
+   6,
+   11,
+   6
+  ],
+  [
+   "Dave And Rich",
+   "The Regulators",
+   "11/02/2026",
+   6,
+   11,
+   6
   ],
   [
    "Gingers Unite",
@@ -142,6 +126,22 @@
    10
   ],
   [
+   "Dirty Draws",
+   "RCE",
+   "11/02/2026",
+   6,
+   6,
+   11
+  ],
+  [
+   "The Regulators",
+   "Dave And Rich",
+   "11/02/2026",
+   6,
+   6,
+   11
+  ],
+  [
    "Respectdabull",
    "Dave And Rich",
    "10/26/2026",
@@ -153,42 +153,42 @@
  "improved": {
   "c": [
    [
-    "Rich Allen",
+    "Chris Maloney",
+    "RCE",
+    3.5,
+    3.68
+   ],
+   [
+    "Alex Brant",
+    "RCE",
+    3.81,
+    3.92
+   ],
+   [
+    "Dave Wallace",
     "Dave And Rich",
     2.99,
-    3.09
-   ],
-   [
-    "Tashawn Rucker",
-    "Straight 2 The Point",
-    3.08,
-    3.14
-   ],
-   [
-    "Jay Pierce",
-    "IGY6",
-    2.66,
-    2.72
+    3.07
    ]
   ],
   "x": [
    [
-    "Carlton Smith",
-    "Straight 2 The Point",
-    26.48,
-    27.52
+    "Dave Wallace",
+    "Dave And Rich",
+    26.16,
+    26.89
    ],
    [
-    "Ashton Maracle",
-    "Gingers Unite",
-    23.5,
-    24.37
+    "Rich Allen",
+    "Dave And Rich",
+    26.75,
+    26.95
    ],
    [
-    "Anthony Nesci",
-    "Respectdabull",
-    21.5,
-    21.75
+    "William Lupiani",
+    "The Regulators",
+    22.54,
+    22.68
    ]
   ]
  },
@@ -209,34 +209,34 @@
    1
   ],
   [
-   "Steve Dailor",
-   "Dirty Draws",
-   3.87,
-   24,
-   9,
-   7,
-   4,
-   0,
-   14,
-   16,
-   10,
-   1,
-   2
-  ],
-  [
    "Alex Brant",
    "RCE",
-   3.81,
-   16,
+   3.92,
+   24,
+   11,
    7,
-   5,
-   1,
+   2,
    0,
-   12,
-   4,
-   10,
+   22,
+   6,
+   15,
    1,
-   3
+   4
+  ],
+  [
+   "Steve Dailor",
+   "Dirty Draws",
+   3.76,
+   32,
+   11,
+   7,
+   6,
+   0,
+   19,
+   17,
+   12,
+   1,
+   4
   ],
   [
    "Jeff Childs",
@@ -256,17 +256,17 @@
   [
    "Chris Maloney",
    "RCE",
-   3.5,
-   16,
-   8,
-   3,
-   1,
-   0,
-   10,
+   3.68,
+   24,
+   12,
    6,
-   5,
+   2,
    0,
-   1
+   22,
+   9,
+   6,
+   0,
+   3
   ],
   [
    "Carlton Smith",
@@ -346,30 +346,45 @@
   [
    "Houston Hughey III",
    "Dirty Draws",
-   3.11,
-   24,
+   3.12,
+   32,
    11,
-   4,
+   5,
    1,
    1,
-   17,
-   10,
+   22,
+   11,
    7,
    0,
-   1
+   3
+  ],
+  [
+   "Dave Wallace",
+   "Dave And Rich",
+   3.07,
+   32,
+   17,
+   6,
+   4,
+   0,
+   27,
+   11,
+   12,
+   0,
+   0
   ],
   [
    "Rich Allen",
    "Dave And Rich",
-   3.09,
-   24,
-   9,
-   8,
-   4,
-   0,
-   16,
-   5,
+   3.04,
+   32,
+   12,
+   11,
    6,
+   0,
+   19,
+   8,
+   7,
    0,
    3
   ],
@@ -389,21 +404,6 @@
    1
   ],
   [
-   "Dave Wallace",
-   "Dave And Rich",
-   2.99,
-   24,
-   13,
-   5,
-   4,
-   0,
-   21,
-   10,
-   6,
-   0,
-   0
-  ],
-  [
    "Cory Humphries",
    "Water Off",
    2.95,
@@ -417,6 +417,21 @@
    7,
    0,
    2
+  ],
+  [
+   "Mike Frank",
+   "The Regulators",
+   2.95,
+   8,
+   3,
+   0,
+   0,
+   0,
+   6,
+   0,
+   3,
+   0,
+   0
   ],
   [
    "Aaron Garrett",
@@ -511,14 +526,14 @@
   [
    "William Lupiani",
    "The Regulators",
-   2.64,
-   24,
+   2.63,
+   32,
    2,
-   8,
+   10,
+   1,
    0,
-   0,
-   15,
-   4,
+   17,
+   5,
    3,
    0,
    0
@@ -568,28 +583,40 @@
    32
   ],
   [
-   "Alex Brant",
-   "RCE",
-   31.36,
-   14,
-   7,
-   9,
-   0,
-   0,
-   5,
-   27
-  ],
-  [
    "Steve Dailor",
    "Dirty Draws",
-   31.25,
-   21,
-   13,
+   31.3,
+   28,
    17,
+   24,
    0,
    0,
    1,
-   47
+   58
+  ],
+  [
+   "Mike Frank",
+   "The Regulators",
+   30.85,
+   7,
+   3,
+   4,
+   0,
+   0,
+   1,
+   11
+  ],
+  [
+   "Alex Brant",
+   "RCE",
+   30.38,
+   21,
+   9,
+   16,
+   0,
+   0,
+   7,
+   32
   ],
   [
    "JohnnyLee Jenkins",
@@ -606,14 +633,14 @@
   [
    "Chris Maloney",
    "RCE",
-   29.87,
-   14,
-   5,
+   28.28,
+   21,
    6,
+   8,
    0,
    0,
    1,
-   28
+   39
   ],
   [
    "Carlton Smith",
@@ -628,6 +655,30 @@
    52
   ],
   [
+   "Rich Allen",
+   "Dave And Rich",
+   26.95,
+   28,
+   12,
+   13,
+   0,
+   0,
+   0,
+   49
+  ],
+  [
+   "Dave Wallace",
+   "Dave And Rich",
+   26.89,
+   28,
+   10,
+   5,
+   0,
+   3,
+   5,
+   58
+  ],
+  [
    "Matt Herne",
    "Respectdabull",
    26.84,
@@ -640,18 +691,6 @@
    24
   ],
   [
-   "Rich Allen",
-   "Dave And Rich",
-   26.75,
-   21,
-   9,
-   12,
-   0,
-   0,
-   0,
-   34
-  ],
-  [
    "Alex Hoestermann",
    "Dirty Kids MFWs",
    26.42,
@@ -662,18 +701,6 @@
    1,
    2,
    42
-  ],
-  [
-   "Dave Wallace",
-   "Dave And Rich",
-   26.16,
-   21,
-   9,
-   5,
-   0,
-   2,
-   2,
-   45
   ],
   [
    "Cory Humphries",
@@ -700,18 +727,6 @@
    28
   ],
   [
-   "Houston Hughey III",
-   "Dirty Draws",
-   25.46,
-   21,
-   2,
-   8,
-   0,
-   0,
-   1,
-   32
-  ],
-  [
    "Joe Gillett",
    "Off In Church",
    25.37,
@@ -722,6 +737,18 @@
    0,
    0,
    24
+  ],
+  [
+   "Houston Hughey III",
+   "Dirty Draws",
+   24.53,
+   28,
+   2,
+   8,
+   0,
+   0,
+   1,
+   43
   ],
   [
    "Ashton Maracle",
@@ -774,14 +801,14 @@
   [
    "William Lupiani",
    "The Regulators",
-   22.54,
-   21,
+   22.68,
+   28,
    1,
-   4,
+   6,
    0,
    0,
    2,
-   31
+   35
   ],
   [
    "Aaron Garrett",
@@ -1570,5 +1597,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-02T21:58:08Z"
+ "updated": "2026-11-03T01:27:20Z"
 }

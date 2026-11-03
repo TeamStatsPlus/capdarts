@@ -11,8 +11,8 @@
   ],
   [
    "Galactic Platypus",
-   40,
-   25
+   47,
+   31
   ],
   [
    "Oh Look Butterflies",
@@ -20,24 +20,24 @@
    21
   ],
   [
+   "CHEERS",
+   43,
+   35
+  ],
+  [
    "APA",
    20,
    19
   ],
   [
-   "CHEERS",
-   32,
-   33
-  ],
-  [
    "ApologiseNow",
-   31,
-   34
+   37,
+   41
   ],
   [
    "Game Of Throws",
-   20,
-   32
+   22,
+   43
   ],
   [
    "Snuggs Snipers",
@@ -55,6 +55,22 @@
    2
   ],
   [
+   "CHEERS",
+   "Game Of Throws",
+   "11/02/2026",
+   6,
+   11,
+   2
+  ],
+  [
+   "Galactic Platypus",
+   "ApologiseNow",
+   "11/02/2026",
+   6,
+   7,
+   6
+  ],
+  [
    "Kookeez Krumble",
    "Game Of Throws",
    "10/26/2026",
@@ -77,36 +93,20 @@
    5,
    7,
    6
-  ],
-  [
-   "CHEERS",
-   "Snuggs Snipers",
-   "10/26/2026",
-   5,
-   6,
-   7
-  ],
-  [
-   "Galactic Platypus",
-   "Oh Look Butterflies",
-   "10/26/2026",
-   5,
-   6,
-   7
-  ],
-  [
-   "Game Of Throws",
-   "Kookeez Krumble",
-   "10/26/2026",
-   5,
-   6,
-   7
   ],
   [
    "ApologiseNow",
-   "APA",
-   "10/26/2026",
-   5,
+   "Galactic Platypus",
+   "11/02/2026",
+   6,
+   6,
+   7
+  ],
+  [
+   "Game Of Throws",
+   "CHEERS",
+   "11/02/2026",
+   6,
    2,
    11
   ]
@@ -114,42 +114,36 @@
  "improved": {
   "c": [
    [
-    "Zach Baker",
-    "APA",
-    2.49,
-    2.61
+    "Mike Infantino",
+    "Galactic Platypus",
+    2.66,
+    2.73
    ],
    [
-    "Dillen Malone",
-    "Oh Look Butterflies",
-    2.7,
-    2.8
-   ],
-   [
-    "Will Zimmer",
-    "Game Of Throws",
-    2.45,
-    2.54
+    "Todd Guichard",
+    "ApologiseNow",
+    2.26,
+    2.32
    ]
   ],
   "x": [
    [
-    "Zach Baker",
-    "APA",
-    22.59,
-    24.15
+    "Will Zimmer",
+    "Game Of Throws",
+    23.8,
+    24.62
    ],
    [
-    "Matt Ferugia",
-    "APA",
-    16.6,
-    17.21
+    "Shaun Stocking",
+    "CHEERS",
+    27.39,
+    27.93
    ],
    [
-    "Shawn Laffin",
-    "Snuggs Snipers",
-    19.04,
-    19.49
+    "Todd Guichard",
+    "ApologiseNow",
+    20.58,
+    21.03
    ]
   ]
  },
@@ -157,14 +151,14 @@
   [
    "Shaun Stocking",
    "CHEERS",
-   3.14,
-   30,
-   7,
-   8,
-   2,
+   3.12,
+   36,
+   10,
+   10,
+   4,
    0,
-   25,
-   15,
+   28,
+   16,
    6,
    1,
    1
@@ -202,15 +196,15 @@
   [
    "Mike Infantino",
    "Galactic Platypus",
-   2.66,
-   30,
-   16,
-   5,
+   2.73,
+   36,
+   18,
+   7,
    3,
    0,
-   14,
-   2,
-   3,
+   18,
+   4,
+   4,
    1,
    2
   ],
@@ -247,15 +241,30 @@
   [
    "Will Zimmer",
    "Game Of Throws",
-   2.54,
-   24,
+   2.45,
+   30,
    3,
-   6,
+   7,
    1,
    0,
-   13,
+   14,
+   6,
    5,
-   4,
+   0,
+   0
+  ],
+  [
+   "Todd Guichard",
+   "ApologiseNow",
+   2.32,
+   36,
+   9,
+   5,
+   0,
+   0,
+   5,
+   7,
+   5,
    0,
    0
   ],
@@ -275,66 +284,6 @@
    1
   ],
   [
-   "Todd Guichard",
-   "ApologiseNow",
-   2.26,
-   30,
-   9,
-   3,
-   0,
-   0,
-   4,
-   4,
-   5,
-   0,
-   0
-  ],
-  [
-   "Mian Saladeen",
-   "ApologiseNow",
-   2.26,
-   30,
-   3,
-   9,
-   0,
-   0,
-   15,
-   3,
-   1,
-   1,
-   0
-  ],
-  [
-   "Todd Keller",
-   "CHEERS",
-   2.25,
-   30,
-   8,
-   7,
-   0,
-   0,
-   11,
-   5,
-   2,
-   0,
-   0
-  ],
-  [
-   "Alli Distler",
-   "Galactic Platypus",
-   2.25,
-   30,
-   5,
-   16,
-   0,
-   0,
-   13,
-   5,
-   1,
-   0,
-   0
-  ],
-  [
    "Matt Ferugia",
    "APA",
    2.24,
@@ -346,6 +295,51 @@
    8,
    2,
    2,
+   0,
+   0
+  ],
+  [
+   "Todd Keller",
+   "CHEERS",
+   2.23,
+   36,
+   10,
+   10,
+   1,
+   0,
+   12,
+   5,
+   3,
+   0,
+   0
+  ],
+  [
+   "Mian Saladeen",
+   "ApologiseNow",
+   2.19,
+   36,
+   5,
+   9,
+   0,
+   0,
+   16,
+   3,
+   1,
+   1,
+   0
+  ],
+  [
+   "Alli Distler",
+   "Galactic Platypus",
+   2.19,
+   36,
+   7,
+   18,
+   0,
+   0,
+   13,
+   5,
+   1,
    0,
    0
   ],
@@ -368,13 +362,13 @@
    "Jamie Rialdi",
    "Game Of Throws",
    1.92,
-   24,
-   6,
+   30,
+   7,
    3,
    0,
    0,
-   6,
-   1,
+   8,
+   2,
    1,
    0,
    0
@@ -399,14 +393,14 @@
   [
    "Shaun Stocking",
    "CHEERS",
-   27.39,
-   35,
-   13,
-   7,
+   27.93,
+   42,
+   16,
+   9,
    0,
    0,
    4,
-   48
+   62
   ],
   [
    "Dillen Malone",
@@ -423,14 +417,14 @@
   [
    "Mike Infantino",
    "Galactic Platypus",
-   25.84,
-   35,
-   10,
-   6,
+   26.22,
+   42,
+   11,
+   9,
    0,
    0,
    2,
-   44
+   52
   ],
   [
    "Jim Gangarossa",
@@ -443,6 +437,18 @@
    0,
    3,
    22
+  ],
+  [
+   "Will Zimmer",
+   "Game Of Throws",
+   24.62,
+   35,
+   6,
+   5,
+   0,
+   0,
+   0,
+   31
   ],
   [
    "Zach Baker",
@@ -469,18 +475,6 @@
    30
   ],
   [
-   "Will Zimmer",
-   "Game Of Throws",
-   23.8,
-   28,
-   5,
-   3,
-   0,
-   0,
-   0,
-   24
-  ],
-  [
    "Hector Hernandez",
    "Kookeez Krumble",
    23.64,
@@ -493,52 +487,52 @@
    39
   ],
   [
+   "Todd Keller",
+   "CHEERS",
+   21.1,
+   42,
+   7,
+   2,
+   0,
+   0,
+   1,
+   31
+  ],
+  [
+   "Todd Guichard",
+   "ApologiseNow",
+   21.03,
+   42,
+   8,
+   5,
+   0,
+   0,
+   0,
+   31
+  ],
+  [
    "Jamie Rialdi",
    "Game Of Throws",
-   21.25,
-   28,
+   20.99,
+   35,
    6,
    1,
    0,
    0,
    0,
-   19
-  ],
-  [
-   "Todd Keller",
-   "CHEERS",
-   20.97,
-   35,
-   4,
-   2,
-   0,
-   0,
-   1,
-   25
-  ],
-  [
-   "Todd Guichard",
-   "ApologiseNow",
-   20.58,
-   35,
-   7,
-   3,
-   0,
-   0,
-   0,
-   27
+   24
   ],
   [
    "Mian Saladeen",
    "ApologiseNow",
-   20.53,
-   35,
-   11,
-   3,
+   20.83,
+   42,
+   14,
+   4,
    0,
    0,
    1,
-   21
+   25
   ],
   [
    "Shawn Laffin",
@@ -555,14 +549,14 @@
   [
    "Alli Distler",
    "Galactic Platypus",
-   19.11,
-   35,
-   9,
+   19.47,
+   42,
+   11,
    3,
    0,
    0,
-   0,
-   17
+   1,
+   21
   ],
   [
    "Rowdy Woodworth",
@@ -1198,5 +1192,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-02T15:14:26Z"
+ "updated": "2026-11-03T01:27:31Z"
 }
