@@ -1013,6 +1013,21 @@
    0
   ],
   [
+   "Dickie Rowland",
+   "ChJokers",
+   1.58,
+   18,
+   7,
+   6,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
    "Mike Wemett",
    "Good Smoke BBQ",
    1.58,
@@ -1039,21 +1054,6 @@
    0,
    1,
    2,
-   0,
-   0
-  ],
-  [
-   "Dickie Rowland",
-   "ChJokers",
-   1.58,
-   18,
-   7,
-   6,
-   0,
-   0,
-   0,
-   2,
-   0,
    0,
    0
   ],
@@ -1088,21 +1088,6 @@
    0
   ],
   [
-   "Jake Halluciminatin",
-   "Halluciminatin",
-   1.49,
-   18,
-   1,
-   0,
-   0,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Tyrell Carver",
    "IDF NightCaps",
    1.49,
@@ -1114,6 +1099,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jake Halluciminatin",
+   "Halluciminatin",
+   1.49,
+   18,
+   1,
+   0,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-03T04:12:50Z"
+ "updated": "2026-11-03T05:14:58Z"
 }
