@@ -5,9 +5,9 @@
  },
  "standings": [
   [
-   "Kookeez Krumble",
-   41,
-   24
+   "Oh Look Butterflies",
+   40,
+   25
   ],
   [
    "Galactic Platypus",
@@ -15,9 +15,9 @@
    31
   ],
   [
-   "Oh Look Butterflies",
-   31,
-   21
+   "Kookeez Krumble",
+   45,
+   33
   ],
   [
    "CHEERS",
@@ -26,8 +26,8 @@
   ],
   [
    "APA",
-   20,
-   19
+   26,
+   26
   ],
   [
    "ApologiseNow",
@@ -41,19 +41,11 @@
   ],
   [
    "Snuggs Snipers",
-   19,
-   46
+   26,
+   52
   ]
  ],
  "results": [
-  [
-   "APA",
-   "ApologiseNow",
-   "10/26/2026",
-   5,
-   11,
-   2
-  ],
   [
    "CHEERS",
    "Game Of Throws",
@@ -63,36 +55,36 @@
    2
   ],
   [
+   "Oh Look Butterflies",
+   "Kookeez Krumble",
+   "11/02/2026",
+   6,
+   9,
+   4
+  ],
+  [
    "Galactic Platypus",
    "ApologiseNow",
    "11/02/2026",
    6,
-   7,
-   6
-  ],
-  [
-   "Kookeez Krumble",
-   "Game Of Throws",
-   "10/26/2026",
-   5,
-   7,
-   6
-  ],
-  [
-   "Oh Look Butterflies",
-   "Galactic Platypus",
-   "10/26/2026",
-   5,
    7,
    6
   ],
   [
    "Snuggs Snipers",
-   "CHEERS",
-   "10/26/2026",
-   5,
+   "APA",
+   "11/02/2026",
+   6,
    7,
    6
+  ],
+  [
+   "APA",
+   "Snuggs Snipers",
+   "11/02/2026",
+   6,
+   6,
+   7
   ],
   [
    "ApologiseNow",
@@ -101,6 +93,14 @@
    6,
    6,
    7
+  ],
+  [
+   "Kookeez Krumble",
+   "Oh Look Butterflies",
+   "11/02/2026",
+   6,
+   4,
+   9
   ],
   [
    "Game Of Throws",
@@ -113,6 +113,12 @@
  ],
  "improved": {
   "c": [
+   [
+    "Dillen Malone",
+    "Oh Look Butterflies",
+    2.8,
+    2.9
+   ],
    [
     "Mike Infantino",
     "Galactic Platypus",
@@ -140,10 +146,10 @@
     27.93
    ],
    [
-    "Todd Guichard",
-    "ApologiseNow",
-    20.58,
-    21.03
+    "Desmond Parris",
+    "Kookeez Krumble",
+    24.14,
+    24.64
    ]
   ]
  },
@@ -164,32 +170,17 @@
    1
   ],
   [
-   "Jim Gangarossa",
-   "Oh Look Butterflies",
-   2.84,
-   24,
-   7,
-   11,
-   2,
-   0,
-   13,
-   7,
-   4,
-   0,
-   1
-  ],
-  [
    "Dillen Malone",
    "Oh Look Butterflies",
-   2.8,
-   24,
+   2.9,
+   30,
    11,
-   7,
+   12,
    2,
    0,
-   13,
-   5,
-   2,
+   16,
+   6,
+   7,
    0,
    1
   ],
@@ -209,32 +200,32 @@
    2
   ],
   [
-   "Zach Baker",
-   "APA",
-   2.61,
-   18,
-   7,
+   "Jim Gangarossa",
+   "Oh Look Butterflies",
+   2.69,
+   30,
+   12,
+   11,
    3,
-   2,
    0,
-   9,
-   4,
-   6,
+   16,
+   7,
+   5,
    0,
-   0
+   1
   ],
   [
-   "Hector Hernandez",
-   "Kookeez Krumble",
-   2.57,
-   30,
-   11,
-   6,
+   "Zach Baker",
+   "APA",
+   2.56,
+   24,
+   8,
+   3,
+   3,
    0,
-   0,
-   18,
-   4,
-   6,
+   10,
+   5,
+   7,
    0,
    0
   ],
@@ -254,6 +245,36 @@
    0
   ],
   [
+   "Hector Hernandez",
+   "Kookeez Krumble",
+   2.43,
+   36,
+   11,
+   7,
+   0,
+   0,
+   18,
+   4,
+   6,
+   0,
+   0
+  ],
+  [
+   "Desmond Parris",
+   "Kookeez Krumble",
+   2.33,
+   36,
+   7,
+   11,
+   1,
+   0,
+   18,
+   11,
+   0,
+   0,
+   1
+  ],
+  [
    "Todd Guichard",
    "ApologiseNow",
    2.32,
@@ -265,36 +286,6 @@
    5,
    7,
    5,
-   0,
-   0
-  ],
-  [
-   "Desmond Parris",
-   "Kookeez Krumble",
-   2.32,
-   30,
-   6,
-   11,
-   1,
-   0,
-   17,
-   10,
-   0,
-   0,
-   1
-  ],
-  [
-   "Matt Ferugia",
-   "APA",
-   2.24,
-   18,
-   3,
-   7,
-   0,
-   0,
-   8,
-   2,
-   2,
    0,
    0
   ],
@@ -344,17 +335,47 @@
    0
   ],
   [
+   "Matt Ferugia",
+   "APA",
+   2.14,
+   24,
+   3,
+   8,
+   0,
+   0,
+   8,
+   2,
+   4,
+   0,
+   0
+  ],
+  [
    "Rowdy Woodworth",
    "Snuggs Snipers",
-   1.96,
-   30,
-   1,
+   2.0,
+   36,
    5,
+   6,
    1,
+   0,
+   7,
+   5,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Laffin",
+   "Snuggs Snipers",
+   1.93,
+   36,
+   6,
+   5,
+   0,
    0,
    6,
-   3,
-   0,
+   4,
+   1,
    0,
    0
   ],
@@ -370,21 +391,6 @@
    8,
    2,
    1,
-   0,
-   0
-  ],
-  [
-   "Shawn Laffin",
-   "Snuggs Snipers",
-   1.9,
-   30,
-   5,
-   1,
-   0,
-   0,
-   4,
-   3,
-   0,
    0,
    0
   ]
@@ -405,14 +411,14 @@
   [
    "Dillen Malone",
    "Oh Look Butterflies",
-   26.48,
-   28,
-   7,
-   6,
+   26.38,
+   35,
+   10,
+   8,
    0,
    0,
    0,
-   31
+   38
   ],
   [
    "Mike Infantino",
@@ -429,14 +435,26 @@
   [
    "Jim Gangarossa",
    "Oh Look Butterflies",
-   24.97,
-   28,
-   6,
+   25.26,
+   35,
    7,
+   8,
    1,
    0,
    3,
-   22
+   33
+  ],
+  [
+   "Desmond Parris",
+   "Kookeez Krumble",
+   24.64,
+   42,
+   16,
+   8,
+   0,
+   0,
+   0,
+   38
   ],
   [
    "Will Zimmer",
@@ -453,38 +471,26 @@
   [
    "Zach Baker",
    "APA",
-   24.15,
-   21,
-   7,
-   6,
-   0,
-   0,
-   0,
-   17
-  ],
-  [
-   "Desmond Parris",
-   "Kookeez Krumble",
-   24.14,
-   35,
-   15,
+   24.11,
+   28,
+   10,
    7,
    0,
    0,
    0,
-   30
+   26
   ],
   [
    "Hector Hernandez",
    "Kookeez Krumble",
-   23.64,
-   35,
-   9,
+   22.97,
+   42,
+   11,
    4,
    0,
    0,
    0,
-   39
+   43
   ],
   [
    "Todd Keller",
@@ -535,18 +541,6 @@
    25
   ],
   [
-   "Shawn Laffin",
-   "Snuggs Snipers",
-   19.49,
-   35,
-   6,
-   1,
-   0,
-   0,
-   0,
-   19
-  ],
-  [
    "Alli Distler",
    "Galactic Platypus",
    19.47,
@@ -559,28 +553,40 @@
    21
   ],
   [
-   "Rowdy Woodworth",
+   "Shawn Laffin",
    "Snuggs Snipers",
-   18.37,
-   35,
-   7,
+   19.45,
+   42,
+   6,
    1,
    0,
    0,
    0,
-   17
+   22
+  ],
+  [
+   "Rowdy Woodworth",
+   "Snuggs Snipers",
+   18.51,
+   42,
+   9,
+   1,
+   0,
+   0,
+   0,
+   24
   ],
   [
    "Matt Ferugia",
    "APA",
-   17.21,
-   21,
-   3,
+   17.35,
+   28,
+   5,
    0,
    0,
    0,
    0,
-   6
+   8
   ]
  ],
  "teams": [
@@ -1192,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-03T01:27:31Z"
+ "updated": "2026-11-03T03:09:08Z"
 }
