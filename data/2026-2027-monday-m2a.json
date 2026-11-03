@@ -159,16 +159,16 @@
     3.68
    ],
    [
-    "Alex Brant",
-    "RCE",
-    3.81,
-    3.92
-   ],
-   [
     "Jeff Childs",
     "Off In Church",
     3.71,
     3.82
+   ],
+   [
+    "Alex Brant",
+    "RCE",
+    3.81,
+    3.92
    ]
   ],
   "x": [
@@ -1597,5 +1597,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-03T10:13:11Z"
+ "updated": "2026-11-03T11:13:54Z"
 }

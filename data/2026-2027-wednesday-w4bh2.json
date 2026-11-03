@@ -439,21 +439,6 @@
    0
   ],
   [
-   "Brian Keefe",
-   "Average Joes",
-   1.97,
-   9,
-   5,
-   2,
-   0,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Robert Macomber",
    "Ask Bobby",
    1.97,
@@ -465,6 +450,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Brian Keefe",
+   "Average Joes",
+   1.97,
+   9,
+   5,
+   2,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-03T10:14:21Z"
+ "updated": "2026-11-03T11:15:09Z"
 }
