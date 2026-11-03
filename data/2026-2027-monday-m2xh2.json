@@ -598,7 +598,7 @@
   },
   {
    "name": "ApologiseNow",
-   "site": "Dougies",
+   "site": "Perris Pizza",
    "captain": "Mian Saladeen",
    "phone": "585-201-2000"
   },
@@ -1186,6 +1186,12 @@
    "address": "2515 Mt Read Blvd, Rochester, NY 14615"
   },
   {
+   "name": "Perris Pizza",
+   "machines": 2,
+   "phone": "585-244-9090",
+   "address": "1881 East Ave, Rochester, NY 14610"
+  },
+  {
    "name": "Retreat",
    "machines": 1,
    "phone": "585-227-9100",
@@ -1198,5 +1204,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-03T17:17:31Z"
+ "updated": "2026-11-03T19:15:13Z"
 }
