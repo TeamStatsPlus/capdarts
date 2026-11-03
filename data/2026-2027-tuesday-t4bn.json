@@ -717,21 +717,6 @@
    0
   ],
   [
-   "Joe Tortora",
-   "Points And Pints",
-   1.75,
-   15,
-   6,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dan Spencer",
    "Peppers And Onions",
    1.75,
@@ -757,6 +742,21 @@
    0,
    2,
    3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Joe Tortora",
+   "Points And Pints",
+   1.75,
+   15,
+   6,
+   1,
+   1,
+   0,
+   0,
+   1,
    1,
    0,
    0
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-03T06:14:23Z"
+ "updated": "2026-11-03T07:37:13Z"
 }
