@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Lydia Wheeler",
-    "Shart Shooters",
-    0.87,
-    0.94
+    "Jason Post",
+    "Struggle Bus",
+    1.18,
+    1.25
    ]
   ],
   "x": [
@@ -867,21 +867,6 @@
    0
   ],
   [
-   "Andrea Sutherland",
-   "Closer To Zero",
-   1.15,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Double Deuces",
    "Double Deuces",
    1.15,
@@ -892,6 +877,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrea Sutherland",
+   "Closer To Zero",
+   1.15,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   0.99,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Ashley McLaughlin",
    "Throwgasms",
    0.99,
@@ -1042,6 +1027,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   0.99,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -1319,18 +1319,6 @@
    12
   ],
   [
-   "Graham Wheeler",
-   "Shart Shooters",
-   17.16,
-   20,
-   4,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Chris Coulter",
    "Double Deuces",
    17.16,
@@ -1341,6 +1329,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Graham Wheeler",
+   "Shart Shooters",
+   17.16,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Mike Loucks",
@@ -1751,18 +1751,6 @@
    0
   ],
   [
-   "Carly Kostiw",
-   "Squeekertips",
-   13.78,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Jacob Post",
    "Struggle Bus",
    13.78,
@@ -1773,6 +1761,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Carly Kostiw",
+   "Squeekertips",
+   13.78,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Adam Fowles",
@@ -1823,18 +1823,6 @@
    2
   ],
   [
-   "Marin Valentino",
-   "The Limp Wristers",
-   13.14,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    13.14,
@@ -1845,6 +1833,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Marin Valentino",
+   "The Limp Wristers",
+   13.14,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Erin Lamar",
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-03T12:05:34Z"
+ "updated": "2026-11-03T13:29:41Z"
 }
