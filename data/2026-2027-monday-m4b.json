@@ -833,21 +833,6 @@
    0
   ],
   [
-   "Whitney Sawyer",
-   "RedEye",
-   1.7,
-   15,
-   1,
-   2,
-   0,
-   0,
-   3,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Bill Greenough",
    "Slow Mother Chuckers",
    1.7,
@@ -859,6 +844,21 @@
    3,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Whitney Sawyer",
+   "RedEye",
+   1.7,
+   15,
+   1,
+   2,
+   0,
+   0,
+   3,
+   0,
+   2,
    0,
    0
   ],
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-03T20:11:35Z"
+ "updated": "2026-11-03T21:05:02Z"
 }
