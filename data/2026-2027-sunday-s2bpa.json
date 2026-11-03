@@ -152,10 +152,10 @@
     3.21
    ],
    [
-    "Chris Nesci",
-    "Black And Brown",
-    2.25,
-    2.36
+    "Justin Smith",
+    "Box Chevy",
+    2.78,
+    2.89
    ]
   ],
   "x": [
@@ -726,18 +726,6 @@
    23
   ],
   [
-   "Dashay Earlsey",
-   "Water Off",
-   22.87,
-   42,
-   9,
-   5,
-   0,
-   0,
-   3,
-   59
-  ],
-  [
    "Archie Donaldson",
    "Box Chevy",
    22.87,
@@ -748,6 +736,18 @@
    0,
    3,
    47
+  ],
+  [
+   "Dashay Earlsey",
+   "Water Off",
+   22.87,
+   42,
+   9,
+   5,
+   0,
+   0,
+   3,
+   59
   ],
   [
    "Justin Smith",
@@ -1482,5 +1482,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-03T19:15:01Z"
+ "updated": "2026-11-03T20:11:15Z"
 }

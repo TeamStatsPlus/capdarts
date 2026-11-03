@@ -1156,12 +1156,6 @@
    "address": "3208 Latta Rd, Rochester, NY 14612"
   },
   {
-   "name": "Dougies",
-   "machines": 2,
-   "phone": "585-430-1250",
-   "address": "80 N Main St., Fairport, NY 14450"
-  },
-  {
    "name": "Firehouse Saloon",
    "machines": 2,
    "phone": "585-319-3832",
@@ -1204,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-03T19:15:13Z"
+ "updated": "2026-11-03T20:11:31Z"
 }
