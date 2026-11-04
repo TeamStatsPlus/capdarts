@@ -1156,18 +1156,6 @@
    4
   ],
   [
-   "Tom Solorzano",
-   "4 Of Clubs",
-   14.73,
-   24,
-   5,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Tony Jackson",
    "Gettin Looped",
    14.73,
@@ -1178,6 +1166,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   14.73,
+   24,
+   5,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Chris Hartmann",
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-04T05:22:25Z"
+ "updated": "2026-11-04T07:39:43Z"
 }
