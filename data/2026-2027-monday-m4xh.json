@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Chris Jones",
-   "Right There",
-   2.38,
-   18,
-   9,
-   3,
-   1,
-   0,
-   5,
-   7,
-   2,
-   0,
-   0
-  ],
-  [
    "Mike Murphy",
    "Wrong Hole",
    2.38,
@@ -331,6 +316,21 @@
    3,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Chris Jones",
+   "Right There",
+   2.38,
+   18,
+   9,
+   3,
+   1,
+   0,
+   5,
+   7,
+   2,
    0,
    0
   ],
@@ -560,21 +560,6 @@
    0
   ],
   [
-   "Aaron Lindenberg",
-   "Roasted Shenanigans",
-   1.89,
-   15,
-   3,
-   2,
-   0,
-   0,
-   1,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Tom Reeder",
    "Right There",
    1.89,
@@ -584,6 +569,21 @@
    0,
    0,
    7,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Aaron Lindenberg",
+   "Roasted Shenanigans",
+   1.89,
+   15,
+   3,
+   2,
+   0,
+   0,
+   1,
    2,
    0,
    0,
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-04T16:23:04Z"
+ "updated": "2026-11-04T17:15:01Z"
 }
