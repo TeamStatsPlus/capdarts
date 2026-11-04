@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Neal Kenyon",
-   "The Happy Accidents",
-   2.13,
-   15,
-   4,
-   2,
-   1,
-   0,
-   3,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Steve Wemett",
    "Good Smoke BBQ",
    2.13,
@@ -529,6 +514,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Neal Kenyon",
+   "The Happy Accidents",
+   2.13,
+   15,
+   4,
+   2,
+   1,
+   0,
+   3,
+   0,
+   2,
    0,
    0
   ],
@@ -653,21 +653,6 @@
    1
   ],
   [
-   "Dean Nicosia",
-   "Money Shot",
-   1.88,
-   3,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "David Caesar",
    "IDF NightCaps",
    1.88,
@@ -679,6 +664,21 @@
    2,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Dean Nicosia",
+   "Money Shot",
+   1.88,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -713,21 +713,6 @@
    0
   ],
   [
-   "Jake Maracle",
-   "Slow Mother Chuckers",
-   1.82,
-   9,
-   5,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Fitzgerald",
    "Wired",
    1.82,
@@ -738,6 +723,21 @@
    0,
    2,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake Maracle",
+   "Slow Mother Chuckers",
+   1.82,
+   9,
+   5,
+   1,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -833,21 +833,6 @@
    0
   ],
   [
-   "Bill Greenough",
-   "Slow Mother Chuckers",
-   1.7,
-   18,
-   4,
-   6,
-   1,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Whitney Sawyer",
    "RedEye",
    1.7,
@@ -859,6 +844,21 @@
    3,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Bill Greenough",
+   "Slow Mother Chuckers",
+   1.7,
+   18,
+   4,
+   6,
+   1,
+   0,
+   3,
+   0,
+   0,
    0,
    0
   ],
@@ -968,21 +968,6 @@
    0
   ],
   [
-   "Judson Brown",
-   "Wired",
-   1.61,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Michelle Nguyen",
    "Bad News Beers",
    1.61,
@@ -1008,6 +993,36 @@
    0,
    5,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Judson Brown",
+   "Wired",
+   1.61,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   1.58,
+   18,
+   7,
+   6,
+   0,
+   0,
+   0,
+   2,
    0,
    0,
    0
@@ -1039,21 +1054,6 @@
    0,
    1,
    2,
-   0,
-   0
-  ],
-  [
-   "Dickie Rowland",
-   "ChJokers",
-   1.58,
-   18,
-   7,
-   6,
-   0,
-   0,
-   0,
-   2,
-   0,
    0,
    0
   ],
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-04T13:29:41Z"
+ "updated": "2026-11-04T15:10:47Z"
 }
