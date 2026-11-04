@@ -230,10 +230,10 @@
     3.42
    ],
    [
-    "Dan Freese",
-    "Right There",
-    2.95,
-    3.01
+    "Robyn Ralston",
+    "Sprinkles On Top",
+    1.81,
+    1.87
    ]
   ],
   "x": [
@@ -364,21 +364,6 @@
    0
   ],
   [
-   "Dan Freese",
-   "Right There",
-   3.01,
-   36,
-   15,
-   6,
-   4,
-   1,
-   20,
-   13,
-   9,
-   0,
-   2
-  ],
-  [
    "Rich Allen",
    "Wags To Richs",
    3.01,
@@ -392,6 +377,21 @@
    4,
    0,
    1
+  ],
+  [
+   "Dan Freese",
+   "Right There",
+   3.01,
+   36,
+   15,
+   6,
+   4,
+   1,
+   20,
+   13,
+   9,
+   0,
+   2
   ],
   [
    "Justin Burdett",
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-04T23:03:24Z"
+ "updated": "2026-11-04T23:57:26Z"
 }
