@@ -126,10 +126,10 @@
     1.44
    ],
    [
-    "Casey Birch",
-    "The Critters",
-    1.31,
-    1.41
+    "Mike Garrity",
+    "Thats Bullshoot",
+    1.12,
+    1.22
    ]
   ],
   "x": [
@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Steve Strowbridge",
-   "Team Name",
-   1.82,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Joe Rowland",
    "Team Name",
    1.82,
@@ -360,6 +345,21 @@
    0,
    6,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Strowbridge",
+   "Team Name",
+   1.82,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-04T03:09:16Z"
+ "updated": "2026-11-04T04:16:07Z"
 }

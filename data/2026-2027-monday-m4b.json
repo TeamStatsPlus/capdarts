@@ -653,21 +653,6 @@
    1
   ],
   [
-   "Dean Nicosia",
-   "Money Shot",
-   1.88,
-   3,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "David Caesar",
    "IDF NightCaps",
    1.88,
@@ -679,6 +664,21 @@
    2,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Dean Nicosia",
+   "Money Shot",
+   1.88,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -908,21 +908,6 @@
    0
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   1.64,
-   3,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Strowbridge",
    "Off Target",
    1.64,
@@ -933,6 +918,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   1.64,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -968,6 +968,21 @@
    0
   ],
   [
+   "Brian Wills",
+   "Tegridy",
+   1.61,
+   15,
+   0,
+   6,
+   0,
+   0,
+   5,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Judson Brown",
    "Wired",
    1.61,
@@ -994,21 +1009,6 @@
    3,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Wills",
-   "Tegridy",
-   1.61,
-   15,
-   0,
-   6,
-   0,
-   0,
-   5,
-   0,
-   0,
    0,
    0
   ],
@@ -3000,5 +3000,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-04T03:08:57Z"
+ "updated": "2026-11-04T04:15:48Z"
 }
