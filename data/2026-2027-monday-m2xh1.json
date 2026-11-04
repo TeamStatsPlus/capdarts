@@ -391,21 +391,6 @@
    0
   ],
   [
-   "Todd Cornell",
-   "Ballsagna",
-   1.39,
-   30,
-   2,
-   14,
-   0,
-   0,
-   1,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Jessica Zimmerman",
    "Dark Sharts",
    1.39,
@@ -416,6 +401,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Todd Cornell",
+   "Ballsagna",
+   1.39,
+   30,
+   2,
+   14,
+   0,
+   0,
+   1,
+   3,
    0,
    0,
    0
@@ -1596,5 +1596,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-03T22:03:10Z"
+ "updated": "2026-11-04T01:27:27Z"
 }
