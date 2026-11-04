@@ -908,21 +908,6 @@
    0
   ],
   [
-   "Steve Strowbridge",
-   "Off Target",
-   1.64,
-   15,
-   6,
-   2,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Alex Todisco",
    "Slow Mother Chuckers",
    1.64,
@@ -933,6 +918,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Strowbridge",
+   "Off Target",
+   1.64,
+   15,
+   6,
+   2,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -1013,6 +1013,21 @@
    0
   ],
   [
+   "Dickie Rowland",
+   "ChJokers",
+   1.58,
+   18,
+   7,
+   6,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
    "Mike Wemett",
    "Good Smoke BBQ",
    1.58,
@@ -1039,21 +1054,6 @@
    0,
    1,
    2,
-   0,
-   0
-  ],
-  [
-   "Dickie Rowland",
-   "ChJokers",
-   1.58,
-   18,
-   7,
-   6,
-   0,
-   0,
-   0,
-   2,
-   0,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-04T22:05:05Z"
+ "updated": "2026-11-04T23:03:11Z"
 }

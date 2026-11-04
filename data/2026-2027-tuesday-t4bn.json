@@ -702,21 +702,6 @@
    0
   ],
   [
-   "Dan Spencer",
-   "Peppers And Onions",
-   1.75,
-   12,
-   2,
-   1,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Jim Oneill",
    "Points And Pints",
    1.75,
@@ -742,6 +727,21 @@
    0,
    0,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Dan Spencer",
+   "Peppers And Onions",
+   1.75,
+   12,
+   2,
+   1,
+   0,
+   0,
+   3,
+   2,
    1,
    0,
    0
@@ -882,21 +882,6 @@
    0
   ],
   [
-   "Bill Bradburn",
-   "Truckin Bulls",
-   1.54,
-   15,
-   1,
-   2,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Sean New Wave",
    "New Wave",
    1.54,
@@ -908,6 +893,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Bill Bradburn",
+   "Truckin Bulls",
+   1.54,
+   15,
+   1,
+   2,
+   0,
+   0,
+   4,
+   0,
+   1,
    0,
    0
   ],
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-04T21:10:21Z"
+ "updated": "2026-11-04T23:03:39Z"
 }
