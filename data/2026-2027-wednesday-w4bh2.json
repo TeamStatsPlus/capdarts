@@ -229,21 +229,6 @@
    0
   ],
   [
-   "Michael TeWinkle",
-   "Bullshots",
-   2.39,
-   15,
-   3,
-   7,
-   0,
-   0,
-   6,
-   3,
-   3,
-   0,
-   0
-  ],
-  [
    "Jay Jaz",
    "Ask Bobby",
    2.39,
@@ -255,6 +240,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Michael TeWinkle",
+   "Bullshots",
+   2.39,
+   15,
+   3,
+   7,
+   0,
+   0,
+   6,
+   3,
+   3,
    0,
    0
   ],
@@ -469,21 +469,6 @@
    0
   ],
   [
-   "Jim Iorio",
-   "Average Joes",
-   1.96,
-   15,
-   4,
-   5,
-   1,
-   0,
-   3,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Dave Robinson",
    "Dart Vaders",
    1.96,
@@ -495,6 +480,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jim Iorio",
+   "Average Joes",
+   1.96,
+   15,
+   4,
+   5,
+   1,
+   0,
+   3,
+   3,
+   2,
    0,
    0
   ],
@@ -844,21 +844,6 @@
    0
   ],
   [
-   "Matthew Griffith",
-   "Rizm With The Tizm",
-   1.57,
-   15,
-   6,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Nick Maguire",
    "Team Stinky",
    1.57,
@@ -870,6 +855,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Matthew Griffith",
+   "Rizm With The Tizm",
+   1.57,
+   15,
+   6,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-04T07:40:21Z"
+ "updated": "2026-11-04T09:16:43Z"
 }
