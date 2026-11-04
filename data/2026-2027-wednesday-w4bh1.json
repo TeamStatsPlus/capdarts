@@ -178,10 +178,10 @@
     0.99
    ],
    [
-    "Jason Post",
-    "Struggle Bus",
-    1.18,
-    1.25
+    "Lydia Wheeler",
+    "Shart Shooters",
+    0.87,
+    0.94
    ]
   ],
   "x": [
@@ -477,21 +477,6 @@
    0
   ],
   [
-   "Collin Owczarzak",
-   "The Limp Wristers",
-   1.62,
-   9,
-   1,
-   4,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Chris Murgatroyd",
    "Double Deuces",
    1.62,
@@ -503,6 +488,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Collin Owczarzak",
+   "The Limp Wristers",
+   1.62,
+   9,
+   1,
+   4,
+   0,
+   0,
+   1,
+   1,
+   1,
    0,
    0
   ],
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.37,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.37,
@@ -687,17 +672,17 @@
    0
   ],
   [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
+   "Ellen Post",
+   "Closer To Zero",
+   1.37,
+   6,
+   1,
+   1,
    0,
    0,
    0,
    0,
-   0,
-   0,
-   0,
+   1,
    0,
    0
   ],
@@ -712,6 +697,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -867,21 +867,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -897,12 +882,12 @@
    0
   ],
   [
-   "Brandon Shampoe",
-   "Struggle Bus",
-   1.13,
-   9,
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
    1,
-   2,
    0,
    0,
    0,
@@ -942,12 +927,12 @@
    0
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   1.1,
+   "Brandon Shampoe",
+   "Struggle Bus",
+   1.13,
    9,
+   1,
    2,
-   3,
    0,
    0,
    0,
@@ -957,12 +942,12 @@
    0
   ],
   [
-   "Erin Lamar",
-   "Throwgasms",
-   1.03,
-   6,
-   1,
-   1,
+   "Jess Post",
+   "Closer To Zero",
+   1.1,
+   9,
+   2,
+   3,
    0,
    0,
    0,
@@ -982,6 +967,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Erin Lamar",
+   "Throwgasms",
+   1.03,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1319,18 +1319,6 @@
    12
   ],
   [
-   "Chris Coulter",
-   "Double Deuces",
-   17.16,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Graham Wheeler",
    "Shart Shooters",
    17.16,
@@ -1341,6 +1329,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Chris Coulter",
+   "Double Deuces",
+   17.16,
+   16,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Mike Loucks",
@@ -1751,18 +1751,6 @@
    0
   ],
   [
-   "Jacob Post",
-   "Struggle Bus",
-   13.78,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Carly Kostiw",
    "Squeekertips",
    13.78,
@@ -1773,6 +1761,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Jacob Post",
+   "Struggle Bus",
+   13.78,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Adam Fowles",
@@ -1823,18 +1823,6 @@
    2
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   13.14,
-   8,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Marin Valentino",
    "The Limp Wristers",
    13.14,
@@ -1845,6 +1833,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   13.14,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Erin Lamar",
@@ -2841,5 +2841,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-04T09:16:38Z"
+ "updated": "2026-11-04T12:07:57Z"
 }
