@@ -1333,6 +1333,12 @@
    "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
   },
   {
+   "name": "Braddock Bay",
+   "machines": 1,
+   "phone": "585-392-3370",
+   "address": "372 Manitou Rd, Hilton, NY 14468"
+  },
+  {
    "name": "JD Oxfords",
    "machines": 3,
    "phone": "585-256-0580",
@@ -1363,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-05T13:36:14Z"
+ "updated": "2026-11-05T15:18:27Z"
 }

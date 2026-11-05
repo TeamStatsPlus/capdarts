@@ -5,6 +5,11 @@
  },
  "standings": [
   [
+   "Tre Stronzi",
+   51,
+   27
+  ],
+  [
    "No Bulls Hit",
    49,
    29
@@ -15,19 +20,14 @@
    21
   ],
   [
-   "Tre Stronzi",
-   38,
-   27
-  ],
-  [
    "Aiming Fluid Needed",
    43,
    35
   ],
   [
    "Just The Tip",
-   32,
-   33
+   33,
+   32
   ],
   [
    "Cant Hit Bull",
@@ -41,66 +41,58 @@
   ],
   [
    "Yagers",
-   4,
-   35
+   3,
+   49
   ]
  ],
  "results": [
   [
    "Tre Stronzi",
-   "Aiming Fluid Needed",
-   "10/28/2026",
-   5,
-   10,
-   3
-  ],
-  [
-   "Aiming Fluid Needed",
-   "No Bulls Hit",
-   "11/04/2026",
-   6,
-   7,
-   6
-  ],
-  [
-   "Cant Hit Bull",
-   "BullsDeep",
-   "11/04/2026",
-   6,
-   7,
-   6
-  ],
-  [
-   "BullsDeep",
-   "Cant Hit Bull",
-   "11/04/2026",
-   6,
-   6,
-   7
-  ],
-  [
-   "Just The Tip",
-   "Cant Hit Bull",
-   "10/28/2026",
-   5,
-   6,
-   7
-  ],
-  [
-   "No Bulls Hit",
-   "Aiming Fluid Needed",
-   "11/04/2026",
-   6,
-   6,
-   7
-  ],
-  [
    "Yagers",
+   "11/04/2026",
+   6,
+   13,
+   0
+  ],
+  [
+   "Aiming Fluid Needed",
+   "No Bulls Hit",
+   "11/04/2026",
+   6,
+   7,
+   6
+  ],
+  [
+   "Cant Hit Bull",
+   "BullsDeep",
+   "11/04/2026",
+   6,
+   7,
+   6
+  ],
+  [
+   "BullsDeep",
+   "Cant Hit Bull",
+   "11/04/2026",
+   6,
+   6,
+   7
+  ],
+  [
    "Just The Tip",
-   "10/14/2026",
-   3,
-   4,
-   9
+   "Cant Hit Bull",
+   "10/28/2026",
+   5,
+   6,
+   7
+  ],
+  [
+   "No Bulls Hit",
+   "Aiming Fluid Needed",
+   "11/04/2026",
+   6,
+   6,
+   7
   ],
   [
    "Wheres My Darts",
@@ -109,6 +101,14 @@
    5,
    3,
    10
+  ],
+  [
+   "Yagers",
+   "Tre Stronzi",
+   "11/04/2026",
+   6,
+   0,
+   13
   ]
  ],
  "improved": {
@@ -678,6 +678,12 @@
    "phone": "585-415-9993"
   },
   {
+   "name": "BYE INCOMPLETE",
+   "site": "Bye Incomplete",
+   "captain": "Terrance Odum",
+   "phone": "585-353-0062"
+  },
+  {
    "name": "Cant Hit Bull",
    "site": "Village Rock",
    "captain": "Aaron Garrett",
@@ -706,12 +712,6 @@
    "site": "Back To My Place",
    "captain": "Kimberly Deuel",
    "phone": "585-857-5992"
-  },
-  {
-   "name": "Yagers",
-   "site": "Yagers Pub",
-   "captain": "Terrance Odum",
-   "phone": "585-353-0062"
   }
  ],
  "schedule": [
@@ -733,7 +733,7 @@
      "Wheres My Darts"
     ],
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "Aiming Fluid Needed"
     ]
    ]
@@ -749,7 +749,7 @@
     ],
     [
      "Wheres My Darts",
-     "Yagers"
+     "BYE INCOMPLETE"
     ],
     [
      "No Bulls Hit",
@@ -768,7 +768,7 @@
    "matches": [
     [
      "Just The Tip",
-     "Yagers"
+     "BYE INCOMPLETE"
     ],
     [
      "Aiming Fluid Needed",
@@ -803,7 +803,7 @@
     ],
     [
      "Cant Hit Bull",
-     "Yagers"
+     "BYE INCOMPLETE"
     ]
    ]
   },
@@ -817,7 +817,7 @@
      "Cant Hit Bull"
     ],
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "BullsDeep"
     ],
     [
@@ -845,7 +845,7 @@
     ],
     [
      "Tre Stronzi",
-     "Yagers"
+     "BYE INCOMPLETE"
     ],
     [
      "Cant Hit Bull",
@@ -867,7 +867,7 @@
      "Tre Stronzi"
     ],
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "No Bulls Hit"
     ],
     [
@@ -886,7 +886,7 @@
      "Aiming Fluid Needed"
     ],
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "Wheres My Darts"
     ],
     [
@@ -918,7 +918,7 @@
     ],
     [
      "Aiming Fluid Needed",
-     "Yagers"
+     "BYE INCOMPLETE"
     ]
    ]
   },
@@ -940,7 +940,7 @@
      "BullsDeep"
     ],
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "Cant Hit Bull"
     ]
    ]
@@ -951,7 +951,7 @@
    "note": "",
    "matches": [
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "Just The Tip"
     ],
     [
@@ -979,7 +979,7 @@
     ],
     [
      "BullsDeep",
-     "Yagers"
+     "BYE INCOMPLETE"
     ],
     [
      "Tre Stronzi",
@@ -1005,7 +1005,7 @@
      "No Bulls Hit"
     ],
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "Tre Stronzi"
     ],
     [
@@ -1029,7 +1029,7 @@
     ],
     [
      "No Bulls Hit",
-     "Yagers"
+     "BYE INCOMPLETE"
     ],
     [
      "Wheres My Darts",
@@ -1055,7 +1055,7 @@
      "Wheres My Darts"
     ],
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "Aiming Fluid Needed"
     ]
    ]
@@ -1071,7 +1071,7 @@
     ],
     [
      "Wheres My Darts",
-     "Yagers"
+     "BYE INCOMPLETE"
     ],
     [
      "No Bulls Hit",
@@ -1093,7 +1093,7 @@
      "Cant Hit Bull"
     ],
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "BullsDeep"
     ],
     [
@@ -1125,7 +1125,7 @@
     ],
     [
      "Cant Hit Bull",
-     "Yagers"
+     "BYE INCOMPLETE"
     ]
    ]
   },
@@ -1136,7 +1136,7 @@
    "matches": [
     [
      "Just The Tip",
-     "Yagers"
+     "BYE INCOMPLETE"
     ],
     [
      "Aiming Fluid Needed",
@@ -1166,7 +1166,7 @@
      "Tre Stronzi"
     ],
     [
-     "Yagers",
+     "BYE INCOMPLETE",
      "No Bulls Hit"
     ],
     [
@@ -1190,7 +1190,7 @@
     ],
     [
      "Tre Stronzi",
-     "Yagers"
+     "BYE INCOMPLETE"
     ],
     [
      "BullsDeep",
@@ -1231,6 +1231,12 @@
    "address": "3024 E. Henrietta Rd, Rochester, NY 14467"
   },
   {
+   "name": "Bye Incomplete",
+   "machines": 2,
+   "phone": "",
+   "address": "This Team Is Not, Completing The Season, Rochester, NY 14610"
+  },
+  {
    "name": "Gameday",
    "machines": 5,
    "phone": "",
@@ -1265,13 +1271,7 @@
    "machines": 2,
    "phone": "585-586-1640",
    "address": "213 Main St, E. Rochester, NY 14445"
-  },
-  {
-   "name": "Yagers Pub",
-   "machines": 3,
-   "phone": "585-442-9165",
-   "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-05T09:21:55Z"
+ "updated": "2026-11-05T15:18:00Z"
 }

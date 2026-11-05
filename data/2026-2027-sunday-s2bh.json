@@ -15,11 +15,6 @@
    22
   ],
   [
-   "TWINS",
-   49,
-   29
-  ],
-  [
    "Docs Crew",
    32,
    20
@@ -38,6 +33,11 @@
    "Fing The Neighbors",
    29,
    23
+  ],
+  [
+   "TWINS",
+   36,
+   29
   ],
   [
    "Brothas",
@@ -65,6 +65,11 @@
    45
   ],
   [
+   "BYE INCOMPLETE",
+   11,
+   15
+  ],
+  [
    "Tires And Soda",
    28,
    50
@@ -75,25 +80,12 @@
    52
   ],
   [
-   "Tipsy Tossers",
-   11,
-   28
-  ],
-  [
    "The Dartbags",
    16,
    49
   ]
  ],
  "results": [
-  [
-   "TWINS",
-   "Tipsy Tossers",
-   "11/01/2026",
-   6,
-   13,
-   0
-  ],
   [
    "One Hole Off",
    "Team Titos",
@@ -183,6 +175,14 @@
    8
   ],
   [
+   "BYE INCOMPLETE",
+   "Talk Darty To Me",
+   "10/04/2026",
+   2,
+   4,
+   9
+  ],
+  [
    "The Dartbags",
    "Docs Crew",
    "11/01/2026",
@@ -207,12 +207,12 @@
    11
   ],
   [
-   "Tipsy Tossers",
    "TWINS",
-   "11/01/2026",
-   6,
-   0,
-   13
+   "Night Shot",
+   "10/25/2026",
+   5,
+   2,
+   11
   ]
  ],
  "improved": {
@@ -304,21 +304,6 @@
    1
   ],
   [
-   "Austin Wamser",
-   "Tipsy Tossers",
-   2.41,
-   12,
-   3,
-   1,
-   0,
-   0,
-   4,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "John Salamone",
    "Brothas",
    2.39,
@@ -332,6 +317,21 @@
    4,
    0,
    1
+  ],
+  [
+   "Austin Wamser",
+   "BYE INCOMPLETE",
+   2.38,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   1,
+   0,
+   0
   ],
   [
    "Andrew Williams",
@@ -441,14 +441,14 @@
   [
    "James Davis",
    "Ones Are Closed",
-   2.08,
-   36,
-   9,
-   4,
+   2.09,
+   30,
+   7,
+   3,
    0,
    0,
-   13,
-   4,
+   11,
+   3,
    0,
    0,
    0
@@ -499,6 +499,21 @@
    0
   ],
   [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   1.9,
+   24,
+   7,
+   7,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
    "Brian Kea",
    "TWINS",
    1.9,
@@ -523,21 +538,6 @@
    1,
    0,
    2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
-   "Dave Heschke",
-   "Fing The Neighbors",
-   1.9,
-   24,
-   7,
-   7,
-   0,
-   0,
-   1,
    0,
    1,
    0,
@@ -724,6 +724,21 @@
    0
   ],
   [
+   "Ken Azzarello",
+   "Ones Are Closed",
+   1.36,
+   24,
+   3,
+   6,
+   0,
+   0,
+   3,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
    "Kristin Southwick",
    "Tintins",
    1.34,
@@ -734,21 +749,6 @@
    0,
    2,
    3,
-   0,
-   0,
-   0
-  ],
-  [
-   "Ken Azzarello",
-   "Ones Are Closed",
-   1.3,
-   30,
-   4,
-   8,
-   0,
-   0,
-   3,
-   2,
    0,
    0,
    0
@@ -770,11 +770,11 @@
   ],
   [
    "Margaret Rife",
-   "Tipsy Tossers",
-   0.96,
-   12,
+   "BYE INCOMPLETE",
+   0.92,
+   6,
+   0,
    1,
-   3,
    0,
    0,
    0,
@@ -885,18 +885,6 @@
    31
   ],
   [
-   "Austin Wamser",
-   "Tipsy Tossers",
-   19.59,
-   14,
-   5,
-   1,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Sean Crowell",
    "The Dartbags",
    19.5,
@@ -919,6 +907,18 @@
    0,
    0,
    22
+  ],
+  [
+   "Austin Wamser",
+   "BYE INCOMPLETE",
+   19.45,
+   7,
+   3,
+   1,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Donovan Caraballo",
@@ -957,6 +957,18 @@
    13
   ],
   [
+   "James Davis",
+   "Ones Are Closed",
+   18.96,
+   35,
+   16,
+   1,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
    "Neal Kenyon",
    "One Hole Off",
    18.81,
@@ -979,18 +991,6 @@
    0,
    0,
    27
-  ],
-  [
-   "James Davis",
-   "Ones Are Closed",
-   18.45,
-   42,
-   19,
-   1,
-   0,
-   0,
-   0,
-   22
   ],
   [
    "TJ Vay",
@@ -1161,18 +1161,6 @@
    8
   ],
   [
-   "Margaret Rife",
-   "Tipsy Tossers",
-   15.16,
-   14,
-   1,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Kristin Southwick",
    "Tintins",
    15.12,
@@ -1197,6 +1185,18 @@
    6
   ],
   [
+   "Margaret Rife",
+   "BYE INCOMPLETE",
+   13.96,
+   7,
+   0,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
    "Aaron Davis",
    "Ones Are Closed",
    13.5,
@@ -1211,8 +1211,8 @@
   [
    "Ken Azzarello",
    "Ones Are Closed",
-   13.37,
-   35,
+   13.34,
+   28,
    4,
    0,
    0,
@@ -1239,6 +1239,12 @@
    "site": "Linwood",
    "captain": "John Salamone",
    "phone": "585-313-9503"
+  },
+  {
+   "name": "BYE INCOMPLETE",
+   "site": "Bye Incomplete",
+   "captain": "Austin Wamser",
+   "phone": "585-371-0867"
   },
   {
    "name": "Docs Crew",
@@ -1307,12 +1313,6 @@
    "phone": "585-315-7610"
   },
   {
-   "name": "Tipsy Tossers",
-   "site": "Bar Bill",
-   "captain": "Austin Wamser",
-   "phone": "585-371-0867"
-  },
-  {
    "name": "Tires And Soda",
    "site": "BRU",
    "captain": "Jeff Bush",
@@ -1363,7 +1363,7 @@
     ],
     [
      "Ones Are Closed",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "Talk Darty To Me",
@@ -1381,7 +1381,7 @@
      "Brothas"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "Talk Darty To Me"
     ],
     [
@@ -1445,7 +1445,7 @@
     ],
     [
      "We Dem Boyz",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ]
    ]
   },
@@ -1463,7 +1463,7 @@
      "Ones Are Closed"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "Glass N Stache"
     ],
     [
@@ -1515,7 +1515,7 @@
     ],
     [
      "Tintins",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "We Dem Boyz",
@@ -1545,7 +1545,7 @@
      "Tintins"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "TWINS"
     ],
     [
@@ -1589,7 +1589,7 @@
     ],
     [
      "Fing The Neighbors",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "TWINS",
@@ -1627,7 +1627,7 @@
      "Fing The Neighbors"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "The Dartbags"
     ],
     [
@@ -1663,7 +1663,7 @@
     ],
     [
      "One Hole Off",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "The Dartbags",
@@ -1709,7 +1709,7 @@
      "One Hole Off"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "Tires And Soda"
     ],
     [
@@ -1737,7 +1737,7 @@
     ],
     [
      "Double 1s",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "Tires And Soda",
@@ -1791,7 +1791,7 @@
      "Double 1s"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "Team Titos"
     ],
     [
@@ -1811,7 +1811,7 @@
     ],
     [
      "Docs Crew",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "Team Titos",
@@ -1873,7 +1873,7 @@
      "Docs Crew"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "Night Shot"
     ]
    ]
@@ -1885,7 +1885,7 @@
    "matches": [
     [
      "Brothas",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "Night Shot",
@@ -1951,7 +1951,7 @@
      "Talk Darty To Me"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "We Dem Boyz"
     ]
    ]
@@ -1986,7 +1986,7 @@
      "Glass N Stache"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "Ones Are Closed"
     ],
     [
@@ -2006,7 +2006,7 @@
     ],
     [
      "Talk Darty To Me",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "Ones Are Closed",
@@ -2049,7 +2049,7 @@
     ],
     [
      "Glass N Stache",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "Tintins",
@@ -2099,7 +2099,7 @@
      "TWINS"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "Tintins"
     ],
     [
@@ -2131,7 +2131,7 @@
     ],
     [
      "TWINS",
-     "Tipsy Tossers"
+     "BYE INCOMPLETE"
     ],
     [
      "Fing The Neighbors",
@@ -2173,7 +2173,7 @@
      "The Dartbags"
     ],
     [
-     "Tipsy Tossers",
+     "BYE INCOMPLETE",
      "Fing The Neighbors"
     ],
     [
@@ -2247,6 +2247,12 @@
    "address": "3208 Latta Rd, Rochester, NY 14612"
   },
   {
+   "name": "Bye Incomplete",
+   "machines": 2,
+   "phone": "",
+   "address": "This Team Is Not, Completing The Season, Rochester, NY 14610"
+  },
+  {
    "name": "Drs Inn",
    "machines": 3,
    "phone": "271-0820",
@@ -2313,5 +2319,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-05T13:34:51Z"
+ "updated": "2026-11-05T15:17:02Z"
 }
