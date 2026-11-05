@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Kelli Nash",
-   "One Hole Away",
-   1.86,
-   36,
-   4,
-   12,
-   0,
-   0,
-   11,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "Danae Diaz",
    "Better Together",
    1.86,
@@ -630,6 +615,21 @@
    6,
    2,
    3,
+   0,
+   0
+  ],
+  [
+   "Kelli Nash",
+   "One Hole Away",
+   1.86,
+   36,
+   4,
+   12,
+   0,
+   0,
+   11,
+   5,
+   0,
    0,
    0
   ],
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-05T18:02:43Z"
+ "updated": "2026-11-05T19:17:52Z"
 }
