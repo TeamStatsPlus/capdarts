@@ -1088,21 +1088,6 @@
    0
   ],
   [
-   "Tyrell Carver",
-   "IDF NightCaps",
-   1.49,
-   15,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jake Halluciminatin",
    "Halluciminatin",
    1.49,
@@ -1114,6 +1099,21 @@
    3,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Tyrell Carver",
+   "IDF NightCaps",
+   1.49,
+   15,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-05T19:17:39Z"
+ "updated": "2026-11-05T20:12:22Z"
 }
