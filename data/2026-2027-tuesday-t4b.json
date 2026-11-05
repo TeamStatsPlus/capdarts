@@ -530,6 +530,21 @@
    0
   ],
   [
+   "Chuck Marchbanks",
+   "Bad Boys",
+   1.7,
+   15,
+   3,
+   1,
+   1,
+   0,
+   5,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Chebo Goodlife",
    "Goodlife",
    1.7,
@@ -555,21 +570,6 @@
    0,
    1,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Chuck Marchbanks",
-   "Bad Boys",
-   1.7,
-   15,
-   3,
-   1,
-   1,
-   0,
-   5,
-   3,
    0,
    0,
    0
@@ -1948,5 +1948,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-05T22:03:40Z"
+ "updated": "2026-11-05T23:03:01Z"
 }
