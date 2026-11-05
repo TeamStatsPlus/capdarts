@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Steve Wemett",
-   "Good Smoke BBQ",
-   2.13,
-   6,
-   1,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Neal Kenyon",
    "The Happy Accidents",
    2.13,
@@ -529,6 +514,21 @@
    3,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Steve Wemett",
+   "Good Smoke BBQ",
+   2.13,
+   6,
+   1,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -713,21 +713,6 @@
    0
   ],
   [
-   "Bill Fitzgerald",
-   "Wired",
-   1.82,
-   18,
-   5,
-   4,
-   1,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Jake Maracle",
    "Slow Mother Chuckers",
    1.82,
@@ -738,6 +723,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bill Fitzgerald",
+   "Wired",
+   1.82,
+   18,
+   5,
+   4,
+   1,
+   0,
+   2,
+   2,
    0,
    0,
    0
@@ -1073,21 +1073,6 @@
    0
   ],
   [
-   "Tyrell Carver",
-   "IDF NightCaps",
-   1.49,
-   15,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jake Halluciminatin",
    "Halluciminatin",
    1.49,
@@ -1099,6 +1084,21 @@
    3,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Tyrell Carver",
+   "IDF NightCaps",
+   1.49,
+   15,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-05T07:40:44Z"
+ "updated": "2026-11-05T09:21:15Z"
 }

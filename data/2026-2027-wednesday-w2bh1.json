@@ -222,21 +222,6 @@
    0
   ],
   [
-   "Matthew Sutherland",
-   "Darts Deep",
-   2.32,
-   30,
-   13,
-   8,
-   0,
-   0,
-   8,
-   8,
-   2,
-   1,
-   1
-  ],
-  [
    "Jarrett Boutet",
    "Turd Ferguson",
    2.32,
@@ -250,6 +235,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Matthew Sutherland",
+   "Darts Deep",
+   2.32,
+   30,
+   13,
+   8,
+   0,
+   0,
+   8,
+   8,
+   2,
+   1,
+   1
   ],
   [
    "Melissa Wallace",
@@ -1806,5 +1806,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-05T07:41:14Z"
+ "updated": "2026-11-05T09:21:50Z"
 }

@@ -372,12 +372,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   18,
-   10,
-   4,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   18,
+   10,
+   4,
    1,
    0,
    3,
@@ -507,6 +507,21 @@
    0
   ],
   [
+   "Jake Preston",
+   "Show Your Tips",
+   1.96,
+   15,
+   4,
+   5,
+   0,
+   1,
+   4,
+   2,
+   0,
+   0,
+   1
+  ],
+  [
    "Kevin Adams",
    "Aiming Fluid",
    1.96,
@@ -535,21 +550,6 @@
    2,
    0,
    0
-  ],
-  [
-   "Jake Preston",
-   "Show Your Tips",
-   1.96,
-   15,
-   4,
-   5,
-   0,
-   1,
-   4,
-   2,
-   0,
-   0,
-   1
   ],
   [
    "Mike Bisig",
@@ -612,21 +612,6 @@
    0
   ],
   [
-   "Paul Cottingham",
-   "AM Lumber",
-   1.83,
-   9,
-   2,
-   2,
-   0,
-   0,
-   2,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "David Rogers",
    "Truckin Bulls",
    1.83,
@@ -638,6 +623,21 @@
    3,
    3,
    2,
+   0,
+   0
+  ],
+  [
+   "Paul Cottingham",
+   "AM Lumber",
+   1.83,
+   9,
+   2,
+   2,
+   0,
+   0,
+   2,
+   4,
+   0,
    0,
    0
   ],
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Justin Ricci",
-   "Show Your Tips",
-   1.69,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Leach",
    "Truckin Bulls",
    1.69,
@@ -818,6 +803,21 @@
    3,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Justin Ricci",
+   "Show Your Tips",
+   1.69,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -882,21 +882,6 @@
    0
   ],
   [
-   "Bill Bradburn",
-   "Truckin Bulls",
-   1.54,
-   15,
-   1,
-   2,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Sean New Wave",
    "New Wave",
    1.54,
@@ -908,6 +893,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Bill Bradburn",
+   "Truckin Bulls",
+   1.54,
+   15,
+   1,
+   2,
+   0,
+   0,
+   4,
+   0,
+   1,
    0,
    0
   ],
@@ -987,21 +987,6 @@
    0
   ],
   [
-   "Rob Earl",
-   "Peppers And Onions",
-   1.39,
-   18,
-   1,
-   2,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Joey Tortora",
    "Points And Pints",
    1.39,
@@ -1011,6 +996,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Earl",
+   "Peppers And Onions",
+   1.39,
+   18,
+   1,
+   2,
+   0,
+   0,
+   3,
    0,
    0,
    0,
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-05T07:41:09Z"
+ "updated": "2026-11-05T09:21:44Z"
 }
