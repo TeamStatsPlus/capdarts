@@ -921,18 +921,6 @@
    22
   ],
   [
-   "Donovan Caraballo",
-   "Talk Darty To Me",
-   19.26,
-   35,
-   6,
-   4,
-   0,
-   0,
-   1,
-   22
-  ],
-  [
    "Tony Maiola",
    "Docs Crew",
    19.26,
@@ -943,6 +931,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Donovan Caraballo",
+   "Talk Darty To Me",
+   19.26,
+   35,
+   6,
+   4,
+   0,
+   0,
+   1,
+   22
   ],
   [
    "Brian Kea",
@@ -2313,5 +2313,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-04T23:56:50Z"
+ "updated": "2026-11-05T01:29:52Z"
 }
