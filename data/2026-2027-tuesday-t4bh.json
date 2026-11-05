@@ -260,21 +260,6 @@
    0
   ],
   [
-   "Brian Sloan",
-   "The Critters",
-   1.87,
-   18,
-   4,
-   2,
-   2,
-   0,
-   6,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Andy Del Gandio",
    "The Critters",
    1.87,
@@ -285,6 +270,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.87,
+   18,
+   4,
+   2,
+   2,
+   0,
+   6,
+   3,
    0,
    0,
    0
@@ -545,21 +545,6 @@
    0
   ],
   [
-   "Edward Gschrey",
-   "Team Name",
-   1.44,
-   9,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jimmy Mietus",
    "Team Name",
    1.44,
@@ -571,6 +556,21 @@
    0,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   1.44,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -1276,18 +1276,6 @@
    1
   ],
   [
-   "Mike Montante",
-   "No Sleep",
-   13.45,
-   20,
-   4,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Rik Sawyer",
    "The Critters",
    13.45,
@@ -1298,6 +1286,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Mike Montante",
+   "No Sleep",
+   13.45,
+   20,
+   4,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Molly Stanziano",
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-05T15:17:47Z"
+ "updated": "2026-11-05T16:27:45Z"
 }

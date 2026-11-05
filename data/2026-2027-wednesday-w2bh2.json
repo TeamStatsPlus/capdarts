@@ -5,14 +5,14 @@
  },
  "standings": [
   [
+   "No Bulls Hit",
+   62,
+   29
+  ],
+  [
    "Tre Stronzi",
    51,
    27
-  ],
-  [
-   "No Bulls Hit",
-   49,
-   29
   ],
   [
    "Wheres My Darts",
@@ -20,35 +20,43 @@
    21
   ],
   [
+   "Just The Tip",
+   36,
+   29
+  ],
+  [
+   "Cant Hit Bull",
+   36,
+   29
+  ],
+  [
    "Aiming Fluid Needed",
    43,
    35
   ],
   [
-   "Just The Tip",
-   33,
-   32
-  ],
-  [
-   "Cant Hit Bull",
-   23,
-   29
-  ],
-  [
    "BullsDeep",
-   27,
+   40,
    38
   ],
   [
-   "Yagers",
-   3,
-   49
+   "BYE INCOMPLETE",
+   0,
+   91
   ]
  ],
  "results": [
   [
+   "No Bulls Hit",
+   "BYE INCOMPLETE",
+   "11/11/2026",
+   7,
+   13,
+   0
+  ],
+  [
    "Tre Stronzi",
-   "Yagers",
+   "BYE INCOMPLETE",
    "11/04/2026",
    6,
    13,
@@ -87,14 +95,6 @@
    7
   ],
   [
-   "No Bulls Hit",
-   "Aiming Fluid Needed",
-   "11/04/2026",
-   6,
-   6,
-   7
-  ],
-  [
    "Wheres My Darts",
    "No Bulls Hit",
    "10/28/2026",
@@ -103,10 +103,10 @@
    10
   ],
   [
-   "Yagers",
-   "Tre Stronzi",
-   "11/04/2026",
-   6,
+   "BYE INCOMPLETE",
+   "No Bulls Hit",
+   "11/11/2026",
+   7,
    0,
    13
   ]
@@ -240,7 +240,7 @@
   ],
   [
    "Terrance Odum",
-   "Yagers",
+   "BYE INCOMPLETE",
    2.07,
    6,
    1,
@@ -345,7 +345,7 @@
   ],
   [
    "Ruben Lowery",
-   "Yagers",
+   "BYE INCOMPLETE",
    1.79,
    6,
    1,
@@ -545,7 +545,7 @@
   ],
   [
    "Terrance Odum",
-   "Yagers",
+   "BYE INCOMPLETE",
    17.37,
    7,
    1,
@@ -653,7 +653,7 @@
   ],
   [
    "Ruben Lowery",
-   "Yagers",
+   "BYE INCOMPLETE",
    14.55,
    7,
    1,
@@ -1273,5 +1273,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-05T15:18:00Z"
+ "updated": "2026-11-05T16:27:59Z"
 }

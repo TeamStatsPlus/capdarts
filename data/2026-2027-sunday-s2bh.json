@@ -56,18 +56,13 @@
   ],
   [
    "Ones Are Closed",
-   36,
-   42
+   30,
+   35
   ],
   [
    "Talk Darty To Me",
-   33,
-   45
-  ],
-  [
-   "BYE INCOMPLETE",
-   11,
-   15
+   24,
+   41
   ],
   [
    "Tires And Soda",
@@ -95,16 +90,16 @@
    2
   ],
   [
-   "Double 1s",
-   "Tires And Soda",
+   "Docs Crew",
+   "The Dartbags",
    "11/01/2026",
    6,
    10,
    3
   ],
   [
-   "Docs Crew",
-   "The Dartbags",
+   "Double 1s",
+   "Tires And Soda",
    "11/01/2026",
    6,
    10,
@@ -175,14 +170,6 @@
    8
   ],
   [
-   "BYE INCOMPLETE",
-   "Talk Darty To Me",
-   "10/04/2026",
-   2,
-   4,
-   9
-  ],
-  [
    "The Dartbags",
    "Docs Crew",
    "11/01/2026",
@@ -226,8 +213,8 @@
    [
     "Adam Martinez",
     "Talk Darty To Me",
-    1.71,
-    1.79
+    1.69,
+    1.8
    ],
    [
     "Ethan Glashauser",
@@ -246,8 +233,8 @@
    [
     "Donovan Caraballo",
     "Talk Darty To Me",
-    18.6,
-    19.26
+    18.4,
+    19.28
    ],
    [
     "Dave Heschke",
@@ -317,21 +304,6 @@
    4,
    0,
    1
-  ],
-  [
-   "Austin Wamser",
-   "BYE INCOMPLETE",
-   2.38,
-   6,
-   1,
-   0,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
   ],
   [
    "Andrew Williams",
@@ -499,21 +471,6 @@
    0
   ],
   [
-   "Dave Heschke",
-   "Fing The Neighbors",
-   1.9,
-   24,
-   7,
-   7,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Kea",
    "TWINS",
    1.9,
@@ -544,6 +501,21 @@
    0
   ],
   [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   1.9,
+   24,
+   7,
+   7,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
    "Ethan Glashauser",
    "Glass N Stache",
    1.84,
@@ -561,14 +533,14 @@
   [
    "Donovan Caraballo",
    "Talk Darty To Me",
-   1.81,
-   30,
-   10,
-   5,
-   0,
-   0,
-   6,
+   1.82,
+   24,
+   7,
    3,
+   0,
+   0,
+   5,
+   1,
    2,
    0,
    0
@@ -576,10 +548,10 @@
   [
    "Adam Martinez",
    "Talk Darty To Me",
-   1.79,
-   30,
-   5,
-   10,
+   1.8,
+   24,
+   3,
+   7,
    2,
    0,
    2,
@@ -769,21 +741,6 @@
    0
   ],
   [
-   "Margaret Rife",
-   "BYE INCOMPLETE",
-   0.92,
-   6,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Aaron Davis",
    "Ones Are Closed",
    0.87,
@@ -897,6 +854,18 @@
    27
   ],
   [
+   "Adam Martinez",
+   "Talk Darty To Me",
+   19.48,
+   28,
+   9,
+   1,
+   0,
+   0,
+   0,
+   24
+  ],
+  [
    "David Caesar",
    "Night Shot",
    19.45,
@@ -909,28 +878,16 @@
    22
   ],
   [
-   "Austin Wamser",
-   "BYE INCOMPLETE",
-   19.45,
-   7,
-   3,
-   1,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Donovan Caraballo",
    "Talk Darty To Me",
-   19.26,
-   35,
-   6,
+   19.28,
+   28,
+   5,
    4,
    0,
    0,
    1,
-   22
+   17
   ],
   [
    "Tony Maiola",
@@ -979,18 +936,6 @@
    0,
    1,
    15
-  ],
-  [
-   "Adam Martinez",
-   "Talk Darty To Me",
-   18.77,
-   35,
-   12,
-   1,
-   0,
-   0,
-   0,
-   27
   ],
   [
    "TJ Vay",
@@ -1183,18 +1128,6 @@
    0,
    1,
    6
-  ],
-  [
-   "Margaret Rife",
-   "BYE INCOMPLETE",
-   13.96,
-   7,
-   0,
-   0,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "Aaron Davis",
@@ -2319,5 +2252,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-05T15:17:02Z"
+ "updated": "2026-11-05T16:26:54Z"
 }
