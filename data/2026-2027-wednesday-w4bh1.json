@@ -402,21 +402,6 @@
    0
   ],
   [
-   "Stephen Popowych",
-   "ProjectileDysfncion",
-   1.67,
-   12,
-   5,
-   2,
-   1,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Ryan Boardman",
    "Double Deuces",
    1.67,
@@ -427,6 +412,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Stephen Popowych",
+   "ProjectileDysfncion",
+   1.67,
+   12,
+   5,
+   2,
+   1,
+   0,
+   0,
+   3,
    0,
    0,
    0
@@ -642,21 +642,6 @@
    0
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   1.46,
-   9,
-   4,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    1.46,
@@ -667,6 +652,21 @@
    0,
    4,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   1.46,
+   9,
+   4,
+   3,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-05T04:17:12Z"
+ "updated": "2026-11-05T05:23:54Z"
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:17:48Z",
+ "updated": "2026-11-05T05:24:33Z",
  "standings": [
   [
    "No Clue",
@@ -308,6 +308,21 @@
    1
   ],
   [
+   "Kevin DeHollander",
+   "Draw Two",
+   2.69,
+   18,
+   10,
+   0,
+   0,
+   0,
+   14,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
    "Mark Sennett",
    "Dart Bags T",
    2.69,
@@ -338,21 +353,6 @@
    0
   ],
   [
-   "Kevin DeHollander",
-   "Draw Two",
-   2.69,
-   18,
-   10,
-   0,
-   0,
-   0,
-   14,
-   4,
-   3,
-   0,
-   0
-  ],
-  [
    "Kirk Santelli",
    "DoubleIn StumbleOut",
    2.6,
@@ -364,21 +364,6 @@
    14,
    4,
    3,
-   0,
-   1
-  ],
-  [
-   "Daniel Purpura",
-   "Retreat",
-   2.58,
-   24,
-   9,
-   2,
-   1,
-   0,
-   12,
-   10,
-   2,
    0,
    1
   ],
@@ -396,6 +381,21 @@
    4,
    0,
    0
+  ],
+  [
+   "Daniel Purpura",
+   "Retreat",
+   2.58,
+   24,
+   9,
+   2,
+   1,
+   0,
+   12,
+   10,
+   2,
+   0,
+   1
   ],
   [
    "Alexander Blake",
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Alyxandria Weaver",
-   "Retreat",
-   1.76,
-   18,
-   2,
-   4,
-   0,
-   0,
-   10,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Chris Dote",
    "TakingNamesTakingAim",
    1.76,
@@ -663,6 +648,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alyxandria Weaver",
+   "Retreat",
+   1.76,
+   18,
+   2,
+   4,
+   0,
+   0,
+   10,
+   2,
    0,
    0,
    0

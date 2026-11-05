@@ -232,21 +232,6 @@
    0
   ],
   [
-   "Kevin Welling",
-   "One For The Ditch",
-   2.34,
-   15,
-   4,
-   4,
-   0,
-   0,
-   6,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Radner",
    "Andycapped",
    2.34,
@@ -257,6 +242,21 @@
    0,
    3,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Welling",
+   "One For The Ditch",
+   2.34,
+   15,
+   4,
+   4,
+   0,
+   0,
+   6,
+   3,
    0,
    0,
    0
@@ -277,21 +277,6 @@
    1
   ],
   [
-   "Brian Faucher",
-   "Duckin Farts",
-   2.27,
-   15,
-   8,
-   2,
-   0,
-   0,
-   6,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
    "Joel Diaz",
    "Duckin Farts",
    2.27,
@@ -302,6 +287,21 @@
    0,
    0,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Faucher",
+   "Duckin Farts",
+   2.27,
+   15,
+   8,
+   2,
+   0,
+   0,
+   6,
+   4,
    1,
    0,
    0
@@ -1644,5 +1644,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-05T04:17:23Z"
+ "updated": "2026-11-05T05:24:06Z"
 }
