@@ -507,21 +507,6 @@
    0
   ],
   [
-   "Kevin Adams",
-   "Aiming Fluid",
-   1.96,
-   6,
-   2,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Barry Barklund",
    "Dartbags",
    1.96,
@@ -550,6 +535,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Kevin Adams",
+   "Aiming Fluid",
+   1.96,
+   6,
+   2,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Mike Bisig",
@@ -702,21 +702,6 @@
    0
   ],
   [
-   "Jim Oneill",
-   "Points And Pints",
-   1.75,
-   15,
-   2,
-   5,
-   0,
-   0,
-   2,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Joe Tortora",
    "Points And Pints",
    1.75,
@@ -742,6 +727,21 @@
    0,
    3,
    2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   1.75,
+   15,
+   2,
+   5,
+   0,
+   0,
+   2,
+   3,
    1,
    0,
    0
@@ -987,21 +987,6 @@
    0
   ],
   [
-   "Rob Earl",
-   "Peppers And Onions",
-   1.39,
-   18,
-   1,
-   2,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Joey Tortora",
    "Points And Pints",
    1.39,
@@ -1011,6 +996,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Earl",
+   "Peppers And Onions",
+   1.39,
+   18,
+   1,
+   2,
+   0,
+   0,
+   3,
    0,
    0,
    0,
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-05T23:03:11Z"
+ "updated": "2026-11-05T23:58:13Z"
 }
