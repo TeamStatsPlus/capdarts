@@ -187,21 +187,6 @@
    0
   ],
   [
-   "Jamie Johnson",
-   "Duckin Farts",
-   2.47,
-   15,
-   4,
-   6,
-   0,
-   0,
-   8,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Georgetti",
    "Flight Phucked",
    2.47,
@@ -213,6 +198,21 @@
    6,
    3,
    4,
+   0,
+   0
+  ],
+  [
+   "Jamie Johnson",
+   "Duckin Farts",
+   2.47,
+   15,
+   4,
+   6,
+   0,
+   0,
+   8,
+   2,
+   1,
    0,
    0
   ],
@@ -232,21 +232,6 @@
    0
   ],
   [
-   "Dave Radner",
-   "Andycapped",
-   2.34,
-   6,
-   0,
-   4,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Welling",
    "One For The Ditch",
    2.34,
@@ -257,6 +242,21 @@
    0,
    6,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Radner",
+   "Andycapped",
+   2.34,
+   6,
+   0,
+   4,
+   0,
+   0,
+   3,
+   1,
    0,
    0,
    0
@@ -1644,5 +1644,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-05T11:21:14Z"
+ "updated": "2026-11-05T13:36:10Z"
 }

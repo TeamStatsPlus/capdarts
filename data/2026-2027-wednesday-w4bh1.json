@@ -582,21 +582,6 @@
    0
   ],
   [
-   "Danielle Henry",
-   "The Limp Wristers",
-   1.49,
-   15,
-   3,
-   5,
-   0,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0
-  ],
-  [
    "Chuck Hathaway",
    "Closer To Zero",
    1.49,
@@ -610,6 +595,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Danielle Henry",
+   "The Limp Wristers",
+   1.49,
+   15,
+   3,
+   5,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0
   ],
   [
    "Collin Owczarzak",
@@ -897,21 +897,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -922,6 +907,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1182,11 +1182,11 @@
    0
   ],
   [
-   "Aaron Struggle Bus",
-   "Struggle Bus",
+   "Marin Valentino",
+   "The Limp Wristers",
    0.89,
-   6,
-   0,
+   3,
+   1,
    0,
    0,
    0,
@@ -1197,11 +1197,11 @@
    0
   ],
   [
-   "Marin Valentino",
-   "The Limp Wristers",
+   "Aaron Struggle Bus",
+   "Struggle Bus",
    0.89,
-   3,
-   1,
+   6,
+   0,
    0,
    0,
    0,
@@ -1226,18 +1226,6 @@
    22
   ],
   [
-   "Grant Busler",
-   "Cant Close",
-   19.86,
-   20,
-   6,
-   1,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
    "Corey Hartung",
    "The Limp Wristers",
    19.86,
@@ -1248,6 +1236,18 @@
    0,
    0,
    18
+  ],
+  [
+   "Grant Busler",
+   "Cant Close",
+   19.86,
+   20,
+   6,
+   1,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "Erik Double Deuces",
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-05T11:21:02Z"
+ "updated": "2026-11-05T13:36:01Z"
 }
