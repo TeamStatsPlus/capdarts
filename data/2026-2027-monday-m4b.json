@@ -713,21 +713,6 @@
    0
   ],
   [
-   "Jake Maracle",
-   "Slow Mother Chuckers",
-   1.82,
-   9,
-   5,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Fitzgerald",
    "Wired",
    1.82,
@@ -738,6 +723,21 @@
    0,
    2,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake Maracle",
+   "Slow Mother Chuckers",
+   1.82,
+   9,
+   5,
+   1,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -968,6 +968,21 @@
    0
   ],
   [
+   "Michelle Nguyen",
+   "Bad News Beers",
+   1.61,
+   18,
+   5,
+   7,
+   0,
+   0,
+   3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Brian Wills",
    "Tegridy",
    1.61,
@@ -994,21 +1009,6 @@
    1,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Michelle Nguyen",
-   "Bad News Beers",
-   1.61,
-   18,
-   5,
-   7,
-   0,
-   0,
-   3,
-   1,
-   1,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-05T01:30:19Z"
+ "updated": "2026-11-05T03:09:27Z"
 }

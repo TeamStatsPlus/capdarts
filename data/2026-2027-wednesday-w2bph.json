@@ -5,14 +5,14 @@
  },
  "standings": [
   [
-   "Brighton Bruins",
-   46,
-   29
+   "Cheers For Bad Darts",
+   58,
+   32
   ],
   [
-   "Cheers For Bad Darts",
-   46,
-   29
+   "Brighton Bruins",
+   53,
+   37
   ],
   [
    "Dem BOYZ",
@@ -20,9 +20,14 @@
    25
   ],
   [
+   "Carpet Cleaners",
+   41,
+   34
+  ],
+  [
    "Squishy Business",
-   30,
-   30
+   38,
+   37
   ],
   [
    "Where The Bacon",
@@ -30,22 +35,33 @@
    31
   ],
   [
-   "Carpet Cleaners",
-   28,
-   32
-  ],
-  [
    "We Dem Boyz",
-   26,
-   34
+   29,
+   46
   ],
   [
    "Tony And Julian",
-   15,
-   45
+   17,
+   58
   ]
  ],
  "results": [
+  [
+   "Carpet Cleaners",
+   "Tony And Julian",
+   "11/04/2026",
+   6,
+   13,
+   2
+  ],
+  [
+   "Cheers For Bad Darts",
+   "We Dem Boyz",
+   "11/04/2026",
+   6,
+   12,
+   3
+  ],
   [
    "Dem BOYZ",
    "Tony And Julian",
@@ -55,34 +71,18 @@
    3
   ],
   [
-   "Carpet Cleaners",
    "Squishy Business",
-   "10/28/2026",
-   5,
-   11,
-   4
-  ],
-  [
-   "Cheers For Bad Darts",
-   "Where The Bacon",
-   "10/28/2026",
-   5,
-   10,
-   5
-  ],
-  [
    "Brighton Bruins",
-   "We Dem Boyz",
-   "10/28/2026",
-   5,
+   "11/04/2026",
+   6,
    8,
    7
   ],
   [
-   "We Dem Boyz",
    "Brighton Bruins",
-   "10/28/2026",
-   5,
+   "Squishy Business",
+   "11/04/2026",
+   6,
    7,
    8
   ],
@@ -95,61 +95,61 @@
    10
   ],
   [
-   "Squishy Business",
-   "Carpet Cleaners",
-   "10/28/2026",
-   5,
-   4,
-   11
+   "We Dem Boyz",
+   "Cheers For Bad Darts",
+   "11/04/2026",
+   6,
+   3,
+   12
   ],
   [
    "Tony And Julian",
-   "Dem BOYZ",
-   "10/28/2026",
-   5,
-   3,
-   12
+   "Carpet Cleaners",
+   "11/04/2026",
+   6,
+   2,
+   13
   ]
  ],
  "improved": {
   "c": [
    [
-    "Robyn Ralston",
-    "We Dem Boyz",
-    1.85,
-    2.1
+    "Steven Haag",
+    "Carpet Cleaners",
+    2.11,
+    2.2
    ],
    [
-    "Mark Sennett",
-    "Brighton Bruins",
-    2.6,
-    2.75
+    "Shaun Stocking",
+    "Cheers For Bad Darts",
+    2.91,
+    2.95
    ],
    [
-    "Kelli Nash",
-    "Where The Bacon",
-    1.88,
-    1.97
+    "Anthony Mineo",
+    "Tony And Julian",
+    2.24,
+    2.28
    ]
   ],
   "x": [
    [
-    "James Mitchell",
-    "Dem BOYZ",
-    22.52,
-    22.76
+    "Erika Mardo",
+    "Squishy Business",
+    27.22,
+    27.56
    ],
    [
-    "Steven Haag",
-    "Carpet Cleaners",
-    20.76,
-    20.93
+    "Dave Coin",
+    "We Dem Boyz",
+    21.1,
+    21.44
    ],
    [
-    "Mark Sennett",
+    "Travis Perry",
     "Brighton Bruins",
-    23.99,
-    24.1
+    18.99,
+    19.23
    ]
   ]
  },
@@ -170,6 +170,21 @@
    1
   ],
   [
+   "Erika Mardo",
+   "Squishy Business",
+   3.2,
+   30,
+   19,
+   0,
+   3,
+   0,
+   30,
+   10,
+   7,
+   1,
+   3
+  ],
+  [
    "Dave Wallace",
    "We Dem Boyz",
    3.18,
@@ -185,32 +200,17 @@
    0
   ],
   [
-   "Erika Mardo",
-   "Squishy Business",
-   3.17,
-   24,
-   15,
-   0,
-   3,
-   0,
-   24,
-   7,
-   5,
-   1,
-   3
-  ],
-  [
    "Shaun Stocking",
    "Cheers For Bad Darts",
-   2.91,
-   30,
-   14,
-   5,
+   2.95,
+   36,
+   17,
    7,
+   8,
    0,
-   20,
+   25,
    11,
-   9,
+   12,
    0,
    2
   ],
@@ -262,17 +262,17 @@
   [
    "Tom Ralston",
    "Carpet Cleaners",
-   2.58,
-   24,
-   7,
-   3,
+   2.62,
+   30,
+   11,
+   4,
    2,
-   0,
-   13,
-   6,
+   1,
+   17,
+   8,
    6,
    1,
-   0
+   1
   ],
   [
    "Archie Donaldson",
@@ -292,29 +292,44 @@
   [
    "Dave Coin",
    "We Dem Boyz",
-   2.4,
-   24,
-   7,
+   2.41,
+   30,
+   8,
    3,
-   1,
+   2,
    0,
-   10,
+   12,
    5,
    2,
    0,
    0
   ],
   [
+   "Alexander Blake",
+   "Brighton Bruins",
+   2.4,
+   6,
+   2,
+   1,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Travis Perry",
    "Brighton Bruins",
-   2.39,
-   30,
-   15,
-   5,
+   2.38,
+   36,
+   17,
+   6,
    2,
    0,
-   16,
-   7,
+   19,
+   8,
    4,
    0,
    0
@@ -322,14 +337,14 @@
   [
    "Anthony Mineo",
    "Tony And Julian",
-   2.24,
-   24,
-   6,
+   2.28,
+   30,
+   7,
    0,
    1,
    0,
-   8,
-   4,
+   12,
+   5,
    0,
    0,
    0
@@ -352,29 +367,29 @@
   [
    "Steven Haag",
    "Carpet Cleaners",
-   2.11,
-   24,
+   2.2,
+   30,
+   10,
    7,
-   4,
    0,
    0,
-   6,
+   11,
    4,
-   3,
+   4,
    0,
    0
   ],
   [
    "Robyn Ralston",
    "We Dem Boyz",
-   2.1,
-   18,
+   2.04,
+   24,
    4,
-   5,
-   0,
-   0,
-   7,
+   6,
    1,
+   0,
+   9,
+   2,
    3,
    0,
    1
@@ -382,14 +397,14 @@
   [
    "Jason Miles",
    "Cheers For Bad Darts",
-   2.02,
-   24,
+   2.01,
+   30,
+   12,
    8,
-   7,
    0,
    0,
-   8,
-   2,
+   11,
+   3,
    0,
    0,
    1
@@ -412,13 +427,13 @@
   [
    "Julie DiGrazia",
    "Squishy Business",
-   1.45,
-   24,
+   1.47,
+   30,
    1,
-   9,
+   11,
    0,
    0,
-   5,
+   6,
    1,
    0,
    0,
@@ -427,13 +442,13 @@
   [
    "Julian Diaz",
    "Tony And Julian",
-   1.44,
-   24,
+   1.43,
+   30,
    0,
    2,
    0,
    0,
-   5,
+   7,
    0,
    1,
    0,
@@ -456,26 +471,26 @@
   [
    "Erika Mardo",
    "Squishy Business",
-   27.22,
-   28,
-   14,
+   27.56,
+   35,
    18,
+   23,
    0,
    0,
-   2,
-   69
+   4,
+   85
   ],
   [
    "Shaun Stocking",
    "Cheers For Bad Darts",
-   26.54,
-   35,
-   17,
+   26.73,
+   42,
+   20,
+   11,
+   0,
+   0,
    8,
-   0,
-   0,
-   7,
-   93
+   108
   ],
   [
    "Dave Wallace",
@@ -488,6 +503,18 @@
    1,
    2,
    11
+  ],
+  [
+   "Alexander Blake",
+   "Brighton Bruins",
+   24.45,
+   7,
+   2,
+   1,
+   0,
+   0,
+   1,
+   17
   ],
   [
    "Mark Sennett",
@@ -516,14 +543,14 @@
   [
    "Tom Ralston",
    "Carpet Cleaners",
-   22.99,
-   28,
-   8,
-   9,
+   22.82,
+   35,
+   12,
+   11,
    0,
    0,
    0,
-   39
+   57
   ],
   [
    "James Mitchell",
@@ -552,74 +579,50 @@
   [
    "Dave Coin",
    "We Dem Boyz",
-   21.1,
-   28,
-   6,
-   9,
+   21.44,
+   35,
+   8,
+   10,
    0,
    0,
    0,
-   33
+   48
   ],
   [
    "Steven Haag",
    "Carpet Cleaners",
-   20.93,
-   28,
+   20.24,
+   35,
+   8,
    6,
-   4,
    0,
    0,
    0,
-   32
+   39
   ],
   [
    "Travis Perry",
    "Brighton Bruins",
-   18.99,
-   35,
-   10,
-   3,
+   19.23,
+   42,
+   11,
+   4,
    0,
    0,
    0,
-   34
+   46
   ],
   [
    "Jason Miles",
    "Cheers For Bad Darts",
-   17.7,
-   28,
-   4,
+   17.78,
+   35,
+   6,
    3,
    0,
    0,
    0,
-   20
-  ],
-  [
-   "Robyn Ralston",
-   "We Dem Boyz",
-   17.65,
-   21,
-   3,
-   1,
-   0,
-   0,
-   0,
-   12
-  ],
-  [
-   "Anthony Mineo",
-   "Tony And Julian",
-   17.48,
-   28,
-   8,
-   3,
-   0,
-   0,
-   0,
-   25
+   26
   ],
   [
    "William Lupiani",
@@ -632,6 +635,30 @@
    0,
    1,
    3
+  ],
+  [
+   "Anthony Mineo",
+   "Tony And Julian",
+   17.11,
+   35,
+   9,
+   3,
+   0,
+   0,
+   0,
+   30
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   16.99,
+   28,
+   3,
+   1,
+   0,
+   0,
+   0,
+   17
   ],
   [
    "Kelli Nash",
@@ -648,26 +675,26 @@
   [
    "Julie DiGrazia",
    "Squishy Business",
-   13.62,
-   28,
+   13.51,
+   35,
    0,
    0,
    0,
    0,
    0,
-   9
+   12
   ],
   [
    "Julian Diaz",
    "Tony And Julian",
-   12.82,
-   28,
+   12.54,
+   35,
    1,
    0,
    0,
    0,
    0,
-   3
+   6
   ]
  ],
  "teams": [
@@ -1261,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-04T23:57:53Z"
+ "updated": "2026-11-05T03:10:05Z"
 }
