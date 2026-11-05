@@ -499,6 +499,21 @@
    0
   ],
   [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   1.9,
+   24,
+   7,
+   7,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
    "Brian Kea",
    "TWINS",
    1.9,
@@ -523,21 +538,6 @@
    1,
    0,
    2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
-   "Dave Heschke",
-   "Fing The Neighbors",
-   1.9,
-   24,
-   7,
-   7,
-   0,
-   0,
-   1,
    0,
    1,
    0,
@@ -2313,5 +2313,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-05T03:09:06Z"
+ "updated": "2026-11-05T04:15:56Z"
 }

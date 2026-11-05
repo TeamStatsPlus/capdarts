@@ -372,12 +372,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   18,
-   10,
-   4,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   18,
+   10,
+   4,
    1,
    0,
    3,
@@ -507,6 +507,21 @@
    0
   ],
   [
+   "Barry Barklund",
+   "Dartbags",
+   1.96,
+   18,
+   1,
+   9,
+   0,
+   0,
+   3,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
    "Jake Preston",
    "Show Your Tips",
    1.96,
@@ -533,21 +548,6 @@
    0,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Barry Barklund",
-   "Dartbags",
-   1.96,
-   18,
-   1,
-   9,
-   0,
-   0,
-   3,
-   1,
-   2,
    0,
    0
   ],
@@ -702,6 +702,21 @@
    0
   ],
   [
+   "Dan Spencer",
+   "Peppers And Onions",
+   1.75,
+   12,
+   2,
+   1,
+   0,
+   0,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
    "Jim Oneill",
    "Points And Pints",
    1.75,
@@ -727,21 +742,6 @@
    0,
    0,
    1,
-   1,
-   0,
-   0
-  ],
-  [
-   "Dan Spencer",
-   "Peppers And Onions",
-   1.75,
-   12,
-   2,
-   1,
-   0,
-   0,
-   3,
-   2,
    1,
    0,
    0
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-05T03:09:52Z"
+ "updated": "2026-11-05T04:16:50Z"
 }

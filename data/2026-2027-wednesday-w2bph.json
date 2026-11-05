@@ -10,14 +10,14 @@
    32
   ],
   [
+   "Dem BOYZ",
+   45,
+   30
+  ],
+  [
    "Brighton Bruins",
    53,
    37
-  ],
-  [
-   "Dem BOYZ",
-   35,
-   25
   ],
   [
    "Carpet Cleaners",
@@ -31,8 +31,8 @@
   ],
   [
    "Where The Bacon",
-   29,
-   31
+   34,
+   41
   ],
   [
    "We Dem Boyz",
@@ -64,11 +64,11 @@
   ],
   [
    "Dem BOYZ",
-   "Tony And Julian",
-   "10/28/2026",
-   5,
-   12,
-   3
+   "Where The Bacon",
+   "11/04/2026",
+   6,
+   10,
+   5
   ],
   [
    "Squishy Business",
@@ -88,9 +88,9 @@
   ],
   [
    "Where The Bacon",
-   "Cheers For Bad Darts",
-   "10/28/2026",
-   5,
+   "Dem BOYZ",
+   "11/04/2026",
+   6,
    5,
    10
   ],
@@ -134,16 +134,16 @@
   ],
   "x": [
    [
-    "Erika Mardo",
-    "Squishy Business",
-    27.22,
-    27.56
-   ],
-   [
     "Dave Coin",
     "We Dem Boyz",
     21.1,
     21.44
+   ],
+   [
+    "Erika Mardo",
+    "Squishy Business",
+    27.22,
+    27.56
    ],
    [
     "Travis Perry",
@@ -230,34 +230,34 @@
    1
   ],
   [
-   "Brian Galletto",
-   "Where The Bacon",
-   2.74,
-   18,
-   9,
-   2,
-   0,
-   0,
-   10,
-   6,
-   4,
-   0,
-   1
-  ],
-  [
    "James Mitchell",
    "Dem BOYZ",
-   2.72,
-   24,
-   8,
-   5,
+   2.7,
+   30,
+   11,
+   6,
    6,
    0,
-   10,
-   8,
+   15,
+   11,
    1,
    0,
    3
+  ],
+  [
+   "Brian Galletto",
+   "Where The Bacon",
+   2.7,
+   24,
+   9,
+   4,
+   1,
+   0,
+   16,
+   7,
+   4,
+   1,
+   1
   ],
   [
    "Tom Ralston",
@@ -277,15 +277,15 @@
   [
    "Archie Donaldson",
    "Dem BOYZ",
-   2.58,
-   24,
-   11,
-   2,
+   2.59,
+   30,
+   14,
+   3,
    0,
    0,
+   16,
    9,
    6,
-   5,
    0,
    0
   ],
@@ -412,13 +412,13 @@
   [
    "Kelli Nash",
    "Where The Bacon",
-   1.97,
-   24,
-   5,
+   1.94,
+   30,
+   7,
    5,
    0,
    0,
-   6,
+   8,
    5,
    1,
    0,
@@ -531,14 +531,26 @@
   [
    "Brian Galletto",
    "Where The Bacon",
-   23.37,
-   21,
+   23.25,
+   28,
    6,
    12,
    0,
    0,
    1,
-   33
+   47
+  ],
+  [
+   "James Mitchell",
+   "Dem BOYZ",
+   22.88,
+   35,
+   12,
+   5,
+   0,
+   0,
+   3,
+   70
   ],
   [
    "Tom Ralston",
@@ -553,30 +565,6 @@
    57
   ],
   [
-   "James Mitchell",
-   "Dem BOYZ",
-   22.76,
-   28,
-   10,
-   4,
-   0,
-   0,
-   3,
-   55
-  ],
-  [
-   "Archie Donaldson",
-   "Dem BOYZ",
-   21.52,
-   28,
-   6,
-   3,
-   0,
-   0,
-   1,
-   43
-  ],
-  [
    "Dave Coin",
    "We Dem Boyz",
    21.44,
@@ -587,6 +575,18 @@
    0,
    0,
    48
+  ],
+  [
+   "Archie Donaldson",
+   "Dem BOYZ",
+   21.34,
+   35,
+   8,
+   3,
+   0,
+   0,
+   1,
+   53
   ],
   [
    "Steven Haag",
@@ -663,14 +663,14 @@
   [
    "Kelli Nash",
    "Where The Bacon",
-   16.97,
-   28,
+   16.84,
+   35,
+   8,
    5,
-   4,
    0,
    0,
    0,
-   27
+   31
   ],
   [
    "Julie DiGrazia",
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-05T03:10:05Z"
+ "updated": "2026-11-05T04:17:03Z"
 }
