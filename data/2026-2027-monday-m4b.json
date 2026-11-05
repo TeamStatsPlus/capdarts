@@ -353,21 +353,6 @@
    0
   ],
   [
-   "Joe Rowland",
-   "ChJokers",
-   2.33,
-   18,
-   7,
-   8,
-   1,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Philip Rowland",
    "ChJokers",
    2.33,
@@ -379,6 +364,21 @@
    4,
    5,
    2,
+   0,
+   0
+  ],
+  [
+   "Joe Rowland",
+   "ChJokers",
+   2.33,
+   18,
+   7,
+   8,
+   1,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -413,21 +413,6 @@
    0
   ],
   [
-   "Chad Pike",
-   "Here 4 The Beer",
-   2.25,
-   15,
-   7,
-   3,
-   0,
-   0,
-   5,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Ben Kulikowski",
    "Good Smoke BBQ",
    2.25,
@@ -439,6 +424,21 @@
    7,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Chad Pike",
+   "Here 4 The Beer",
+   2.25,
+   15,
+   7,
+   3,
+   0,
+   0,
+   5,
+   3,
+   1,
    0,
    0
   ],
@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Neal Kenyon",
-   "The Happy Accidents",
-   2.13,
-   15,
-   4,
-   2,
-   1,
-   0,
-   3,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Steve Wemett",
    "Good Smoke BBQ",
    2.13,
@@ -529,6 +514,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Neal Kenyon",
+   "The Happy Accidents",
+   2.13,
+   15,
+   4,
+   2,
+   1,
+   0,
+   3,
+   0,
+   2,
    0,
    0
   ],
@@ -653,21 +653,6 @@
    1
   ],
   [
-   "David Caesar",
-   "IDF NightCaps",
-   1.88,
-   15,
-   4,
-   3,
-   0,
-   0,
-   2,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Dean Nicosia",
    "Money Shot",
    1.88,
@@ -679,6 +664,21 @@
    1,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "David Caesar",
+   "IDF NightCaps",
+   1.88,
+   15,
+   4,
+   3,
+   0,
+   0,
+   2,
+   1,
+   2,
    0,
    0
   ],
@@ -713,21 +713,6 @@
    0
   ],
   [
-   "Jake Maracle",
-   "Slow Mother Chuckers",
-   1.82,
-   9,
-   5,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Fitzgerald",
    "Wired",
    1.82,
@@ -738,6 +723,21 @@
    0,
    2,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jake Maracle",
+   "Slow Mother Chuckers",
+   1.82,
+   9,
+   5,
+   1,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -908,21 +908,6 @@
    0
   ],
   [
-   "Steve Strowbridge",
-   "Off Target",
-   1.64,
-   15,
-   6,
-   2,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Alex Todisco",
    "Slow Mother Chuckers",
    1.64,
@@ -933,6 +918,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Strowbridge",
+   "Off Target",
+   1.64,
+   15,
+   6,
+   2,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -968,6 +968,21 @@
    0
   ],
   [
+   "Michelle Nguyen",
+   "Bad News Beers",
+   1.61,
+   18,
+   5,
+   7,
+   0,
+   0,
+   3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Brian Wills",
    "Tegridy",
    1.61,
@@ -998,36 +1013,6 @@
    0
   ],
   [
-   "Michelle Nguyen",
-   "Bad News Beers",
-   1.61,
-   18,
-   5,
-   7,
-   0,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
-   "Mike Wemett",
-   "Good Smoke BBQ",
-   1.58,
-   15,
-   2,
-   6,
-   0,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Rowland",
    "Off Target",
    1.58,
@@ -1052,6 +1037,21 @@
    0,
    0,
    0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Wemett",
+   "Good Smoke BBQ",
+   1.58,
+   15,
+   2,
+   6,
+   0,
+   0,
+   2,
    2,
    0,
    0,
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-05T16:27:21Z"
+ "updated": "2026-11-05T18:02:31Z"
 }

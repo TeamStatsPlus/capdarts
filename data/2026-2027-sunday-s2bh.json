@@ -1223,7 +1223,7 @@
   },
   {
    "name": "Talk Darty To Me",
-   "site": "MCs Dugout",
+   "site": "Gameday",
    "captain": "Adam Martinez",
    "phone": "585-957-2875"
   },
@@ -1253,7 +1253,7 @@
   },
   {
    "name": "TWINS",
-   "site": "MCs Dugout",
+   "site": "Bar Bill",
    "captain": "Brian Kea",
    "phone": "585-469-3942"
   },
@@ -2192,6 +2192,12 @@
    "address": "1743 East Ave, Rochester, NY 14610"
   },
   {
+   "name": "Gameday",
+   "machines": 5,
+   "phone": "",
+   "address": "730 Elmgrove Rd, Rochester, NY 14624"
+  },
+  {
    "name": "Linwood",
    "machines": 1,
    "phone": "585-458-0047",
@@ -2252,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-05T16:26:54Z"
+ "updated": "2026-11-05T18:02:08Z"
 }
