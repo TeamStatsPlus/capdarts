@@ -507,6 +507,21 @@
    0
   ],
   [
+   "Jake Preston",
+   "Show Your Tips",
+   1.96,
+   15,
+   4,
+   5,
+   0,
+   1,
+   4,
+   2,
+   0,
+   0,
+   1
+  ],
+  [
    "Kevin Adams",
    "Aiming Fluid",
    1.96,
@@ -535,21 +550,6 @@
    2,
    0,
    0
-  ],
-  [
-   "Jake Preston",
-   "Show Your Tips",
-   1.96,
-   15,
-   4,
-   5,
-   0,
-   1,
-   4,
-   2,
-   0,
-   0,
-   1
   ],
   [
    "Mike Bisig",
@@ -987,21 +987,6 @@
    0
   ],
   [
-   "Rob Earl",
-   "Peppers And Onions",
-   1.39,
-   18,
-   1,
-   2,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Joey Tortora",
    "Points And Pints",
    1.39,
@@ -1011,6 +996,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Earl",
+   "Peppers And Onions",
+   1.39,
+   18,
+   1,
+   2,
+   0,
+   0,
+   3,
    0,
    0,
    0,
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-06T01:32:12Z"
+ "updated": "2026-11-06T04:16:03Z"
 }
