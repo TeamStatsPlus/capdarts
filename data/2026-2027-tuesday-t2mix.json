@@ -364,21 +364,6 @@
    0
   ],
   [
-   "Dan Freese",
-   "Right There",
-   3.01,
-   36,
-   15,
-   6,
-   4,
-   1,
-   20,
-   13,
-   9,
-   0,
-   2
-  ],
-  [
    "Rich Allen",
    "Wags To Richs",
    3.01,
@@ -392,6 +377,21 @@
    4,
    0,
    1
+  ],
+  [
+   "Dan Freese",
+   "Right There",
+   3.01,
+   36,
+   15,
+   6,
+   4,
+   1,
+   20,
+   13,
+   9,
+   0,
+   2
   ],
   [
    "Justin Burdett",
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-05T23:58:01Z"
+ "updated": "2026-11-06T01:31:58Z"
 }
