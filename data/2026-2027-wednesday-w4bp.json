@@ -100,10 +100,10 @@
     1.91
    ],
    [
-    "James Samuelson",
+    "Joseph Shiner",
     "Satchel Of Richards",
-    3.01,
-    3.08
+    2.62,
+    2.69
    ]
   ],
   "x": [
@@ -279,21 +279,6 @@
    2
   ],
   [
-   "Joseph Shiner",
-   "Satchel Of Richards",
-   2.69,
-   15,
-   9,
-   1,
-   4,
-   0,
-   7,
-   4,
-   4,
-   0,
-   0
-  ],
-  [
    "Nick Wahal",
    "Ryans Renegades",
    2.69,
@@ -307,6 +292,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Joseph Shiner",
+   "Satchel Of Richards",
+   2.69,
+   15,
+   9,
+   1,
+   4,
+   0,
+   7,
+   4,
+   4,
+   0,
+   0
   ],
   [
    "Dashay Earlsey",
@@ -890,7 +890,7 @@
  "teams": [
   {
    "name": "Bigg Darts",
-   "site": "The Willow",
+   "site": "Braddock Bay",
    "captain": "Chris Hattala",
    "phone": "585-764-1500"
   },
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-06T16:07:52Z"
+ "updated": "2026-11-06T17:13:48Z"
 }

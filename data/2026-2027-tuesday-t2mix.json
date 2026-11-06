@@ -230,10 +230,10 @@
     3.42
    ],
    [
-    "Danae Diaz",
-    "Better Together",
-    1.8,
-    1.86
+    "Julie DiGrazia",
+    "And Then There Was 2",
+    1.41,
+    1.47
    ]
   ],
   "x": [
@@ -574,21 +574,6 @@
    0
   ],
   [
-   "Brian Zicari",
-   "Pointless",
-   1.87,
-   36,
-   13,
-   2,
-   3,
-   0,
-   5,
-   4,
-   3,
-   1,
-   0
-  ],
-  [
    "Robyn Ralston",
    "Sprinkles On Top",
    1.87,
@@ -601,6 +586,21 @@
    4,
    1,
    0,
+   0
+  ],
+  [
+   "Brian Zicari",
+   "Pointless",
+   1.87,
+   36,
+   13,
+   2,
+   3,
+   0,
+   5,
+   4,
+   3,
+   1,
    0
   ],
   [
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-06T16:06:57Z"
+ "updated": "2026-11-06T17:12:49Z"
 }

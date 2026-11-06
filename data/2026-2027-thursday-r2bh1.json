@@ -183,21 +183,6 @@
    1
   ],
   [
-   "Rowdy Woodworth",
-   "The Nobodys",
-   2.25,
-   30,
-   11,
-   7,
-   0,
-   0,
-   10,
-   0,
-   3,
-   0,
-   0
-  ],
-  [
    "Connor Fletcher",
    "2 Guys 1 Bull",
    2.25,
@@ -209,6 +194,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Rowdy Woodworth",
+   "The Nobodys",
+   2.25,
+   30,
+   11,
+   7,
+   0,
+   0,
+   10,
+   0,
+   3,
    0,
    0
   ],
@@ -273,21 +273,6 @@
    0
   ],
   [
-   "Andrew Casciani",
-   "Not These Guys Again",
-   1.89,
-   30,
-   5,
-   9,
-   0,
-   0,
-   8,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Colin Mousseau",
    "The Nobodys",
    1.89,
@@ -299,6 +284,21 @@
    10,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   1.89,
+   30,
+   5,
+   9,
+   0,
+   0,
+   8,
+   1,
+   2,
    0,
    0
   ],
@@ -333,21 +333,6 @@
    0
   ],
   [
-   "Matt Cortese",
-   "2 Guys 1 Bull",
-   1.8,
-   18,
-   5,
-   7,
-   0,
-   0,
-   3,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Jon Green",
    "Split Decision",
    1.8,
@@ -359,6 +344,21 @@
    6,
    3,
    2,
+   0,
+   0
+  ],
+  [
+   "Matt Cortese",
+   "2 Guys 1 Bull",
+   1.8,
+   18,
+   5,
+   7,
+   0,
+   0,
+   3,
+   2,
+   0,
    0,
    0
   ],
@@ -581,18 +581,6 @@
    21
   ],
   [
-   "Dan Carroll",
-   "Not These Guys Again",
-   18.02,
-   28,
-   8,
-   1,
-   0,
-   0,
-   0,
-   14
-  ],
-  [
    "Joe Scalise",
    "2 Guys 1 Bull",
    18.02,
@@ -603,6 +591,18 @@
    0,
    0,
    12
+  ],
+  [
+   "Dan Carroll",
+   "Not These Guys Again",
+   18.02,
+   28,
+   8,
+   1,
+   0,
+   0,
+   0,
+   14
   ],
   [
    "Rowdy Woodworth",
@@ -1446,5 +1446,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-06T16:07:59Z"
+ "updated": "2026-11-06T17:13:57Z"
 }
