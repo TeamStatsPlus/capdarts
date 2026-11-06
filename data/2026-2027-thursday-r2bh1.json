@@ -196,21 +196,6 @@
    1
   ],
   [
-   "Rowdy Woodworth",
-   "The Nobodys",
-   2.25,
-   30,
-   11,
-   7,
-   0,
-   0,
-   10,
-   0,
-   3,
-   0,
-   0
-  ],
-  [
    "Connor Fletcher",
    "2 Guys 1 Bull",
    2.25,
@@ -222,6 +207,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Rowdy Woodworth",
+   "The Nobodys",
+   2.25,
+   30,
+   11,
+   7,
+   0,
+   0,
+   10,
+   0,
+   3,
    0,
    0
   ],
@@ -1527,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-06T09:17:00Z"
+ "updated": "2026-11-06T12:07:21Z"
 }
