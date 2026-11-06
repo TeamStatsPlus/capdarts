@@ -419,21 +419,6 @@
    3
   ],
   [
-   "Aaron Garrett",
-   "Respectdabull",
-   2.95,
-   32,
-   8,
-   3,
-   2,
-   0,
-   15,
-   16,
-   10,
-   1,
-   0
-  ],
-  [
    "Mike Frank",
    "The Regulators",
    2.95,
@@ -446,6 +431,21 @@
    0,
    3,
    0,
+   0
+  ],
+  [
+   "Aaron Garrett",
+   "Respectdabull",
+   2.95,
+   32,
+   8,
+   3,
+   2,
+   0,
+   15,
+   16,
+   10,
+   1,
    0
   ],
   [
@@ -1597,5 +1597,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-06T12:05:52Z"
+ "updated": "2026-11-06T15:05:10Z"
 }
