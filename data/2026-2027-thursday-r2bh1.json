@@ -5,57 +5,84 @@
  },
  "standings": [
   [
-   "Italian Stallions",
-   25,
-   14
-  ],
-  [
    "2 Guys 1 Bull",
-   32,
+   45,
    20
   ],
   [
    "The Nobodys",
-   35,
-   30
+   44,
+   21
   ],
   [
    "Top Shottas",
-   35,
+   48,
    30
   ],
   [
    "B And D",
-   34,
+   47,
    31
   ],
   [
    "Split Decision",
-   33,
-   32
+   39,
+   26
   ],
   [
    "Not These Guys Again",
-   33,
+   46,
    32
   ],
   [
    "Tipped Out",
-   35,
+   48,
    43
   ],
   [
    "Dave N Buster",
-   21,
+   34,
    44
   ],
   [
-   "BYE INCOMPLETE",
-   3,
-   10
+   "BYE INCOMPLETE 2",
+   0,
+   104
   ]
  ],
  "results": [
+  [
+   "Dave N Buster",
+   "BYE INCOMPLETE 2",
+   "12/03/2026",
+   9,
+   13,
+   0
+  ],
+  [
+   "Tipped Out",
+   "BYE INCOMPLETE 2",
+   "11/12/2026",
+   7,
+   13,
+   0
+  ],
+  [
+   "Top Shottas",
+   "BYE INCOMPLETE 2",
+   "11/05/2026",
+   6,
+   13,
+   0
+  ],
+  [
+   "Not These Guys Again",
+   "BYE INCOMPLETE 2",
+   "11/19/2026",
+   8,
+   13,
+   0
+  ],
   [
    "2 Guys 1 Bull",
    "Dave N Buster",
@@ -73,36 +100,12 @@
    3
   ],
   [
-   "Not These Guys Again",
-   "Tipped Out",
-   "11/05/2026",
-   6,
-   9,
-   4
-  ],
-  [
    "Split Decision",
    "The Nobodys",
    "11/05/2026",
    6,
    8,
    5
-  ],
-  [
-   "Top Shottas",
-   "Tipped Out",
-   "10/29/2026",
-   5,
-   8,
-   5
-  ],
-  [
-   "Italian Stallions",
-   "Split Decision",
-   "10/15/2026",
-   3,
-   6,
-   7
   ],
   [
    "The Nobodys",
@@ -113,28 +116,12 @@
    8
   ],
   [
-   "Tipped Out",
-   "Not These Guys Again",
-   "11/05/2026",
-   6,
-   4,
-   9
-  ],
-  [
-   "BYE INCOMPLETE",
-   "Italian Stallions",
-   "10/01/2026",
-   1,
-   3,
-   10
-  ],
-  [
+   "BYE INCOMPLETE 2",
    "Dave N Buster",
-   "B And D",
-   "11/05/2026",
-   6,
-   3,
-   10
+   "12/03/2026",
+   9,
+   0,
+   13
   ]
  ],
  "improved": {
@@ -286,21 +273,6 @@
    0
   ],
   [
-   "Colin Mousseau",
-   "The Nobodys",
-   1.89,
-   30,
-   7,
-   11,
-   0,
-   0,
-   10,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Andrew Casciani",
    "Not These Guys Again",
    1.89,
@@ -312,6 +284,21 @@
    8,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Colin Mousseau",
+   "The Nobodys",
+   1.89,
+   30,
+   7,
+   11,
+   0,
+   0,
+   10,
+   2,
+   1,
    0,
    0
   ],
@@ -346,21 +333,6 @@
    0
   ],
   [
-   "Jon Green",
-   "Split Decision",
-   1.8,
-   30,
-   6,
-   8,
-   0,
-   0,
-   6,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Matt Cortese",
    "2 Guys 1 Bull",
    1.8,
@@ -372,6 +344,21 @@
    3,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Jon Green",
+   "Split Decision",
+   1.8,
+   30,
+   6,
+   8,
+   0,
+   0,
+   6,
+   3,
+   2,
    0,
    0
   ],
@@ -400,6 +387,21 @@
    1,
    0,
    3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Michael Palumbo",
+   "BYE INCOMPLETE 2",
+   1.52,
+   12,
+   2,
+   3,
+   0,
+   0,
+   1,
    1,
    0,
    0,
@@ -451,62 +453,17 @@
    0
   ],
   [
-   "Trenton Harvey",
-   "BYE INCOMPLETE",
-   1.47,
-   6,
-   2,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Michael Palumbo",
-   "Italian Stallions",
-   1.34,
-   18,
-   4,
-   5,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Josh Miller",
-   "Italian Stallions",
-   1.25,
-   18,
-   5,
-   4,
-   0,
-   0,
+   "BYE INCOMPLETE 2",
+   1.2,
+   12,
+   3,
    2,
+   0,
    0,
    1,
    0,
-   0
-  ],
-  [
-   "Jamey Trembley",
-   "BYE INCOMPLETE",
-   1.08,
-   6,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
+   1,
    0,
    0
   ],
@@ -732,6 +689,18 @@
    11
   ],
   [
+   "Josh Miller",
+   "BYE INCOMPLETE 2",
+   15.3,
+   14,
+   4,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
    "Peter Patall",
    "Not These Guys Again",
    15.12,
@@ -744,57 +713,21 @@
    2
   ],
   [
-   "Josh Miller",
-   "Italian Stallions",
-   14.62,
-   21,
-   7,
+   "Michael Palumbo",
+   "BYE INCOMPLETE 2",
+   14.33,
+   14,
+   5,
    0,
    0,
    0,
    0,
-   5
-  ],
-  [
-   "Trenton Harvey",
-   "BYE INCOMPLETE",
-   14.42,
-   7,
-   1,
-   0,
-   0,
-   0,
-   0,
-   4
+   3
   ],
   [
    "Erica Dewey",
    "Tipped Out",
    14.19,
-   7,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Michael Palumbo",
-   "Italian Stallions",
-   14.08,
-   21,
-   8,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
-   "Jamey Trembley",
-   "BYE INCOMPLETE",
-   11.2,
    7,
    0,
    0,
@@ -824,16 +757,16 @@
    "phone": "585-746-7962"
   },
   {
+   "name": "BYE INCOMPLETE 2",
+   "site": "Bye Incomplete",
+   "captain": "Michael Palumbo",
+   "phone": "585-857-8441"
+  },
+  {
    "name": "Dave N Buster",
    "site": "Back To My Place",
    "captain": "Dave DeCarlo",
    "phone": "585-363-0814"
-  },
-  {
-   "name": "Italian Stallions",
-   "site": "Pourin Joy",
-   "captain": "Michael Palumbo",
-   "phone": "585-857-8441"
   },
   {
    "name": "Not These Guys Again",
@@ -877,7 +810,7 @@
      "Not These Guys Again"
     ],
     [
-     "Italian Stallions",
+     "BYE INCOMPLETE 2",
      "BYE INCOMPLETE"
     ],
     [
@@ -913,7 +846,7 @@
     ],
     [
      "The Nobodys",
-     "Italian Stallions"
+     "BYE INCOMPLETE 2"
     ],
     [
      "BYE INCOMPLETE",
@@ -935,7 +868,7 @@
      "The Nobodys"
     ],
     [
-     "Italian Stallions",
+     "BYE INCOMPLETE 2",
      "Split Decision"
     ],
     [
@@ -963,7 +896,7 @@
     ],
     [
      "2 Guys 1 Bull",
-     "Italian Stallions"
+     "BYE INCOMPLETE 2"
     ],
     [
      "Split Decision",
@@ -993,7 +926,7 @@
      "2 Guys 1 Bull"
     ],
     [
-     "Italian Stallions",
+     "BYE INCOMPLETE 2",
      "B And D"
     ],
     [
@@ -1013,7 +946,7 @@
     ],
     [
      "Top Shottas",
-     "Italian Stallions"
+     "BYE INCOMPLETE 2"
     ],
     [
      "B And D",
@@ -1051,7 +984,7 @@
      "Top Shottas"
     ],
     [
-     "Italian Stallions",
+     "BYE INCOMPLETE 2",
      "Tipped Out"
     ]
    ]
@@ -1062,7 +995,7 @@
    "note": "",
    "matches": [
     [
-     "Italian Stallions",
+     "BYE INCOMPLETE 2",
      "Not These Guys Again"
     ],
     [
@@ -1106,7 +1039,7 @@
     ],
     [
      "Dave N Buster",
-     "Italian Stallions"
+     "BYE INCOMPLETE 2"
     ]
    ]
   },
@@ -1116,24 +1049,20 @@
    "note": "",
    "matches": [
     [
-     "Not These Guys Again",
-     "Dave N Buster"
+     "Dave N Buster",
+     "Not These Guys Again"
     ],
     [
-     "BYE INCOMPLETE",
-     "Italian Stallions"
+     "Tipped Out",
+     "The Nobodys"
     ],
     [
-     "The Nobodys",
-     "Tipped Out"
+     "Top Shottas",
+     "Split Decision"
     ],
     [
-     "Split Decision",
-     "Top Shottas"
-    ],
-    [
-     "2 Guys 1 Bull",
-     "B And D"
+     "B And D",
+     "2 Guys 1 Bull"
     ]
    ]
   },
@@ -1143,24 +1072,20 @@
    "note": "",
    "matches": [
     [
-     "Not These Guys Again",
-     "B And D"
+     "B And D",
+     "Not These Guys Again"
     ],
     [
-     "Top Shottas",
-     "2 Guys 1 Bull"
+     "2 Guys 1 Bull",
+     "Top Shottas"
     ],
     [
-     "Tipped Out",
-     "Split Decision"
+     "Split Decision",
+     "Tipped Out"
     ],
     [
-     "Italian Stallions",
-     "The Nobodys"
-    ],
-    [
-     "Dave N Buster",
-     "BYE INCOMPLETE"
+     "The Nobodys",
+     "Dave N Buster"
     ]
    ]
   },
@@ -1170,24 +1095,20 @@
    "note": "Off 12/24 & 12/31- Holidays",
    "matches": [
     [
-     "BYE INCOMPLETE",
-     "Not These Guys Again"
+     "Not These Guys Again",
+     "The Nobodys"
     ],
     [
-     "The Nobodys",
-     "Dave N Buster"
+     "Dave N Buster",
+     "Split Decision"
     ],
     [
-     "Split Decision",
-     "Italian Stallions"
+     "Tipped Out",
+     "2 Guys 1 Bull"
     ],
     [
-     "2 Guys 1 Bull",
-     "Tipped Out"
-    ],
-    [
-     "B And D",
-     "Top Shottas"
+     "Top Shottas",
+     "B And D"
     ]
    ]
   },
@@ -1197,23 +1118,19 @@
    "note": "",
    "matches": [
     [
-     "Not These Guys Again",
-     "Top Shottas"
+     "Top Shottas",
+     "Not These Guys Again"
     ],
     [
-     "Tipped Out",
-     "B And D"
+     "B And D",
+     "Tipped Out"
     ],
     [
-     "Italian Stallions",
-     "2 Guys 1 Bull"
+     "2 Guys 1 Bull",
+     "Dave N Buster"
     ],
     [
-     "Dave N Buster",
-     "Split Decision"
-    ],
-    [
-     "BYE INCOMPLETE",
+     "Split Decision",
      "The Nobodys"
     ]
    ]
@@ -1224,24 +1141,20 @@
    "note": "",
    "matches": [
     [
+     "Not These Guys Again",
+     "Split Decision"
+    ],
+    [
      "The Nobodys",
-     "Not These Guys Again"
+     "2 Guys 1 Bull"
     ],
     [
-     "Split Decision",
-     "BYE INCOMPLETE"
+     "Dave N Buster",
+     "B And D"
     ],
     [
-     "2 Guys 1 Bull",
-     "Dave N Buster"
-    ],
-    [
-     "B And D",
-     "Italian Stallions"
-    ],
-    [
-     "Top Shottas",
-     "Tipped Out"
+     "Tipped Out",
+     "Top Shottas"
     ]
    ]
   },
@@ -1251,23 +1164,19 @@
    "note": "",
    "matches": [
     [
-     "Not These Guys Again",
-     "Tipped Out"
+     "Tipped Out",
+     "Not These Guys Again"
     ],
     [
-     "Italian Stallions",
-     "Top Shottas"
+     "Top Shottas",
+     "Dave N Buster"
     ],
     [
-     "Dave N Buster",
-     "B And D"
+     "B And D",
+     "The Nobodys"
     ],
     [
-     "BYE INCOMPLETE",
-     "2 Guys 1 Bull"
-    ],
-    [
-     "The Nobodys",
+     "2 Guys 1 Bull",
      "Split Decision"
     ]
    ]
@@ -1278,24 +1187,20 @@
    "note": "",
    "matches": [
     [
+     "Not These Guys Again",
+     "2 Guys 1 Bull"
+    ],
+    [
      "Split Decision",
-     "Not These Guys Again"
+     "B And D"
     ],
     [
-     "2 Guys 1 Bull",
-     "The Nobodys"
+     "The Nobodys",
+     "Top Shottas"
     ],
     [
-     "B And D",
-     "BYE INCOMPLETE"
-    ],
-    [
-     "Top Shottas",
-     "Dave N Buster"
-    ],
-    [
-     "Tipped Out",
-     "Italian Stallions"
+     "Dave N Buster",
+     "Tipped Out"
     ]
    ]
   },
@@ -1306,23 +1211,19 @@
    "matches": [
     [
      "Not These Guys Again",
-     "Italian Stallions"
-    ],
-    [
-     "Dave N Buster",
-     "Tipped Out"
-    ],
-    [
-     "BYE INCOMPLETE",
-     "Top Shottas"
+     "Dave N Buster"
     ],
     [
      "The Nobodys",
-     "B And D"
+     "Tipped Out"
     ],
     [
      "Split Decision",
-     "2 Guys 1 Bull"
+     "Top Shottas"
+    ],
+    [
+     "2 Guys 1 Bull",
+     "B And D"
     ]
    ]
   },
@@ -1332,24 +1233,20 @@
    "note": "",
    "matches": [
     [
-     "2 Guys 1 Bull",
-     "Not These Guys Again"
-    ],
-    [
-     "B And D",
-     "Split Decision"
+     "Not These Guys Again",
+     "B And D"
     ],
     [
      "Top Shottas",
-     "The Nobodys"
+     "2 Guys 1 Bull"
     ],
     [
      "Tipped Out",
-     "BYE INCOMPLETE"
+     "Split Decision"
     ],
     [
-     "Italian Stallions",
-     "Dave N Buster"
+     "Dave N Buster",
+     "The Nobodys"
     ]
    ]
   },
@@ -1359,24 +1256,20 @@
    "note": "",
    "matches": [
     [
-     "Dave N Buster",
+     "The Nobodys",
      "Not These Guys Again"
     ],
     [
-     "Italian Stallions",
-     "BYE INCOMPLETE"
+     "Split Decision",
+     "Dave N Buster"
     ],
     [
-     "Tipped Out",
-     "The Nobodys"
-    ],
-    [
-     "Top Shottas",
-     "Split Decision"
+     "2 Guys 1 Bull",
+     "Tipped Out"
     ],
     [
      "B And D",
-     "2 Guys 1 Bull"
+     "Top Shottas"
     ]
    ]
   },
@@ -1386,24 +1279,20 @@
    "note": "",
    "matches": [
     [
-     "B And D",
-     "Not These Guys Again"
-    ],
-    [
-     "2 Guys 1 Bull",
+     "Not These Guys Again",
      "Top Shottas"
     ],
     [
-     "Split Decision",
-     "Tipped Out"
+     "Tipped Out",
+     "B And D"
+    ],
+    [
+     "Dave N Buster",
+     "2 Guys 1 Bull"
     ],
     [
      "The Nobodys",
-     "Italian Stallions"
-    ],
-    [
-     "BYE INCOMPLETE",
-     "Dave N Buster"
+     "Split Decision"
     ]
    ]
   },
@@ -1413,38 +1302,68 @@
    "note": "",
    "matches": [
     [
-     "Not These Guys Again",
-     "BYE INCOMPLETE"
+     "Split Decision",
+     "Not These Guys Again"
     ],
     [
-     "Dave N Buster",
+     "2 Guys 1 Bull",
      "The Nobodys"
     ],
     [
-     "Italian Stallions",
-     "Split Decision"
-    ],
-    [
-     "Tipped Out",
-     "2 Guys 1 Bull"
+     "B And D",
+     "Dave N Buster"
     ],
     [
      "Top Shottas",
-     "B And D"
+     "Tipped Out"
     ]
    ]
   },
   {
    "week": 22,
    "date": "2027-03-18",
-   "note": "Use 3/18 for Makeup Matches",
-   "matches": []
+   "note": "",
+   "matches": [
+    [
+     "Not These Guys Again",
+     "Tipped Out"
+    ],
+    [
+     "Dave N Buster",
+     "Top Shottas"
+    ],
+    [
+     "The Nobodys",
+     "B And D"
+    ],
+    [
+     "Split Decision",
+     "2 Guys 1 Bull"
+    ]
+   ]
   },
   {
    "week": 23,
    "date": "2027-03-25",
-   "note": "Use 3/25 for Makeup Matches",
-   "matches": []
+   "note": "",
+   "matches": [
+    [
+     "2 Guys 1 Bull",
+     "Not These Guys Again"
+    ],
+    [
+     "B And D",
+     "Split Decision"
+    ],
+    [
+     "Top Shottas",
+     "The Nobodys"
+    ],
+    [
+     "Tipped Out",
+     "Dave N Buster"
+    ]
+   ]
   },
   {
    "week": 24,
@@ -1527,5 +1446,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-06T13:30:22Z"
+ "updated": "2026-11-06T16:07:59Z"
 }
