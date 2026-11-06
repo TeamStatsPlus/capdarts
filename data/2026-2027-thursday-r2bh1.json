@@ -196,21 +196,6 @@
    1
   ],
   [
-   "Rowdy Woodworth",
-   "The Nobodys",
-   2.25,
-   30,
-   11,
-   7,
-   0,
-   0,
-   10,
-   0,
-   3,
-   0,
-   0
-  ],
-  [
    "Connor Fletcher",
    "2 Guys 1 Bull",
    2.25,
@@ -222,6 +207,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Rowdy Woodworth",
+   "The Nobodys",
+   2.25,
+   30,
+   11,
+   7,
+   0,
+   0,
+   10,
+   0,
+   3,
    0,
    0
   ],
@@ -286,21 +286,6 @@
    0
   ],
   [
-   "Colin Mousseau",
-   "The Nobodys",
-   1.89,
-   30,
-   7,
-   11,
-   0,
-   0,
-   10,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Andrew Casciani",
    "Not These Guys Again",
    1.89,
@@ -312,6 +297,21 @@
    8,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Colin Mousseau",
+   "The Nobodys",
+   1.89,
+   30,
+   7,
+   11,
+   0,
+   0,
+   10,
+   2,
+   1,
    0,
    0
   ],
@@ -1527,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-06T04:16:54Z"
+ "updated": "2026-11-06T05:22:27Z"
 }
