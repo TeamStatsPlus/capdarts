@@ -134,16 +134,16 @@
   ],
   "x": [
    [
-    "Dave Coin",
-    "We Dem Boyz",
-    21.1,
-    21.44
-   ],
-   [
     "Erika Mardo",
     "Squishy Business",
     27.22,
     27.56
+   ],
+   [
+    "Dave Coin",
+    "We Dem Boyz",
+    21.1,
+    21.44
    ],
    [
     "Travis Perry",
@@ -230,21 +230,6 @@
    1
   ],
   [
-   "James Mitchell",
-   "Dem BOYZ",
-   2.7,
-   30,
-   11,
-   6,
-   6,
-   0,
-   15,
-   11,
-   1,
-   0,
-   3
-  ],
-  [
    "Brian Galletto",
    "Where The Bacon",
    2.7,
@@ -258,6 +243,21 @@
    4,
    1,
    1
+  ],
+  [
+   "James Mitchell",
+   "Dem BOYZ",
+   2.7,
+   30,
+   11,
+   6,
+   6,
+   0,
+   15,
+   11,
+   1,
+   0,
+   3
   ],
   [
    "Tom Ralston",
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-06T09:16:23Z"
+ "updated": "2026-11-06T10:24:43Z"
 }
