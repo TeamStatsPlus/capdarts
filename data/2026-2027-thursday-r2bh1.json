@@ -624,18 +624,6 @@
    21
   ],
   [
-   "Dan Carroll",
-   "Not These Guys Again",
-   18.02,
-   28,
-   8,
-   1,
-   0,
-   0,
-   0,
-   14
-  ],
-  [
    "Joe Scalise",
    "2 Guys 1 Bull",
    18.02,
@@ -646,6 +634,18 @@
    0,
    0,
    12
+  ],
+  [
+   "Dan Carroll",
+   "Not These Guys Again",
+   18.02,
+   28,
+   8,
+   1,
+   0,
+   0,
+   0,
+   14
   ],
   [
    "Rowdy Woodworth",
@@ -1527,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-06T07:39:21Z"
+ "updated": "2026-11-06T09:17:00Z"
 }

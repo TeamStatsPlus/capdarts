@@ -126,10 +126,10 @@
     1.44
    ],
    [
-    "Mike Garrity",
-    "Thats Bullshoot",
-    1.12,
-    1.22
+    "Casey Birch",
+    "The Critters",
+    1.31,
+    1.41
    ]
   ],
   "x": [
@@ -395,21 +395,6 @@
    0
   ],
   [
-   "Chris Collins",
-   "Thats Bullshoot",
-   1.74,
-   15,
-   5,
-   3,
-   0,
-   0,
-   4,
-   0,
-   1,
-   1,
-   0
-  ],
-  [
    "Chris DiStasio",
    "No Sleep",
    1.74,
@@ -420,6 +405,21 @@
    0,
    5,
    2,
+   1,
+   1,
+   0
+  ],
+  [
+   "Chris Collins",
+   "Thats Bullshoot",
+   1.74,
+   15,
+   5,
+   3,
+   0,
+   0,
+   4,
+   0,
    1,
    1,
    0
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-06T07:38:30Z"
+ "updated": "2026-11-06T09:16:03Z"
 }
