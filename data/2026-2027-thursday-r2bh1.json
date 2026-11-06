@@ -16,8 +16,8 @@
   ],
   [
    "The Nobodys",
-   30,
-   22
+   35,
+   30
   ],
   [
    "Top Shottas",
@@ -25,29 +25,29 @@
    30
   ],
   [
-   "Split Decision",
-   25,
-   27
-  ],
-  [
-   "Tipped Out",
-   31,
-   34
-  ],
-  [
    "B And D",
-   24,
-   28
+   34,
+   31
+  ],
+  [
+   "Split Decision",
+   33,
+   32
   ],
   [
    "Not These Guys Again",
-   24,
-   28
+   33,
+   32
+  ],
+  [
+   "Tipped Out",
+   35,
+   43
   ],
   [
    "Dave N Buster",
-   18,
-   34
+   21,
+   44
   ],
   [
    "BYE INCOMPLETE",
@@ -57,20 +57,36 @@
  ],
  "results": [
   [
-   "The Nobodys",
-   "Not These Guys Again",
-   "10/29/2026",
-   5,
-   11,
-   2
-  ],
-  [
    "2 Guys 1 Bull",
    "Dave N Buster",
    "10/29/2026",
    5,
    10,
    3
+  ],
+  [
+   "B And D",
+   "Dave N Buster",
+   "11/05/2026",
+   6,
+   10,
+   3
+  ],
+  [
+   "Not These Guys Again",
+   "Tipped Out",
+   "11/05/2026",
+   6,
+   9,
+   4
+  ],
+  [
+   "Split Decision",
+   "The Nobodys",
+   "11/05/2026",
+   6,
+   8,
+   5
   ],
   [
    "Top Shottas",
@@ -81,14 +97,6 @@
    5
   ],
   [
-   "B And D",
-   "Tipped Out",
-   "10/22/2026",
-   4,
-   7,
-   6
-  ],
-  [
    "Italian Stallions",
    "Split Decision",
    "10/15/2026",
@@ -97,20 +105,20 @@
    7
   ],
   [
+   "The Nobodys",
    "Split Decision",
-   "Dave N Buster",
-   "10/22/2026",
-   4,
+   "11/05/2026",
    6,
-   7
+   5,
+   8
   ],
   [
    "Tipped Out",
-   "Top Shottas",
-   "10/29/2026",
-   5,
-   5,
-   8
+   "Not These Guys Again",
+   "11/05/2026",
+   6,
+   4,
+   9
   ],
   [
    "BYE INCOMPLETE",
@@ -122,60 +130,52 @@
   ],
   [
    "Dave N Buster",
-   "2 Guys 1 Bull",
-   "10/29/2026",
-   5,
+   "B And D",
+   "11/05/2026",
+   6,
    3,
    10
-  ],
-  [
-   "Not These Guys Again",
-   "The Nobodys",
-   "10/29/2026",
-   5,
-   2,
-   11
   ]
  ],
  "improved": {
   "c": [
    [
-    "Joe Scalise",
-    "2 Guys 1 Bull",
-    1.9,
-    2.0
+    "Colin Mousseau",
+    "The Nobodys",
+    1.76,
+    1.89
    ],
    [
-    "David Benwell",
-    "Top Shottas",
-    2.04,
-    2.12
+    "Dan Carroll",
+    "Not These Guys Again",
+    1.84,
+    1.96
    ],
    [
-    "Matt Cortese",
-    "2 Guys 1 Bull",
-    1.75,
-    1.8
+    "Brian Palermo",
+    "B And D",
+    1.4,
+    1.5
    ]
   ],
   "x": [
    [
-    "Paul Guadagna",
-    "Tipped Out",
-    15.94,
-    16.34
+    "Andrew Casciani",
+    "Not These Guys Again",
+    16.43,
+    16.93
    ],
    [
-    "Brian Pintagro",
-    "Dave N Buster",
-    19.06,
-    19.28
+    "Holden Sandlar",
+    "Split Decision",
+    14.95,
+    15.32
    ],
    [
-    "Rowdy Woodworth",
-    "The Nobodys",
-    17.77,
-    17.8
+    "Dan Carroll",
+    "Not These Guys Again",
+    17.74,
+    18.02
    ]
   ]
  },
@@ -183,15 +183,30 @@
   [
    "Dan Mousseau Jr",
    "B And D",
-   2.53,
-   24,
-   9,
-   2,
+   2.54,
+   30,
+   11,
+   4,
    2,
    1,
-   10,
-   7,
+   11,
+   9,
    2,
+   0,
+   1
+  ],
+  [
+   "Rowdy Woodworth",
+   "The Nobodys",
+   2.25,
+   30,
+   11,
+   7,
+   0,
+   0,
+   10,
+   0,
+   3,
    0,
    0
   ],
@@ -207,21 +222,6 @@
    2,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Rowdy Woodworth",
-   "The Nobodys",
-   2.21,
-   24,
-   8,
-   6,
-   0,
-   0,
-   9,
-   0,
-   2,
    0,
    0
   ],
@@ -244,14 +244,14 @@
    "Jack Ruppert",
    "Tipped Out",
    2.02,
-   24,
+   30,
    10,
-   4,
+   6,
    0,
    0,
-   2,
    3,
-   1,
+   3,
+   2,
    0,
    0
   ],
@@ -271,15 +271,45 @@
    0
   ],
   [
+   "Dan Carroll",
+   "Not These Guys Again",
+   1.96,
+   24,
+   8,
+   4,
+   0,
+   0,
+   6,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Colin Mousseau",
+   "The Nobodys",
+   1.89,
+   30,
+   7,
+   11,
+   0,
+   0,
+   10,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
    "Andrew Casciani",
    "Not These Guys Again",
-   1.91,
-   24,
-   4,
-   6,
+   1.89,
+   30,
+   5,
+   9,
    0,
    0,
-   6,
+   8,
    1,
    2,
    0,
@@ -303,10 +333,10 @@
   [
    "Dave DeCarlo",
    "Dave N Buster",
-   1.87,
-   24,
-   2,
-   5,
+   1.81,
+   30,
+   3,
+   6,
    1,
    0,
    4,
@@ -316,17 +346,17 @@
    0
   ],
   [
-   "Dan Carroll",
-   "Not These Guys Again",
-   1.84,
-   18,
-   5,
+   "Jon Green",
+   "Split Decision",
+   1.8,
+   30,
+   6,
+   8,
+   0,
+   0,
+   6,
    3,
-   0,
-   0,
    2,
-   1,
-   0,
    0,
    0
   ],
@@ -346,45 +376,15 @@
    0
   ],
   [
-   "Jon Green",
-   "Split Decision",
-   1.76,
-   24,
-   4,
-   8,
-   0,
-   0,
-   6,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
-   "Colin Mousseau",
-   "The Nobodys",
-   1.76,
-   24,
-   6,
-   8,
-   0,
-   0,
-   6,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Pintagro",
    "Dave N Buster",
-   1.74,
-   24,
-   5,
-   2,
+   1.79,
+   30,
+   6,
+   3,
    2,
    0,
-   1,
+   2,
    1,
    1,
    0,
@@ -393,9 +393,9 @@
   [
    "Paul Guadagna",
    "Tipped Out",
-   1.61,
-   30,
-   5,
+   1.55,
+   36,
+   7,
    10,
    1,
    0,
@@ -421,6 +421,36 @@
    0
   ],
   [
+   "Holden Sandlar",
+   "Split Decision",
+   1.51,
+   30,
+   8,
+   6,
+   0,
+   0,
+   6,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Palermo",
+   "B And D",
+   1.5,
+   30,
+   4,
+   11,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Trenton Harvey",
    "BYE INCOMPLETE",
    1.47,
@@ -432,36 +462,6 @@
    2,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Holden Sandlar",
-   "Split Decision",
-   1.44,
-   24,
-   8,
-   4,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Brian Palermo",
-   "B And D",
-   1.4,
-   24,
-   2,
-   9,
-   0,
-   0,
-   1,
-   1,
-   1,
    0,
    0
   ],
@@ -530,14 +530,14 @@
   [
    "Dan Mousseau Jr",
    "B And D",
-   23.81,
-   28,
-   9,
-   4,
+   23.94,
+   35,
+   14,
+   5,
    0,
    0,
    1,
-   31
+   40
   ],
   [
    "David Benwell",
@@ -554,26 +554,14 @@
   [
    "Jack Ruppert",
    "Tipped Out",
-   19.47,
-   28,
-   5,
+   19.53,
+   35,
+   6,
    1,
    0,
    0,
    0,
-   20
-  ],
-  [
-   "Brian Pintagro",
-   "Dave N Buster",
-   19.28,
-   28,
-   7,
-   1,
-   0,
-   0,
-   0,
-   19
+   23
   ],
   [
    "Connor Fletcher",
@@ -588,16 +576,16 @@
    3
   ],
   [
-   "Colin Mousseau",
-   "The Nobodys",
+   "Brian Pintagro",
+   "Dave N Buster",
    18.63,
-   28,
-   12,
+   35,
+   8,
+   1,
    0,
    0,
    0,
-   0,
-   12
+   22
   ],
   [
    "Matt Cortese",
@@ -612,16 +600,40 @@
    8
   ],
   [
+   "Colin Mousseau",
+   "The Nobodys",
+   18.35,
+   35,
+   13,
+   0,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
    "Jon Green",
    "Split Decision",
-   18.12,
+   18.27,
+   35,
+   8,
+   3,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
+   "Dan Carroll",
+   "Not These Guys Again",
+   18.02,
    28,
-   5,
-   2,
+   8,
+   1,
    0,
    0,
    0,
-   15
+   14
   ],
   [
    "Joe Scalise",
@@ -638,74 +650,62 @@
   [
    "Rowdy Woodworth",
    "The Nobodys",
-   17.8,
-   28,
+   17.91,
+   35,
    4,
    2,
    0,
    0,
    0,
-   12
-  ],
-  [
-   "Dan Carroll",
-   "Not These Guys Again",
-   17.74,
-   21,
-   6,
-   1,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
-   "Dave DeCarlo",
-   "Dave N Buster",
-   17.28,
-   28,
-   4,
-   3,
-   0,
-   0,
-   0,
-   9
+   16
   ],
   [
    "Andrew Casciani",
    "Not These Guys Again",
-   16.43,
-   28,
-   8,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
-   "Paul Guadagna",
-   "Tipped Out",
-   16.34,
+   16.93,
    35,
    11,
    0,
    0,
    0,
    0,
-   15
+   10
+  ],
+  [
+   "Dave DeCarlo",
+   "Dave N Buster",
+   16.78,
+   35,
+   4,
+   3,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Paul Guadagna",
+   "Tipped Out",
+   16.33,
+   42,
+   12,
+   0,
+   0,
+   0,
+   0,
+   19
   ],
   [
    "Brian Palermo",
    "B And D",
-   15.93,
-   28,
-   4,
+   15.95,
+   35,
+   5,
    0,
    0,
    0,
    0,
-   4
+   5
   ],
   [
    "Bill Lutomski",
@@ -715,6 +715,18 @@
    5,
    1,
    1,
+   0,
+   0,
+   11
+  ],
+  [
+   "Holden Sandlar",
+   "Split Decision",
+   15.32,
+   35,
+   10,
+   0,
+   0,
    0,
    0,
    11
@@ -730,18 +742,6 @@
    0,
    0,
    2
-  ],
-  [
-   "Holden Sandlar",
-   "Split Decision",
-   14.95,
-   28,
-   8,
-   0,
-   0,
-   0,
-   0,
-   7
   ],
   [
    "Josh Miller",
@@ -1527,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-10-30T03:07:23Z"
+ "updated": "2026-11-06T03:10:55Z"
 }
