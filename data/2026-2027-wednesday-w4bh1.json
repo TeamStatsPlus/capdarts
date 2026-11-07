@@ -852,21 +852,6 @@
    0
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   1.17,
-   12,
-   4,
-   3,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ellen Post",
    "Closer To Zero",
    1.17,
@@ -880,6 +865,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   1.17,
+   12,
+   4,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Tyler CannonBailey",
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-07T06:04:43Z"
+ "updated": "2026-11-07T07:25:48Z"
 }

@@ -152,10 +152,10 @@
     1.77
    ],
    [
-    "Shawn Thurley",
-    "Your In Treble",
-    1.79,
-    1.83
+    "Pat Cocchiara",
+    "Bulleye Bandits",
+    1.81,
+    1.85
    ]
   ],
   "x": [
@@ -346,21 +346,6 @@
    0
   ],
   [
-   "Kendra Loya",
-   "Who Darted",
-   1.49,
-   30,
-   7,
-   15,
-   0,
-   0,
-   5,
-   4,
-   2,
-   0,
-   0
-  ],
-  [
    "Carrie Shaw",
    "Couples Terapy",
    1.49,
@@ -372,6 +357,21 @@
    5,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Kendra Loya",
+   "Who Darted",
+   1.49,
+   30,
+   7,
+   15,
+   0,
+   0,
+   5,
+   4,
+   2,
    0,
    0
   ],
@@ -391,21 +391,6 @@
    0
   ],
   [
-   "Jessica Zimmerman",
-   "Dark Sharts",
-   1.39,
-   36,
-   6,
-   17,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Todd Cornell",
    "Ballsagna",
    1.39,
@@ -421,17 +406,17 @@
    0
   ],
   [
-   "Ted Temple",
-   "No Bulls",
-   1.37,
+   "Jessica Zimmerman",
+   "Dark Sharts",
+   1.39,
    36,
-   13,
-   9,
+   6,
+   17,
    0,
    0,
-   3,
+   2,
    1,
-   1,
+   0,
    0,
    0
   ],
@@ -462,6 +447,21 @@
    0,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Ted Temple",
+   "No Bulls",
+   1.37,
+   36,
+   13,
+   9,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -1596,5 +1596,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-07T06:03:39Z"
+ "updated": "2026-11-07T07:24:42Z"
 }
