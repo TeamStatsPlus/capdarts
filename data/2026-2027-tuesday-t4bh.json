@@ -120,16 +120,16 @@
     1.74
    ],
    [
-    "Edward Gschrey",
-    "Team Name",
-    1.34,
-    1.44
-   ],
-   [
     "Casey Birch",
     "The Critters",
     1.31,
     1.41
+   ],
+   [
+    "Mike Garrity",
+    "Thats Bullshoot",
+    1.12,
+    1.22
    ]
   ],
   "x": [
@@ -215,21 +215,6 @@
    0
   ],
   [
-   "Philip Rowland",
-   "Team Name",
-   1.92,
-   3,
-   1,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Travis Hall",
    "Lady And The Tramps",
    1.92,
@@ -240,6 +225,21 @@
    0,
    1,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Philip Rowland",
+   "Team Name",
+   1.92,
+   3,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -545,21 +545,6 @@
    0
   ],
   [
-   "Edward Gschrey",
-   "Team Name",
-   1.44,
-   9,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jimmy Mietus",
    "Team Name",
    1.44,
@@ -571,6 +556,21 @@
    0,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   1.44,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-07T10:04:39Z"
+ "updated": "2026-11-07T10:59:51Z"
 }
