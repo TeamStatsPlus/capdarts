@@ -100,10 +100,10 @@
     1.91
    ],
    [
-    "James Samuelson",
+    "Joseph Shiner",
     "Satchel Of Richards",
-    3.01,
-    3.08
+    2.62,
+    2.69
    ]
   ],
   "x": [
@@ -279,21 +279,6 @@
    2
   ],
   [
-   "Joseph Shiner",
-   "Satchel Of Richards",
-   2.69,
-   15,
-   9,
-   1,
-   4,
-   0,
-   7,
-   4,
-   4,
-   0,
-   0
-  ],
-  [
    "Nick Wahal",
    "Ryans Renegades",
    2.69,
@@ -307,6 +292,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Joseph Shiner",
+   "Satchel Of Richards",
+   2.69,
+   15,
+   9,
+   1,
+   4,
+   0,
+   7,
+   4,
+   4,
+   0,
+   0
   ],
   [
    "Dashay Earlsey",
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-07T19:58:31Z"
+ "updated": "2026-11-07T20:57:40Z"
 }

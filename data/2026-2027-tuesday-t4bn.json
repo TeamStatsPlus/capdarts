@@ -372,12 +372,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   18,
-   10,
-   4,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   18,
+   10,
+   4,
    1,
    0,
    3,
@@ -507,21 +507,6 @@
    0
   ],
   [
-   "Kevin Adams",
-   "Aiming Fluid",
-   1.96,
-   6,
-   2,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Barry Barklund",
    "Dartbags",
    1.96,
@@ -550,6 +535,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Kevin Adams",
+   "Aiming Fluid",
+   1.96,
+   6,
+   2,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Mike Bisig",
@@ -987,21 +987,6 @@
    0
   ],
   [
-   "Rob Earl",
-   "Peppers And Onions",
-   1.39,
-   18,
-   1,
-   2,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Joey Tortora",
    "Points And Pints",
    1.39,
@@ -1011,6 +996,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Earl",
+   "Peppers And Onions",
+   1.39,
+   18,
+   1,
+   2,
+   0,
+   0,
+   3,
    0,
    0,
    0,
@@ -2709,5 +2709,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-07T19:57:51Z"
+ "updated": "2026-11-07T20:57:01Z"
 }
