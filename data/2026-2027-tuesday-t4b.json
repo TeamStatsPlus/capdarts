@@ -126,10 +126,10 @@
     1.85
    ],
    [
-    "Richard Pecorino",
+    "AJ Perry",
     "Caps N Plaids",
-    2.03,
-    2.1
+    2.3,
+    2.37
    ]
   ],
   "x": [
@@ -245,6 +245,21 @@
    0
   ],
   [
+   "Sara Williams",
+   "Bulls And Brews",
+   2.25,
+   15,
+   5,
+   3,
+   0,
+   0,
+   6,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
    "Norberto Cervantes",
    "Dirty O Boys",
    2.25,
@@ -271,21 +286,6 @@
    2,
    4,
    0,
-   0,
-   0
-  ],
-  [
-   "Sara Williams",
-   "Bulls And Brews",
-   2.25,
-   15,
-   5,
-   3,
-   0,
-   0,
-   6,
-   2,
-   3,
    0,
    0
   ],
@@ -425,21 +425,6 @@
    0
   ],
   [
-   "Kyle Blumenstock",
-   "Bad Boys",
-   1.85,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Brendan Sheerwood",
    "Dirty O Boys",
    1.85,
@@ -450,6 +435,21 @@
    0,
    10,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kyle Blumenstock",
+   "Bad Boys",
+   1.85,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -650,21 +650,6 @@
    0
   ],
   [
-   "Andrew Bochetto",
-   "Sloppy Darts",
-   1.57,
-   18,
-   2,
-   5,
-   0,
-   0,
-   5,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Chuck Coates",
    "Bad Boys",
    1.57,
@@ -680,6 +665,21 @@
    0
   ],
   [
+   "Andrew Bochetto",
+   "Sloppy Darts",
+   1.57,
+   18,
+   2,
+   5,
+   0,
+   0,
+   5,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
    "Chyanel Adinoel",
    "Goodlife",
    1.51,
@@ -689,6 +689,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Toma",
+   "Bulls And Brews",
+   1.48,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -721,21 +736,6 @@
    3,
    0,
    1,
-   0,
-   0
-  ],
-  [
-   "Mike Toma",
-   "Bulls And Brews",
-   1.48,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0
   ],
@@ -1948,5 +1948,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-07T14:57:53Z"
+ "updated": "2026-11-07T15:55:32Z"
 }
