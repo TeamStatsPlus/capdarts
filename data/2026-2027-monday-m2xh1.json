@@ -421,21 +421,6 @@
    0
   ],
   [
-   "Ed Rowland",
-   "Double Trouble",
-   1.37,
-   6,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Ted Temple",
    "No Bulls",
    1.37,
@@ -461,6 +446,21 @@
    0,
    5,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ed Rowland",
+   "Double Trouble",
+   1.37,
+   6,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -511,21 +511,6 @@
    0
   ],
   [
-   "Melissa Cocchiara",
-   "Bulleye Bandits",
-   1.19,
-   36,
-   2,
-   12,
-   0,
-   0,
-   8,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Lou Sanchez",
    "Double Trouble",
    1.19,
@@ -537,6 +522,21 @@
    3,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Melissa Cocchiara",
+   "Bulleye Bandits",
+   1.19,
+   36,
+   2,
+   12,
+   0,
+   0,
+   8,
+   2,
+   0,
    0,
    0
   ],
@@ -1596,5 +1596,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-07T19:06:32Z"
+ "updated": "2026-11-07T19:57:14Z"
 }
