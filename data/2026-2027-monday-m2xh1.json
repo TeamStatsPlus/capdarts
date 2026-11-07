@@ -152,10 +152,10 @@
     1.77
    ],
    [
-    "Pat Cocchiara",
-    "Bulleye Bandits",
-    1.81,
-    1.85
+    "Shawn Thurley",
+    "Your In Treble",
+    1.79,
+    1.83
    ]
   ],
   "x": [
@@ -421,6 +421,21 @@
    0
   ],
   [
+   "Ed Rowland",
+   "Double Trouble",
+   1.37,
+   6,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Ted Temple",
    "No Bulls",
    1.37,
@@ -446,21 +461,6 @@
    0,
    5,
    2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Ed Rowland",
-   "Double Trouble",
-   1.37,
-   6,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
    0,
    0,
    0
@@ -1596,5 +1596,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-06T23:53:14Z"
+ "updated": "2026-11-07T01:24:33Z"
 }
