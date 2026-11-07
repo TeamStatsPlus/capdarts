@@ -230,10 +230,10 @@
     3.42
    ],
    [
-    "Robyn Ralston",
-    "Sprinkles On Top",
-    1.81,
-    1.87
+    "Dan Freese",
+    "Right There",
+    2.95,
+    3.01
    ]
   ],
   "x": [
@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Danae Diaz",
-   "Better Together",
-   1.86,
-   30,
-   9,
-   9,
-   2,
-   0,
-   6,
-   2,
-   3,
-   0,
-   0
-  ],
-  [
    "Kelli Nash",
    "One Hole Away",
    1.86,
@@ -630,6 +615,21 @@
    11,
    5,
    0,
+   0,
+   0
+  ],
+  [
+   "Danae Diaz",
+   "Better Together",
+   1.86,
+   30,
+   9,
+   9,
+   2,
+   0,
+   6,
+   2,
+   3,
    0,
    0
   ],
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-07T11:56:01Z"
+ "updated": "2026-11-07T14:06:08Z"
 }
