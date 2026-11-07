@@ -152,10 +152,10 @@
     1.77
    ],
    [
-    "Shawn Thurley",
-    "Your In Treble",
-    1.79,
-    1.83
+    "Pat Cocchiara",
+    "Bulleye Bandits",
+    1.81,
+    1.85
    ]
   ],
   "x": [
@@ -271,21 +271,6 @@
    0
   ],
   [
-   "Benjamin Gill",
-   "Who Darted",
-   1.77,
-   30,
-   15,
-   7,
-   0,
-   0,
-   6,
-   2,
-   2,
-   0,
-   0
-  ],
-  [
    "Brian Zicari",
    "No Bulls",
    1.77,
@@ -297,6 +282,21 @@
    15,
    4,
    1,
+   0,
+   0
+  ],
+  [
+   "Benjamin Gill",
+   "Who Darted",
+   1.77,
+   30,
+   15,
+   7,
+   0,
+   0,
+   6,
+   2,
+   2,
    0,
    0
   ],
@@ -1596,5 +1596,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-07T22:54:32Z"
+ "updated": "2026-11-07T23:51:18Z"
 }
