@@ -353,21 +353,6 @@
    0
   ],
   [
-   "Philip Rowland",
-   "ChJokers",
-   2.33,
-   18,
-   11,
-   6,
-   0,
-   0,
-   4,
-   5,
-   2,
-   0,
-   0
-  ],
-  [
    "Joe Rowland",
    "ChJokers",
    2.33,
@@ -379,6 +364,21 @@
    5,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Philip Rowland",
+   "ChJokers",
+   2.33,
+   18,
+   11,
+   6,
+   0,
+   0,
+   4,
+   5,
+   2,
    0,
    0
   ],
@@ -653,21 +653,6 @@
    1
   ],
   [
-   "Dean Nicosia",
-   "Money Shot",
-   1.88,
-   3,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "David Caesar",
    "IDF NightCaps",
    1.88,
@@ -679,6 +664,21 @@
    2,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Dean Nicosia",
+   "Money Shot",
+   1.88,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -908,21 +908,6 @@
    0
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   1.64,
-   3,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Strowbridge",
    "Off Target",
    1.64,
@@ -933,6 +918,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   1.64,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -968,21 +968,6 @@
    0
   ],
   [
-   "Michelle Nguyen",
-   "Bad News Beers",
-   1.61,
-   18,
-   5,
-   7,
-   0,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Wills",
    "Tegridy",
    1.61,
@@ -1009,6 +994,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Michelle Nguyen",
+   "Bad News Beers",
+   1.61,
+   18,
+   5,
+   7,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -1073,17 +1073,17 @@
    0
   ],
   [
-   "Tyrell Carver",
-   "IDF NightCaps",
+   "John Seward",
+   "RedEye",
    1.49,
-   15,
+   12,
+   0,
+   4,
+   0,
+   0,
    2,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    0,
    0
   ],
@@ -1103,17 +1103,17 @@
    0
   ],
   [
-   "John Seward",
-   "RedEye",
+   "Tyrell Carver",
+   "IDF NightCaps",
    1.49,
-   12,
-   0,
-   4,
-   0,
-   0,
+   15,
    2,
    1,
+   0,
+   0,
    1,
+   0,
+   0,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-07T05:09:20Z"
+ "updated": "2026-11-07T06:03:49Z"
 }

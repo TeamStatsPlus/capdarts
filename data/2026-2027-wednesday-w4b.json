@@ -500,21 +500,6 @@
    0
   ],
   [
-   "David Gagliano",
-   "Tip Deep",
-   1.61,
-   15,
-   3,
-   7,
-   0,
-   0,
-   2,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Peter Guerrieri",
    "Gameday",
    1.61,
@@ -526,6 +511,21 @@
    3,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "David Gagliano",
+   "Tip Deep",
+   1.61,
+   15,
+   3,
+   7,
+   0,
+   0,
+   2,
+   2,
+   1,
    0,
    0
   ],
@@ -1807,5 +1807,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-07T05:10:10Z"
+ "updated": "2026-11-07T06:04:37Z"
 }
