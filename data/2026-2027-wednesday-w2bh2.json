@@ -299,6 +299,21 @@
    0
   ],
   [
+   "Daniel Skerritt",
+   "No Bulls Hit",
+   1.82,
+   24,
+   5,
+   14,
+   0,
+   0,
+   3,
+   0,
+   1,
+   0,
+   1
+  ],
+  [
    "Josh Bzduch Melino",
    "Just The Tip",
    1.82,
@@ -327,21 +342,6 @@
    3,
    0,
    0
-  ],
-  [
-   "Daniel Skerritt",
-   "No Bulls Hit",
-   1.82,
-   24,
-   5,
-   14,
-   0,
-   0,
-   3,
-   0,
-   1,
-   0,
-   1
   ],
   [
    "Ruben Lowery",
@@ -1273,5 +1273,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-07T16:57:31Z"
+ "updated": "2026-11-07T19:07:25Z"
 }

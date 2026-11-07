@@ -1013,21 +1013,6 @@
    0
   ],
   [
-   "Dickie Rowland",
-   "ChJokers",
-   1.58,
-   18,
-   7,
-   6,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Wemett",
    "Good Smoke BBQ",
    1.58,
@@ -1054,6 +1039,21 @@
    0,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   1.58,
+   18,
+   7,
+   6,
+   0,
+   0,
+   0,
+   2,
+   0,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-07T17:51:21Z"
+ "updated": "2026-11-07T19:06:50Z"
 }
