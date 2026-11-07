@@ -409,21 +409,6 @@
    0
   ],
   [
-   "Brian Keefe",
-   "Average Joes",
-   2.0,
-   12,
-   5,
-   4,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Monster",
    "Liquor Box",
    2.0,
@@ -435,6 +420,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Brian Keefe",
+   "Average Joes",
+   2.0,
+   12,
+   5,
+   4,
+   0,
+   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-07T15:56:12Z"
+ "updated": "2026-11-07T16:57:53Z"
 }

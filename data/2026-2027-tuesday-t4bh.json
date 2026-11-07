@@ -120,16 +120,16 @@
     1.74
    ],
    [
-    "Mike Garrity",
-    "Thats Bullshoot",
-    1.12,
-    1.22
-   ],
-   [
     "Edward Gschrey",
     "Team Name",
     1.34,
     1.44
+   ],
+   [
+    "Mike Garrity",
+    "Thats Bullshoot",
+    1.12,
+    1.22
    ]
   ],
   "x": [
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-07T15:55:37Z"
+ "updated": "2026-11-07T16:57:16Z"
 }
