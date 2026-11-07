@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Steve Wemett",
-   "Good Smoke BBQ",
-   2.13,
-   6,
-   1,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Neal Kenyon",
    "The Happy Accidents",
    2.13,
@@ -529,6 +514,21 @@
    3,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Steve Wemett",
+   "Good Smoke BBQ",
+   2.13,
+   6,
+   1,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -653,21 +653,6 @@
    1
   ],
   [
-   "David Caesar",
-   "IDF NightCaps",
-   1.88,
-   15,
-   4,
-   3,
-   0,
-   0,
-   2,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Dean Nicosia",
    "Money Shot",
    1.88,
@@ -679,6 +664,21 @@
    1,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "David Caesar",
+   "IDF NightCaps",
+   1.88,
+   15,
+   4,
+   3,
+   0,
+   0,
+   2,
+   1,
+   2,
    0,
    0
   ],
@@ -713,21 +713,6 @@
    0
   ],
   [
-   "Bill Fitzgerald",
-   "Wired",
-   1.82,
-   18,
-   5,
-   4,
-   1,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Jake Maracle",
    "Slow Mother Chuckers",
    1.82,
@@ -738,6 +723,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bill Fitzgerald",
+   "Wired",
+   1.82,
+   18,
+   5,
+   4,
+   1,
+   0,
+   2,
+   2,
    0,
    0,
    0
@@ -833,21 +833,6 @@
    0
   ],
   [
-   "Whitney Sawyer",
-   "RedEye",
-   1.7,
-   15,
-   1,
-   2,
-   0,
-   0,
-   3,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Bill Greenough",
    "Slow Mother Chuckers",
    1.7,
@@ -859,6 +844,21 @@
    3,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Whitney Sawyer",
+   "RedEye",
+   1.7,
+   15,
+   1,
+   2,
+   0,
+   0,
+   3,
+   0,
+   2,
    0,
    0
   ],
@@ -908,21 +908,6 @@
    0
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   1.64,
-   3,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Strowbridge",
    "Off Target",
    1.64,
@@ -933,6 +918,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   1.64,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -962,6 +962,21 @@
    0,
    0,
    4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Judson Brown",
+   "Wired",
+   1.61,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0,
@@ -998,36 +1013,6 @@
    0
   ],
   [
-   "Judson Brown",
-   "Wired",
-   1.61,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Dickie Rowland",
-   "ChJokers",
-   1.58,
-   18,
-   7,
-   6,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Wemett",
    "Good Smoke BBQ",
    1.58,
@@ -1054,6 +1039,21 @@
    0,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Dickie Rowland",
+   "ChJokers",
+   1.58,
+   18,
+   7,
+   6,
+   0,
+   0,
+   0,
+   2,
+   0,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-07T10:59:27Z"
+ "updated": "2026-11-07T11:55:49Z"
 }
