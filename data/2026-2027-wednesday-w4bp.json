@@ -504,21 +504,6 @@
    2
   ],
   [
-   "Pat Childs",
-   "Fingerblasters",
-   1.91,
-   15,
-   3,
-   4,
-   0,
-   0,
-   5,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Pat Fagan",
    "Bigg Darts",
    1.91,
@@ -529,6 +514,21 @@
    0,
    5,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Pat Childs",
+   "Fingerblasters",
+   1.91,
+   15,
+   3,
+   4,
+   0,
+   0,
+   5,
+   2,
    1,
    0,
    0
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-07T16:58:02Z"
+ "updated": "2026-11-07T17:52:31Z"
 }
