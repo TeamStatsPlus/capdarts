@@ -230,10 +230,10 @@
     3.42
    ],
    [
-    "Danae Diaz",
-    "Better Together",
-    1.8,
-    1.86
+    "Dan Freese",
+    "Right There",
+    2.95,
+    3.01
    ]
   ],
   "x": [
@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Kelli Nash",
-   "One Hole Away",
-   1.86,
-   36,
-   4,
-   12,
-   0,
-   0,
-   11,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "Danae Diaz",
    "Better Together",
    1.86,
@@ -630,6 +615,21 @@
    6,
    2,
    3,
+   0,
+   0
+  ],
+  [
+   "Kelli Nash",
+   "One Hole Away",
+   1.86,
+   36,
+   4,
+   12,
+   0,
+   0,
+   11,
+   5,
+   0,
    0,
    0
   ],
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-07T01:24:54Z"
+ "updated": "2026-11-07T03:07:41Z"
 }
