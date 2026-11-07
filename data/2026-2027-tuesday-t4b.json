@@ -126,10 +126,10 @@
     1.85
    ],
    [
-    "AJ Perry",
+    "Richard Pecorino",
     "Caps N Plaids",
-    2.3,
-    2.37
+    2.03,
+    2.1
    ]
   ],
   "x": [
@@ -185,21 +185,6 @@
    2
   ],
   [
-   "AJ Perry",
-   "Caps N Plaids",
-   2.37,
-   18,
-   5,
-   7,
-   0,
-   1,
-   7,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Peter Rogers",
    "Bad Boys",
    2.37,
@@ -211,6 +196,21 @@
    9,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "AJ Perry",
+   "Caps N Plaids",
+   2.37,
+   18,
+   5,
+   7,
+   0,
+   1,
+   7,
+   3,
+   1,
    0,
    0
   ],
@@ -245,6 +245,21 @@
    0
   ],
   [
+   "Norberto Cervantes",
+   "Dirty O Boys",
+   2.25,
+   9,
+   5,
+   1,
+   1,
+   0,
+   1,
+   0,
+   2,
+   0,
+   0
+  ],
+  [
    "Erick Ramos",
    "Goodlife",
    2.25,
@@ -271,21 +286,6 @@
    6,
    2,
    3,
-   0,
-   0
-  ],
-  [
-   "Norberto Cervantes",
-   "Dirty O Boys",
-   2.25,
-   9,
-   5,
-   1,
-   1,
-   0,
-   1,
-   0,
-   2,
    0,
    0
   ],
@@ -695,6 +695,21 @@
    0
   ],
   [
+   "Jake Ference",
+   "Caps N Plaids",
+   1.48,
+   18,
+   2,
+   2,
+   0,
+   0,
+   4,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
    "Hannah Mayne",
    "Bad News Beers",
    1.48,
@@ -720,21 +735,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jake Ference",
-   "Caps N Plaids",
-   1.48,
-   18,
-   2,
-   2,
-   0,
-   0,
-   4,
-   4,
    0,
    0,
    0
@@ -1948,5 +1948,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-07T14:06:12Z"
+ "updated": "2026-11-07T14:57:53Z"
 }
