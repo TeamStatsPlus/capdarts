@@ -229,21 +229,6 @@
    0
   ],
   [
-   "Bob Fox",
-   "Toasted Darts",
-   2.32,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Zaccary Maguire",
    "Team Stinky",
    2.32,
@@ -257,6 +242,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Bob Fox",
+   "Toasted Darts",
+   2.32,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "BJ Ashford",
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-08T20:56:21Z"
+ "updated": "2026-11-08T21:55:24Z"
 }
