@@ -230,10 +230,10 @@
     3.42
    ],
    [
-    "Danae Diaz",
-    "Better Together",
-    1.8,
-    1.86
+    "Dan Freese",
+    "Right There",
+    2.95,
+    3.01
    ]
   ],
   "x": [
@@ -364,21 +364,6 @@
    0
   ],
   [
-   "Rich Allen",
-   "Wags To Richs",
-   3.01,
-   30,
-   10,
-   5,
-   2,
-   1,
-   19,
-   7,
-   4,
-   0,
-   1
-  ],
-  [
    "Dan Freese",
    "Right There",
    3.01,
@@ -392,6 +377,21 @@
    9,
    0,
    2
+  ],
+  [
+   "Rich Allen",
+   "Wags To Richs",
+   3.01,
+   30,
+   10,
+   5,
+   2,
+   1,
+   19,
+   7,
+   4,
+   0,
+   1
   ],
   [
    "Justin Burdett",
@@ -574,21 +574,6 @@
    0
   ],
   [
-   "Brian Zicari",
-   "Pointless",
-   1.87,
-   36,
-   13,
-   2,
-   3,
-   0,
-   5,
-   4,
-   3,
-   1,
-   0
-  ],
-  [
    "Robyn Ralston",
    "Sprinkles On Top",
    1.87,
@@ -601,6 +586,21 @@
    4,
    1,
    0,
+   0
+  ],
+  [
+   "Brian Zicari",
+   "Pointless",
+   1.87,
+   36,
+   13,
+   2,
+   3,
+   0,
+   5,
+   4,
+   3,
+   1,
    0
   ],
   [
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-08T13:14:44Z"
+ "updated": "2026-11-08T14:05:00Z"
 }
