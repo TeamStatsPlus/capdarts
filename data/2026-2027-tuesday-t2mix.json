@@ -574,21 +574,6 @@
    0
   ],
   [
-   "Robyn Ralston",
-   "Sprinkles On Top",
-   1.87,
-   24,
-   7,
-   5,
-   0,
-   0,
-   2,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Zicari",
    "Pointless",
    1.87,
@@ -604,17 +589,17 @@
    0
   ],
   [
-   "Danae Diaz",
-   "Better Together",
-   1.86,
-   30,
-   9,
-   9,
-   2,
+   "Robyn Ralston",
+   "Sprinkles On Top",
+   1.87,
+   24,
+   7,
+   5,
    0,
-   6,
+   0,
    2,
-   3,
+   4,
+   1,
    0,
    0
   ],
@@ -630,6 +615,21 @@
    11,
    5,
    0,
+   0,
+   0
+  ],
+  [
+   "Danae Diaz",
+   "Better Together",
+   1.86,
+   30,
+   9,
+   9,
+   2,
+   0,
+   6,
+   2,
+   3,
    0,
    0
   ],
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-08T22:54:22Z"
+ "updated": "2026-11-08T23:52:21Z"
 }
