@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Rob Ayotte",
-   "Liquor Box",
-   1.81,
-   9,
-   2,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Juan Rosado",
    "Liquor Box",
    1.81,
@@ -629,6 +614,21 @@
    0,
    2,
    4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Ayotte",
+   "Liquor Box",
+   1.81,
+   9,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -784,13 +784,13 @@
    0
   ],
   [
-   "Jon Nolte",
-   "Average Joes",
+   "Nick Maguire",
+   "Team Stinky",
    1.64,
    18,
    5,
    4,
-   0,
+   1,
    0,
    1,
    1,
@@ -799,13 +799,13 @@
    0
   ],
   [
-   "Nick Maguire",
-   "Team Stinky",
+   "Jon Nolte",
+   "Average Joes",
    1.64,
    18,
    5,
    4,
-   1,
+   0,
    0,
    1,
    1,
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-08T19:06:59Z"
+ "updated": "2026-11-08T20:56:21Z"
 }
