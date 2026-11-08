@@ -908,21 +908,6 @@
    0
   ],
   [
-   "Steve Strowbridge",
-   "Off Target",
-   1.64,
-   15,
-   6,
-   2,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Alex Todisco",
    "Slow Mother Chuckers",
    1.64,
@@ -933,6 +918,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Strowbridge",
+   "Off Target",
+   1.64,
+   15,
+   6,
+   2,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-08T15:54:49Z"
+ "updated": "2026-11-08T16:56:24Z"
 }

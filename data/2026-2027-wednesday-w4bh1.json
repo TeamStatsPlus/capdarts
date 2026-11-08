@@ -612,21 +612,6 @@
    1
   ],
   [
-   "Collin Owczarzak",
-   "The Limp Wristers",
-   1.47,
-   12,
-   2,
-   4,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "John Waud",
    "Shart Shooters",
    1.47,
@@ -638,6 +623,21 @@
    3,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Collin Owczarzak",
+   "The Limp Wristers",
+   1.47,
+   12,
+   2,
+   4,
+   0,
+   0,
+   1,
+   1,
+   1,
    0,
    0
   ],
@@ -747,21 +747,6 @@
    0
   ],
   [
-   "Mike Houlihan",
-   "Emerald Society",
-   1.32,
-   15,
-   4,
-   4,
-   0,
-   0,
-   3,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Rob Byrd",
    "Closer To Zero",
    1.32,
@@ -773,6 +758,21 @@
    4,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Mike Houlihan",
+   "Emerald Society",
+   1.32,
+   15,
+   4,
+   4,
+   0,
+   0,
+   3,
+   0,
+   1,
    0,
    0
   ],
@@ -1226,18 +1226,6 @@
    22
   ],
   [
-   "Grant Busler",
-   "Cant Close",
-   19.86,
-   20,
-   6,
-   1,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
    "Corey Hartung",
    "The Limp Wristers",
    19.86,
@@ -1248,6 +1236,18 @@
    0,
    0,
    18
+  ],
+  [
+   "Grant Busler",
+   "Cant Close",
+   19.86,
+   20,
+   6,
+   1,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "Erik Double Deuces",
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-08T15:55:43Z"
+ "updated": "2026-11-08T16:57:12Z"
 }
