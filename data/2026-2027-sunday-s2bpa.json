@@ -152,10 +152,10 @@
     3.21
    ],
    [
-    "Chris Nesci",
-    "Black And Brown",
-    2.25,
-    2.36
+    "Justin Smith",
+    "Box Chevy",
+    2.78,
+    2.89
    ]
   ],
   "x": [
@@ -256,21 +256,6 @@
    2
   ],
   [
-   "Tashawn Rucker",
-   "Straight 2 The Point",
-   3.21,
-   36,
-   10,
-   6,
-   3,
-   1,
-   22,
-   12,
-   15,
-   0,
-   3
-  ],
-  [
    "Devan Wilson",
    "Here For The BEER",
    3.21,
@@ -284,6 +269,21 @@
    16,
    0,
    0
+  ],
+  [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   3.21,
+   36,
+   10,
+   6,
+   3,
+   1,
+   22,
+   12,
+   15,
+   0,
+   3
   ],
   [
    "Rich Allen",
@@ -1482,5 +1482,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-08T14:55:59Z"
+ "updated": "2026-11-08T15:54:28Z"
 }

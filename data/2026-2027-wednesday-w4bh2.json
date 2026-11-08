@@ -649,21 +649,6 @@
    0
   ],
   [
-   "Mike Hale",
-   "Id Hit That",
-   1.79,
-   15,
-   5,
-   0,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Adam TeWinkle",
    "Bullshots",
    1.79,
@@ -677,6 +662,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Mike Hale",
+   "Id Hit That",
+   1.79,
+   15,
+   5,
+   0,
+   0,
+   0,
+   2,
+   3,
+   0,
+   0,
+   0
   ],
   [
    "Aaron Meeks",
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-08T14:57:18Z"
+ "updated": "2026-11-08T15:55:48Z"
 }

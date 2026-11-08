@@ -353,21 +353,6 @@
    0
   ],
   [
-   "Philip Rowland",
-   "ChJokers",
-   2.33,
-   18,
-   11,
-   6,
-   0,
-   0,
-   4,
-   5,
-   2,
-   0,
-   0
-  ],
-  [
    "Joe Rowland",
    "ChJokers",
    2.33,
@@ -379,6 +364,21 @@
    5,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Philip Rowland",
+   "ChJokers",
+   2.33,
+   18,
+   11,
+   6,
+   0,
+   0,
+   4,
+   5,
+   2,
    0,
    0
   ],
@@ -413,21 +413,6 @@
    0
   ],
   [
-   "Ben Kulikowski",
-   "Good Smoke BBQ",
-   2.25,
-   15,
-   2,
-   4,
-   0,
-   0,
-   7,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Chad Pike",
    "Here 4 The Beer",
    2.25,
@@ -439,6 +424,21 @@
    5,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   2.25,
+   15,
+   2,
+   4,
+   0,
+   0,
+   7,
+   2,
+   0,
    0,
    0
   ],
@@ -653,21 +653,6 @@
    1
   ],
   [
-   "Dean Nicosia",
-   "Money Shot",
-   1.88,
-   3,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "David Caesar",
    "IDF NightCaps",
    1.88,
@@ -679,6 +664,21 @@
    2,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Dean Nicosia",
+   "Money Shot",
+   1.88,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -908,21 +908,6 @@
    0
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   1.64,
-   3,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Strowbridge",
    "Off Target",
    1.64,
@@ -933,6 +918,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   1.64,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -968,21 +968,6 @@
    0
   ],
   [
-   "Michelle Nguyen",
-   "Bad News Beers",
-   1.61,
-   18,
-   5,
-   7,
-   0,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Wills",
    "Tegridy",
    1.61,
@@ -1009,6 +994,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Michelle Nguyen",
+   "Bad News Beers",
+   1.61,
+   18,
+   5,
+   7,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -1073,15 +1073,15 @@
    0
   ],
   [
-   "Jake Halluciminatin",
-   "Halluciminatin",
+   "John Seward",
+   "RedEye",
    1.49,
-   18,
-   1,
+   12,
+   0,
+   4,
    0,
    0,
-   0,
-   3,
+   2,
    1,
    1,
    0,
@@ -1103,15 +1103,15 @@
    0
   ],
   [
-   "John Seward",
-   "RedEye",
+   "Jake Halluciminatin",
+   "Halluciminatin",
    1.49,
-   12,
+   18,
+   1,
    0,
-   4,
    0,
    0,
-   2,
+   3,
    1,
    1,
    0,
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-08T14:56:20Z"
+ "updated": "2026-11-08T15:54:49Z"
 }

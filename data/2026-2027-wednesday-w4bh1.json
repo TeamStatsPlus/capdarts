@@ -612,21 +612,6 @@
    1
   ],
   [
-   "John Waud",
-   "Shart Shooters",
-   1.47,
-   15,
-   4,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Collin Owczarzak",
    "The Limp Wristers",
    1.47,
@@ -638,6 +623,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "John Waud",
+   "Shart Shooters",
+   1.47,
+   15,
+   4,
+   3,
+   0,
+   0,
+   3,
+   0,
+   0,
    0,
    0
   ],
@@ -897,21 +897,6 @@
    0
   ],
   [
-   "Andrea Sutherland",
-   "Closer To Zero",
-   1.15,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Double Deuces",
    "Double Deuces",
    1.15,
@@ -922,6 +907,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrea Sutherland",
+   "Closer To Zero",
+   1.15,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-08T14:57:12Z"
+ "updated": "2026-11-08T15:55:43Z"
 }
