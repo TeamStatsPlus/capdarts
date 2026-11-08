@@ -653,21 +653,6 @@
    1
   ],
   [
-   "David Caesar",
-   "IDF NightCaps",
-   1.88,
-   15,
-   4,
-   3,
-   0,
-   0,
-   2,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Dean Nicosia",
    "Money Shot",
    1.88,
@@ -679,6 +664,21 @@
    1,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "David Caesar",
+   "IDF NightCaps",
+   1.88,
+   15,
+   4,
+   3,
+   0,
+   0,
+   2,
+   1,
+   2,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-08T19:05:56Z"
+ "updated": "2026-11-08T19:58:54Z"
 }
