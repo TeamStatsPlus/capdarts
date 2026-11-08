@@ -425,21 +425,6 @@
    0
   ],
   [
-   "Kyle Blumenstock",
-   "Bad Boys",
-   1.85,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Brendan Sheerwood",
    "Dirty O Boys",
    1.85,
@@ -450,6 +435,21 @@
    0,
    10,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kyle Blumenstock",
+   "Bad Boys",
+   1.85,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1948,5 +1948,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-08T06:05:57Z"
+ "updated": "2026-11-08T07:26:58Z"
 }

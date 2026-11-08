@@ -100,10 +100,10 @@
     1.91
    ],
    [
-    "James Samuelson",
+    "Joseph Shiner",
     "Satchel Of Richards",
-    3.01,
-    3.08
+    2.62,
+    2.69
    ]
   ],
   "x": [
@@ -174,21 +174,6 @@
    1
   ],
   [
-   "James Samuelson",
-   "Satchel Of Richards",
-   3.08,
-   15,
-   7,
-   3,
-   2,
-   0,
-   12,
-   6,
-   4,
-   1,
-   2
-  ],
-  [
    "Cory Humphries",
    "Water Off",
    3.08,
@@ -217,6 +202,21 @@
    4,
    0,
    0
+  ],
+  [
+   "James Samuelson",
+   "Satchel Of Richards",
+   3.08,
+   15,
+   7,
+   3,
+   2,
+   0,
+   12,
+   6,
+   4,
+   1,
+   2
   ],
   [
    "Justin Southwick",
@@ -324,21 +324,6 @@
    0
   ],
   [
-   "Jason Davis",
-   "Bigg Darts",
-   2.59,
-   6,
-   3,
-   0,
-   1,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Justin Burdett",
    "We Made The Cut",
    2.59,
@@ -350,6 +335,21 @@
    13,
    4,
    3,
+   0,
+   0
+  ],
+  [
+   "Jason Davis",
+   "Bigg Darts",
+   2.59,
+   6,
+   3,
+   0,
+   1,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -504,21 +504,6 @@
    2
   ],
   [
-   "Pat Childs",
-   "Fingerblasters",
-   1.91,
-   15,
-   3,
-   4,
-   0,
-   0,
-   5,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Pat Fagan",
    "Bigg Darts",
    1.91,
@@ -529,6 +514,21 @@
    0,
    5,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Pat Childs",
+   "Fingerblasters",
+   1.91,
+   15,
+   3,
+   4,
+   0,
+   0,
+   5,
+   2,
    1,
    0,
    0
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-08T06:06:44Z"
+ "updated": "2026-11-08T07:27:54Z"
 }
