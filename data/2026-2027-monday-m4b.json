@@ -413,21 +413,6 @@
    0
   ],
   [
-   "Chad Pike",
-   "Here 4 The Beer",
-   2.25,
-   15,
-   7,
-   3,
-   0,
-   0,
-   5,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Ben Kulikowski",
    "Good Smoke BBQ",
    2.25,
@@ -439,6 +424,21 @@
    7,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Chad Pike",
+   "Here 4 The Beer",
+   2.25,
+   15,
+   7,
+   3,
+   0,
+   0,
+   5,
+   3,
+   1,
    0,
    0
   ],
@@ -833,21 +833,6 @@
    0
   ],
   [
-   "Whitney Sawyer",
-   "RedEye",
-   1.7,
-   15,
-   1,
-   2,
-   0,
-   0,
-   3,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Bill Greenough",
    "Slow Mother Chuckers",
    1.7,
@@ -859,6 +844,21 @@
    3,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Whitney Sawyer",
+   "RedEye",
+   1.7,
+   15,
+   1,
+   2,
+   0,
+   0,
+   3,
+   0,
+   2,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-08T17:52:00Z"
+ "updated": "2026-11-08T19:05:56Z"
 }
