@@ -229,21 +229,6 @@
    0
   ],
   [
-   "Bob Fox",
-   "Toasted Darts",
-   2.32,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Zaccary Maguire",
    "Team Stinky",
    2.32,
@@ -257,6 +242,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Bob Fox",
+   "Toasted Darts",
+   2.32,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "BJ Ashford",
@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Rob Ayotte",
-   "Liquor Box",
-   1.81,
-   9,
-   2,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Juan Rosado",
    "Liquor Box",
    1.81,
@@ -629,6 +614,21 @@
    0,
    2,
    4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Ayotte",
+   "Liquor Box",
+   1.81,
+   9,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -649,21 +649,6 @@
    0
   ],
   [
-   "Adam TeWinkle",
-   "Bullshots",
-   1.79,
-   18,
-   7,
-   8,
-   0,
-   0,
-   6,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Mike Hale",
    "Id Hit That",
    1.79,
@@ -677,6 +662,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Adam TeWinkle",
+   "Bullshots",
+   1.79,
+   18,
+   7,
+   8,
+   0,
+   0,
+   6,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Aaron Meeks",
@@ -784,13 +784,13 @@
    0
   ],
   [
-   "Jon Nolte",
-   "Average Joes",
+   "Nick Maguire",
+   "Team Stinky",
    1.64,
    18,
    5,
    4,
-   0,
+   1,
    0,
    1,
    1,
@@ -799,13 +799,13 @@
    0
   ],
   [
-   "Nick Maguire",
-   "Team Stinky",
+   "Jon Nolte",
+   "Average Joes",
    1.64,
    18,
    5,
    4,
-   1,
+   0,
    0,
    1,
    1,
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-08T04:13:54Z"
+ "updated": "2026-11-08T05:11:55Z"
 }
