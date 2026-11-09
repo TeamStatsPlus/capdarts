@@ -372,12 +372,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   18,
+   10,
+   4,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   18,
-   10,
-   4,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -507,6 +507,21 @@
    0
   ],
   [
+   "Kevin Adams",
+   "Aiming Fluid",
+   1.96,
+   6,
+   2,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Barry Barklund",
    "Dartbags",
    1.96,
@@ -535,21 +550,6 @@
    0,
    0,
    1
-  ],
-  [
-   "Kevin Adams",
-   "Aiming Fluid",
-   1.96,
-   6,
-   2,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
   ],
   [
    "Mike Bisig",
@@ -612,21 +612,6 @@
    0
   ],
   [
-   "David Rogers",
-   "Truckin Bulls",
-   1.83,
-   18,
-   5,
-   3,
-   0,
-   0,
-   3,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Paul Cottingham",
    "AM Lumber",
    1.83,
@@ -638,6 +623,21 @@
    2,
    4,
    0,
+   0,
+   0
+  ],
+  [
+   "David Rogers",
+   "Truckin Bulls",
+   1.83,
+   18,
+   5,
+   3,
+   0,
+   0,
+   3,
+   3,
+   2,
    0,
    0
   ],
@@ -702,6 +702,21 @@
    0
   ],
   [
+   "Joe Tortora",
+   "Points And Pints",
+   1.75,
+   15,
+   6,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Dan Spencer",
    "Peppers And Onions",
    1.75,
@@ -727,21 +742,6 @@
    0,
    2,
    3,
-   1,
-   0,
-   0
-  ],
-  [
-   "Joe Tortora",
-   "Points And Pints",
-   1.75,
-   15,
-   6,
-   1,
-   1,
-   0,
-   0,
-   1,
    1,
    0,
    0
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Brian Leach",
-   "Truckin Bulls",
-   1.69,
-   18,
-   4,
-   5,
-   0,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Justin Ricci",
    "Show Your Tips",
    1.69,
@@ -818,6 +803,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Brian Leach",
+   "Truckin Bulls",
+   1.69,
+   18,
+   4,
+   5,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -987,21 +987,6 @@
    0
   ],
   [
-   "Joey Tortora",
-   "Points And Pints",
-   1.39,
-   15,
-   2,
-   3,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Rob Earl",
    "Peppers And Onions",
    1.39,
@@ -1011,6 +996,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joey Tortora",
+   "Points And Pints",
+   1.39,
+   15,
+   2,
+   3,
+   0,
+   0,
+   1,
    0,
    0,
    0,
@@ -1811,18 +1811,6 @@
    0
   ],
   [
-   "Kathy Bailey",
-   "Chicks And Dicks",
-   13.47,
-   16,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Justin Ricci",
    "Show Your Tips",
    13.47,
@@ -1833,6 +1821,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Kathy Bailey",
+   "Chicks And Dicks",
+   13.47,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Luke Leach",
@@ -1946,7 +1946,7 @@
   },
   {
    "name": "Trippin On Trips",
-   "site": "BTB Bar And Grill",
+   "site": "Retreat",
    "captain": "Pat Turco",
    "phone": "585-967-5972"
   },
@@ -2697,6 +2697,12 @@
    "address": "3170 Lake Ave, Rochester, NY 14612"
   },
   {
+   "name": "Retreat",
+   "machines": 1,
+   "phone": "585-227-9100",
+   "address": "512 Long Pond Rd, Rochester, NY 14612"
+  },
+  {
    "name": "Russell Station",
    "machines": 4,
    "phone": "585-270-8233",
@@ -2709,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-09T15:15:36Z"
+ "updated": "2026-11-09T16:25:35Z"
 }
