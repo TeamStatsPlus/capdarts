@@ -6,8 +6,8 @@
  "standings": [
   [
    "One Hole Off",
-   48,
-   17
+   58,
+   20
   ],
   [
    "We Dem Boyz",
@@ -15,19 +15,14 @@
    22
   ],
   [
-   "Docs Crew",
-   32,
-   20
-  ],
-  [
    "Tintins",
-   40,
-   25
+   48,
+   30
   ],
   [
    "Night Shot",
-   47,
-   31
+   53,
+   38
   ],
   [
    "Fing The Neighbors",
@@ -40,9 +35,19 @@
    29
   ],
   [
+   "Glass N Stache",
+   35,
+   30
+  ],
+  [
+   "Docs Crew",
+   35,
+   30
+  ],
+  [
    "Brothas",
-   34,
-   31
+   41,
+   37
   ],
   [
    "Team Titos",
@@ -50,19 +55,14 @@
    41
   ],
   [
-   "Glass N Stache",
-   24,
-   28
-  ],
-  [
    "Ones Are Closed",
-   30,
-   35
+   32,
+   46
   ],
   [
    "Talk Darty To Me",
-   24,
-   41
+   29,
+   49
   ],
   [
    "Tires And Soda",
@@ -71,71 +71,63 @@
   ],
   [
    "Double 1s",
-   26,
-   52
+   32,
+   59
   ],
   [
    "The Dartbags",
-   16,
-   49
+   23,
+   55
   ]
  ],
  "results": [
   [
-   "One Hole Off",
-   "Team Titos",
-   "11/01/2026",
-   6,
+   "Glass N Stache",
+   "Ones Are Closed",
+   "11/08/2026",
+   7,
    11,
    2
   ],
   [
+   "One Hole Off",
    "Docs Crew",
-   "The Dartbags",
-   "11/01/2026",
-   6,
+   "11/08/2026",
+   7,
    10,
    3
   ],
   [
-   "Double 1s",
-   "Tires And Soda",
-   "11/01/2026",
-   6,
-   10,
-   3
-  ],
-  [
-   "Glass N Stache",
+   "Tintins",
    "Talk Darty To Me",
-   "11/01/2026",
-   6,
+   "11/08/2026",
+   7,
    8,
    5
   ],
   [
-   "Ones Are Closed",
-   "Brothas",
-   "11/01/2026",
-   6,
-   7,
-   6
-  ],
-  [
-   "Tintins",
-   "We Dem Boyz",
-   "11/01/2026",
-   6,
-   7,
-   6
-  ],
-  [
+   "The Dartbags",
    "Night Shot",
-   "Fing The Neighbors",
-   "11/01/2026",
-   6,
+   "11/08/2026",
+   7,
    7,
    6
+  ],
+  [
+   "Brothas",
+   "Double 1s",
+   "11/08/2026",
+   7,
+   7,
+   6
+  ],
+  [
+   "Double 1s",
+   "Brothas",
+   "11/08/2026",
+   7,
+   6,
+   7
   ],
   [
    "Fing The Neighbors",
@@ -154,26 +146,26 @@
    7
   ],
   [
-   "Brothas",
-   "Ones Are Closed",
-   "11/01/2026",
-   6,
+   "Night Shot",
+   "The Dartbags",
+   "11/08/2026",
+   7,
    6,
    7
   ],
   [
    "Talk Darty To Me",
-   "Glass N Stache",
-   "11/01/2026",
-   6,
+   "Tintins",
+   "11/08/2026",
+   7,
    5,
    8
   ],
   [
-   "The Dartbags",
    "Docs Crew",
-   "11/01/2026",
-   6,
+   "One Hole Off",
+   "11/08/2026",
+   7,
    3,
    10
   ],
@@ -184,6 +176,14 @@
    6,
    3,
    10
+  ],
+  [
+   "Ones Are Closed",
+   "Glass N Stache",
+   "11/08/2026",
+   7,
+   2,
+   11
   ],
   [
    "Team Titos",
@@ -205,42 +205,42 @@
  "improved": {
   "c": [
    [
+    "Aaron Davis",
+    "Ones Are Closed",
+    0.87,
+    1.06
+   ],
+   [
     "Kenny Williams",
     "Glass N Stache",
-    1.87,
-    2.1
+    2.1,
+    2.23
    ],
    [
-    "Adam Martinez",
-    "Talk Darty To Me",
-    1.69,
-    1.8
-   ],
-   [
-    "Ethan Glashauser",
-    "Glass N Stache",
-    1.77,
-    1.84
+    "James Davis",
+    "Ones Are Closed",
+    2.09,
+    2.16
    ]
   ],
   "x": [
    [
-    "Ethan Glashauser",
+    "Kenny Williams",
     "Glass N Stache",
-    15.18,
-    16.66
+    17.93,
+    18.81
    ],
    [
-    "Donovan Caraballo",
-    "Talk Darty To Me",
-    18.4,
-    19.28
+    "Andrew Williams",
+    "One Hole Off",
+    21.48,
+    22.17
    ],
    [
-    "Dave Heschke",
-    "Fing The Neighbors",
-    16.25,
-    16.78
+    "Claude Yeoumas",
+    "Brothas",
+    18.31,
+    18.81
    ]
   ]
  },
@@ -248,15 +248,15 @@
   [
    "Justin Southwick",
    "Tintins",
-   2.81,
-   30,
-   13,
+   2.86,
+   36,
+   17,
    5,
-   3,
+   4,
    0,
-   14,
-   7,
-   11,
+   19,
+   8,
+   12,
    0,
    1
   ],
@@ -278,14 +278,14 @@
   [
    "Enzo Maiola",
    "Docs Crew",
-   2.43,
-   24,
+   2.41,
+   30,
+   9,
    8,
-   8,
-   1,
+   2,
    0,
    8,
-   3,
+   4,
    4,
    0,
    1
@@ -293,13 +293,13 @@
   [
    "John Salamone",
    "Brothas",
-   2.39,
-   30,
-   7,
-   11,
-   1,
+   2.32,
+   36,
+   10,
+   12,
+   2,
    0,
-   9,
+   13,
    10,
    4,
    0,
@@ -308,60 +308,75 @@
   [
    "Andrew Williams",
    "One Hole Off",
-   2.27,
-   24,
-   9,
-   9,
+   2.31,
+   30,
+   11,
+   12,
    1,
-   1,
-   5,
-   5,
+   2,
+   6,
+   6,
    2,
    0,
    1
   ],
   [
+   "Neal Kenyon",
+   "One Hole Off",
+   2.27,
+   30,
+   12,
+   11,
+   0,
+   0,
+   9,
+   3,
+   2,
+   0,
+   1
+  ],
+  [
+   "Kenny Williams",
+   "Glass N Stache",
+   2.23,
+   30,
+   5,
+   12,
+   0,
+   0,
+   20,
+   6,
+   1,
+   0,
+   2
+  ],
+  [
    "Claude Yeoumas",
    "Brothas",
-   2.25,
-   30,
-   11,
-   7,
+   2.19,
+   36,
+   12,
+   10,
    1,
    1,
    11,
-   5,
+   6,
    2,
    0,
    0
   ],
   [
-   "Neal Kenyon",
-   "One Hole Off",
-   2.24,
-   24,
-   9,
-   9,
-   0,
-   0,
-   7,
-   1,
-   2,
-   0,
-   1
-  ],
-  [
-   "Sean Crowell",
-   "The Dartbags",
+   "James Davis",
+   "Ones Are Closed",
    2.16,
-   30,
-   7,
-   1,
+   36,
+   8,
+   3,
    0,
    0,
-   11,
-   1,
+   15,
    4,
+   1,
    0,
    0
   ],
@@ -369,14 +384,29 @@
    "David Caesar",
    "Night Shot",
    2.14,
-   36,
-   14,
-   9,
+   42,
+   15,
+   11,
    2,
    0,
-   13,
+   14,
    7,
    3,
+   0,
+   0
+  ],
+  [
+   "Sean Crowell",
+   "The Dartbags",
+   2.14,
+   36,
+   10,
+   1,
+   0,
+   0,
+   12,
+   2,
+   4,
    0,
    0
   ],
@@ -396,47 +426,17 @@
    0
   ],
   [
-   "Kenny Williams",
-   "Glass N Stache",
-   2.1,
-   24,
-   3,
-   9,
-   0,
-   0,
-   14,
-   4,
-   1,
-   0,
-   2
-  ],
-  [
-   "James Davis",
-   "Ones Are Closed",
-   2.09,
-   30,
-   7,
-   3,
-   0,
-   0,
-   11,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Bauman",
    "Docs Crew",
-   2.07,
-   18,
+   2.08,
+   24,
    6,
-   4,
+   5,
    0,
    0,
    2,
    2,
-   0,
+   1,
    0,
    1
   ],
@@ -471,6 +471,21 @@
    0
   ],
   [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   1.9,
+   24,
+   7,
+   7,
+   0,
+   0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
    "Brian Kea",
    "TWINS",
    1.9,
@@ -501,30 +516,15 @@
    0
   ],
   [
-   "Dave Heschke",
-   "Fing The Neighbors",
-   1.9,
-   24,
-   7,
-   7,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Ethan Glashauser",
    "Glass N Stache",
-   1.84,
-   18,
-   7,
-   2,
+   1.87,
+   24,
+   10,
+   4,
    0,
    0,
-   5,
+   8,
    1,
    0,
    0,
@@ -533,13 +533,13 @@
   [
    "Donovan Caraballo",
    "Talk Darty To Me",
-   1.82,
-   24,
-   7,
-   3,
+   1.84,
+   30,
+   8,
+   4,
    0,
    0,
-   5,
+   8,
    1,
    2,
    0,
@@ -548,14 +548,29 @@
   [
    "Adam Martinez",
    "Talk Darty To Me",
-   1.8,
-   24,
+   1.83,
+   30,
+   4,
+   8,
    3,
-   7,
-   2,
    0,
    2,
-   3,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Chaz Carley",
+   "Night Shot",
+   1.81,
+   42,
+   11,
+   15,
+   0,
+   0,
+   10,
+   4,
    1,
    0,
    0
@@ -570,21 +585,6 @@
    2,
    0,
    10,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
-   "Chaz Carley",
-   "Night Shot",
-   1.77,
-   36,
-   9,
-   14,
-   0,
-   0,
-   9,
    2,
    1,
    0,
@@ -653,13 +653,13 @@
   [
    "James Lee",
    "Double 1s",
-   1.57,
-   24,
+   1.58,
+   30,
+   6,
+   2,
+   0,
+   0,
    5,
-   1,
-   0,
-   0,
-   3,
    2,
    0,
    0,
@@ -681,12 +681,27 @@
    0
   ],
   [
+   "Kristin Southwick",
+   "Tintins",
+   1.41,
+   24,
+   2,
+   12,
+   0,
+   0,
+   4,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
    "Tyler Bishop",
    "Double 1s",
-   1.43,
-   24,
-   1,
-   5,
+   1.4,
+   30,
+   2,
+   6,
    0,
    0,
    5,
@@ -711,30 +726,15 @@
    0
   ],
   [
-   "Kristin Southwick",
-   "Tintins",
-   1.34,
-   18,
-   2,
-   8,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Jenna Roelle",
    "The Dartbags",
-   1.28,
-   30,
+   1.33,
+   36,
    1,
-   7,
+   10,
    0,
    0,
-   1,
+   2,
    0,
    0,
    0,
@@ -743,13 +743,13 @@
   [
    "Aaron Davis",
    "Ones Are Closed",
-   0.87,
-   6,
+   1.06,
+   12,
    0,
-   1,
+   2,
    0,
    0,
-   0,
+   2,
    0,
    1,
    0,
@@ -760,38 +760,38 @@
   [
    "Enzo Maiola",
    "Docs Crew",
-   25.33,
-   28,
-   10,
+   24.74,
+   35,
    11,
+   12,
    0,
    0,
    0,
-   33
+   37
   ],
   [
    "Justin Southwick",
    "Tintins",
-   24.27,
-   35,
-   19,
-   2,
+   24.47,
+   42,
+   22,
+   3,
    0,
-   1,
-   1,
-   43
+   2,
+   2,
+   49
   ],
   [
    "John Salamone",
    "Brothas",
-   22.88,
-   35,
+   22.83,
+   42,
    7,
-   5,
+   6,
    0,
    0,
    0,
-   36
+   42
   ],
   [
    "Dave Coin",
@@ -806,28 +806,28 @@
    22
   ],
   [
-   "Steve Bauman",
-   "Docs Crew",
-   21.63,
-   21,
+   "Andrew Williams",
+   "One Hole Off",
+   22.17,
+   35,
+   11,
    5,
    0,
    0,
    0,
-   0,
-   18
+   26
   ],
   [
-   "Andrew Williams",
-   "One Hole Off",
-   21.48,
+   "Steve Bauman",
+   "Docs Crew",
+   21.59,
    28,
-   8,
-   3,
+   6,
    0,
    0,
    0,
-   19
+   0,
+   25
   ],
   [
    "Cameron Giles",
@@ -844,50 +844,50 @@
   [
    "Sean Crowell",
    "The Dartbags",
-   19.5,
-   35,
-   6,
+   19.61,
+   42,
+   8,
    2,
    0,
    0,
    0,
-   27
-  ],
-  [
-   "Adam Martinez",
-   "Talk Darty To Me",
-   19.48,
-   28,
-   9,
-   1,
-   0,
-   0,
-   0,
-   24
+   36
   ],
   [
    "David Caesar",
    "Night Shot",
-   19.45,
-   42,
-   11,
+   19.55,
+   49,
+   13,
    4,
    0,
    0,
    0,
-   22
+   28
   ],
   [
    "Donovan Caraballo",
    "Talk Darty To Me",
-   19.28,
-   28,
-   5,
+   19.53,
+   35,
+   8,
    4,
    0,
    0,
    1,
-   17
+   21
+  ],
+  [
+   "James Davis",
+   "Ones Are Closed",
+   19.36,
+   42,
+   17,
+   1,
+   0,
+   0,
+   0,
+   25
   ],
   [
    "Tony Maiola",
@@ -902,6 +902,18 @@
    6
   ],
   [
+   "Adam Martinez",
+   "Talk Darty To Me",
+   19.23,
+   35,
+   9,
+   2,
+   0,
+   0,
+   0,
+   28
+  ],
+  [
    "Brian Kea",
    "TWINS",
    19.2,
@@ -914,28 +926,40 @@
    13
   ],
   [
-   "James Davis",
-   "Ones Are Closed",
-   18.96,
-   35,
-   16,
-   1,
-   0,
-   0,
-   0,
-   19
-  ],
-  [
    "Neal Kenyon",
    "One Hole Off",
-   18.81,
-   28,
-   9,
+   18.86,
+   35,
+   11,
    2,
    0,
    0,
    1,
-   15
+   19
+  ],
+  [
+   "Claude Yeoumas",
+   "Brothas",
+   18.81,
+   42,
+   12,
+   1,
+   0,
+   0,
+   0,
+   22
+  ],
+  [
+   "Kenny Williams",
+   "Glass N Stache",
+   18.81,
+   35,
+   11,
+   2,
+   0,
+   0,
+   0,
+   19
   ],
   [
    "TJ Vay",
@@ -948,18 +972,6 @@
    0,
    0,
    6
-  ],
-  [
-   "Claude Yeoumas",
-   "Brothas",
-   18.31,
-   35,
-   9,
-   1,
-   0,
-   0,
-   0,
-   16
   ],
   [
    "Jason Miles",
@@ -984,18 +996,6 @@
    0,
    0,
    12
-  ],
-  [
-   "Kenny Williams",
-   "Glass N Stache",
-   17.93,
-   28,
-   7,
-   1,
-   0,
-   0,
-   0,
-   15
   ],
   [
    "Karl Taylor",
@@ -1034,16 +1034,16 @@
    8
   ],
   [
-   "Chaz Carley",
-   "Night Shot",
-   17.16,
-   42,
-   13,
-   2,
+   "Ethan Glashauser",
+   "Glass N Stache",
+   16.8,
+   28,
+   7,
+   1,
    0,
    0,
    0,
-   18
+   14
   ],
   [
    "Dave Heschke",
@@ -1058,12 +1058,24 @@
    7
   ],
   [
-   "Ethan Glashauser",
-   "Glass N Stache",
-   16.66,
-   21,
-   5,
-   1,
+   "Chaz Carley",
+   "Night Shot",
+   16.67,
+   49,
+   14,
+   3,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "James Lee",
+   "Double 1s",
+   16.16,
+   35,
+   15,
+   0,
    0,
    0,
    0,
@@ -1094,52 +1106,40 @@
    2
   ],
   [
-   "James Lee",
+   "Tyler Bishop",
    "Double 1s",
-   15.68,
-   28,
-   12,
+   15.06,
+   35,
+   9,
    0,
    0,
    0,
-   0,
-   8
+   1,
+   7
   ],
   [
    "Kristin Southwick",
    "Tintins",
-   15.12,
-   21,
+   14.68,
+   28,
    2,
    0,
    0,
    0,
    0,
-   4
-  ],
-  [
-   "Tyler Bishop",
-   "Double 1s",
-   15.08,
-   28,
-   8,
-   0,
-   0,
-   0,
-   1,
-   6
+   5
   ],
   [
    "Aaron Davis",
    "Ones Are Closed",
-   13.5,
-   7,
+   14.0,
+   14,
    0,
    0,
    0,
    0,
    0,
-   1
+   2
   ],
   [
    "Ken Azzarello",
@@ -1156,14 +1156,14 @@
   [
    "Jenna Roelle",
    "The Dartbags",
-   13.14,
-   35,
-   2,
+   13.31,
+   42,
+   4,
    0,
    0,
    0,
    0,
-   0
+   1
   ]
  ],
  "teams": [
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-08T20:55:04Z"
+ "updated": "2026-11-09T03:07:59Z"
 }
