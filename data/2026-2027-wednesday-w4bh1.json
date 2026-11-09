@@ -642,21 +642,6 @@
    0
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   1.46,
-   9,
-   4,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    1.46,
@@ -667,6 +652,21 @@
    0,
    4,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   1.46,
+   9,
+   4,
+   3,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -1062,6 +1062,21 @@
    0
   ],
   [
+   "Jill Calvert",
+   "Squeekertips",
+   0.98,
+   15,
+   3,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Jamie Brown",
    "Tips Dont Lie",
    0.98,
@@ -1077,12 +1092,12 @@
    0
   ],
   [
-   "Jill Calvert",
+   "Carly Kostiw",
    "Squeekertips",
-   0.98,
+   0.96,
    15,
-   3,
    1,
+   3,
    0,
    0,
    1,
@@ -1101,21 +1116,6 @@
    0,
    0,
    3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Carly Kostiw",
-   "Squeekertips",
-   0.96,
-   15,
-   1,
-   3,
-   0,
-   0,
-   1,
    0,
    0,
    0,
@@ -1152,21 +1152,6 @@
    0
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
-   0.9,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kaitlyn Schaeffer",
    "Throwgasms",
    0.9,
@@ -1182,10 +1167,10 @@
    0
   ],
   [
-   "Aaron Struggle Bus",
-   "Struggle Bus",
-   0.89,
-   6,
+   "Cindy Simpson",
+   "Squeekertips",
+   0.9,
+   3,
    0,
    0,
    0,
@@ -1202,6 +1187,21 @@
    0.89,
    3,
    1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Aaron Struggle Bus",
+   "Struggle Bus",
+   0.89,
+   6,
+   0,
    0,
    0,
    0,
@@ -1658,18 +1658,6 @@
    1
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
-   14.0,
-   4,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Tyler CannonBailey",
    "Squeekertips",
    14.0,
@@ -1680,6 +1668,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Cindy Simpson",
+   "Squeekertips",
+   14.0,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Tyler Voellinger",
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-09T16:26:02Z"
+ "updated": "2026-11-09T19:18:29Z"
 }
