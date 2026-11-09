@@ -402,21 +402,6 @@
    0
   ],
   [
-   "Ryan Boardman",
-   "Double Deuces",
-   1.67,
-   15,
-   3,
-   7,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Stephen Popowych",
    "ProjectileDysfncion",
    1.67,
@@ -427,6 +412,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ryan Boardman",
+   "Double Deuces",
+   1.67,
+   15,
+   3,
+   7,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -612,6 +612,21 @@
    1
   ],
   [
+   "John Waud",
+   "Shart Shooters",
+   1.47,
+   15,
+   4,
+   3,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Collin Owczarzak",
    "The Limp Wristers",
    1.47,
@@ -627,10 +642,10 @@
    0
   ],
   [
-   "John Waud",
-   "Shart Shooters",
-   1.47,
-   15,
+   "Christa Herbst",
+   "Cant Close",
+   1.46,
+   9,
    4,
    3,
    0,
@@ -652,21 +667,6 @@
    0,
    4,
    2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Christa Herbst",
-   "Cant Close",
-   1.46,
-   9,
-   4,
-   3,
-   0,
-   0,
-   3,
-   0,
    0,
    0,
    0
@@ -702,21 +702,6 @@
    0
   ],
   [
-   "Howie Klick",
-   "Emerald Society",
-   1.34,
-   12,
-   3,
-   2,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bri Smith",
    "3some Plus 1",
    1.34,
@@ -727,6 +712,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Howie Klick",
+   "Emerald Society",
+   1.34,
+   12,
+   3,
+   2,
+   1,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -897,21 +897,6 @@
    0
   ],
   [
-   "Andrea Sutherland",
-   "Closer To Zero",
-   1.15,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Double Deuces",
    "Double Deuces",
    1.15,
@@ -922,6 +907,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrea Sutherland",
+   "Closer To Zero",
+   1.15,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1002,12 +1002,12 @@
    0
   ],
   [
-   "Katy Carges",
-   "Throwgasms",
+   "Sylvan Hemingway",
+   "Squeekertips",
    1.01,
-   9,
+   12,
    1,
-   2,
+   0,
    0,
    0,
    1,
@@ -1017,12 +1017,12 @@
    0
   ],
   [
-   "Sylvan Hemingway",
-   "Squeekertips",
+   "Katy Carges",
+   "Throwgasms",
    1.01,
-   12,
+   9,
    1,
-   0,
+   2,
    0,
    0,
    1,
@@ -1062,21 +1062,6 @@
    0
   ],
   [
-   "Jill Calvert",
-   "Squeekertips",
-   0.98,
-   15,
-   3,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    0.98,
@@ -1087,6 +1072,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Squeekertips",
+   0.98,
+   15,
+   3,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-09T04:22:08Z"
+ "updated": "2026-11-09T06:27:34Z"
 }

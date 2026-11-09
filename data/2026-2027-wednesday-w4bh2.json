@@ -544,21 +544,6 @@
    0
   ],
   [
-   "Rick Nelson",
-   "Toasted Darts",
-   1.84,
-   18,
-   6,
-   4,
-   0,
-   0,
-   7,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jessie Purdy",
    "Team Stinky",
    1.84,
@@ -569,6 +554,21 @@
    0,
    5,
    4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rick Nelson",
+   "Toasted Darts",
+   1.84,
+   18,
+   6,
+   4,
+   0,
+   0,
+   7,
+   0,
    0,
    0,
    0
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-09T04:22:14Z"
+ "updated": "2026-11-09T06:27:40Z"
 }
