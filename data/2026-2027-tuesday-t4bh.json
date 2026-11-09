@@ -260,21 +260,6 @@
    0
   ],
   [
-   "Brian Sloan",
-   "The Critters",
-   1.87,
-   18,
-   4,
-   2,
-   2,
-   0,
-   6,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Andy Del Gandio",
    "The Critters",
    1.87,
@@ -285,6 +270,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.87,
+   18,
+   4,
+   2,
+   2,
+   0,
+   6,
+   3,
    0,
    0,
    0
@@ -545,21 +545,6 @@
    0
   ],
   [
-   "Edward Gschrey",
-   "Team Name",
-   1.44,
-   9,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jimmy Mietus",
    "Team Name",
    1.44,
@@ -571,6 +556,21 @@
    0,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   1.44,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-09T03:08:46Z"
+ "updated": "2026-11-09T04:21:36Z"
 }

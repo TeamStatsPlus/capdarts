@@ -402,21 +402,6 @@
    0
   ],
   [
-   "Stephen Popowych",
-   "ProjectileDysfncion",
-   1.67,
-   12,
-   5,
-   2,
-   1,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Ryan Boardman",
    "Double Deuces",
    1.67,
@@ -427,6 +412,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Stephen Popowych",
+   "ProjectileDysfncion",
+   1.67,
+   12,
+   5,
+   2,
+   1,
+   0,
+   0,
+   3,
    0,
    0,
    0
@@ -642,21 +642,6 @@
    0
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   1.46,
-   9,
-   4,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    1.46,
@@ -667,6 +652,21 @@
    0,
    4,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   1.46,
+   9,
+   4,
+   3,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -1062,21 +1062,6 @@
    0
   ],
   [
-   "Jamie Brown",
-   "Tips Dont Lie",
-   0.98,
-   9,
-   1,
-   2,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jill Calvert",
    "Squeekertips",
    0.98,
@@ -1087,6 +1072,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jamie Brown",
+   "Tips Dont Lie",
+   0.98,
+   9,
+   1,
+   2,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-09T03:09:16Z"
+ "updated": "2026-11-09T04:22:08Z"
 }

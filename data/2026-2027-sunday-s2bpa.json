@@ -40,22 +40,30 @@
    54
   ],
   [
+   "Brown Viper",
+   41,
+   64
+  ],
+  [
    "Black And Brown",
    29,
    61
   ],
   [
-   "Brown Viper",
-   26,
-   64
-  ],
-  [
    "Not Ready 4Primetime",
    3,
-   87
+   102
   ]
  ],
  "results": [
+  [
+   "Brown Viper",
+   "Not Ready 4Primetime",
+   "11/08/2026",
+   7,
+   15,
+   0
+  ],
   [
    "Pickled Turtles",
    "Box Chevy",
@@ -87,14 +95,6 @@
    7,
    10,
    5
-  ],
-  [
-   "Brown Viper",
-   "Rich And Tom",
-   "11/01/2026",
-   6,
-   7,
-   8
   ],
   [
    "Ghost Bear",
@@ -130,9 +130,9 @@
   ],
   [
    "Not Ready 4Primetime",
-   "Water Off",
-   "11/01/2026",
-   6,
+   "Brown Viper",
+   "11/08/2026",
+   7,
    0,
    15
   ]
@@ -378,15 +378,15 @@
   [
    "Fred James",
    "Brown Viper",
-   2.79,
-   36,
-   10,
-   1,
+   2.82,
+   42,
+   14,
+   3,
    4,
    0,
-   15,
-   12,
-   7,
+   18,
+   14,
+   11,
    0,
    1
   ],
@@ -496,21 +496,6 @@
    2
   ],
   [
-   "Judson Brown",
-   "Brown Viper",
-   2.4,
-   36,
-   3,
-   4,
-   1,
-   0,
-   14,
-   6,
-   4,
-   1,
-   0
-  ],
-  [
    "Chris Nesci",
    "Black And Brown",
    2.36,
@@ -523,6 +508,21 @@
    3,
    2,
    0,
+   0
+  ],
+  [
+   "Judson Brown",
+   "Brown Viper",
+   2.36,
+   42,
+   7,
+   6,
+   1,
+   0,
+   17,
+   7,
+   4,
+   1,
    0
   ],
   [
@@ -543,23 +543,23 @@
   [
    "Micheal Morgan",
    "Not Ready 4Primetime",
-   1.84,
-   36,
+   1.86,
+   42,
    2,
    0,
    0,
    0,
-   9,
+   10,
    1,
-   4,
+   5,
    0,
    0
   ],
   [
    "Zach Morgan",
    "Not Ready 4Primetime",
-   1.73,
-   36,
+   1.68,
+   42,
    0,
    1,
    1,
@@ -717,18 +717,6 @@
    8
   ],
   [
-   "Fred James",
-   "Brown Viper",
-   23.29,
-   42,
-   5,
-   13,
-   0,
-   0,
-   1,
-   56
-  ],
-  [
    "Ashton Maracle",
    "Ghost Bear",
    23.24,
@@ -751,6 +739,18 @@
    0,
    5,
    58
+  ],
+  [
+   "Fred James",
+   "Brown Viper",
+   23.1,
+   49,
+   12,
+   15,
+   0,
+   0,
+   1,
+   67
   ],
   [
    "Chris Nesci",
@@ -825,18 +825,6 @@
    10
   ],
   [
-   "Judson Brown",
-   "Brown Viper",
-   22.02,
-   42,
-   8,
-   5,
-   1,
-   0,
-   2,
-   37
-  ],
-  [
    "Efrain Figueroa",
    "Black And Brown",
    22.0,
@@ -847,6 +835,18 @@
    0,
    0,
    60
+  ],
+  [
+   "Judson Brown",
+   "Brown Viper",
+   21.67,
+   49,
+   8,
+   6,
+   1,
+   0,
+   2,
+   45
   ],
   [
    "Branden Daniels",
@@ -863,26 +863,26 @@
   [
    "Micheal Morgan",
    "Not Ready 4Primetime",
-   15.97,
-   42,
+   16.25,
+   49,
    1,
    2,
    0,
    0,
-   0,
-   19
+   1,
+   22
   ],
   [
    "Zach Morgan",
    "Not Ready 4Primetime",
-   15.45,
-   42,
+   15.39,
+   49,
    0,
    0,
    0,
    0,
    0,
-   21
+   24
   ]
  ],
  "teams": [
@@ -1509,5 +1509,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-09T03:08:03Z"
+ "updated": "2026-11-09T04:20:49Z"
 }
