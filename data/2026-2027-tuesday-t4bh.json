@@ -120,16 +120,16 @@
     1.74
    ],
    [
+    "Casey Birch",
+    "The Critters",
+    1.31,
+    1.41
+   ],
+   [
     "Edward Gschrey",
     "Team Name",
     1.34,
     1.44
-   ],
-   [
-    "Mike Garrity",
-    "Thats Bullshoot",
-    1.12,
-    1.22
    ]
   ],
   "x": [
@@ -455,21 +455,6 @@
    0
   ],
   [
-   "Emily Chard",
-   "Thats Bullshoot",
-   1.6,
-   15,
-   4,
-   3,
-   0,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Ben Vassallo",
    "Lady And The Tramps",
    1.6,
@@ -479,6 +464,21 @@
    0,
    0,
    0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Emily Chard",
+   "Thats Bullshoot",
+   1.6,
+   15,
+   4,
+   3,
+   0,
+   0,
+   2,
    2,
    0,
    0,
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-09T10:18:14Z"
+ "updated": "2026-11-09T11:18:22Z"
 }
