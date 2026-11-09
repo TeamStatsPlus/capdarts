@@ -353,21 +353,6 @@
    0
   ],
   [
-   "Joe Rowland",
-   "ChJokers",
-   2.33,
-   18,
-   7,
-   8,
-   1,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Philip Rowland",
    "ChJokers",
    2.33,
@@ -379,6 +364,21 @@
    4,
    5,
    2,
+   0,
+   0
+  ],
+  [
+   "Joe Rowland",
+   "ChJokers",
+   2.33,
+   18,
+   7,
+   8,
+   1,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -833,21 +833,6 @@
    0
   ],
   [
-   "Bill Greenough",
-   "Slow Mother Chuckers",
-   1.7,
-   18,
-   4,
-   6,
-   1,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Whitney Sawyer",
    "RedEye",
    1.7,
@@ -859,6 +844,21 @@
    3,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Bill Greenough",
+   "Slow Mother Chuckers",
+   1.7,
+   18,
+   4,
+   6,
+   1,
+   0,
+   3,
+   0,
+   0,
    0,
    0
   ],
@@ -3006,5 +3006,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-09T20:13:50Z"
+ "updated": "2026-11-09T21:11:27Z"
 }
