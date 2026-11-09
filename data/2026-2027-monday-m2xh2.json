@@ -16,8 +16,8 @@
   ],
   [
    "Kookeez Krumble",
-   45,
-   33
+   52,
+   39
   ],
   [
    "CHEERS",
@@ -31,8 +31,8 @@
   ],
   [
    "ApologiseNow",
-   37,
-   41
+   43,
+   48
   ],
   [
    "Game Of Throws",
@@ -71,6 +71,14 @@
    6
   ],
   [
+   "Kookeez Krumble",
+   "ApologiseNow",
+   "11/09/2026",
+   7,
+   7,
+   6
+  ],
+  [
    "Snuggs Snipers",
    "APA",
    "11/02/2026",
@@ -88,19 +96,11 @@
   ],
   [
    "ApologiseNow",
-   "Galactic Platypus",
-   "11/02/2026",
-   6,
+   "Kookeez Krumble",
+   "11/09/2026",
+   7,
    6,
    7
-  ],
-  [
-   "Kookeez Krumble",
-   "Oh Look Butterflies",
-   "11/02/2026",
-   6,
-   4,
-   9
   ],
   [
    "Game Of Throws",
@@ -114,42 +114,42 @@
  "improved": {
   "c": [
    [
-    "Dillen Malone",
-    "Oh Look Butterflies",
-    2.8,
-    2.9
-   ],
-   [
-    "Mike Infantino",
-    "Galactic Platypus",
-    2.66,
-    2.73
-   ],
-   [
     "Todd Guichard",
     "ApologiseNow",
-    2.26,
-    2.32
-   ]
-  ],
-  "x": [
-   [
-    "Will Zimmer",
-    "Game Of Throws",
-    23.8,
-    24.62
-   ],
-   [
-    "Shaun Stocking",
-    "CHEERS",
-    27.39,
-    27.93
+    2.32,
+    2.41
    ],
    [
     "Desmond Parris",
     "Kookeez Krumble",
-    24.14,
-    24.64
+    2.33,
+    2.37
+   ],
+   [
+    "Hector Hernandez",
+    "Kookeez Krumble",
+    2.43,
+    2.46
+   ]
+  ],
+  "x": [
+   [
+    "Hector Hernandez",
+    "Kookeez Krumble",
+    22.97,
+    23.24
+   ],
+   [
+    "Todd Guichard",
+    "ApologiseNow",
+    21.03,
+    21.16
+   ],
+   [
+    "Desmond Parris",
+    "Kookeez Krumble",
+    24.64,
+    24.72
    ]
   ]
  },
@@ -230,6 +230,21 @@
    0
   ],
   [
+   "Hector Hernandez",
+   "Kookeez Krumble",
+   2.46,
+   42,
+   11,
+   10,
+   0,
+   0,
+   20,
+   4,
+   8,
+   0,
+   0
+  ],
+  [
    "Will Zimmer",
    "Game Of Throws",
    2.45,
@@ -245,49 +260,34 @@
    0
   ],
   [
-   "Hector Hernandez",
-   "Kookeez Krumble",
-   2.43,
-   36,
-   11,
+   "Todd Guichard",
+   "ApologiseNow",
+   2.41,
+   42,
+   10,
    7,
    0,
    0,
-   18,
-   4,
-   6,
+   8,
+   10,
+   5,
    0,
    0
   ],
   [
    "Desmond Parris",
    "Kookeez Krumble",
-   2.33,
-   36,
-   7,
+   2.37,
+   42,
+   10,
    11,
    1,
    0,
-   18,
-   11,
+   22,
+   12,
    0,
    0,
    1
-  ],
-  [
-   "Todd Guichard",
-   "ApologiseNow",
-   2.32,
-   36,
-   9,
-   5,
-   0,
-   0,
-   5,
-   7,
-   5,
-   0,
-   0
   ],
   [
    "Todd Keller",
@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Mian Saladeen",
-   "ApologiseNow",
-   2.19,
-   36,
-   5,
-   9,
-   0,
-   0,
-   16,
-   3,
-   1,
-   1,
-   0
-  ],
-  [
    "Alli Distler",
    "Galactic Platypus",
    2.19,
@@ -332,6 +317,21 @@
    5,
    1,
    0,
+   0
+  ],
+  [
+   "Mian Saladeen",
+   "ApologiseNow",
+   2.16,
+   42,
+   7,
+   10,
+   0,
+   0,
+   18,
+   3,
+   1,
+   1,
    0
   ],
   [
@@ -447,14 +447,14 @@
   [
    "Desmond Parris",
    "Kookeez Krumble",
-   24.64,
-   42,
-   16,
-   8,
+   24.72,
+   49,
+   19,
+   10,
    0,
    0,
    0,
-   38
+   48
   ],
   [
    "Will Zimmer",
@@ -483,14 +483,26 @@
   [
    "Hector Hernandez",
    "Kookeez Krumble",
-   22.97,
-   42,
-   11,
-   4,
+   23.24,
+   49,
+   12,
+   6,
    0,
    0,
    0,
-   43
+   50
+  ],
+  [
+   "Todd Guichard",
+   "ApologiseNow",
+   21.16,
+   49,
+   10,
+   6,
+   0,
+   0,
+   0,
+   37
   ],
   [
    "Todd Keller",
@@ -502,18 +514,6 @@
    0,
    0,
    1,
-   31
-  ],
-  [
-   "Todd Guichard",
-   "ApologiseNow",
-   21.03,
-   42,
-   8,
-   5,
-   0,
-   0,
-   0,
    31
   ],
   [
@@ -531,14 +531,14 @@
   [
    "Mian Saladeen",
    "ApologiseNow",
-   20.83,
-   42,
-   14,
+   20.75,
+   49,
+   15,
    4,
    0,
    0,
    1,
-   25
+   30
   ],
   [
    "Alli Distler",
@@ -1198,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-09T21:11:23Z"
+ "updated": "2026-11-09T23:54:59Z"
 }

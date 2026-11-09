@@ -229,21 +229,6 @@
    0
   ],
   [
-   "Bob Fox",
-   "Toasted Darts",
-   2.32,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Zaccary Maguire",
    "Team Stinky",
    2.32,
@@ -257,6 +242,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Bob Fox",
+   "Toasted Darts",
+   2.32,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "BJ Ashford",
@@ -289,21 +289,6 @@
    0
   ],
   [
-   "Toby Affronti",
-   "RRP Crew",
-   2.26,
-   12,
-   5,
-   1,
-   2,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Infantino",
    "Wrong Hole",
    2.26,
@@ -315,6 +300,21 @@
    8,
    2,
    4,
+   0,
+   0
+  ],
+  [
+   "Toby Affronti",
+   "RRP Crew",
+   2.26,
+   12,
+   5,
+   1,
+   2,
+   0,
+   2,
+   0,
+   1,
    0,
    0
   ],
@@ -409,21 +409,6 @@
    0
   ],
   [
-   "Brian Keefe",
-   "Average Joes",
-   2.0,
-   12,
-   5,
-   4,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Monster",
    "Liquor Box",
    2.0,
@@ -435,6 +420,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Brian Keefe",
+   "Average Joes",
+   2.0,
+   12,
+   5,
+   4,
+   0,
+   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -544,21 +544,6 @@
    0
   ],
   [
-   "Jessie Purdy",
-   "Team Stinky",
-   1.84,
-   18,
-   4,
-   5,
-   0,
-   0,
-   5,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Rick Nelson",
    "Toasted Darts",
    1.84,
@@ -569,6 +554,21 @@
    0,
    7,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jessie Purdy",
+   "Team Stinky",
+   1.84,
+   18,
+   4,
+   5,
+   0,
+   0,
+   5,
+   4,
    0,
    0,
    0
@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Rob Ayotte",
-   "Liquor Box",
-   1.81,
-   9,
-   2,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Juan Rosado",
    "Liquor Box",
    1.81,
@@ -629,6 +614,21 @@
    0,
    2,
    4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Ayotte",
+   "Liquor Box",
+   1.81,
+   9,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -649,21 +649,6 @@
    0
   ],
   [
-   "Adam TeWinkle",
-   "Bullshots",
-   1.79,
-   18,
-   7,
-   8,
-   0,
-   0,
-   6,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Mike Hale",
    "Id Hit That",
    1.79,
@@ -677,6 +662,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Adam TeWinkle",
+   "Bullshots",
+   1.79,
+   18,
+   7,
+   8,
+   0,
+   0,
+   6,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Aaron Meeks",
@@ -784,13 +784,13 @@
    0
   ],
   [
-   "Jon Nolte",
-   "Average Joes",
+   "Nick Maguire",
+   "Team Stinky",
    1.64,
    18,
    5,
    4,
-   0,
+   1,
    0,
    1,
    1,
@@ -799,13 +799,13 @@
    0
   ],
   [
-   "Nick Maguire",
-   "Team Stinky",
+   "Jon Nolte",
+   "Average Joes",
    1.64,
    18,
    5,
    4,
-   1,
+   0,
    0,
    1,
    1,
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-09T23:02:53Z"
+ "updated": "2026-11-09T23:55:59Z"
 }
