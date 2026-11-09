@@ -680,21 +680,6 @@
    0
   ],
   [
-   "Blake Stevenson",
-   "RamRod",
-   1.47,
-   12,
-   5,
-   2,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "John Wiemer",
    "Connor And The Jets",
    1.47,
@@ -704,6 +689,21 @@
    1,
    0,
    4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Blake Stevenson",
+   "RamRod",
+   1.47,
+   12,
+   5,
+   2,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-09T06:26:45Z"
+ "updated": "2026-11-09T08:40:36Z"
 }
