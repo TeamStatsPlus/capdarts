@@ -381,21 +381,6 @@
    0
   ],
   [
-   "Sean Crowell",
-   "The Dartbags",
-   2.14,
-   36,
-   10,
-   1,
-   0,
-   0,
-   12,
-   2,
-   4,
-   0,
-   0
-  ],
-  [
    "David Caesar",
    "Night Shot",
    2.14,
@@ -407,6 +392,21 @@
    14,
    7,
    3,
+   0,
+   0
+  ],
+  [
+   "Sean Crowell",
+   "The Dartbags",
+   2.14,
+   36,
+   10,
+   1,
+   0,
+   0,
+   12,
+   2,
+   4,
    0,
    0
   ],
@@ -938,18 +938,6 @@
    19
   ],
   [
-   "Kenny Williams",
-   "Glass N Stache",
-   18.81,
-   35,
-   11,
-   2,
-   0,
-   0,
-   0,
-   19
-  ],
-  [
    "Claude Yeoumas",
    "Brothas",
    18.81,
@@ -960,6 +948,18 @@
    0,
    0,
    22
+  ],
+  [
+   "Kenny Williams",
+   "Glass N Stache",
+   18.81,
+   35,
+   11,
+   2,
+   0,
+   0,
+   0,
+   19
   ],
   [
    "TJ Vay",
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-09T22:02:46Z"
+ "updated": "2026-11-09T23:01:35Z"
 }
