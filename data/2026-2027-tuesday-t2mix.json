@@ -364,21 +364,6 @@
    0
   ],
   [
-   "Rich Allen",
-   "Wags To Richs",
-   3.01,
-   30,
-   10,
-   5,
-   2,
-   1,
-   19,
-   7,
-   4,
-   0,
-   1
-  ],
-  [
    "Dan Freese",
    "Right There",
    3.01,
@@ -392,6 +377,21 @@
    9,
    0,
    2
+  ],
+  [
+   "Rich Allen",
+   "Wags To Richs",
+   3.01,
+   30,
+   10,
+   5,
+   2,
+   1,
+   19,
+   7,
+   4,
+   0,
+   1
   ],
   [
    "Justin Burdett",
@@ -604,21 +604,6 @@
    0
   ],
   [
-   "Kelli Nash",
-   "One Hole Away",
-   1.86,
-   36,
-   4,
-   12,
-   0,
-   0,
-   11,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "Danae Diaz",
    "Better Together",
    1.86,
@@ -630,6 +615,21 @@
    6,
    2,
    3,
+   0,
+   0
+  ],
+  [
+   "Kelli Nash",
+   "One Hole Away",
+   1.86,
+   36,
+   4,
+   12,
+   0,
+   0,
+   11,
+   5,
+   0,
    0,
    0
   ],
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-09T08:40:44Z"
+ "updated": "2026-11-09T10:18:03Z"
 }
