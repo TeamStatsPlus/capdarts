@@ -35,6 +35,11 @@
    29
   ],
   [
+   "Team Titos",
+   50,
+   41
+  ],
+  [
    "Glass N Stache",
    35,
    30
@@ -50,11 +55,6 @@
    37
   ],
   [
-   "Team Titos",
-   37,
-   41
-  ],
-  [
    "Ones Are Closed",
    32,
    46
@@ -65,14 +65,14 @@
    49
   ],
   [
-   "Tires And Soda",
-   28,
-   50
-  ],
-  [
    "Double 1s",
    32,
    59
+  ],
+  [
+   "Tires And Soda",
+   28,
+   63
   ],
   [
    "The Dartbags",
@@ -81,6 +81,14 @@
   ]
  ],
  "results": [
+  [
+   "Team Titos",
+   "Tires And Soda",
+   "11/08/2026",
+   7,
+   13,
+   0
+  ],
   [
    "Glass N Stache",
    "Ones Are Closed",
@@ -170,26 +178,10 @@
    10
   ],
   [
-   "Tires And Soda",
-   "Double 1s",
-   "11/01/2026",
-   6,
-   3,
-   10
-  ],
-  [
    "Ones Are Closed",
    "Glass N Stache",
    "11/08/2026",
    7,
-   2,
-   11
-  ],
-  [
-   "Team Titos",
-   "One Hole Off",
-   "11/01/2026",
-   6,
    2,
    11
   ],
@@ -200,6 +192,14 @@
    5,
    2,
    11
+  ],
+  [
+   "Tires And Soda",
+   "Team Titos",
+   "11/08/2026",
+   7,
+   0,
+   13
   ]
  ],
  "improved": {
@@ -217,10 +217,10 @@
     2.23
    ],
    [
-    "James Davis",
-    "Ones Are Closed",
-    2.09,
-    2.16
+    "Kristin Southwick",
+    "Tintins",
+    1.34,
+    1.41
    ]
   ],
   "x": [
@@ -237,10 +237,10 @@
     22.17
    ],
    [
-    "Claude Yeoumas",
-    "Brothas",
-    18.31,
-    18.81
+    "Aaron Davis",
+    "Ones Are Closed",
+    13.5,
+    14.0
    ]
   ]
  },
@@ -381,21 +381,6 @@
    0
   ],
   [
-   "David Caesar",
-   "Night Shot",
-   2.14,
-   42,
-   15,
-   11,
-   2,
-   0,
-   14,
-   7,
-   3,
-   0,
-   0
-  ],
-  [
    "Sean Crowell",
    "The Dartbags",
    2.14,
@@ -407,6 +392,21 @@
    12,
    2,
    4,
+   0,
+   0
+  ],
+  [
+   "David Caesar",
+   "Night Shot",
+   2.14,
+   42,
+   15,
+   11,
+   2,
+   0,
+   14,
+   7,
+   3,
    0,
    0
   ],
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-09T13:36:01Z"
+ "updated": "2026-11-09T15:14:46Z"
 }
