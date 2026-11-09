@@ -6,8 +6,8 @@
  "standings": [
   [
    "Pickled Turtles",
-   52,
-   8
+   65,
+   10
   ],
   [
    "Here For The BEER",
@@ -16,8 +16,8 @@
   ],
   [
    "Ghost Bear",
-   49,
-   26
+   54,
+   36
   ],
   [
    "Rich And Tom",
@@ -25,19 +25,19 @@
    31
   ],
   [
-   "Box Chevy",
-   51,
-   39
-  ],
-  [
    "Straight 2 The Point",
-   47,
-   43
+   57,
+   48
   ],
   [
    "Water Off",
    47,
    43
+  ],
+  [
+   "Box Chevy",
+   53,
+   52
   ],
   [
    "Black And Brown",
@@ -65,6 +65,14 @@
    0
   ],
   [
+   "Pickled Turtles",
+   "Box Chevy",
+   "11/08/2026",
+   7,
+   13,
+   2
+  ],
+  [
    "Here For The BEER",
    "Straight 2 The Point",
    "10/25/2026",
@@ -73,26 +81,10 @@
    2
   ],
   [
-   "Pickled Turtles",
-   "Water Off",
-   "10/25/2026",
-   5,
-   11,
-   4
-  ],
-  [
    "Straight 2 The Point",
-   "Box Chevy",
-   "11/01/2026",
-   6,
-   11,
-   4
-  ],
-  [
    "Ghost Bear",
-   "Black And Brown",
-   "11/01/2026",
-   6,
+   "11/08/2026",
+   7,
    10,
    5
   ],
@@ -121,12 +113,20 @@
    10
   ],
   [
-   "Box Chevy",
+   "Ghost Bear",
    "Straight 2 The Point",
-   "11/01/2026",
-   6,
-   4,
-   11
+   "11/08/2026",
+   7,
+   5,
+   10
+  ],
+  [
+   "Box Chevy",
+   "Pickled Turtles",
+   "11/08/2026",
+   7,
+   2,
+   13
   ],
   [
    "Not Ready 4Primetime",
@@ -140,46 +140,61 @@
  "improved": {
   "c": [
    [
-    "Judson Brown",
-    "Brown Viper",
-    2.27,
-    2.4
-   ],
-   [
     "Tashawn Rucker",
     "Straight 2 The Point",
-    3.09,
-    3.21
+    3.21,
+    3.26
    ],
    [
-    "Justin Smith",
+    "Carlton Smith",
+    "Straight 2 The Point",
+    3.11,
+    3.16
+   ],
+   [
+    "Archie Donaldson",
     "Box Chevy",
-    2.78,
-    2.89
+    2.58,
+    2.62
    ]
   ],
   "x": [
    [
-    "Judson Brown",
-    "Brown Viper",
-    21.18,
-    22.02
+    "Dave Wallace",
+    "Ghost Bear",
+    25.13,
+    25.58
    ],
    [
-    "Tashawn Rucker",
+    "Justin Smith",
+    "Box Chevy",
+    22.75,
+    23.12
+   ],
+   [
+    "Carlton Smith",
     "Straight 2 The Point",
-    25.19,
-    25.98
-   ],
-   [
-    "Micheal Morgan",
-    "Not Ready 4Primetime",
-    15.33,
-    15.97
+    25.9,
+    26.15
    ]
   ]
  },
  "cricket": [
+  [
+   "JEFF",
+   "{Substitutes}",
+   4.23,
+   6,
+   5,
+   1,
+   0,
+   0,
+   7,
+   2,
+   6,
+   1,
+   0
+  ],
   [
    "Erika Mardo",
    "Pickled Turtles",
@@ -228,32 +243,47 @@
   [
    "Dave Wallace",
    "Ghost Bear",
-   3.4,
-   30,
-   16,
-   6,
-   0,
+   3.41,
+   36,
+   18,
+   7,
    1,
-   31,
-   10,
-   9,
    1,
+   35,
+   12,
+   12,
+   2,
    0
   ],
   [
    "Chris Maloney",
    "Pickled Turtles",
-   3.36,
-   24,
-   14,
-   7,
+   3.33,
+   30,
+   17,
+   10,
    1,
    0,
-   19,
+   25,
+   12,
    7,
-   6,
    2,
    2
+  ],
+  [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   3.26,
+   42,
+   14,
+   6,
+   3,
+   1,
+   27,
+   14,
+   17,
+   0,
+   4
   ],
   [
    "Devan Wilson",
@@ -269,21 +299,6 @@
    16,
    0,
    0
-  ],
-  [
-   "Tashawn Rucker",
-   "Straight 2 The Point",
-   3.21,
-   36,
-   10,
-   6,
-   3,
-   1,
-   22,
-   12,
-   15,
-   0,
-   3
   ],
   [
    "Rich Allen",
@@ -303,32 +318,32 @@
   [
    "Carlton Smith",
    "Straight 2 The Point",
-   3.11,
-   36,
-   14,
-   7,
+   3.16,
+   42,
+   15,
+   9,
    2,
    0,
-   26,
-   13,
-   11,
+   31,
+   16,
+   12,
    1,
    1
   ],
   [
    "Ashton Maracle",
    "Ghost Bear",
-   3.09,
-   30,
-   13,
-   8,
+   3.1,
+   36,
+   14,
+   9,
    2,
    0,
-   19,
+   22,
    9,
-   8,
-   0,
-   0
+   10,
+   1,
+   1
   ],
   [
    "Cory Humphries",
@@ -348,15 +363,15 @@
   [
    "Justin Smith",
    "Box Chevy",
-   2.89,
-   36,
+   2.88,
+   42,
    16,
    5,
    5,
    1,
+   20,
    18,
    16,
-   15,
    0,
    0
   ],
@@ -468,15 +483,15 @@
   [
    "Archie Donaldson",
    "Box Chevy",
-   2.58,
-   30,
+   2.62,
+   36,
    11,
    5,
    2,
    1,
-   16,
-   2,
-   7,
+   18,
+   6,
+   9,
    0,
    2
   ],
@@ -570,16 +585,28 @@
    26
   ],
   [
+   "JEFF",
+   "{Substitutes}",
+   28.62,
+   7,
+   4,
+   5,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
    "Chris Maloney",
    "Pickled Turtles",
-   27.88,
-   28,
+   27.81,
+   35,
+   12,
    11,
-   9,
    0,
    0,
-   2,
-   52
+   4,
+   62
   ],
   [
    "Rich Allen",
@@ -606,6 +633,30 @@
    11
   ],
   [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   26.17,
+   49,
+   13,
+   14,
+   0,
+   0,
+   0,
+   82
+  ],
+  [
+   "Carlton Smith",
+   "Straight 2 The Point",
+   26.15,
+   49,
+   15,
+   14,
+   0,
+   0,
+   0,
+   86
+  ],
+  [
    "Glenn Wilson",
    "Here For The BEER",
    26.07,
@@ -616,30 +667,6 @@
    1,
    3,
    38
-  ],
-  [
-   "Tashawn Rucker",
-   "Straight 2 The Point",
-   25.98,
-   42,
-   10,
-   9,
-   0,
-   0,
-   0,
-   73
-  ],
-  [
-   "Carlton Smith",
-   "Straight 2 The Point",
-   25.9,
-   42,
-   13,
-   13,
-   0,
-   0,
-   0,
-   71
   ],
   [
    "Devan Wilson",
@@ -656,14 +683,14 @@
   [
    "Dave Wallace",
    "Ghost Bear",
-   25.13,
-   35,
-   10,
-   8,
+   25.58,
+   42,
+   11,
+   12,
    0,
    0,
-   2,
-   56
+   3,
+   68
   ],
   [
    "Cory Humphries",
@@ -704,14 +731,26 @@
   [
    "Ashton Maracle",
    "Ghost Bear",
-   23.12,
-   35,
-   10,
-   6,
+   23.24,
+   42,
+   11,
+   8,
    0,
    1,
-   1,
-   52
+   2,
+   60
+  ],
+  [
+   "Justin Smith",
+   "Box Chevy",
+   23.12,
+   49,
+   12,
+   10,
+   0,
+   0,
+   5,
+   58
   ],
   [
    "Chris Nesci",
@@ -726,18 +765,6 @@
    23
   ],
   [
-   "Archie Donaldson",
-   "Box Chevy",
-   22.87,
-   35,
-   11,
-   10,
-   0,
-   0,
-   3,
-   47
-  ],
-  [
    "Dashay Earlsey",
    "Water Off",
    22.87,
@@ -750,16 +777,16 @@
    59
   ],
   [
-   "Justin Smith",
+   "Archie Donaldson",
    "Box Chevy",
-   22.75,
+   22.69,
    42,
-   10,
-   9,
+   11,
+   11,
    0,
    0,
-   4,
-   48
+   3,
+   54
   ],
   [
    "Tom Ralston",
@@ -1482,5 +1509,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-08T22:53:49Z"
+ "updated": "2026-11-09T01:32:16Z"
 }
