@@ -183,21 +183,6 @@
    1
   ],
   [
-   "Rowdy Woodworth",
-   "The Nobodys",
-   2.25,
-   30,
-   11,
-   7,
-   0,
-   0,
-   10,
-   0,
-   3,
-   0,
-   0
-  ],
-  [
    "Connor Fletcher",
    "2 Guys 1 Bull",
    2.25,
@@ -209,6 +194,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Rowdy Woodworth",
+   "The Nobodys",
+   2.25,
+   30,
+   11,
+   7,
+   0,
+   0,
+   10,
+   0,
+   3,
    0,
    0
   ],
@@ -273,21 +273,6 @@
    0
   ],
   [
-   "Colin Mousseau",
-   "The Nobodys",
-   1.89,
-   30,
-   7,
-   11,
-   0,
-   0,
-   10,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Andrew Casciani",
    "Not These Guys Again",
    1.89,
@@ -299,6 +284,21 @@
    8,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Colin Mousseau",
+   "The Nobodys",
+   1.89,
+   30,
+   7,
+   11,
+   0,
+   0,
+   10,
+   2,
+   1,
    0,
    0
   ],
@@ -333,21 +333,6 @@
    0
   ],
   [
-   "Matt Cortese",
-   "2 Guys 1 Bull",
-   1.8,
-   18,
-   5,
-   7,
-   0,
-   0,
-   3,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Jon Green",
    "Split Decision",
    1.8,
@@ -359,6 +344,21 @@
    6,
    3,
    2,
+   0,
+   0
+  ],
+  [
+   "Matt Cortese",
+   "2 Guys 1 Bull",
+   1.8,
+   18,
+   5,
+   7,
+   0,
+   0,
+   3,
+   2,
+   0,
    0,
    0
   ],
@@ -408,21 +408,6 @@
    0
   ],
   [
-   "Holden Sandlar",
-   "Split Decision",
-   1.51,
-   30,
-   8,
-   6,
-   0,
-   0,
-   6,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Lutomski",
    "Top Shottas",
    1.51,
@@ -434,6 +419,21 @@
    2,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Holden Sandlar",
+   "Split Decision",
+   1.51,
+   30,
+   8,
+   6,
+   0,
+   0,
+   6,
+   0,
+   0,
    0,
    0
   ],
@@ -1446,5 +1446,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-10T11:10:58Z"
+ "updated": "2026-11-10T12:07:51Z"
 }

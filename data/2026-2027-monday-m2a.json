@@ -389,21 +389,6 @@
    3
   ],
   [
-   "Rich Allen",
-   "Dave And Rich",
-   3.02,
-   40,
-   16,
-   11,
-   8,
-   0,
-   22,
-   13,
-   7,
-   0,
-   3
-  ],
-  [
    "Joe Gillett",
    "Off In Church",
    3.02,
@@ -417,6 +402,21 @@
    8,
    0,
    2
+  ],
+  [
+   "Rich Allen",
+   "Dave And Rich",
+   3.02,
+   40,
+   16,
+   11,
+   8,
+   0,
+   22,
+   13,
+   7,
+   0,
+   3
   ],
   [
    "Mike Frank",
@@ -1624,5 +1624,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-10T11:09:12Z"
+ "updated": "2026-11-10T12:06:30Z"
 }
