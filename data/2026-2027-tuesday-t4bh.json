@@ -455,21 +455,6 @@
    0
   ],
   [
-   "Ben Vassallo",
-   "Lady And The Tramps",
-   1.6,
-   6,
-   1,
-   3,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Emily Chard",
    "Thats Bullshoot",
    1.6,
@@ -479,6 +464,21 @@
    0,
    0,
    2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ben Vassallo",
+   "Lady And The Tramps",
+   1.6,
+   6,
+   1,
+   3,
+   0,
+   0,
+   0,
    2,
    0,
    0,
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-10T06:14:03Z"
+ "updated": "2026-11-10T07:36:29Z"
 }

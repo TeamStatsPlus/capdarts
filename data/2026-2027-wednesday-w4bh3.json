@@ -247,21 +247,6 @@
    0
   ],
   [
-   "Dave Radner",
-   "Andycapped",
-   2.34,
-   6,
-   0,
-   4,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Welling",
    "One For The Ditch",
    2.34,
@@ -272,6 +257,21 @@
    0,
    6,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Radner",
+   "Andycapped",
+   2.34,
+   6,
+   0,
+   4,
+   0,
+   0,
+   3,
+   1,
    0,
    0,
    0
@@ -427,21 +427,6 @@
    0
   ],
   [
-   "John Frazer",
-   "Duckin Farts",
-   1.91,
-   12,
-   0,
-   9,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Bob Newell",
    "Pig Roasters",
    1.91,
@@ -453,6 +438,21 @@
    5,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "John Frazer",
+   "Duckin Farts",
+   1.91,
+   12,
+   0,
+   9,
+   0,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -1671,5 +1671,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-10T06:14:46Z"
+ "updated": "2026-11-10T07:37:09Z"
 }
