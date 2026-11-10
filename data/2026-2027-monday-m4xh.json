@@ -320,6 +320,21 @@
    1
   ],
   [
+   "Scott Prince",
+   "The Four Horseman",
+   2.34,
+   21,
+   2,
+   8,
+   1,
+   0,
+   12,
+   4,
+   1,
+   0,
+   1
+  ],
+  [
    "Sean Clarke",
    "Dartbags",
    2.34,
@@ -348,21 +363,6 @@
    2,
    0,
    0
-  ],
-  [
-   "Scott Prince",
-   "The Four Horseman",
-   2.34,
-   21,
-   2,
-   8,
-   1,
-   0,
-   12,
-   4,
-   1,
-   0,
-   1
   ],
   [
    "Sean Grimes",
@@ -710,21 +710,6 @@
    0
   ],
   [
-   "Mike Harrison",
-   "Connor And The Jets",
-   1.41,
-   21,
-   3,
-   2,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Angie Coville",
    "Roasted Shenanigans",
    1.41,
@@ -736,6 +721,21 @@
    4,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Mike Harrison",
+   "Connor And The Jets",
+   1.41,
+   21,
+   3,
+   2,
+   0,
+   0,
+   4,
+   1,
+   0,
    0,
    0
   ],
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-10T21:03:14Z"
+ "updated": "2026-11-10T22:58:57Z"
 }

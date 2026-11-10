@@ -120,10 +120,10 @@
     1.74
    ],
    [
-    "Casey Birch",
-    "The Critters",
-    1.31,
-    1.41
+    "Edward Gschrey",
+    "Team Name",
+    1.34,
+    1.44
    ],
    [
     "Mike Garrity",
@@ -215,21 +215,6 @@
    0
   ],
   [
-   "Philip Rowland",
-   "Team Name",
-   1.92,
-   3,
-   1,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Travis Hall",
    "Lady And The Tramps",
    1.92,
@@ -240,6 +225,21 @@
    0,
    1,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Philip Rowland",
+   "Team Name",
+   1.92,
+   3,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Brad Wight",
-   "Thunderbuddies",
-   1.84,
-   18,
-   9,
-   4,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Rick Ernst",
    "Gettin Looped",
    1.84,
@@ -331,6 +316,21 @@
    1,
    3,
    0,
+   0,
+   0
+  ],
+  [
+   "Brad Wight",
+   "Thunderbuddies",
+   1.84,
+   18,
+   9,
+   4,
+   0,
+   0,
+   4,
+   0,
+   1,
    0,
    0
   ],
@@ -395,21 +395,6 @@
    0
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   1.74,
-   15,
-   4,
-   5,
-   0,
-   0,
-   5,
-   2,
-   1,
-   1,
-   0
-  ],
-  [
    "Chris Collins",
    "Thats Bullshoot",
    1.74,
@@ -420,6 +405,21 @@
    0,
    4,
    0,
+   1,
+   1,
+   0
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   1.74,
+   15,
+   4,
+   5,
+   0,
+   0,
+   5,
+   2,
    1,
    1,
    0
@@ -515,21 +515,6 @@
    0
   ],
   [
-   "Mitch Jag",
-   "Thats Bullshoot",
-   1.45,
-   6,
-   1,
-   2,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Lewis",
    "Gettin Looped",
    1.45,
@@ -545,16 +530,16 @@
    0
   ],
   [
-   "Edward Gschrey",
-   "Team Name",
-   1.44,
-   9,
+   "Mitch Jag",
+   "Thats Bullshoot",
+   1.45,
+   6,
    1,
    2,
    0,
    0,
    1,
-   0,
+   1,
    0,
    0,
    0
@@ -571,6 +556,21 @@
    0,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   1.44,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-10T21:58:54Z"
+ "updated": "2026-11-10T22:59:10Z"
 }
