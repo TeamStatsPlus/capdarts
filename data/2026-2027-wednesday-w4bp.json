@@ -100,10 +100,10 @@
     1.91
    ],
    [
-    "Joseph Shiner",
+    "James Samuelson",
     "Satchel Of Richards",
-    2.62,
-    2.69
+    3.01,
+    3.08
    ]
   ],
   "x": [
@@ -767,18 +767,6 @@
    19
   ],
   [
-   "TJ Lucey",
-   "Ryans Renegades",
-   20.01,
-   24,
-   7,
-   0,
-   0,
-   0,
-   2,
-   20
-  ],
-  [
    "Dashay Earlsey",
    "Water Off",
    20.01,
@@ -789,6 +777,18 @@
    0,
    0,
    14
+  ],
+  [
+   "TJ Lucey",
+   "Ryans Renegades",
+   20.01,
+   24,
+   7,
+   0,
+   0,
+   0,
+   2,
+   20
   ],
   [
    "Pat Fagan",
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-10T21:04:14Z"
+ "updated": "2026-11-10T21:59:36Z"
 }
