@@ -421,21 +421,6 @@
    0
   ],
   [
-   "Ed Rowland",
-   "Double Trouble",
-   1.37,
-   6,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Gallwey",
    "636ers",
    1.37,
@@ -446,6 +431,21 @@
    0,
    5,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ed Rowland",
+   "Double Trouble",
+   1.37,
+   6,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1623,5 +1623,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-10T04:12:31Z"
+ "updated": "2026-11-10T05:13:58Z"
 }
