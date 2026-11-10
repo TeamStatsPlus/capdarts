@@ -11,8 +11,8 @@
   ],
   [
    "Take It Out",
-   53,
-   37
+   61,
+   44
   ],
   [
    "RamRod",
@@ -26,8 +26,8 @@
   ],
   [
    "Wrong Hole",
-   35,
-   40
+   42,
+   48
   ],
   [
    "Roasted Shenanigans",
@@ -79,24 +79,24 @@
    5
   ],
   [
-   "Connor And The Jets",
-   "RamRod",
-   "11/02/2026",
-   6,
-   5,
-   10
-  ],
-  [
    "Take It Out",
-   "Roasted Shenanigans",
-   "11/02/2026",
-   6,
-   5,
-   10
+   "Wrong Hole",
+   "11/09/2026",
+   7,
+   8,
+   7
   ],
   [
    "Wrong Hole",
-   "Right There",
+   "Take It Out",
+   "11/09/2026",
+   7,
+   7,
+   8
+  ],
+  [
+   "Connor And The Jets",
+   "RamRod",
    "11/02/2026",
    6,
    5,
@@ -114,42 +114,42 @@
  "improved": {
   "c": [
    [
-    "Brett ONeal",
-    "Roasted Shenanigans",
-    2.07,
-    2.25
-   ],
-   [
-    "Chad Benedict",
+    "Sean Grimes",
     "Wrong Hole",
-    2.87,
-    3.01
+    2.2,
+    2.31
    ],
    [
-    "James Oneal",
-    "Roasted Shenanigans",
-    2.09,
-    2.22
+    "Tony Villani",
+    "Wrong Hole",
+    2.05,
+    2.11
+   ],
+   [
+    "Greg Poltorak",
+    "Take It Out",
+    2.55,
+    2.6
    ]
   ],
   "x": [
    [
-    "Ken Nicolay",
-    "Take It Out",
-    18.0,
-    19.12
-   ],
-   [
     "Keith West",
     "Take It Out",
-    15.73,
-    16.45
+    16.45,
+    17.11
    ],
    [
-    "Roger Furmanski",
-    "The Four Horseman",
-    17.87,
-    18.57
+    "Chad Benedict",
+    "Wrong Hole",
+    22.27,
+    22.52
+   ],
+   [
+    "Greg Poltorak",
+    "Take It Out",
+    20.25,
+    20.49
    ]
   ]
  },
@@ -172,14 +172,14 @@
   [
    "Chad Benedict",
    "Wrong Hole",
-   3.01,
-   15,
+   2.98,
+   18,
    6,
-   3,
-   0,
-   0,
-   7,
    4,
+   0,
+   1,
+   8,
+   5,
    3,
    2,
    1
@@ -200,31 +200,31 @@
    1
   ],
   [
-   "Ken Nicolay",
+   "Greg Poltorak",
    "Take It Out",
-   2.62,
-   12,
+   2.6,
+   21,
    6,
    4,
+   1,
    0,
-   0,
-   8,
-   2,
+   7,
+   5,
    2,
    0,
    0
   ],
   [
-   "Greg Poltorak",
+   "Ken Nicolay",
    "Take It Out",
-   2.55,
-   18,
+   2.58,
+   15,
+   7,
    4,
-   4,
-   1,
    0,
-   6,
-   4,
+   0,
+   8,
+   3,
    2,
    0,
    0
@@ -335,6 +335,21 @@
    0
   ],
   [
+   "Sean Grimes",
+   "Wrong Hole",
+   2.31,
+   18,
+   5,
+   4,
+   2,
+   0,
+   7,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
    "Scott Prince",
    "The Four Horseman",
    2.31,
@@ -395,6 +410,21 @@
    1
   ],
   [
+   "Todd Palmer",
+   "Take It Out",
+   2.24,
+   21,
+   4,
+   2,
+   0,
+   0,
+   6,
+   6,
+   1,
+   0,
+   0
+  ],
+  [
    "James Oneal",
    "Roasted Shenanigans",
    2.22,
@@ -410,41 +440,11 @@
    0
   ],
   [
-   "Todd Palmer",
-   "Take It Out",
-   2.21,
-   18,
-   4,
-   1,
-   0,
-   0,
-   4,
-   5,
-   1,
-   0,
-   0
-  ],
-  [
-   "Sean Grimes",
-   "Wrong Hole",
-   2.2,
-   15,
-   3,
-   3,
-   2,
-   0,
-   5,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Keith West",
    "Take It Out",
-   2.17,
-   15,
-   6,
+   2.15,
+   18,
+   7,
    2,
    0,
    0,
@@ -457,14 +457,14 @@
   [
    "Tony Villani",
    "Wrong Hole",
-   2.05,
-   15,
-   3,
+   2.11,
+   18,
+   5,
    2,
    0,
    0,
    5,
-   3,
+   4,
    2,
    0,
    0
@@ -592,29 +592,14 @@
   [
    "Matt Kraft",
    "Wrong Hole",
-   1.87,
-   12,
-   6,
-   1,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Anthony Alletto",
-   "Dartbags",
-   1.78,
-   18,
+   1.85,
+   15,
    6,
    2,
    0,
    0,
-   5,
-   1,
+   4,
+   0,
    0,
    0,
    0
@@ -631,6 +616,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Anthony Alletto",
+   "Dartbags",
+   1.78,
+   18,
+   6,
+   2,
+   0,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -807,14 +807,14 @@
   [
    "Chad Benedict",
    "Wrong Hole",
-   22.27,
-   20,
-   2,
+   22.52,
+   24,
+   3,
    0,
    0,
    0,
-   4,
-   29
+   5,
+   35
   ],
   [
    "Nick Pritchard",
@@ -913,6 +913,18 @@
    2
   ],
   [
+   "Greg Poltorak",
+   "Take It Out",
+   20.49,
+   28,
+   8,
+   2,
+   0,
+   0,
+   0,
+   39
+  ],
+  [
    "Marc Hinds",
    "Roasted Shenanigans",
    20.46,
@@ -925,40 +937,28 @@
    8
   ],
   [
-   "Greg Poltorak",
-   "Take It Out",
-   20.25,
-   24,
-   6,
-   2,
-   0,
-   0,
-   0,
-   35
-  ],
-  [
    "Sean Grimes",
    "Wrong Hole",
-   20.16,
+   20.02,
+   24,
+   7,
+   0,
+   0,
+   0,
+   1,
+   26
+  ],
+  [
+   "Ken Nicolay",
+   "Take It Out",
+   19.33,
    20,
    6,
    0,
    0,
    0,
-   1,
-   23
-  ],
-  [
-   "Ken Nicolay",
-   "Take It Out",
-   19.12,
-   16,
-   5,
-   0,
-   0,
-   0,
    3,
-   17
+   20
   ],
   [
    "James Oneal",
@@ -1035,38 +1035,50 @@
   [
    "Todd Palmer",
    "Take It Out",
-   17.53,
-   24,
+   17.5,
+   28,
    5,
    1,
    0,
    1,
    1,
-   23
+   27
   ],
   [
    "Matt Kraft",
    "Wrong Hole",
-   17.39,
-   16,
+   17.49,
+   20,
    3,
    0,
    0,
    0,
    0,
-   9
+   10
   ],
   [
    "Tony Villani",
    "Wrong Hole",
-   17.0,
-   20,
-   4,
+   17.19,
+   24,
+   5,
    0,
    0,
    0,
    1,
-   13
+   16
+  ],
+  [
+   "Keith West",
+   "Take It Out",
+   17.11,
+   24,
+   8,
+   0,
+   0,
+   0,
+   0,
+   11
   ],
   [
    "Bailey Plummer",
@@ -1091,18 +1103,6 @@
    0,
    0,
    15
-  ],
-  [
-   "Keith West",
-   "Take It Out",
-   16.45,
-   20,
-   7,
-   0,
-   0,
-   0,
-   0,
-   10
   ],
   [
    "Tom Reeder",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-09T23:55:08Z"
+ "updated": "2026-11-10T01:26:32Z"
 }

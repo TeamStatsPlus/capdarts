@@ -6,8 +6,8 @@
  "standings": [
   [
    "Oh Look Butterflies",
-   40,
-   25
+   48,
+   30
   ],
   [
    "Galactic Platypus",
@@ -21,8 +21,8 @@
   ],
   [
    "CHEERS",
-   43,
-   35
+   48,
+   43
   ],
   [
    "APA",
@@ -47,20 +47,12 @@
  ],
  "results": [
   [
-   "CHEERS",
-   "Game Of Throws",
-   "11/02/2026",
-   6,
-   11,
-   2
-  ],
-  [
    "Oh Look Butterflies",
-   "Kookeez Krumble",
-   "11/02/2026",
-   6,
-   9,
-   4
+   "CHEERS",
+   "11/09/2026",
+   7,
+   8,
+   5
   ],
   [
    "Galactic Platypus",
@@ -101,6 +93,14 @@
    7,
    6,
    7
+  ],
+  [
+   "CHEERS",
+   "Oh Look Butterflies",
+   "11/09/2026",
+   7,
+   5,
+   8
   ],
   [
    "Game Of Throws",
@@ -140,16 +140,16 @@
     23.24
    ],
    [
+    "Jim Gangarossa",
+    "Oh Look Butterflies",
+    25.26,
+    25.44
+   ],
+   [
     "Todd Guichard",
     "ApologiseNow",
     21.03,
     21.16
-   ],
-   [
-    "Desmond Parris",
-    "Kookeez Krumble",
-    24.64,
-    24.72
    ]
   ]
  },
@@ -157,14 +157,14 @@
   [
    "Shaun Stocking",
    "CHEERS",
-   3.12,
-   36,
-   10,
-   10,
-   4,
+   3.05,
+   42,
+   11,
+   11,
+   5,
    0,
-   28,
-   16,
+   31,
+   17,
    6,
    1,
    1
@@ -172,15 +172,15 @@
   [
    "Dillen Malone",
    "Oh Look Butterflies",
-   2.9,
-   30,
-   11,
-   12,
+   2.87,
+   36,
+   14,
+   13,
    2,
    0,
-   16,
-   6,
-   7,
+   20,
+   8,
+   8,
    0,
    1
   ],
@@ -202,15 +202,15 @@
   [
    "Jim Gangarossa",
    "Oh Look Butterflies",
-   2.69,
-   30,
-   12,
-   11,
+   2.63,
+   36,
+   13,
+   14,
    3,
    0,
-   16,
-   7,
-   5,
+   18,
+   8,
+   6,
    0,
    1
   ],
@@ -292,13 +292,13 @@
   [
    "Todd Keller",
    "CHEERS",
-   2.23,
-   36,
-   10,
-   10,
+   2.21,
+   42,
+   11,
+   11,
    1,
    0,
-   12,
+   13,
    5,
    3,
    0,
@@ -399,26 +399,26 @@
   [
    "Shaun Stocking",
    "CHEERS",
-   27.93,
-   42,
-   16,
+   27.74,
+   49,
+   19,
    9,
    0,
    0,
    4,
-   62
+   72
   ],
   [
    "Dillen Malone",
    "Oh Look Butterflies",
-   26.38,
-   35,
-   10,
-   8,
+   26.47,
+   42,
+   14,
+   11,
    0,
    0,
    0,
-   38
+   43
   ],
   [
    "Mike Infantino",
@@ -435,14 +435,14 @@
   [
    "Jim Gangarossa",
    "Oh Look Butterflies",
-   25.26,
-   35,
+   25.44,
+   42,
    7,
-   8,
+   13,
    1,
    0,
    3,
-   33
+   34
   ],
   [
    "Desmond Parris",
@@ -505,18 +505,6 @@
    37
   ],
   [
-   "Todd Keller",
-   "CHEERS",
-   21.1,
-   42,
-   7,
-   2,
-   0,
-   0,
-   1,
-   31
-  ],
-  [
    "Jamie Rialdi",
    "Game Of Throws",
    20.99,
@@ -527,6 +515,18 @@
    0,
    0,
    24
+  ],
+  [
+   "Todd Keller",
+   "CHEERS",
+   20.82,
+   49,
+   7,
+   3,
+   0,
+   0,
+   1,
+   32
   ],
   [
    "Mian Saladeen",
@@ -1198,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-09T23:54:59Z"
+ "updated": "2026-11-10T01:26:24Z"
 }

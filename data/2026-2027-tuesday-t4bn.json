@@ -882,21 +882,6 @@
    0
   ],
   [
-   "Bill Bradburn",
-   "Truckin Bulls",
-   1.54,
-   15,
-   1,
-   2,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Sean New Wave",
    "New Wave",
    1.54,
@@ -908,6 +893,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Bill Bradburn",
+   "Truckin Bulls",
+   1.54,
+   15,
+   1,
+   2,
+   0,
+   0,
+   4,
+   0,
+   1,
    0,
    0
   ],
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-09T23:02:24Z"
+ "updated": "2026-11-10T01:26:53Z"
 }
