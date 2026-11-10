@@ -612,21 +612,6 @@
    1
   ],
   [
-   "Collin Owczarzak",
-   "The Limp Wristers",
-   1.47,
-   12,
-   2,
-   4,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "John Waud",
    "Shart Shooters",
    1.47,
@@ -638,6 +623,21 @@
    3,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Collin Owczarzak",
+   "The Limp Wristers",
+   1.47,
+   12,
+   2,
+   4,
+   0,
+   0,
+   1,
+   1,
+   1,
    0,
    0
   ],
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-10T19:20:00Z"
+ "updated": "2026-11-10T21:03:59Z"
 }

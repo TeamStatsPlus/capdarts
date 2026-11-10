@@ -372,12 +372,12 @@
    0
   ],
   [
-   "Mike Mucci",
-   "Dartbags",
+   "John Bailey",
+   "Chicks And Dicks",
    2.08,
-   18,
-   10,
-   4,
+   12,
+   5,
+   1,
    1,
    0,
    3,
@@ -387,12 +387,12 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
+   "Mike Mucci",
+   "Dartbags",
    2.08,
-   12,
-   5,
-   1,
+   18,
+   10,
+   4,
    1,
    0,
    3,
@@ -507,6 +507,21 @@
    0
   ],
   [
+   "Barry Barklund",
+   "Dartbags",
+   1.96,
+   18,
+   1,
+   9,
+   0,
+   0,
+   3,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
    "Jake Preston",
    "Show Your Tips",
    1.96,
@@ -533,21 +548,6 @@
    0,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Barry Barklund",
-   "Dartbags",
-   1.96,
-   18,
-   1,
-   9,
-   0,
-   0,
-   3,
-   1,
-   2,
    0,
    0
   ],
@@ -882,21 +882,6 @@
    0
   ],
   [
-   "Bill Bradburn",
-   "Truckin Bulls",
-   1.54,
-   15,
-   1,
-   2,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Sean New Wave",
    "New Wave",
    1.54,
@@ -908,6 +893,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Bill Bradburn",
+   "Truckin Bulls",
+   1.54,
+   15,
+   1,
+   2,
+   0,
+   0,
+   4,
+   0,
+   1,
    0,
    0
   ],
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-10T19:19:35Z"
+ "updated": "2026-11-10T21:03:32Z"
 }
