@@ -938,18 +938,6 @@
    19
   ],
   [
-   "Claude Yeoumas",
-   "Brothas",
-   18.81,
-   42,
-   12,
-   1,
-   0,
-   0,
-   0,
-   22
-  ],
-  [
    "Kenny Williams",
    "Glass N Stache",
    18.81,
@@ -960,6 +948,18 @@
    0,
    0,
    19
+  ],
+  [
+   "Claude Yeoumas",
+   "Brothas",
+   18.81,
+   42,
+   12,
+   1,
+   0,
+   0,
+   0,
+   22
   ],
   [
    "TJ Vay",
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-10T03:06:34Z"
+ "updated": "2026-11-10T04:12:16Z"
 }

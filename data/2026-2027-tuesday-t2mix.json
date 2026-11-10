@@ -230,10 +230,10 @@
     3.42
    ],
    [
-    "Julie DiGrazia",
-    "And Then There Was 2",
-    1.41,
-    1.47
+    "Dan Freese",
+    "Right There",
+    2.95,
+    3.01
    ]
   ],
   "x": [
@@ -364,21 +364,6 @@
    0
   ],
   [
-   "Rich Allen",
-   "Wags To Richs",
-   3.01,
-   30,
-   10,
-   5,
-   2,
-   1,
-   19,
-   7,
-   4,
-   0,
-   1
-  ],
-  [
    "Dan Freese",
    "Right There",
    3.01,
@@ -392,6 +377,21 @@
    9,
    0,
    2
+  ],
+  [
+   "Rich Allen",
+   "Wags To Richs",
+   3.01,
+   30,
+   10,
+   5,
+   2,
+   1,
+   19,
+   7,
+   4,
+   0,
+   1
   ],
   [
    "Justin Burdett",
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-10T03:07:04Z"
+ "updated": "2026-11-10T04:12:50Z"
 }

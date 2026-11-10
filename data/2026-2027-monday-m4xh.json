@@ -5,6 +5,11 @@
  },
  "standings": [
   [
+   "The Four Horseman",
+   64,
+   41
+  ],
+  [
    "RamRod",
    62,
    43
@@ -13,11 +18,6 @@
    "Take It Out",
    61,
    44
-  ],
-  [
-   "The Four Horseman",
-   52,
-   38
   ],
   [
    "Right There",
@@ -41,18 +41,18 @@
   ],
   [
    "Connor And The Jets",
-   27,
-   63
+   30,
+   75
   ]
  ],
  "results": [
   [
    "The Four Horseman",
-   "Dartbags",
-   "11/02/2026",
-   6,
-   13,
-   2
+   "Connor And The Jets",
+   "11/09/2026",
+   7,
+   12,
+   3
   ],
   [
    "Dartbags",
@@ -87,14 +87,6 @@
    8
   ],
   [
-   "Connor And The Jets",
-   "RamRod",
-   "11/02/2026",
-   6,
-   5,
-   10
-  ],
-  [
    "Right There",
    "RamRod",
    "11/09/2026",
@@ -109,6 +101,14 @@
    7,
    4,
    11
+  ],
+  [
+   "Connor And The Jets",
+   "The Four Horseman",
+   "11/09/2026",
+   7,
+   3,
+   12
   ]
  ],
  "improved": {
@@ -120,19 +120,25 @@
     2.31
    ],
    [
+    "Tim Olmsted",
+    "Dartbags",
+    1.65,
+    1.72
+   ],
+   [
     "Blake Stevenson",
     "RamRod",
     1.47,
     1.54
-   ],
-   [
-    "Fred James",
-    "Right There",
-    2.89,
-    2.96
    ]
   ],
   "x": [
+   [
+    "Brandon Gerritz",
+    "Connor And The Jets",
+    9.25,
+    10.34
+   ],
    [
     "Keith West",
     "Take It Out",
@@ -140,16 +146,10 @@
     17.11
    ],
    [
-    "Blake Stevenson",
-    "RamRod",
-    14.29,
-    14.9
-   ],
-   [
-    "Brett ONeal",
-    "Roasted Shenanigans",
-    17.93,
-    18.18
+    "Connor Starr",
+    "Connor And The Jets",
+    16.46,
+    17.08
    ]
   ]
  },
@@ -232,14 +232,29 @@
   [
    "Roger Furmanski",
    "The Four Horseman",
-   2.54,
-   18,
-   9,
+   2.51,
+   21,
+   11,
    1,
    1,
    0,
-   10,
+   11,
    4,
+   2,
+   0,
+   1
+  ],
+  [
+   "Joel Diaz",
+   "RamRod",
+   2.49,
+   21,
+   11,
+   3,
+   0,
+   0,
+   12,
+   7,
    2,
    0,
    1
@@ -258,21 +273,6 @@
    1,
    0,
    0
-  ],
-  [
-   "Joel Diaz",
-   "RamRod",
-   2.49,
-   21,
-   11,
-   3,
-   0,
-   0,
-   12,
-   7,
-   2,
-   0,
-   1
   ],
   [
    "Mike Murphy",
@@ -305,19 +305,19 @@
    0
   ],
   [
-   "Sean Clarke",
-   "Dartbags",
-   2.34,
+   "Nick Pritchard",
+   "The Four Horseman",
+   2.35,
    21,
-   10,
-   6,
+   13,
+   1,
    1,
    0,
-   12,
-   3,
+   5,
    2,
-   1,
-   0
+   5,
+   0,
+   1
   ],
   [
    "Chris Jones",
@@ -332,6 +332,36 @@
    8,
    2,
    0,
+   0
+  ],
+  [
+   "Scott Prince",
+   "The Four Horseman",
+   2.34,
+   21,
+   2,
+   8,
+   1,
+   0,
+   12,
+   4,
+   1,
+   0,
+   1
+  ],
+  [
+   "Sean Clarke",
+   "Dartbags",
+   2.34,
+   21,
+   10,
+   6,
+   1,
+   0,
+   12,
+   3,
+   2,
+   1,
    0
   ],
   [
@@ -350,46 +380,16 @@
    0
   ],
   [
-   "Scott Prince",
-   "The Four Horseman",
-   2.31,
-   18,
-   2,
-   6,
-   1,
-   0,
-   9,
-   4,
-   0,
-   0,
-   1
-  ],
-  [
-   "Nick Pritchard",
-   "The Four Horseman",
-   2.3,
-   18,
-   10,
-   1,
-   1,
-   0,
-   5,
-   2,
-   5,
-   0,
-   1
-  ],
-  [
    "Johnny Spinks",
    "The Four Horseman",
    2.29,
-   18,
-   4,
-   6,
+   21,
+   5,
+   8,
    0,
    0,
    5,
-   5,
+   7,
    2,
    0,
    0
@@ -575,6 +575,21 @@
    0
   ],
   [
+   "Connor Starr",
+   "Connor And The Jets",
+   1.84,
+   18,
+   6,
+   2,
+   0,
+   0,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
    "Aaron Lindenberg",
    "Roasted Shenanigans",
    1.84,
@@ -620,21 +635,6 @@
    0
   ],
   [
-   "Connor Starr",
-   "Connor And The Jets",
-   1.78,
-   15,
-   5,
-   2,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Tim Olmsted",
    "Dartbags",
    1.72,
@@ -652,9 +652,9 @@
   [
    "Samuel Gordinier",
    "Connor And The Jets",
-   1.62,
-   18,
-   5,
+   1.66,
+   21,
+   6,
    2,
    0,
    0,
@@ -710,21 +710,6 @@
    0
   ],
   [
-   "Mike Harrison",
-   "Connor And The Jets",
-   1.43,
-   18,
-   3,
-   2,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Angie Coville",
    "Roasted Shenanigans",
    1.41,
@@ -740,10 +725,25 @@
    0
   ],
   [
+   "Mike Harrison",
+   "Connor And The Jets",
+   1.41,
+   21,
+   3,
+   2,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Brandon Gerritz",
    "Connor And The Jets",
    1.25,
-   3,
+   6,
    0,
    1,
    0,
@@ -795,14 +795,14 @@
   [
    "Scott Prince",
    "The Four Horseman",
-   23.62,
-   24,
+   23.1,
+   28,
+   10,
    8,
-   7,
    0,
    0,
    0,
-   28
+   34
   ],
   [
    "Chad Benedict",
@@ -819,14 +819,14 @@
   [
    "Nick Pritchard",
    "The Four Horseman",
-   22.26,
-   24,
-   6,
-   3,
+   22.36,
+   28,
+   7,
+   5,
    0,
    0,
    0,
-   28
+   36
   ],
   [
    "Todd Hanley",
@@ -877,6 +877,18 @@
    30
   ],
   [
+   "Johnny Spinks",
+   "The Four Horseman",
+   21.27,
+   28,
+   8,
+   3,
+   0,
+   0,
+   1,
+   27
+  ],
+  [
    "Sean Clarke",
    "Dartbags",
    20.96,
@@ -887,18 +899,6 @@
    0,
    0,
    32
-  ],
-  [
-   "Johnny Spinks",
-   "The Four Horseman",
-   20.71,
-   24,
-   6,
-   1,
-   0,
-   0,
-   1,
-   21
   ],
   [
    "Pat Childs",
@@ -973,6 +973,18 @@
    25
   ],
   [
+   "Roger Furmanski",
+   "The Four Horseman",
+   18.85,
+   28,
+   8,
+   4,
+   0,
+   0,
+   1,
+   19
+  ],
+  [
    "Brian Faucher",
    "RamRod",
    18.65,
@@ -983,18 +995,6 @@
    0,
    0,
    3
-  ],
-  [
-   "Roger Furmanski",
-   "The Four Horseman",
-   18.57,
-   24,
-   7,
-   2,
-   0,
-   0,
-   1,
-   15
   ],
   [
    "Brett ONeal",
@@ -1081,6 +1081,18 @@
    11
   ],
   [
+   "Connor Starr",
+   "Connor And The Jets",
+   17.08,
+   24,
+   4,
+   1,
+   0,
+   0,
+   0,
+   22
+  ],
+  [
    "Bailey Plummer",
    "Dartbags",
    16.48,
@@ -1091,18 +1103,6 @@
    0,
    0,
    13
-  ],
-  [
-   "Connor Starr",
-   "Connor And The Jets",
-   16.46,
-   20,
-   4,
-   1,
-   0,
-   0,
-   0,
-   15
   ],
   [
    "Tom Reeder",
@@ -1165,6 +1165,18 @@
    6
   ],
   [
+   "Samuel Gordinier",
+   "Connor And The Jets",
+   13.69,
+   28,
+   3,
+   2,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
    "Angie Coville",
    "Roasted Shenanigans",
    13.67,
@@ -1177,16 +1189,16 @@
    11
   ],
   [
-   "Samuel Gordinier",
+   "Mike Harrison",
    "Connor And The Jets",
-   13.44,
-   24,
-   3,
-   2,
+   13.19,
+   28,
+   4,
    0,
    0,
    0,
-   8
+   0,
+   9
   ],
   [
    "John Wiemer",
@@ -1201,16 +1213,16 @@
    8
   ],
   [
-   "Mike Harrison",
+   "Brandon Gerritz",
    "Connor And The Jets",
-   12.89,
-   24,
-   3,
+   10.34,
+   8,
    0,
    0,
    0,
    0,
-   6
+   0,
+   4
   ],
   [
    "Sarah McKnight",
@@ -1223,18 +1235,6 @@
    0,
    0,
    1
-  ],
-  [
-   "Brandon Gerritz",
-   "Connor And The Jets",
-   9.25,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   2
   ]
  ],
  "teams": [
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-10T03:07:00Z"
+ "updated": "2026-11-10T04:12:43Z"
 }
