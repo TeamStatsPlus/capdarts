@@ -623,21 +623,6 @@
    1
   ],
   [
-   "Dave Biedrzycki",
-   "Here 4 The Beer",
-   1.97,
-   21,
-   7,
-   3,
-   0,
-   0,
-   7,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Mischa Herendeen",
    "Good Smoke BBQ",
    1.97,
@@ -648,6 +633,21 @@
    0,
    3,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Biedrzycki",
+   "Here 4 The Beer",
+   1.97,
+   21,
+   7,
+   3,
+   0,
+   0,
+   7,
+   4,
    0,
    0,
    0
@@ -3087,5 +3087,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-10T09:11:18Z"
+ "updated": "2026-11-10T11:09:31Z"
 }

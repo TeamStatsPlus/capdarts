@@ -230,21 +230,6 @@
    1
   ],
   [
-   "Brian Galletto",
-   "Where The Bacon",
-   2.7,
-   24,
-   9,
-   4,
-   1,
-   0,
-   16,
-   7,
-   4,
-   1,
-   1
-  ],
-  [
    "James Mitchell",
    "Dem BOYZ",
    2.7,
@@ -258,6 +243,21 @@
    1,
    0,
    3
+  ],
+  [
+   "Brian Galletto",
+   "Where The Bacon",
+   2.7,
+   24,
+   9,
+   4,
+   1,
+   0,
+   16,
+   7,
+   4,
+   1,
+   1
   ],
   [
    "Tom Ralston",
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-10T10:14:09Z"
+ "updated": "2026-11-10T11:10:18Z"
 }
