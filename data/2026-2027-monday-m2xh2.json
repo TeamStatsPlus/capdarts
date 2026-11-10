@@ -5,14 +5,14 @@
  },
  "standings": [
   [
+   "Galactic Platypus",
+   57,
+   34
+  ],
+  [
    "Oh Look Butterflies",
    48,
    30
-  ],
-  [
-   "Galactic Platypus",
-   47,
-   31
   ],
   [
    "Kookeez Krumble",
@@ -25,27 +25,35 @@
    43
   ],
   [
-   "APA",
-   26,
-   26
-  ],
-  [
    "ApologiseNow",
    43,
    48
   ],
   [
-   "Game Of Throws",
-   22,
-   43
+   "APA",
+   29,
+   36
   ],
   [
    "Snuggs Snipers",
-   26,
-   52
+   33,
+   58
+  ],
+  [
+   "Game Of Throws",
+   28,
+   50
   ]
  ],
  "results": [
+  [
+   "Galactic Platypus",
+   "APA",
+   "11/09/2026",
+   7,
+   10,
+   3
+  ],
   [
    "Oh Look Butterflies",
    "CHEERS",
@@ -55,14 +63,6 @@
    5
   ],
   [
-   "Galactic Platypus",
-   "ApologiseNow",
-   "11/02/2026",
-   6,
-   7,
-   6
-  ],
-  [
    "Kookeez Krumble",
    "ApologiseNow",
    "11/09/2026",
@@ -72,23 +72,23 @@
   ],
   [
    "Snuggs Snipers",
-   "APA",
-   "11/02/2026",
-   6,
+   "Game Of Throws",
+   "11/09/2026",
+   7,
    7,
    6
   ],
   [
-   "APA",
-   "Snuggs Snipers",
-   "11/02/2026",
-   6,
+   "ApologiseNow",
+   "Kookeez Krumble",
+   "11/09/2026",
+   7,
    6,
    7
   ],
   [
-   "ApologiseNow",
-   "Kookeez Krumble",
+   "Game Of Throws",
+   "Snuggs Snipers",
    "11/09/2026",
    7,
    6,
@@ -103,12 +103,12 @@
    8
   ],
   [
-   "Game Of Throws",
-   "CHEERS",
-   "11/02/2026",
-   6,
-   2,
-   11
+   "APA",
+   "Galactic Platypus",
+   "11/09/2026",
+   7,
+   3,
+   10
   ]
  ],
  "improved": {
@@ -120,16 +120,16 @@
     2.41
    ],
    [
+    "Rowdy Woodworth",
+    "Snuggs Snipers",
+    2.0,
+    2.06
+   ],
+   [
     "Desmond Parris",
     "Kookeez Krumble",
     2.33,
     2.37
-   ],
-   [
-    "Hector Hernandez",
-    "Kookeez Krumble",
-    2.43,
-    2.46
    ]
   ],
   "x": [
@@ -187,14 +187,14 @@
   [
    "Mike Infantino",
    "Galactic Platypus",
-   2.73,
-   36,
-   18,
-   7,
-   3,
-   0,
-   18,
+   2.67,
+   42,
+   19,
+   10,
    4,
+   0,
+   22,
+   5,
    4,
    1,
    2
@@ -217,15 +217,15 @@
   [
    "Zach Baker",
    "APA",
-   2.56,
-   24,
-   8,
-   3,
-   3,
+   2.5,
+   30,
+   9,
+   4,
+   4,
    0,
-   10,
-   5,
-   7,
+   11,
+   6,
+   8,
    0,
    0
   ],
@@ -247,15 +247,15 @@
   [
    "Will Zimmer",
    "Game Of Throws",
-   2.45,
-   30,
-   3,
-   7,
+   2.41,
+   36,
+   5,
+   8,
    1,
    0,
-   14,
+   19,
    6,
-   5,
+   7,
    0,
    0
   ],
@@ -308,13 +308,13 @@
    "Alli Distler",
    "Galactic Platypus",
    2.19,
-   36,
-   7,
+   42,
+   10,
+   19,
+   0,
+   0,
    18,
-   0,
-   0,
-   13,
-   5,
+   6,
    1,
    0,
    0
@@ -337,14 +337,14 @@
   [
    "Matt Ferugia",
    "APA",
-   2.14,
-   24,
+   2.1,
+   30,
+   4,
+   9,
+   0,
+   0,
+   10,
    3,
-   8,
-   0,
-   0,
-   8,
-   2,
    4,
    0,
    0
@@ -352,29 +352,14 @@
   [
    "Rowdy Woodworth",
    "Snuggs Snipers",
-   2.0,
-   36,
-   5,
-   6,
-   1,
-   0,
+   2.06,
+   42,
    7,
+   7,
+   1,
+   1,
+   10,
    5,
-   0,
-   0,
-   0
-  ],
-  [
-   "Shawn Laffin",
-   "Snuggs Snipers",
-   1.93,
-   36,
-   6,
-   5,
-   0,
-   0,
-   6,
-   4,
    1,
    0,
    0
@@ -382,14 +367,29 @@
   [
    "Jamie Rialdi",
    "Game Of Throws",
-   1.92,
-   30,
-   7,
+   1.96,
+   36,
+   8,
+   5,
+   0,
+   0,
+   11,
    3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Shawn Laffin",
+   "Snuggs Snipers",
+   1.95,
+   42,
+   7,
+   7,
    0,
    0,
    8,
-   2,
+   4,
    1,
    0,
    0
@@ -423,14 +423,14 @@
   [
    "Mike Infantino",
    "Galactic Platypus",
-   26.22,
-   42,
-   11,
-   9,
+   25.76,
+   49,
+   12,
+   12,
    0,
    0,
    2,
-   52
+   58
   ],
   [
    "Jim Gangarossa",
@@ -459,26 +459,26 @@
   [
    "Will Zimmer",
    "Game Of Throws",
-   24.62,
-   35,
+   24.34,
+   42,
+   9,
    6,
-   5,
    0,
    0,
    0,
-   31
+   41
   ],
   [
    "Zach Baker",
    "APA",
-   24.11,
-   28,
-   10,
-   7,
+   23.39,
+   35,
+   11,
+   8,
    0,
    0,
    0,
-   26
+   33
   ],
   [
    "Hector Hernandez",
@@ -505,18 +505,6 @@
    37
   ],
   [
-   "Jamie Rialdi",
-   "Game Of Throws",
-   20.99,
-   35,
-   6,
-   1,
-   0,
-   0,
-   0,
-   24
-  ],
-  [
    "Todd Keller",
    "CHEERS",
    20.82,
@@ -541,52 +529,64 @@
    30
   ],
   [
-   "Alli Distler",
-   "Galactic Platypus",
-   19.47,
-   42,
-   11,
-   3,
-   0,
-   0,
-   1,
-   21
-  ],
-  [
-   "Shawn Laffin",
-   "Snuggs Snipers",
-   19.45,
+   "Jamie Rialdi",
+   "Game Of Throws",
+   20.66,
    42,
    6,
    1,
    0,
    0,
    0,
-   22
+   29
   ],
   [
-   "Rowdy Woodworth",
-   "Snuggs Snipers",
-   18.51,
-   42,
-   9,
+   "Alli Distler",
+   "Galactic Platypus",
+   19.48,
+   49,
+   16,
+   3,
+   0,
+   0,
    1,
+   25
+  ],
+  [
+   "Shawn Laffin",
+   "Snuggs Snipers",
+   19.26,
+   49,
+   7,
+   2,
    0,
    0,
    0,
    24
   ],
   [
+   "Rowdy Woodworth",
+   "Snuggs Snipers",
+   18.24,
+   49,
+   12,
+   1,
+   0,
+   0,
+   0,
+   28
+  ],
+  [
    "Matt Ferugia",
    "APA",
-   17.35,
-   28,
+   16.9,
+   35,
    5,
    0,
    0,
    0,
    0,
-   8
+   10
   ]
  ],
  "teams": [
@@ -1198,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-10T01:26:24Z"
+ "updated": "2026-11-10T03:06:51Z"
 }

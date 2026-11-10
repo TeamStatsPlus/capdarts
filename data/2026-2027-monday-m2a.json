@@ -5,34 +5,34 @@
  },
  "standings": [
   [
-   "Dave And Rich",
-   51,
-   17
+   "RCE",
+   53,
+   15
   ],
   [
-   "RCE",
-   38,
-   13
+   "Dave And Rich",
+   62,
+   23
   ],
   [
    "Off In Church",
-   37,
-   14
-  ],
-  [
-   "Dirty Draws",
-   41,
-   27
-  ],
-  [
-   "Straight 2 The Point",
-   40,
-   28
+   46,
+   22
   ],
   [
    "Gingers Unite",
-   38,
-   30
+   53,
+   32
+  ],
+  [
+   "Straight 2 The Point",
+   48,
+   37
+  ],
+  [
+   "Dirty Draws",
+   47,
+   38
   ],
   [
    "The Regulators",
@@ -40,14 +40,14 @@
    33
   ],
   [
-   "Water Off",
-   35,
-   50
-  ],
-  [
    "IGY6",
    25,
    43
+  ],
+  [
+   "Water Off",
+   37,
+   65
   ],
   [
    "Dirty Kids MFWs",
@@ -56,40 +56,32 @@
   ],
   [
    "Respectdabull",
-   22,
-   80
+   24,
+   95
   ]
  ],
  "results": [
   [
-   "Off In Church",
+   "RCE",
    "Water Off",
-   "11/02/2026",
-   6,
+   "11/09/2026",
+   7,
+   15,
+   2
+  ],
+  [
+   "Gingers Unite",
+   "Respectdabull",
+   "11/09/2026",
+   7,
    15,
    2
   ],
   [
    "Dave And Rich",
-   "The Regulators",
-   "11/02/2026",
-   6,
-   11,
-   6
-  ],
-  [
-   "Gingers Unite",
-   "IGY6",
-   "11/02/2026",
-   6,
-   11,
-   6
-  ],
-  [
-   "RCE",
    "Dirty Draws",
-   "11/02/2026",
-   6,
+   "11/09/2026",
+   7,
    11,
    6
   ],
@@ -102,26 +94,26 @@
    7
   ],
   [
+   "Off In Church",
    "Straight 2 The Point",
-   "Gingers Unite",
-   "10/26/2026",
-   5,
+   "11/09/2026",
+   7,
+   9,
+   8
+  ],
+  [
+   "Straight 2 The Point",
+   "Off In Church",
+   "11/09/2026",
+   7,
    8,
    9
   ],
   [
-   "Respectdabull",
-   "Dirty Kids MFWs",
-   "11/02/2026",
-   6,
-   7,
-   10
-  ],
-  [
    "Dirty Draws",
-   "RCE",
-   "11/02/2026",
-   6,
+   "Dave And Rich",
+   "11/09/2026",
+   7,
    6,
    11
   ],
@@ -142,10 +134,18 @@
    11
   ],
   [
+   "Respectdabull",
+   "Gingers Unite",
+   "11/09/2026",
+   7,
+   2,
+   15
+  ],
+  [
    "Water Off",
-   "Off In Church",
-   "11/02/2026",
-   6,
+   "RCE",
+   "11/09/2026",
+   7,
    2,
    15
   ]
@@ -153,42 +153,42 @@
  "improved": {
   "c": [
    [
-    "Chris Maloney",
-    "RCE",
-    3.5,
-    3.68
+    "Dave Wallace",
+    "Dave And Rich",
+    3.07,
+    3.15
    ],
    [
-    "Jeff Childs",
-    "Off In Church",
-    3.71,
-    3.82
+    "Cory Kent",
+    "Gingers Unite",
+    3.13,
+    3.18
    ],
    [
-    "Alex Brant",
-    "RCE",
-    3.81,
-    3.92
+    "Steve Dailor",
+    "Dirty Draws",
+    3.76,
+    3.81
    ]
   ],
   "x": [
    [
-    "Dave Wallace",
-    "Dave And Rich",
-    26.16,
-    26.89
+    "Joe Gillett",
+    "Off In Church",
+    24.87,
+    26.12
    ],
    [
     "Rich Allen",
     "Dave And Rich",
-    26.75,
-    26.95
+    26.95,
+    27.63
    ],
    [
-    "William Lupiani",
-    "The Regulators",
-    22.54,
-    22.68
+    "Anthony Nesci",
+    "Respectdabull",
+    21.42,
+    21.83
    ]
   ]
  },
@@ -211,77 +211,77 @@
   [
    "Alex Brant",
    "RCE",
-   3.92,
-   24,
-   11,
-   7,
+   3.93,
+   32,
+   17,
+   9,
    2,
-   0,
-   22,
-   6,
-   15,
+   1,
+   29,
+   9,
+   21,
    1,
    4
-  ],
-  [
-   "Jeff Childs",
-   "Off In Church",
-   3.82,
-   24,
-   11,
-   10,
-   4,
-   1,
-   16,
-   6,
-   16,
-   1,
-   2
   ],
   [
    "Steve Dailor",
    "Dirty Draws",
-   3.76,
-   32,
-   11,
+   3.81,
+   40,
+   16,
    7,
-   6,
+   7,
    0,
-   19,
+   24,
+   23,
    17,
-   12,
    1,
-   4
+   5
+  ],
+  [
+   "Jeff Childs",
+   "Off In Church",
+   3.72,
+   32,
+   13,
+   10,
+   4,
+   1,
+   24,
+   11,
+   16,
+   1,
+   3
   ],
   [
    "Chris Maloney",
    "RCE",
-   3.68,
-   24,
-   12,
-   6,
+   3.66,
+   32,
+   16,
+   10,
+   3,
+   0,
+   28,
+   10,
+   10,
    2,
-   0,
-   22,
-   9,
-   6,
-   0,
    3
   ],
   [
    "Carlton Smith",
    "Straight 2 The Point",
-   3.43,
-   32,
-   10,
-   8,
-   4,
+   3.45,
+   40,
+   15,
+   9,
+   5,
    1,
-   27,
-   14,
-   7,
+   30,
+   17,
+   12,
    0,
-   5
+   6
   ],
   [
    "Matt Herne",
@@ -299,61 +299,106 @@
    0
   ],
   [
-   "Ashton Maracle",
+   "Cory Kent",
    "Gingers Unite",
-   3.2,
-   32,
-   11,
-   9,
-   4,
+   3.18,
+   40,
+   20,
+   5,
+   1,
    0,
-   22,
+   33,
+   16,
+   8,
+   0,
+   0
+  ],
+  [
+   "Dave Wallace",
+   "Dave And Rich",
+   3.15,
+   40,
    18,
    9,
+   5,
+   1,
+   32,
+   13,
+   15,
+   0,
+   0
+  ],
+  [
+   "Ashton Maracle",
+   "Gingers Unite",
+   3.15,
+   40,
+   12,
+   15,
+   5,
+   0,
+   24,
+   20,
+   12,
    0,
    1
   ],
   [
    "Tashawn Rucker",
    "Straight 2 The Point",
-   3.14,
-   32,
-   13,
-   4,
+   3.15,
+   40,
+   15,
+   7,
    3,
    0,
-   26,
-   10,
-   3,
+   31,
+   14,
+   5,
    0,
    4
   ],
   [
-   "Cory Kent",
-   "Gingers Unite",
-   3.13,
-   32,
-   12,
-   5,
-   1,
-   0,
-   24,
-   14,
-   6,
-   0,
-   0
-  ],
-  [
    "Houston Hughey III",
    "Dirty Draws",
-   3.12,
-   32,
+   3.04,
+   40,
    11,
-   5,
+   8,
+   2,
    1,
-   1,
+   24,
+   12,
+   11,
+   0,
+   3
+  ],
+  [
+   "Cory Humphries",
+   "Water Off",
+   3.03,
+   48,
+   11,
+   6,
+   3,
+   0,
+   28,
+   12,
+   10,
+   0,
+   3
+  ],
+  [
+   "Rich Allen",
+   "Dave And Rich",
+   3.02,
+   40,
+   16,
+   11,
+   8,
+   0,
    22,
-   11,
+   13,
    7,
    0,
    3
@@ -361,77 +406,17 @@
   [
    "Joe Gillett",
    "Off In Church",
-   3.09,
-   24,
-   13,
-   6,
-   2,
-   1,
-   12,
-   10,
+   3.02,
+   32,
+   14,
+   8,
    4,
+   1,
+   16,
+   11,
+   8,
    0,
    2
-  ],
-  [
-   "Dave Wallace",
-   "Dave And Rich",
-   3.07,
-   32,
-   17,
-   6,
-   4,
-   0,
-   27,
-   11,
-   12,
-   0,
-   0
-  ],
-  [
-   "Rich Allen",
-   "Dave And Rich",
-   3.04,
-   32,
-   12,
-   11,
-   6,
-   0,
-   19,
-   8,
-   7,
-   0,
-   3
-  ],
-  [
-   "Cory Humphries",
-   "Water Off",
-   2.99,
-   40,
-   11,
-   6,
-   3,
-   0,
-   21,
-   10,
-   9,
-   0,
-   3
-  ],
-  [
-   "Aaron Garrett",
-   "Respectdabull",
-   2.95,
-   32,
-   8,
-   3,
-   2,
-   0,
-   15,
-   16,
-   10,
-   1,
-   0
   ],
   [
    "Mike Frank",
@@ -462,6 +447,21 @@
    8,
    0,
    0
+  ],
+  [
+   "Aaron Garrett",
+   "Respectdabull",
+   2.86,
+   40,
+   8,
+   3,
+   3,
+   0,
+   17,
+   16,
+   10,
+   1,
+   1
   ],
   [
    "Dashay Earlsey",
@@ -541,15 +541,15 @@
   [
    "Anthony Nesci",
    "Respectdabull",
-   2.4,
-   40,
-   4,
+   2.44,
+   48,
+   5,
    6,
    1,
    0,
-   9,
-   11,
-   4,
+   14,
+   14,
+   6,
    0,
    2
   ],
@@ -567,20 +567,47 @@
    0,
    0,
    0
+  ],
+  [
+   "STEVE",
+   "{Substitutes}",
+   2.05,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0
   ]
  ],
  "x01": [
   [
    "Steve Dailor",
    "Dirty Draws",
-   31.3,
-   28,
-   17,
-   24,
+   31.32,
+   35,
+   18,
+   27,
    0,
    0,
    1,
-   58
+   76
+  ],
+  [
+   "Jeff Childs",
+   "Off In Church",
+   30.92,
+   28,
+   13,
+   19,
+   0,
+   0,
+   1,
+   65
   ],
   [
    "Mike Frank",
@@ -595,30 +622,6 @@
    11
   ],
   [
-   "Jeff Childs",
-   "Off In Church",
-   30.53,
-   21,
-   11,
-   12,
-   0,
-   0,
-   1,
-   49
-  ],
-  [
-   "Alex Brant",
-   "RCE",
-   30.38,
-   21,
-   9,
-   16,
-   0,
-   0,
-   7,
-   32
-  ],
-  [
    "JohnnyLee Jenkins",
    "The Regulators",
    30.25,
@@ -631,52 +634,52 @@
    43
   ],
   [
-   "Chris Maloney",
+   "Alex Brant",
    "RCE",
-   28.28,
-   21,
-   6,
-   8,
-   0,
+   29.8,
+   28,
+   12,
+   18,
    0,
    1,
-   39
+   9,
+   44
   ],
   [
-   "Carlton Smith",
-   "Straight 2 The Point",
-   27.52,
+   "Chris Maloney",
+   "RCE",
+   28.11,
    28,
-   13,
-   13,
+   8,
+   10,
    0,
-   0,
-   4,
-   52
+   1,
+   3,
+   54
   ],
   [
    "Rich Allen",
    "Dave And Rich",
-   26.95,
-   28,
-   12,
-   13,
+   27.63,
+   35,
+   16,
+   18,
    0,
    0,
    0,
-   49
+   61
   ],
   [
-   "Dave Wallace",
-   "Dave And Rich",
-   26.89,
-   28,
-   10,
-   5,
+   "Carlton Smith",
+   "Straight 2 The Point",
+   26.93,
+   35,
+   14,
+   15,
    0,
-   3,
-   5,
-   58
+   0,
+   4,
+   64
   ],
   [
    "Matt Herne",
@@ -691,6 +694,18 @@
    24
   ],
   [
+   "Dave Wallace",
+   "Dave And Rich",
+   26.83,
+   35,
+   12,
+   9,
+   0,
+   3,
+   5,
+   71
+  ],
+  [
    "Alex Hoestermann",
    "Dirty Kids MFWs",
    26.33,
@@ -703,76 +718,76 @@
    54
   ],
   [
-   "Cory Humphries",
-   "Water Off",
-   26.07,
-   35,
-   11,
-   10,
-   0,
-   0,
-   1,
-   57
-  ],
-  [
-   "Cory Kent",
-   "Gingers Unite",
-   24.93,
-   28,
-   7,
-   11,
-   0,
-   0,
-   1,
-   41
-  ],
-  [
    "Joe Gillett",
    "Off In Church",
-   24.87,
-   21,
-   2,
-   8,
-   0,
-   0,
-   0,
-   35
-  ],
-  [
-   "Houston Hughey III",
-   "Dirty Draws",
-   24.53,
+   26.12,
    28,
-   2,
-   8,
-   0,
-   0,
-   1,
-   43
-  ],
-  [
-   "Tashawn Rucker",
-   "Straight 2 The Point",
-   23.85,
-   28,
-   4,
-   10,
+   6,
+   14,
    0,
    0,
    0,
    46
   ],
   [
+   "Cory Humphries",
+   "Water Off",
+   26.07,
+   42,
+   13,
+   11,
+   0,
+   0,
+   3,
+   69
+  ],
+  [
+   "Cory Kent",
+   "Gingers Unite",
+   24.77,
+   35,
+   9,
+   12,
+   0,
+   0,
+   1,
+   54
+  ],
+  [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   23.5,
+   35,
+   4,
+   11,
+   0,
+   0,
+   0,
+   55
+  ],
+  [
+   "Houston Hughey III",
+   "Dirty Draws",
+   23.36,
+   35,
+   2,
+   8,
+   0,
+   0,
+   1,
+   46
+  ],
+  [
    "Ashton Maracle",
    "Gingers Unite",
-   23.55,
-   28,
+   23.3,
+   35,
+   11,
    8,
-   8,
    0,
    0,
-   0,
-   43
+   1,
+   59
   ],
   [
    "Dashay Earlsey",
@@ -811,28 +826,28 @@
    44
   ],
   [
+   "Anthony Nesci",
+   "Respectdabull",
+   21.83,
+   42,
+   2,
+   7,
+   0,
+   0,
+   0,
+   51
+  ],
+  [
    "Aaron Garrett",
    "Respectdabull",
-   21.79,
-   28,
+   21.11,
+   35,
    3,
    7,
    0,
    0,
    0,
-   37
-  ],
-  [
-   "Anthony Nesci",
-   "Respectdabull",
-   21.42,
-   35,
-   1,
-   7,
-   0,
-   0,
-   0,
-   40
+   46
   ],
   [
    "Austin Prince",
@@ -857,6 +872,18 @@
    0,
    0,
    27
+  ],
+  [
+   "STEVE",
+   "{Substitutes}",
+   19.9,
+   7,
+   0,
+   1,
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Amy DeBruyne",
@@ -1597,5 +1624,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-10T01:26:17Z"
+ "updated": "2026-11-10T03:06:43Z"
 }
