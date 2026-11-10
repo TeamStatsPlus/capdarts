@@ -507,21 +507,6 @@
    0
   ],
   [
-   "Barry Barklund",
-   "Dartbags",
-   1.96,
-   18,
-   1,
-   9,
-   0,
-   0,
-   3,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Jake Preston",
    "Show Your Tips",
    1.96,
@@ -548,6 +533,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Barry Barklund",
+   "Dartbags",
+   1.96,
+   18,
+   1,
+   9,
+   0,
+   0,
+   3,
+   1,
+   2,
    0,
    0
   ],
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-10T09:11:47Z"
+ "updated": "2026-11-10T10:13:54Z"
 }
