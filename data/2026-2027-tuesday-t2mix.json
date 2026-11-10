@@ -364,21 +364,6 @@
    0
   ],
   [
-   "Dan Freese",
-   "Right There",
-   3.01,
-   36,
-   15,
-   6,
-   4,
-   1,
-   20,
-   13,
-   9,
-   0,
-   2
-  ],
-  [
    "Rich Allen",
    "Wags To Richs",
    3.01,
@@ -392,6 +377,21 @@
    4,
    0,
    1
+  ],
+  [
+   "Dan Freese",
+   "Right There",
+   3.01,
+   36,
+   15,
+   6,
+   4,
+   1,
+   20,
+   13,
+   9,
+   0,
+   2
   ],
   [
    "Justin Burdett",
@@ -574,21 +574,6 @@
    0
   ],
   [
-   "Robyn Ralston",
-   "Sprinkles On Top",
-   1.87,
-   24,
-   7,
-   5,
-   0,
-   0,
-   2,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Zicari",
    "Pointless",
    1.87,
@@ -601,6 +586,21 @@
    4,
    3,
    1,
+   0
+  ],
+  [
+   "Robyn Ralston",
+   "Sprinkles On Top",
+   1.87,
+   24,
+   7,
+   5,
+   0,
+   0,
+   2,
+   4,
+   1,
+   0,
    0
   ],
   [
@@ -2094,5 +2094,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-10T13:27:59Z"
+ "updated": "2026-11-10T15:09:47Z"
 }

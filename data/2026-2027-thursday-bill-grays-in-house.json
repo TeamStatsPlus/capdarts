@@ -350,21 +350,6 @@
    0
   ],
   [
-   "Nick DelGaizo",
-   "BadDarts StankyFarts",
-   1.34,
-   28,
-   5,
-   4,
-   0,
-   0,
-   6,
-   2,
-   0,
-   0,
-   1
-  ],
-  [
    "Rick Falvo",
    "Sweet Pickles",
    1.34,
@@ -378,6 +363,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Nick DelGaizo",
+   "BadDarts StankyFarts",
+   1.34,
+   28,
+   5,
+   4,
+   0,
+   0,
+   6,
+   2,
+   0,
+   0,
+   1
   ],
   [
    "Joe Gravino",
@@ -813,7 +813,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-11-10T13:28:55Z",
+ "updated": "2026-11-10T15:10:43Z",
  "teams": [
   {
    "name": "Alex And Lawlor",
