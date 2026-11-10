@@ -174,6 +174,21 @@
    1
   ],
   [
+   "James Samuelson",
+   "Satchel Of Richards",
+   3.08,
+   15,
+   7,
+   3,
+   2,
+   0,
+   12,
+   6,
+   4,
+   1,
+   2
+  ],
+  [
    "Cory Humphries",
    "Water Off",
    3.08,
@@ -202,21 +217,6 @@
    4,
    0,
    0
-  ],
-  [
-   "James Samuelson",
-   "Satchel Of Richards",
-   3.08,
-   15,
-   7,
-   3,
-   2,
-   0,
-   12,
-   6,
-   4,
-   1,
-   2
   ],
   [
    "Justin Southwick",
@@ -767,18 +767,6 @@
    19
   ],
   [
-   "Dashay Earlsey",
-   "Water Off",
-   20.01,
-   24,
-   7,
-   5,
-   0,
-   0,
-   0,
-   14
-  ],
-  [
    "TJ Lucey",
    "Ryans Renegades",
    20.01,
@@ -789,6 +777,18 @@
    0,
    2,
    20
+  ],
+  [
+   "Dashay Earlsey",
+   "Water Off",
+   20.01,
+   24,
+   7,
+   5,
+   0,
+   0,
+   0,
+   14
   ],
   [
    "Pat Fagan",
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-10T17:13:02Z"
+ "updated": "2026-11-10T18:03:11Z"
 }
