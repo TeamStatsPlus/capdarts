@@ -215,21 +215,6 @@
    0
   ],
   [
-   "Travis Hall",
-   "Lady And The Tramps",
-   1.92,
-   18,
-   7,
-   8,
-   0,
-   0,
-   1,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Philip Rowland",
    "Team Name",
    1.92,
@@ -240,6 +225,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Travis Hall",
+   "Lady And The Tramps",
+   1.92,
+   18,
+   7,
+   8,
+   0,
+   0,
+   1,
+   2,
    0,
    0,
    0
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-10T18:02:31Z"
+ "updated": "2026-11-10T19:19:30Z"
 }

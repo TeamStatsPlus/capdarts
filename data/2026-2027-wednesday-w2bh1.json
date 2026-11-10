@@ -172,16 +172,16 @@
     1.49
    ],
    [
-    "Oscar Wheeler",
-    "Two Furry Dudes",
-    1.9,
-    1.95
-   ],
-   [
     "Amy Poltorak",
     "In Whiskey We Trust",
     1.46,
     1.51
+   ],
+   [
+    "Oscar Wheeler",
+    "Two Furry Dudes",
+    1.9,
+    1.95
    ]
   ],
   "x": [
@@ -222,21 +222,6 @@
    0
   ],
   [
-   "Matthew Sutherland",
-   "Darts Deep",
-   2.32,
-   30,
-   13,
-   8,
-   0,
-   0,
-   8,
-   8,
-   2,
-   1,
-   1
-  ],
-  [
    "Jarrett Boutet",
    "Turd Ferguson",
    2.32,
@@ -250,6 +235,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Matthew Sutherland",
+   "Darts Deep",
+   2.32,
+   30,
+   13,
+   8,
+   0,
+   0,
+   8,
+   8,
+   2,
+   1,
+   1
   ],
   [
    "Melissa Wallace",
@@ -1806,5 +1806,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-10T18:02:40Z"
+ "updated": "2026-11-10T19:19:39Z"
 }
