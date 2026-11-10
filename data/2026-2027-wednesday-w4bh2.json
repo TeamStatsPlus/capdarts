@@ -289,21 +289,6 @@
    0
   ],
   [
-   "Toby Affronti",
-   "RRP Crew",
-   2.26,
-   12,
-   5,
-   1,
-   2,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Infantino",
    "Wrong Hole",
    2.26,
@@ -315,6 +300,21 @@
    8,
    2,
    4,
+   0,
+   0
+  ],
+  [
+   "Toby Affronti",
+   "RRP Crew",
+   2.26,
+   12,
+   5,
+   1,
+   2,
+   0,
+   2,
+   0,
+   1,
    0,
    0
   ],
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-10T12:07:34Z"
+ "updated": "2026-11-10T13:28:41Z"
 }
