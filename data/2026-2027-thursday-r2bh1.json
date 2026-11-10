@@ -273,21 +273,6 @@
    0
   ],
   [
-   "Andrew Casciani",
-   "Not These Guys Again",
-   1.89,
-   30,
-   5,
-   9,
-   0,
-   0,
-   8,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Colin Mousseau",
    "The Nobodys",
    1.89,
@@ -299,6 +284,21 @@
    10,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Andrew Casciani",
+   "Not These Guys Again",
+   1.89,
+   30,
+   5,
+   9,
+   0,
+   0,
+   8,
+   1,
+   2,
    0,
    0
   ],
@@ -333,21 +333,6 @@
    0
   ],
   [
-   "Jon Green",
-   "Split Decision",
-   1.8,
-   30,
-   6,
-   8,
-   0,
-   0,
-   6,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Matt Cortese",
    "2 Guys 1 Bull",
    1.8,
@@ -359,6 +344,21 @@
    3,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Jon Green",
+   "Split Decision",
+   1.8,
+   30,
+   6,
+   8,
+   0,
+   0,
+   6,
+   3,
+   2,
    0,
    0
   ],
@@ -1446,5 +1446,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-10T15:10:48Z"
+ "updated": "2026-11-10T16:11:27Z"
 }

@@ -582,21 +582,6 @@
    0
   ],
   [
-   "Danielle Henry",
-   "The Limp Wristers",
-   1.49,
-   15,
-   3,
-   5,
-   0,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0
-  ],
-  [
    "Chuck Hathaway",
    "Closer To Zero",
    1.49,
@@ -612,18 +597,18 @@
    1
   ],
   [
-   "John Waud",
-   "Shart Shooters",
-   1.47,
+   "Danielle Henry",
+   "The Limp Wristers",
+   1.49,
    15,
-   4,
    3,
+   5,
    0,
    0,
-   3,
    0,
    0,
    0,
+   2,
    0
   ],
   [
@@ -638,6 +623,21 @@
    1,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "John Waud",
+   "Shart Shooters",
+   1.47,
+   15,
+   4,
+   3,
+   0,
+   0,
+   3,
+   0,
+   0,
    0,
    0
   ],
@@ -852,21 +852,6 @@
    0
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   1.17,
-   12,
-   4,
-   3,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ellen Post",
    "Closer To Zero",
    1.17,
@@ -880,6 +865,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   1.17,
+   12,
+   4,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Tyler CannonBailey",
@@ -1002,12 +1002,12 @@
    0
   ],
   [
-   "Sylvan Hemingway",
-   "Squeekertips",
+   "Katy Carges",
+   "Throwgasms",
    1.01,
-   12,
+   9,
    1,
-   0,
+   2,
    0,
    0,
    1,
@@ -1017,12 +1017,12 @@
    0
   ],
   [
-   "Katy Carges",
-   "Throwgasms",
+   "Sylvan Hemingway",
+   "Squeekertips",
    1.01,
-   9,
+   12,
    1,
-   2,
+   0,
    0,
    0,
    1,
@@ -1152,21 +1152,6 @@
    0
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
-   0.9,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kaitlyn Schaeffer",
    "Throwgasms",
    0.9,
@@ -1182,10 +1167,10 @@
    0
   ],
   [
-   "Aaron Struggle Bus",
-   "Struggle Bus",
-   0.89,
-   6,
+   "Cindy Simpson",
+   "Squeekertips",
+   0.9,
+   3,
    0,
    0,
    0,
@@ -1202,6 +1187,21 @@
    0.89,
    3,
    1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Aaron Struggle Bus",
+   "Struggle Bus",
+   0.89,
+   6,
+   0,
    0,
    0,
    0,
@@ -1658,18 +1658,6 @@
    1
   ],
   [
-   "Cindy Simpson",
-   "Squeekertips",
-   14.0,
-   4,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Tyler CannonBailey",
    "Squeekertips",
    14.0,
@@ -1680,6 +1668,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Cindy Simpson",
+   "Squeekertips",
+   14.0,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Tyler Voellinger",
@@ -2868,5 +2868,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-10T15:10:24Z"
+ "updated": "2026-11-10T16:11:02Z"
 }
