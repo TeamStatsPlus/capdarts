@@ -215,21 +215,6 @@
    0
   ],
   [
-   "Philip Rowland",
-   "Team Name",
-   1.92,
-   3,
-   1,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Travis Hall",
    "Lady And The Tramps",
    1.92,
@@ -240,6 +225,21 @@
    0,
    1,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Philip Rowland",
+   "Team Name",
+   1.92,
+   3,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -260,21 +260,6 @@
    0
   ],
   [
-   "Andy Del Gandio",
-   "The Critters",
-   1.87,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Sloan",
    "The Critters",
    1.87,
@@ -285,6 +270,21 @@
    0,
    6,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andy Del Gandio",
+   "The Critters",
+   1.87,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -455,21 +455,6 @@
    0
   ],
   [
-   "Emily Chard",
-   "Thats Bullshoot",
-   1.6,
-   15,
-   4,
-   3,
-   0,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Ben Vassallo",
    "Lady And The Tramps",
    1.6,
@@ -479,6 +464,21 @@
    0,
    0,
    0,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Emily Chard",
+   "Thats Bullshoot",
+   1.6,
+   15,
+   4,
+   3,
+   0,
+   0,
+   2,
    2,
    0,
    0,
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-10T07:36:29Z"
+ "updated": "2026-11-10T09:11:41Z"
 }
