@@ -172,16 +172,16 @@
     1.49
    ],
    [
-    "Amy Poltorak",
-    "In Whiskey We Trust",
-    1.46,
-    1.51
-   ],
-   [
     "Oscar Wheeler",
     "Two Furry Dudes",
     1.9,
     1.95
+   ],
+   [
+    "Amy Poltorak",
+    "In Whiskey We Trust",
+    1.46,
+    1.51
    ]
   ],
   "x": [
@@ -1806,5 +1806,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-11T13:33:56Z"
+ "updated": "2026-11-11T15:11:06Z"
 }
