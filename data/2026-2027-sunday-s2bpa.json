@@ -451,21 +451,6 @@
    0
   ],
   [
-   "Efrain Figueroa",
-   "Black And Brown",
-   2.68,
-   36,
-   10,
-   3,
-   2,
-   0,
-   25,
-   10,
-   6,
-   0,
-   1
-  ],
-  [
    "Dashay Earlsey",
    "Water Off",
    2.68,
@@ -479,6 +464,21 @@
    8,
    2,
    2
+  ],
+  [
+   "Efrain Figueroa",
+   "Black And Brown",
+   2.68,
+   36,
+   10,
+   3,
+   2,
+   0,
+   25,
+   10,
+   6,
+   0,
+   1
   ],
   [
    "Archie Donaldson",
@@ -1509,5 +1509,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-11T09:14:51Z"
+ "updated": "2026-11-11T10:20:11Z"
 }
