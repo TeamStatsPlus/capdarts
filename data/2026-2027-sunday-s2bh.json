@@ -217,10 +217,10 @@
     2.23
    ],
    [
-    "James Davis",
-    "Ones Are Closed",
-    2.09,
-    2.16
+    "Kristin Southwick",
+    "Tintins",
+    1.34,
+    1.41
    ]
   ],
   "x": [
@@ -938,18 +938,6 @@
    19
   ],
   [
-   "Kenny Williams",
-   "Glass N Stache",
-   18.81,
-   35,
-   11,
-   2,
-   0,
-   0,
-   0,
-   19
-  ],
-  [
    "Claude Yeoumas",
    "Brothas",
    18.81,
@@ -960,6 +948,18 @@
    0,
    0,
    22
+  ],
+  [
+   "Kenny Williams",
+   "Glass N Stache",
+   18.81,
+   35,
+   11,
+   2,
+   0,
+   0,
+   0,
+   19
   ],
   [
    "TJ Vay",
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-11T06:17:05Z"
+ "updated": "2026-11-11T07:41:25Z"
 }
