@@ -198,10 +198,10 @@
     16.65
    ],
    [
-    "Oscar Wheeler",
-    "Two Furry Dudes",
-    17.85,
-    18.04
+    "Kevin Tierney",
+    "BitterDisappointment",
+    13.27,
+    13.46
    ]
   ]
  },
@@ -327,21 +327,6 @@
    1
   ],
   [
-   "Keith Seiffert",
-   "BitterDisappointment",
-   1.85,
-   30,
-   10,
-   5,
-   1,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Zach Morgan",
    "Two Furry Dudes",
    1.85,
@@ -353,6 +338,21 @@
    5,
    4,
    2,
+   0,
+   0
+  ],
+  [
+   "Keith Seiffert",
+   "BitterDisappointment",
+   1.85,
+   30,
+   10,
+   5,
+   1,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -1806,5 +1806,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-11T03:10:33Z"
+ "updated": "2026-11-11T04:18:51Z"
 }
