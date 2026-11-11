@@ -159,16 +159,16 @@
     3.15
    ],
    [
-    "Cory Kent",
-    "Gingers Unite",
-    3.13,
-    3.18
-   ],
-   [
     "Steve Dailor",
     "Dirty Draws",
     3.76,
     3.81
+   ],
+   [
+    "Cory Kent",
+    "Gingers Unite",
+    3.13,
+    3.18
    ]
   ],
   "x": [
@@ -389,21 +389,6 @@
    3
   ],
   [
-   "Joe Gillett",
-   "Off In Church",
-   3.02,
-   32,
-   14,
-   8,
-   4,
-   1,
-   16,
-   11,
-   8,
-   0,
-   2
-  ],
-  [
    "Rich Allen",
    "Dave And Rich",
    3.02,
@@ -417,6 +402,21 @@
    7,
    0,
    3
+  ],
+  [
+   "Joe Gillett",
+   "Off In Church",
+   3.02,
+   32,
+   14,
+   8,
+   4,
+   1,
+   16,
+   11,
+   8,
+   0,
+   2
   ],
   [
    "Mike Frank",
@@ -1624,5 +1624,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-11T10:20:15Z"
+ "updated": "2026-11-11T13:33:17Z"
 }

@@ -126,10 +126,10 @@
     2.06
    ],
    [
-    "Jamie Rialdi",
-    "Game Of Throws",
-    1.92,
-    1.96
+    "Desmond Parris",
+    "Kookeez Krumble",
+    2.33,
+    2.37
    ]
   ],
   "x": [
@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Todd Guichard",
-   "ApologiseNow",
-   2.41,
-   42,
-   10,
-   7,
-   0,
-   0,
-   8,
-   10,
-   5,
-   0,
-   0
-  ],
-  [
    "Will Zimmer",
    "Game Of Throws",
    2.41,
@@ -271,6 +256,21 @@
    19,
    6,
    7,
+   0,
+   0
+  ],
+  [
+   "Todd Guichard",
+   "ApologiseNow",
+   2.41,
+   42,
+   10,
+   7,
+   0,
+   0,
+   8,
+   10,
+   5,
    0,
    0
   ],
@@ -1198,5 +1198,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-11T12:11:51Z"
+ "updated": "2026-11-11T13:33:26Z"
 }
