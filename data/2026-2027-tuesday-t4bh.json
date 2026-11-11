@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Tony Jackson",
-   "Gettin Looped",
-   1.45,
-   21,
-   3,
-   9,
-   0,
-   0,
-   5,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Lewis",
    "Gettin Looped",
    1.45,
@@ -570,6 +555,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tony Jackson",
+   "Gettin Looped",
+   1.45,
+   21,
+   3,
+   9,
+   0,
+   0,
+   5,
+   0,
    0,
    0,
    0
@@ -695,21 +695,6 @@
    0
   ],
   [
-   "Molly Stanziano",
-   "4 Of Clubs",
-   1.27,
-   9,
-   3,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tom Solorzano",
    "4 Of Clubs",
    1.27,
@@ -720,6 +705,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Molly Stanziano",
+   "4 Of Clubs",
+   1.27,
+   9,
+   3,
+   1,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-11T15:10:57Z"
+ "updated": "2026-11-11T16:12:04Z"
 }
