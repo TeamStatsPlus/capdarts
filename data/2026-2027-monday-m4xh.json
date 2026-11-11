@@ -320,21 +320,6 @@
    1
   ],
   [
-   "Scott Prince",
-   "The Four Horseman",
-   2.34,
-   21,
-   2,
-   8,
-   1,
-   0,
-   12,
-   4,
-   1,
-   0,
-   1
-  ],
-  [
    "Sean Clarke",
    "Dartbags",
    2.34,
@@ -363,6 +348,21 @@
    2,
    0,
    0
+  ],
+  [
+   "Scott Prince",
+   "The Four Horseman",
+   2.34,
+   21,
+   2,
+   8,
+   1,
+   0,
+   12,
+   4,
+   1,
+   0,
+   1
   ],
   [
    "Sean Grimes",
@@ -575,21 +575,6 @@
    0
   ],
   [
-   "Anthony Alletto",
-   "Dartbags",
-   1.84,
-   21,
-   7,
-   3,
-   0,
-   0,
-   7,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Aaron Lindenberg",
    "Roasted Shenanigans",
    1.84,
@@ -616,6 +601,21 @@
    3,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Anthony Alletto",
+   "Dartbags",
+   1.84,
+   21,
+   7,
+   3,
+   0,
+   0,
+   7,
+   2,
+   0,
    0,
    0
   ],
@@ -710,21 +710,6 @@
    0
   ],
   [
-   "Angie Coville",
-   "Roasted Shenanigans",
-   1.41,
-   18,
-   3,
-   3,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Harrison",
    "Connor And The Jets",
    1.41,
@@ -736,6 +721,21 @@
    4,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Angie Coville",
+   "Roasted Shenanigans",
+   1.41,
+   18,
+   3,
+   3,
+   0,
+   0,
+   4,
+   0,
+   1,
    0,
    0
   ],
@@ -901,18 +901,6 @@
    32
   ],
   [
-   "Greg Poltorak",
-   "Take It Out",
-   20.49,
-   28,
-   8,
-   2,
-   0,
-   0,
-   0,
-   39
-  ],
-  [
    "Pat Childs",
    "Roasted Shenanigans",
    20.49,
@@ -923,6 +911,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Greg Poltorak",
+   "Take It Out",
+   20.49,
+   28,
+   8,
+   2,
+   0,
+   0,
+   0,
+   39
   ],
   [
    "Marc Hinds",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-10T23:52:52Z"
+ "updated": "2026-11-11T01:27:07Z"
 }

@@ -229,21 +229,6 @@
    0
   ],
   [
-   "Bob Fox",
-   "Toasted Darts",
-   2.32,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Zaccary Maguire",
    "Team Stinky",
    2.32,
@@ -257,6 +242,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Bob Fox",
+   "Toasted Darts",
+   2.32,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "BJ Ashford",
@@ -289,21 +289,6 @@
    0
   ],
   [
-   "Toby Affronti",
-   "RRP Crew",
-   2.26,
-   12,
-   5,
-   1,
-   2,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Infantino",
    "Wrong Hole",
    2.26,
@@ -315,6 +300,21 @@
    8,
    2,
    4,
+   0,
+   0
+  ],
+  [
+   "Toby Affronti",
+   "RRP Crew",
+   2.26,
+   12,
+   5,
+   1,
+   2,
+   0,
+   2,
+   0,
+   1,
    0,
    0
   ],
@@ -784,13 +784,13 @@
    0
   ],
   [
-   "Jon Nolte",
-   "Average Joes",
+   "Nick Maguire",
+   "Team Stinky",
    1.64,
    18,
    5,
    4,
-   0,
+   1,
    0,
    1,
    1,
@@ -799,13 +799,13 @@
    0
   ],
   [
-   "Nick Maguire",
-   "Team Stinky",
+   "Jon Nolte",
+   "Average Joes",
    1.64,
    18,
    5,
    4,
-   1,
+   0,
    0,
    1,
    1,
@@ -2656,5 +2656,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-10T23:53:38Z"
+ "updated": "2026-11-11T01:27:58Z"
 }

@@ -120,10 +120,10 @@
     1.74
    ],
    [
-    "Mike Garrity",
-    "Thats Bullshoot",
-    1.12,
-    1.22
+    "Casey Birch",
+    "The Critters",
+    1.31,
+    1.41
    ],
    [
     "Edward Gschrey",
@@ -260,21 +260,6 @@
    0
   ],
   [
-   "Andy Del Gandio",
-   "The Critters",
-   1.87,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Sloan",
    "The Critters",
    1.87,
@@ -285,6 +270,21 @@
    0,
    6,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andy Del Gandio",
+   "The Critters",
+   1.87,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -395,21 +395,6 @@
    0
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   1.74,
-   15,
-   4,
-   5,
-   0,
-   0,
-   5,
-   2,
-   1,
-   1,
-   0
-  ],
-  [
    "Chris Collins",
    "Thats Bullshoot",
    1.74,
@@ -420,6 +405,21 @@
    0,
    4,
    0,
+   1,
+   1,
+   0
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   1.74,
+   15,
+   4,
+   5,
+   0,
+   0,
+   5,
+   2,
    1,
    1,
    0
@@ -545,21 +545,6 @@
    0
   ],
   [
-   "Jimmy Mietus",
-   "Team Name",
-   1.44,
-   15,
-   2,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Edward Gschrey",
    "Team Name",
    1.44,
@@ -571,6 +556,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jimmy Mietus",
+   "Team Name",
+   1.44,
+   15,
+   2,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0
   ],
@@ -1156,18 +1156,6 @@
    4
   ],
   [
-   "Tom Solorzano",
-   "4 Of Clubs",
-   14.73,
-   24,
-   5,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Tony Jackson",
    "Gettin Looped",
    14.73,
@@ -1178,6 +1166,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   14.73,
+   24,
+   5,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Chris Hartmann",
@@ -1981,5 +1981,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-10T23:53:06Z"
+ "updated": "2026-11-11T01:27:23Z"
 }
