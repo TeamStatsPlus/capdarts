@@ -695,6 +695,21 @@
    0
   ],
   [
+   "Jake Ference",
+   "Caps N Plaids",
+   1.48,
+   18,
+   2,
+   2,
+   0,
+   0,
+   4,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
    "Hannah Mayne",
    "Bad News Beers",
    1.48,
@@ -720,21 +735,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jake Ference",
-   "Caps N Plaids",
-   1.48,
-   18,
-   2,
-   2,
-   0,
-   0,
-   4,
-   4,
    0,
    0,
    0
@@ -1948,5 +1948,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-11T21:52:06Z"
+ "updated": "2026-11-11T23:10:03Z"
 }
