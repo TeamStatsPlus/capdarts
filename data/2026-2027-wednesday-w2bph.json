@@ -120,30 +120,30 @@
     2.2
    ],
    [
-    "Tom Ralston",
-    "Carpet Cleaners",
-    2.58,
-    2.62
-   ],
-   [
     "Shaun Stocking",
     "Cheers For Bad Darts",
     2.91,
     2.95
+   ],
+   [
+    "Anthony Mineo",
+    "Tony And Julian",
+    2.24,
+    2.28
    ]
   ],
   "x": [
-   [
-    "Dave Coin",
-    "We Dem Boyz",
-    21.1,
-    21.44
-   ],
    [
     "Erika Mardo",
     "Squishy Business",
     27.22,
     27.56
+   ],
+   [
+    "Dave Coin",
+    "We Dem Boyz",
+    21.1,
+    21.44
    ],
    [
     "Travis Perry",
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-11T01:27:43Z"
+ "updated": "2026-11-11T03:10:44Z"
 }

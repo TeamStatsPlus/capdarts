@@ -6,8 +6,8 @@
  "standings": [
   [
    "3 Guys And A Girl",
-   43,
-   22
+   50,
+   28
   ],
   [
    "Bad Boys",
@@ -21,28 +21,28 @@
   ],
   [
    "Sloppy Darts",
-   43,
-   35
+   49,
+   42
   ],
   [
    "Dirty O Boys",
-   41,
-   37
+   46,
+   45
   ],
   [
    "Bulls And Brews",
-   32,
-   46
+   40,
+   51
   ],
   [
    "Bad News Beers",
-   32,
-   46
+   37,
+   54
   ],
   [
    "Goodlife",
-   18,
-   47
+   26,
+   52
   ]
  ],
  "results": [
@@ -55,101 +55,101 @@
    4
   ],
   [
-   "Caps N Plaids",
-   "3 Guys And A Girl",
-   "11/03/2026",
-   6,
-   8,
-   5
-  ],
-  [
-   "Dirty O Boys",
-   "Sloppy Darts",
-   "11/03/2026",
-   6,
-   8,
-   5
-  ],
-  [
-   "Bad News Beers",
    "Goodlife",
-   "11/03/2026",
-   6,
+   "Dirty O Boys",
+   "11/10/2026",
+   7,
    8,
    5
-  ],
-  [
-   "3 Guys And A Girl",
-   "Caps N Plaids",
-   "11/03/2026",
-   6,
-   5,
-   8
-  ],
-  [
-   "Goodlife",
-   "Bad News Beers",
-   "11/03/2026",
-   6,
-   5,
-   8
-  ],
-  [
-   "Sloppy Darts",
-   "Dirty O Boys",
-   "11/03/2026",
-   6,
-   5,
-   8
   ],
   [
    "Bulls And Brews",
-   "Bad Boys",
+   "Bad News Beers",
+   "11/10/2026",
+   7,
+   8,
+   5
+  ],
+  [
+   "Caps N Plaids",
+   "3 Guys And A Girl",
    "11/03/2026",
    6,
-   4,
-   9
+   8,
+   5
+  ],
+  [
+   "3 Guys And A Girl",
+   "Sloppy Darts",
+   "11/10/2026",
+   7,
+   7,
+   6
+  ],
+  [
+   "Sloppy Darts",
+   "3 Guys And A Girl",
+   "11/10/2026",
+   7,
+   6,
+   7
+  ],
+  [
+   "Dirty O Boys",
+   "Goodlife",
+   "11/10/2026",
+   7,
+   5,
+   8
+  ],
+  [
+   "Bad News Beers",
+   "Bulls And Brews",
+   "11/10/2026",
+   7,
+   5,
+   8
   ]
  ],
  "improved": {
   "c": [
    [
-    "Chuck Marchbanks",
-    "Bad Boys",
-    1.54,
-    1.7
+    "Andrew Phelps",
+    "Bad News Beers",
+    1.73,
+    1.89
    ],
    [
-    "Brendan Sheerwood",
+    "Norberto Cervantes",
     "Dirty O Boys",
-    1.75,
-    1.85
+    2.25,
+    2.32
    ],
    [
-    "AJ Perry",
-    "Caps N Plaids",
-    2.3,
-    2.37
+    "Goel Adinoel",
+    "Goodlife",
+    1.88,
+    1.95
    ]
   ],
   "x": [
    [
+    "Adam Grandmont",
+    "Sloppy Darts",
+    18.65,
+    19.6
+   ],
+   [
+    "Hernandez Michael",
+    "Goodlife",
+    14.5,
+    15.26
+   ],
+   [
     "Pete Guerrieri",
     "3 Guys And A Girl",
-    15.07,
-    15.64
-   ],
-   [
-    "AJ Perry",
-    "Caps N Plaids",
-    20.88,
-    21.36
-   ],
-   [
-    "Ed Goodell",
-    "Caps N Plaids",
-    18.72,
-    19.12
+    15.64,
+    16.35
    ]
   ]
  },
@@ -157,30 +157,30 @@
   [
    "James Mitchell",
    "3 Guys And A Girl",
-   2.73,
-   15,
-   11,
-   4,
+   2.75,
+   18,
+   13,
+   5,
    0,
    0,
-   11,
+   13,
+   6,
    4,
-   3,
    1,
    1
   ],
   [
    "Jeff Hunt",
    "Bad News Beers",
-   2.46,
-   18,
-   8,
+   2.44,
+   21,
+   9,
    1,
    0,
    0,
-   11,
+   12,
    3,
-   3,
+   4,
    0,
    2
   ],
@@ -232,29 +232,14 @@
   [
    "Fredo Martinez",
    "Sloppy Darts",
-   2.3,
-   18,
-   5,
+   2.33,
+   21,
    7,
-   0,
-   0,
-   8,
+   7,
    1,
-   3,
    0,
-   0
-  ],
-  [
-   "Sara Williams",
-   "Bulls And Brews",
-   2.25,
-   15,
-   5,
-   3,
-   0,
-   0,
-   6,
-   2,
+   9,
+   1,
    3,
    0,
    0
@@ -262,9 +247,9 @@
   [
    "Norberto Cervantes",
    "Dirty O Boys",
-   2.25,
-   9,
-   5,
+   2.32,
+   12,
+   6,
    1,
    1,
    0,
@@ -277,13 +262,13 @@
   [
    "Erick Ramos",
    "Goodlife",
-   2.25,
-   12,
-   6,
+   2.28,
+   15,
+   7,
+   1,
    0,
    0,
-   0,
-   2,
+   5,
    4,
    0,
    0,
@@ -293,29 +278,44 @@
    "Brian Harrington",
    "Sloppy Darts",
    2.2,
-   15,
+   18,
    4,
    2,
    0,
    0,
-   6,
+   7,
    3,
    1,
    0,
    0
   ],
   [
-   "Robert Gare",
-   "3 Guys And A Girl",
+   "Sara Williams",
+   "Bulls And Brews",
    2.17,
-   15,
-   5,
+   18,
+   7,
+   3,
+   0,
+   0,
+   8,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
+   "Adam Grandmont",
+   "Sloppy Darts",
+   2.11,
+   18,
+   8,
+   6,
+   1,
+   0,
+   2,
    6,
    0,
-   0,
-   7,
-   1,
-   2,
    0,
    0
   ],
@@ -335,17 +335,17 @@
    0
   ],
   [
-   "Adam Grandmont",
-   "Sloppy Darts",
+   "Robert Gare",
+   "3 Guys And A Girl",
    2.09,
-   15,
-   7,
+   18,
    5,
-   1,
+   7,
    0,
-   1,
-   4,
    0,
+   8,
+   1,
+   2,
    0,
    0
   ],
@@ -395,48 +395,48 @@
    0
   ],
   [
-   "Queron Jenkins",
-   "Bulls And Brews",
-   1.94,
-   18,
-   3,
-   4,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Goel Adinoel",
    "Goodlife",
-   1.88,
-   12,
-   1,
+   1.95,
+   15,
+   2,
    2,
    0,
    0,
    4,
+   2,
    1,
+   0,
+   0
+  ],
+  [
+   "Queron Jenkins",
+   "Bulls And Brews",
+   1.9,
+   21,
+   5,
+   4,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
   ],
   [
-   "Brendan Sheerwood",
-   "Dirty O Boys",
-   1.85,
-   18,
+   "Andrew Phelps",
+   "Bad News Beers",
+   1.89,
+   15,
+   2,
    4,
-   8,
    0,
    0,
-   10,
+   3,
+   2,
+   0,
    1,
-   0,
-   0,
    0
   ],
   [
@@ -485,6 +485,51 @@
    0
   ],
   [
+   "Brendan Sheerwood",
+   "Dirty O Boys",
+   1.81,
+   21,
+   5,
+   9,
+   0,
+   0,
+   11,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chris Philbin",
+   "Dirty O Boys",
+   1.79,
+   21,
+   5,
+   6,
+   0,
+   0,
+   5,
+   4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jake Boudrez",
+   "Bulls And Brews",
+   1.75,
+   21,
+   5,
+   5,
+   0,
+   0,
+   4,
+   1,
+   0,
+   1,
+   0
+  ],
+  [
    "Dun Goodlife",
    "Goodlife",
    1.74,
@@ -500,33 +545,18 @@
    0
   ],
   [
-   "Chris Philbin",
-   "Dirty O Boys",
-   1.74,
-   18,
-   5,
-   4,
-   0,
-   0,
-   4,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
-   "Andrew Phelps",
-   "Bad News Beers",
+   "Pete Guerrieri",
+   "3 Guys And A Girl",
    1.73,
-   12,
+   18,
+   6,
+   6,
    1,
-   4,
+   0,
+   2,
    0,
    0,
-   3,
    0,
-   0,
-   1,
    0
   ],
   [
@@ -545,51 +575,6 @@
    0
   ],
   [
-   "Chebo Goodlife",
-   "Goodlife",
-   1.7,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
-   "Pete Guerrieri",
-   "3 Guys And A Girl",
-   1.7,
-   15,
-   5,
-   6,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jake Boudrez",
-   "Bulls And Brews",
-   1.69,
-   18,
-   5,
-   3,
-   0,
-   0,
-   3,
-   1,
-   0,
-   1,
-   0
-  ],
-  [
    "Jonathan Ling",
    "Caps N Plaids",
    1.68,
@@ -605,45 +590,15 @@
    0
   ],
   [
-   "Matthew Griffin",
-   "Dirty O Boys",
-   1.63,
-   18,
-   4,
-   6,
-   0,
-   0,
-   6,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Ashley Samuelson",
-   "Bad News Beers",
-   1.63,
-   18,
-   3,
-   4,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Robin Guerrieri",
    "3 Guys And A Girl",
-   1.6,
-   15,
+   1.63,
+   18,
    3,
-   8,
+   9,
    0,
    0,
-   3,
+   4,
    0,
    1,
    0,
@@ -652,14 +607,29 @@
   [
    "Andrew Bochetto",
    "Sloppy Darts",
-   1.57,
-   18,
+   1.61,
+   21,
    2,
-   5,
+   7,
    0,
    0,
    5,
-   2,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Matthew Griffin",
+   "Dirty O Boys",
+   1.6,
+   21,
+   5,
+   6,
+   0,
+   0,
+   6,
+   0,
    0,
    0,
    0
@@ -676,6 +646,36 @@
    0,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Chebo Goodlife",
+   "Goodlife",
+   1.57,
+   6,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Ashley Samuelson",
+   "Bad News Beers",
+   1.55,
+   21,
+   3,
+   5,
+   0,
+   0,
+   3,
+   1,
+   0,
    0,
    0
   ],
@@ -757,14 +757,14 @@
   [
    "Bryan McCarrell",
    "Bulls And Brews",
-   1.39,
-   18,
+   1.37,
+   21,
    2,
-   5,
+   7,
    0,
    0,
-   2,
-   2,
+   3,
+   3,
    1,
    0,
    0
@@ -772,10 +772,10 @@
   [
    "Hernandez Michael",
    "Goodlife",
-   1.3,
-   12,
-   1,
-   3,
+   1.35,
+   15,
+   2,
+   4,
    0,
    0,
    1,
@@ -787,13 +787,13 @@
   [
    "Jamey Trembley",
    "Bad News Beers",
-   1.14,
-   12,
+   1.13,
+   15,
    0,
-   1,
+   2,
    0,
    0,
-   1,
+   3,
    0,
    0,
    0,
@@ -819,38 +819,38 @@
   [
    "Norberto Cervantes",
    "Dirty O Boys",
-   25.46,
-   12,
-   7,
+   25.66,
+   16,
+   9,
    6,
    0,
    0,
    0,
-   11
+   14
   ],
   [
    "Jeff Hunt",
    "Bad News Beers",
-   22.96,
-   24,
-   11,
-   5,
+   23.11,
+   28,
+   13,
+   6,
    0,
    0,
    0,
-   24
+   28
   ],
   [
    "James Mitchell",
    "3 Guys And A Girl",
-   22.58,
-   20,
-   9,
+   22.84,
+   24,
+   11,
    4,
    0,
    0,
-   1,
-   16
+   2,
+   18
   ],
   [
    "AJ Perry",
@@ -889,6 +889,18 @@
    4
   ],
   [
+   "Fredo Martinez",
+   "Sloppy Darts",
+   20.12,
+   28,
+   12,
+   0,
+   0,
+   0,
+   1,
+   23
+  ],
+  [
    "Darrin Costantini",
    "Bad Boys",
    19.77,
@@ -899,6 +911,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Adam Grandmont",
+   "Sloppy Darts",
+   19.6,
+   24,
+   5,
+   0,
+   0,
+   0,
+   1,
+   15
   ],
   [
    "Jonathan Ling",
@@ -913,28 +937,16 @@
    0
   ],
   [
-   "Fredo Martinez",
-   "Sloppy Darts",
-   19.43,
-   24,
-   10,
-   0,
-   0,
-   0,
-   1,
-   18
-  ],
-  [
    "Brian Harrington",
    "Sloppy Darts",
-   19.4,
-   20,
+   19.39,
+   24,
    4,
    0,
    0,
    0,
    0,
-   12
+   14
   ],
   [
    "Richard Pecorino",
@@ -985,18 +997,6 @@
    3
   ],
   [
-   "Adam Grandmont",
-   "Sloppy Darts",
-   18.65,
-   20,
-   4,
-   0,
-   0,
-   0,
-   0,
-   12
-  ],
-  [
    "Chuck Marchbanks",
    "Bad Boys",
    18.57,
@@ -1021,52 +1021,40 @@
    1
   ],
   [
-   "Sara Williams",
-   "Bulls And Brews",
-   18.38,
-   20,
-   7,
-   3,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
-   "Brendan Sheerwood",
-   "Dirty O Boys",
-   18.31,
-   24,
-   7,
-   0,
-   0,
-   0,
-   1,
-   13
-  ],
-  [
    "Erick Ramos",
    "Goodlife",
-   18.28,
-   16,
-   5,
+   18.36,
+   20,
+   8,
    1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
+   "Robert Gare",
+   "3 Guys And A Girl",
+   18.01,
+   24,
+   5,
+   0,
    0,
    0,
    0,
    9
   ],
   [
-   "Robert Gare",
-   "3 Guys And A Girl",
+   "Sara Williams",
+   "Bulls And Brews",
    18.0,
-   20,
-   5,
+   24,
+   9,
+   3,
    0,
    0,
    0,
-   0,
-   8
+   3
   ],
   [
    "Jon Novitsky",
@@ -1081,23 +1069,95 @@
    4
   ],
   [
-   "Chebo Goodlife",
-   "Goodlife",
-   17.63,
-   4,
+   "Queron Jenkins",
+   "Bulls And Brews",
+   17.71,
+   28,
+   7,
    1,
    0,
    0,
    0,
+   14
+  ],
+  [
+   "Brendan Sheerwood",
+   "Dirty O Boys",
+   17.54,
+   28,
+   7,
    0,
-   1
+   0,
+   0,
+   1,
+   13
   ],
   [
    "Andrew Phelps",
    "Bad News Beers",
-   17.56,
-   16,
+   17.16,
+   20,
    1,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Chebo Goodlife",
+   "Goodlife",
+   16.85,
+   8,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Jake Boudrez",
+   "Bulls And Brews",
+   16.64,
+   28,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
+   "Pete Guerrieri",
+   "3 Guys And A Girl",
+   16.35,
+   24,
+   3,
+   0,
+   0,
+   0,
+   1,
+   8
+  ],
+  [
+   "Goel Adinoel",
+   "Goodlife",
+   16.33,
+   20,
+   5,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Ashley Samuelson",
+   "Bad News Beers",
+   16.2,
+   28,
+   3,
    0,
    0,
    0,
@@ -1105,52 +1165,16 @@
    7
   ],
   [
-   "Queron Jenkins",
-   "Bulls And Brews",
-   17.35,
-   24,
-   6,
-   1,
-   0,
-   0,
-   0,
-   11
-  ],
-  [
-   "Ashley Samuelson",
-   "Bad News Beers",
-   16.65,
-   24,
-   2,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
-   "Jake Boudrez",
-   "Bulls And Brews",
-   16.58,
-   24,
+   "Andrew Bochetto",
+   "Sloppy Darts",
+   15.96,
+   28,
    3,
    0,
    0,
    0,
    0,
-   4
-  ],
-  [
-   "Goel Adinoel",
-   "Goodlife",
-   16.25,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
+   8
   ],
   [
    "Marty Cordy",
@@ -1165,18 +1189,6 @@
    1
   ],
   [
-   "Pete Guerrieri",
-   "3 Guys And A Girl",
-   15.64,
-   20,
-   2,
-   0,
-   0,
-   0,
-   1,
-   6
-  ],
-  [
    "Chuck Coates",
    "Bad Boys",
    15.58,
@@ -1189,16 +1201,40 @@
    1
   ],
   [
-   "Andrew Bochetto",
-   "Sloppy Darts",
-   15.36,
+   "Robin Guerrieri",
+   "3 Guys And A Girl",
+   15.56,
    24,
-   3,
+   4,
    0,
    0,
    0,
    0,
-   6
+   5
+  ],
+  [
+   "Hernandez Michael",
+   "Goodlife",
+   15.26,
+   20,
+   1,
+   0,
+   0,
+   0,
+   1,
+   3
+  ],
+  [
+   "Matthew Griffin",
+   "Dirty O Boys",
+   15.2,
+   28,
+   2,
+   0,
+   0,
+   0,
+   1,
+   5
   ],
   [
    "Jake Ference",
@@ -1210,30 +1246,6 @@
    0,
    0,
    0,
-   4
-  ],
-  [
-   "Robin Guerrieri",
-   "3 Guys And A Girl",
-   15.06,
-   20,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
-   "Matthew Griffin",
-   "Dirty O Boys",
-   14.92,
-   24,
-   2,
-   0,
-   0,
-   0,
-   1,
    4
   ],
   [
@@ -1249,22 +1261,10 @@
    2
   ],
   [
-   "Hernandez Michael",
-   "Goodlife",
-   14.5,
-   16,
-   1,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Chris Philbin",
    "Dirty O Boys",
-   14.39,
-   24,
+   14.36,
+   28,
    2,
    0,
    0,
@@ -1285,6 +1285,18 @@
    1
   ],
   [
+   "Jamey Trembley",
+   "Bad News Beers",
+   14.16,
+   20,
+   2,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
    "Chyanel Adinoel",
    "Goodlife",
    13.93,
@@ -1297,28 +1309,16 @@
    2
   ],
   [
-   "Jamey Trembley",
-   "Bad News Beers",
-   13.7,
-   16,
-   2,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Bryan McCarrell",
    "Bulls And Brews",
-   13.4,
-   24,
+   13.41,
+   28,
    1,
    0,
    0,
    0,
    0,
-   2
+   3
   ],
   [
    "Jake McGrath",
@@ -1948,5 +1948,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-11T01:27:18Z"
+ "updated": "2026-11-11T03:10:19Z"
 }

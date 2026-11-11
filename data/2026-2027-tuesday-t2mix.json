@@ -5,17 +5,12 @@
  },
  "standings": [
   [
-   "Pusc Paninis",
-   56,
-   19
-  ],
-  [
    "Better Together",
-   54,
-   21
+   68,
+   22
   ],
   [
-   "Turtle Time",
+   "Pusc Paninis",
    64,
    26
   ],
@@ -25,17 +20,27 @@
    23
   ],
   [
+   "Turtle Time",
+   71,
+   34
+  ],
+  [
    "Right There",
    53,
    37
   ],
   [
    "Sprinkles On Top",
-   42,
-   33
+   52,
+   38
   ],
   [
    "Ya Know What I Mean",
+   50,
+   40
+  ],
+  [
+   "Wags To Richs",
    50,
    40
   ],
@@ -45,19 +50,14 @@
    36
   ],
   [
-   "Wags To Richs",
-   39,
-   36
+   "One Hole Away",
+   53,
+   52
   ],
   [
    "Drunken Squids",
-   44,
-   46
-  ],
-  [
-   "One Hole Away",
-   42,
-   48
+   48,
+   57
   ],
   [
    "BetR WallaceMaloney",
@@ -66,8 +66,8 @@
   ],
   [
    "Pointless",
-   36,
-   54
+   41,
+   64
   ],
   [
    "Dartaholicz",
@@ -76,63 +76,47 @@
   ],
   [
    "And Then There Was 2",
-   13,
-   62
+   17,
+   73
   ],
   [
    "Squeaky Wheel",
-   7,
-   68
+   8,
+   82
   ]
  ],
  "results": [
   [
-   "Drunken Squids",
-   "And Then There Was 2",
-   "11/03/2026",
-   6,
-   12,
-   3
-  ],
-  [
    "Better Together",
-   "BetR WallaceMaloney",
-   "11/03/2026",
-   6,
-   10,
-   5
-  ],
-  [
-   "Pointless",
    "Squeaky Wheel",
-   "11/03/2026",
-   6,
-   10,
-   5
+   "11/10/2026",
+   7,
+   14,
+   1
   ],
   [
-   "Pusc Paninis",
    "Wags To Richs",
-   "10/27/2026",
-   5,
-   10,
-   5
+   "Drunken Squids",
+   "11/10/2026",
+   7,
+   11,
+   4
+  ],
+  [
+   "One Hole Away",
+   "And Then There Was 2",
+   "11/10/2026",
+   7,
+   11,
+   4
   ],
   [
    "Sprinkles On Top",
-   "Highmark Hitters",
-   "11/03/2026",
-   6,
+   "Pointless",
+   "11/10/2026",
+   7,
    10,
    5
-  ],
-  [
-   "Turtle Time",
-   "Right There",
-   "11/03/2026",
-   6,
-   9,
-   6
   ],
   [
    "Big And Little",
@@ -143,6 +127,14 @@
    6
   ],
   [
+   "Pusc Paninis",
+   "Turtle Time",
+   "11/10/2026",
+   7,
+   8,
+   7
+  ],
+  [
    "Ya Know What I Mean",
    "Wags To Richs",
    "11/03/2026",
@@ -151,24 +143,16 @@
    7
   ],
   [
-   "One Hole Away",
-   "Dartaholicz",
-   "11/03/2026",
-   6,
-   8,
-   7
-  ],
-  [
-   "Dartaholicz",
-   "One Hole Away",
-   "11/03/2026",
-   6,
+   "Turtle Time",
+   "Pusc Paninis",
+   "11/10/2026",
+   7,
    7,
    8
   ],
   [
-   "Wags To Richs",
-   "Ya Know What I Mean",
+   "Dartaholicz",
+   "One Hole Away",
    "11/03/2026",
    6,
    7,
@@ -191,6 +175,14 @@
    10
   ],
   [
+   "Pointless",
+   "Sprinkles On Top",
+   "11/10/2026",
+   7,
+   5,
+   10
+  ],
+  [
    "BetR WallaceMaloney",
    "Better Together",
    "11/03/2026",
@@ -199,61 +191,69 @@
    10
   ],
   [
-   "Squeaky Wheel",
-   "Pointless",
-   "11/03/2026",
-   6,
-   5,
-   10
+   "Drunken Squids",
+   "Wags To Richs",
+   "11/10/2026",
+   7,
+   4,
+   11
   ],
   [
    "And Then There Was 2",
-   "Drunken Squids",
-   "11/03/2026",
-   6,
-   3,
-   12
+   "One Hole Away",
+   "11/10/2026",
+   7,
+   4,
+   11
+  ],
+  [
+   "Squeaky Wheel",
+   "Better Together",
+   "11/10/2026",
+   7,
+   1,
+   14
   ]
  ],
  "improved": {
   "c": [
    [
-    "Katrina ReedMullen",
-    "Pointless",
-    1.53,
-    1.64
-   ],
-   [
-    "Chris Maloney",
-    "Turtle Time",
-    3.35,
-    3.42
-   ],
-   [
     "Danae Diaz",
     "Better Together",
-    1.8,
-    1.86
+    1.86,
+    1.92
+   ],
+   [
+    "Katrina ReedMullen",
+    "Pointless",
+    1.64,
+    1.69
+   ],
+   [
+    "Melissa Miles",
+    "Pusc Paninis",
+    2.27,
+    2.32
    ]
   ],
   "x": [
    [
-    "Luke Barry",
-    "Squeaky Wheel",
-    11.68,
-    12.87
+    "Robyn Ralston",
+    "Sprinkles On Top",
+    17.54,
+    17.83
    ],
    [
-    "Jason Miles",
-    "Drunken Squids",
-    17.23,
-    17.74
+    "Katrina ReedMullen",
+    "Pointless",
+    15.48,
+    15.6
    ],
    [
-    "Dan Freese",
-    "Right There",
-    24.46,
-    24.92
+    "Melissa Wallace",
+    "Turtle Time",
+    20.37,
+    20.47
    ]
   ]
  },
@@ -261,45 +261,45 @@
   [
    "Chris Diaz",
    "Better Together",
-   3.59,
-   30,
+   3.61,
+   36,
+   19,
+   8,
+   1,
+   1,
+   39,
+   15,
    17,
-   5,
-   1,
-   1,
-   34,
-   13,
-   13,
    0,
    1
   ],
   [
    "John Andolsek",
    "Pusc Paninis",
-   3.54,
-   30,
-   20,
-   3,
+   3.45,
+   36,
+   21,
+   6,
    5,
    0,
+   27,
+   9,
    21,
-   7,
-   19,
    0,
    4
   ],
   [
    "Chris Maloney",
    "Turtle Time",
-   3.42,
-   36,
-   20,
+   3.36,
+   42,
+   22,
    7,
-   1,
+   2,
    0,
-   38,
+   42,
+   16,
    12,
-   11,
    1,
    3
   ],
@@ -334,6 +334,21 @@
    2
   ],
   [
+   "Carlton Smith",
+   "One Hole Away",
+   3.08,
+   12,
+   7,
+   2,
+   1,
+   0,
+   10,
+   3,
+   5,
+   0,
+   0
+  ],
+  [
    "Brian Galletto",
    "One Hole Away",
    3.05,
@@ -349,19 +364,19 @@
    0
   ],
   [
-   "Carlton Smith",
-   "One Hole Away",
-   3.04,
-   6,
+   "Rich Allen",
+   "Wags To Richs",
+   3.03,
+   36,
+   15,
+   5,
    3,
-   0,
-   0,
-   0,
+   1,
+   21,
+   9,
    6,
-   0,
-   4,
-   0,
-   0
+   1,
+   1
   ],
   [
    "Dan Freese",
@@ -377,21 +392,6 @@
    9,
    0,
    2
-  ],
-  [
-   "Rich Allen",
-   "Wags To Richs",
-   3.01,
-   30,
-   10,
-   5,
-   2,
-   1,
-   19,
-   7,
-   4,
-   0,
-   1
   ],
   [
    "Justin Burdett",
@@ -424,47 +424,47 @@
    0
   ],
   [
+   "Melissa Wallace",
+   "Turtle Time",
+   2.43,
+   42,
+   16,
+   13,
+   1,
+   0,
+   19,
+   6,
+   6,
+   0,
+   0
+  ],
+  [
    "Tom Ralston",
    "Sprinkles On Top",
-   2.44,
-   30,
-   13,
+   2.41,
+   36,
+   16,
    2,
    0,
    0,
-   15,
+   19,
    7,
    2,
    0,
    1
   ],
   [
-   "Melissa Wallace",
-   "Turtle Time",
-   2.42,
-   36,
-   14,
-   12,
-   0,
-   0,
-   18,
-   5,
-   5,
-   0,
-   0
-  ],
-  [
-   "Jason Miles",
-   "Drunken Squids",
+   "Melissa Miles",
+   "Pusc Paninis",
    2.32,
    36,
    13,
-   7,
+   10,
    1,
    0,
-   13,
-   11,
-   4,
+   14,
+   8,
+   3,
    0,
    0
   ],
@@ -484,17 +484,17 @@
    0
   ],
   [
-   "Melissa Miles",
-   "Pusc Paninis",
+   "Jason Miles",
+   "Drunken Squids",
    2.27,
-   30,
-   10,
-   10,
+   42,
+   14,
+   7,
    1,
    0,
+   15,
    13,
-   5,
-   3,
+   4,
    0,
    0
   ],
@@ -529,6 +529,21 @@
    0
   ],
   [
+   "TAYLOR",
+   "{Substitutes}",
+   2.1,
+   6,
+   0,
+   0,
+   2,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Ashley Gault",
    "Right There",
    2.03,
@@ -539,6 +554,21 @@
    0,
    12,
    8,
+   2,
+   0,
+   0
+  ],
+  [
+   "Kelly Kilmer",
+   "Drunken Squids",
+   1.96,
+   42,
+   14,
+   7,
+   0,
+   0,
+   12,
+   5,
    2,
    0,
    0
@@ -559,62 +589,47 @@
    0
   ],
   [
-   "Kelly Kilmer",
-   "Drunken Squids",
-   1.95,
+   "Danae Diaz",
+   "Better Together",
+   1.92,
    36,
-   13,
+   14,
+   10,
+   3,
+   0,
    6,
-   0,
-   0,
-   11,
-   5,
-   2,
-   0,
-   0
-  ],
-  [
-   "Robyn Ralston",
-   "Sprinkles On Top",
-   1.87,
-   24,
-   7,
-   5,
-   0,
-   0,
-   2,
-   4,
-   1,
+   3,
+   3,
    0,
    0
   ],
   [
    "Brian Zicari",
    "Pointless",
-   1.87,
-   36,
-   13,
-   2,
+   1.92,
+   42,
+   14,
+   4,
    3,
    0,
-   5,
-   4,
+   7,
+   6,
    3,
    1,
    0
   ],
   [
-   "Danae Diaz",
-   "Better Together",
-   1.86,
+   "Robyn Ralston",
+   "Sprinkles On Top",
+   1.91,
    30,
-   9,
-   9,
-   2,
+   8,
+   7,
+   1,
    0,
-   6,
-   2,
-   3,
+   4,
+   5,
+   1,
    0,
    0
   ],
@@ -622,13 +637,13 @@
    "Kelli Nash",
    "One Hole Away",
    1.86,
-   36,
-   4,
-   12,
+   42,
+   7,
+   14,
    0,
    0,
-   11,
-   5,
+   15,
+   7,
    0,
    0,
    0
@@ -636,17 +651,32 @@
   [
    "Mark Dalberth",
    "And Then There Was 2",
-   1.81,
-   24,
-   3,
+   1.82,
+   30,
+   4,
    2,
    0,
    0,
    1,
    1,
-   1,
+   2,
    0,
    0
+  ],
+  [
+   "Carol Bartell",
+   "Wags To Richs",
+   1.8,
+   36,
+   9,
+   7,
+   0,
+   0,
+   8,
+   4,
+   0,
+   0,
+   1
   ],
   [
    "Grace Maracle",
@@ -664,19 +694,19 @@
    0
   ],
   [
-   "Carol Bartell",
-   "Wags To Richs",
-   1.78,
-   30,
-   8,
-   4,
+   "Katrina ReedMullen",
+   "Pointless",
+   1.69,
+   42,
+   9,
+   7,
+   1,
    0,
-   0,
+   11,
    7,
    2,
    0,
-   0,
-   1
+   0
   ],
   [
    "Sue Dalton",
@@ -690,21 +720,6 @@
    14,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Katrina ReedMullen",
-   "Pointless",
-   1.64,
-   36,
-   6,
-   7,
-   0,
-   0,
-   11,
-   5,
-   2,
    0,
    0
   ],
@@ -754,21 +769,6 @@
    0
   ],
   [
-   "Julie DiGrazia",
-   "And Then There Was 2",
-   1.47,
-   30,
-   4,
-   2,
-   0,
-   0,
-   3,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Shaunna Maloney",
    "BetR WallaceMaloney",
    1.46,
@@ -799,6 +799,21 @@
    0
   ],
   [
+   "Julie DiGrazia",
+   "And Then There Was 2",
+   1.45,
+   36,
+   4,
+   2,
+   0,
+   0,
+   3,
+   5,
+   0,
+   0,
+   0
+  ],
+  [
    "Luke Barry",
    "Squeaky Wheel",
    1.35,
@@ -816,13 +831,13 @@
   [
    "Jill Calvert",
    "Squeaky Wheel",
-   1.16,
-   24,
-   2,
+   1.2,
+   30,
+   3,
    0,
    0,
    0,
-   0,
+   1,
    0,
    0,
    0,
@@ -830,18 +845,6 @@
   ]
  ],
  "x01": [
-  [
-   "John Andolsek",
-   "Pusc Paninis",
-   29.42,
-   35,
-   20,
-   37,
-   0,
-   0,
-   1,
-   76
-  ],
   [
    "Tashawn Rucker",
    "Big And Little",
@@ -855,52 +858,64 @@
    64
   ],
   [
-   "Chris Diaz",
-   "Better Together",
-   28.78,
-   35,
-   24,
-   45,
+   "John Andolsek",
+   "Pusc Paninis",
+   28.84,
+   42,
+   22,
+   42,
    0,
    0,
    1,
-   68
+   89
   ],
   [
    "Chris Maloney",
    "Turtle Time",
-   28.36,
-   42,
-   16,
-   25,
+   28.06,
+   49,
+   18,
+   29,
    0,
    2,
    9,
-   110
+   123
+  ],
+  [
+   "Chris Diaz",
+   "Better Together",
+   27.95,
+   42,
+   30,
+   52,
+   0,
+   0,
+   1,
+   86
   ],
   [
    "Rich Allen",
    "Wags To Richs",
-   27.74,
-   35,
-   17,
-   25,
+   27.07,
+   42,
+   22,
+   28,
    0,
    0,
    1,
-   85
+   105
   ],
   [
    "Carlton Smith",
    "One Hole Away",
-   27.35,
+   26.58,
+   14,
+   5,
    7,
+   0,
+   0,
    2,
-   4,
-   0,
-   0,
-   0,
-   20
+   36
   ],
   [
    "Dan Freese",
@@ -941,14 +956,14 @@
   [
    "Tom Ralston",
    "Sprinkles On Top",
-   24.2,
-   35,
-   17,
-   11,
+   24.14,
+   42,
+   21,
+   12,
    0,
    0,
    1,
-   69
+   86
   ],
   [
    "Brian Galletto",
@@ -989,26 +1004,26 @@
   [
    "Melissa Wallace",
    "Turtle Time",
-   20.37,
-   42,
-   14,
+   20.47,
+   49,
+   15,
    10,
    0,
    0,
    1,
-   51
+   61
   ],
   [
    "Melissa Miles",
    "Pusc Paninis",
-   20.3,
-   35,
-   6,
-   3,
+   20.32,
+   42,
+   8,
+   7,
    0,
    0,
    1,
-   37
+   42
   ],
   [
    "Daniela Houser",
@@ -1025,50 +1040,62 @@
   [
    "Danae Diaz",
    "Better Together",
-   18.87,
-   35,
+   18.56,
+   42,
+   5,
    4,
-   4,
    0,
    0,
    0,
-   27
+   34
   ],
   [
    "Kelly Kilmer",
    "Drunken Squids",
-   18.32,
-   42,
+   18.34,
+   49,
    8,
    4,
    0,
    0,
    0,
-   49
+   57
   ],
   [
-   "Jason Miles",
-   "Drunken Squids",
-   17.74,
-   42,
-   10,
-   5,
+   "TAYLOR",
+   "{Substitutes}",
+   18.01,
+   7,
+   0,
+   1,
    0,
    0,
-   2,
-   34
+   0,
+   4
   ],
   [
    "Robyn Ralston",
    "Sprinkles On Top",
-   17.54,
-   28,
-   1,
-   1,
+   17.83,
+   35,
+   3,
+   2,
    0,
    0,
    0,
-   28
+   35
+  ],
+  [
+   "Jason Miles",
+   "Drunken Squids",
+   17.62,
+   49,
+   11,
+   5,
+   0,
+   0,
+   2,
+   42
   ],
   [
    "Ashley Gault",
@@ -1085,38 +1112,26 @@
   [
    "Mark Dalberth",
    "And Then There Was 2",
-   17.04,
-   28,
-   4,
+   16.92,
+   35,
+   7,
    1,
    0,
    0,
    0,
-   17
+   25
   ],
   [
    "Brian Zicari",
    "Pointless",
-   16.01,
-   42,
+   16.03,
+   49,
    7,
    2,
    0,
    0,
    0,
-   33
-  ],
-  [
-   "Kelli Nash",
-   "One Hole Away",
-   15.99,
-   42,
-   6,
-   1,
-   0,
-   0,
-   0,
-   30
+   41
   ],
   [
    "Sue Dalton",
@@ -1131,16 +1146,28 @@
    29
   ],
   [
+   "Kelli Nash",
+   "One Hole Away",
+   15.83,
+   49,
+   7,
+   1,
+   0,
+   0,
+   0,
+   32
+  ],
+  [
    "Katrina ReedMullen",
    "Pointless",
-   15.48,
-   42,
-   10,
+   15.6,
+   49,
+   11,
    2,
    0,
    0,
    2,
-   26
+   31
   ],
   [
    "Kara Santelli",
@@ -1169,14 +1196,14 @@
   [
    "Carol Bartell",
    "Wags To Richs",
-   14.2,
-   35,
+   14.1,
+   42,
    4,
    0,
    0,
    0,
    0,
-   17
+   21
   ],
   [
    "Grace Maracle",
@@ -1205,14 +1232,14 @@
   [
    "Julie DiGrazia",
    "And Then There Was 2",
-   13.56,
-   35,
+   13.48,
+   42,
    0,
    0,
    0,
    0,
    0,
-   10
+   11
   ],
   [
    "Tyler CannonBailey",
@@ -1241,14 +1268,14 @@
   [
    "Jill Calvert",
    "Squeaky Wheel",
-   12.95,
-   28,
+   12.92,
+   35,
    1,
    0,
    0,
    0,
    1,
-   4
+   5
   ],
   [
    "Luke Barry",
@@ -2094,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-11T01:27:14Z"
+ "updated": "2026-11-11T03:10:15Z"
 }
