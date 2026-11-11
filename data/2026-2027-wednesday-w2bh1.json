@@ -432,21 +432,6 @@
    0
   ],
   [
-   "Sean Robertson",
-   "Pointless",
-   1.52,
-   36,
-   9,
-   9,
-   0,
-   0,
-   3,
-   3,
-   3,
-   0,
-   0
-  ],
-  [
    "Mike Kolberg",
    "In Whiskey We Trust",
    1.52,
@@ -458,6 +443,21 @@
    2,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Sean Robertson",
+   "Pointless",
+   1.52,
+   36,
+   9,
+   9,
+   0,
+   0,
+   3,
+   3,
+   3,
    0,
    0
   ],
@@ -1806,5 +1806,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-11T04:18:51Z"
+ "updated": "2026-11-11T06:18:01Z"
 }
