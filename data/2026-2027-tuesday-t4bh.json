@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Brad Wight",
-   "Thunderbuddies",
-   1.87,
-   21,
-   10,
-   5,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Andy Del Gandio",
    "The Critters",
    1.87,
@@ -275,6 +260,21 @@
    0
   ],
   [
+   "Brad Wight",
+   "Thunderbuddies",
+   1.87,
+   21,
+   10,
+   5,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Michael Justis",
    "4 Of Clubs",
    1.86,
@@ -286,6 +286,21 @@
    7,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Rick Ernst",
+   "Gettin Looped",
+   1.85,
+   21,
+   7,
+   4,
+   1,
+   0,
+   1,
+   3,
+   1,
    0,
    0
   ],
@@ -316,21 +331,6 @@
    1,
    6,
    0,
-   0,
-   0
-  ],
-  [
-   "Rick Ernst",
-   "Gettin Looped",
-   1.85,
-   21,
-   7,
-   4,
-   1,
-   0,
-   1,
-   3,
-   1,
    0,
    0
   ],
@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Mitch Jag",
-   "Thats Bullshoot",
-   1.45,
-   6,
-   1,
-   2,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tony Jackson",
    "Gettin Looped",
    1.45,
@@ -570,6 +555,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mitch Jag",
+   "Thats Bullshoot",
+   1.45,
+   6,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -695,6 +695,21 @@
    0
   ],
   [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   1.27,
+   21,
+   4,
+   7,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Molly Stanziano",
    "4 Of Clubs",
    1.27,
@@ -710,12 +725,12 @@
    0
   ],
   [
-   "Tom Solorzano",
-   "4 Of Clubs",
-   1.27,
-   21,
+   "Rik Sawyer",
+   "The Critters",
+   1.23,
+   18,
+   2,
    4,
-   7,
    0,
    0,
    1,
@@ -735,21 +750,6 @@
    0,
    1,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Rik Sawyer",
-   "The Critters",
-   1.23,
-   18,
-   2,
-   4,
-   0,
-   0,
-   1,
-   0,
    0,
    0,
    0
@@ -1351,18 +1351,6 @@
    0
   ],
   [
-   "David Pearce",
-   "Thunderbuddies",
-   12.84,
-   24,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Brett Harling",
    "No Sleep",
    12.84,
@@ -1373,6 +1361,18 @@
    0,
    1,
    0
+  ],
+  [
+   "David Pearce",
+   "Thunderbuddies",
+   12.84,
+   24,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Kim Derbini",
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-12T05:25:46Z"
+ "updated": "2026-11-12T07:42:01Z"
 }

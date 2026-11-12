@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Dave Coin",
-   "We Dem Boyz",
-   2.38,
-   36,
-   8,
-   3,
-   2,
-   0,
-   14,
-   6,
-   2,
-   0,
-   1
-  ],
-  [
    "Travis Perry",
    "Brighton Bruins",
    2.38,
@@ -333,6 +318,21 @@
    4,
    0,
    0
+  ],
+  [
+   "Dave Coin",
+   "We Dem Boyz",
+   2.38,
+   36,
+   8,
+   3,
+   2,
+   0,
+   14,
+   6,
+   2,
+   0,
+   1
   ],
   [
    "Anthony Mineo",
@@ -350,21 +350,6 @@
    0
   ],
   [
-   "Steven Haag",
-   "Carpet Cleaners",
-   2.24,
-   36,
-   13,
-   8,
-   0,
-   0,
-   13,
-   6,
-   4,
-   0,
-   0
-  ],
-  [
    "William Lupiani",
    "Cheers For Bad Darts",
    2.24,
@@ -376,6 +361,21 @@
    4,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Steven Haag",
+   "Carpet Cleaners",
+   2.24,
+   36,
+   13,
+   8,
+   0,
+   0,
+   13,
+   6,
+   4,
    0,
    0
   ],
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-12T05:26:05Z"
+ "updated": "2026-11-12T07:42:22Z"
 }
