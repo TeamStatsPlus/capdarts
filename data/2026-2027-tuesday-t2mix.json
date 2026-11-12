@@ -769,21 +769,6 @@
    0
   ],
   [
-   "Julie DiGrazia",
-   "And Then There Was 2",
-   1.45,
-   36,
-   4,
-   2,
-   0,
-   0,
-   3,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "James Shell",
    "Dartaholicz",
    1.45,
@@ -797,6 +782,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Julie DiGrazia",
+   "And Then There Was 2",
+   1.45,
+   36,
+   4,
+   2,
+   0,
+   0,
+   3,
+   5,
+   0,
+   0,
+   0
   ],
   [
    "Shaunna Maloney",
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-12T07:41:51Z"
+ "updated": "2026-11-12T09:21:00Z"
 }

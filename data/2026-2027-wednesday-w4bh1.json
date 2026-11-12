@@ -477,6 +477,21 @@
    0
   ],
   [
+   "Brian Cassidy",
+   "Emerald Society",
+   1.6,
+   9,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Stephen Monahan",
    "The Limp Wristers",
    1.6,
@@ -501,21 +516,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Brian Cassidy",
-   "Emerald Society",
-   1.6,
-   9,
-   2,
-   1,
-   0,
-   0,
-   1,
    0,
    0,
    0,
@@ -927,21 +927,6 @@
    0
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   1.17,
-   12,
-   4,
-   3,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ellen Post",
    "Closer To Zero",
    1.17,
@@ -955,6 +940,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   1.17,
+   12,
+   4,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "John Inzinna",
@@ -972,21 +972,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -997,6 +982,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1092,21 +1092,6 @@
    0
   ],
   [
-   "Debbie Caufield",
-   "ProjectileDysfncion",
-   1.0,
-   6,
-   1,
-   5,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Katy Carges",
    "Throwgasms",
    1.0,
@@ -1117,6 +1102,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Debbie Caufield",
+   "ProjectileDysfncion",
+   1.0,
+   6,
+   1,
+   5,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -1212,6 +1212,21 @@
    0
   ],
   [
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
+   0.9,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Cindy Simpson",
    "Squeekertips",
    0.9,
@@ -1242,12 +1257,12 @@
    0
   ],
   [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
-   0.9,
+   "Marin Valentino",
+   "The Limp Wristers",
+   0.89,
    3,
    1,
-   1,
+   0,
    0,
    0,
    0,
@@ -1262,21 +1277,6 @@
    0.89,
    6,
    0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Marin Valentino",
-   "The Limp Wristers",
-   0.89,
-   3,
-   1,
    0,
    0,
    0,
@@ -2081,18 +2081,6 @@
    2
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   12.27,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Lydia Wheeler",
    "Shart Shooters",
    12.27,
@@ -2103,6 +2091,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   12.27,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Sylvan Hemingway",
@@ -3003,5 +3003,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-12T07:42:32Z"
+ "updated": "2026-11-12T09:21:41Z"
 }
