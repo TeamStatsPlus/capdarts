@@ -1032,21 +1032,6 @@
    0
   ],
   [
-   "Greg Cotchiti",
-   "Peppers And Onions",
-   1.32,
-   18,
-   0,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Tricia Busardo",
    "Aiming Fluid",
    1.32,
@@ -1058,6 +1043,21 @@
    2,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Greg Cotchiti",
+   "Peppers And Onions",
+   1.32,
+   18,
+   0,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -1391,18 +1391,6 @@
    13
   ],
   [
-   "Mike Bisig",
-   "Trippin On Trips",
-   18.57,
-   24,
-   8,
-   1,
-   0,
-   0,
-   0,
-   11
-  ],
-  [
    "Dale Pickens",
    "Points And Pints",
    18.57,
@@ -1413,6 +1401,18 @@
    0,
    0,
    9
+  ],
+  [
+   "Mike Bisig",
+   "Trippin On Trips",
+   18.57,
+   24,
+   8,
+   1,
+   0,
+   0,
+   0,
+   11
   ],
   [
    "Brad Paradise",
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-12T15:16:10Z"
+ "updated": "2026-11-12T16:26:02Z"
 }

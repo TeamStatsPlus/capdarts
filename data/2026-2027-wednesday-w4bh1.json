@@ -597,6 +597,21 @@
    0
   ],
   [
+   "John Brennan",
+   "Emerald Society",
+   1.54,
+   21,
+   2,
+   8,
+   0,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Danielle Henry",
    "The Limp Wristers",
    1.54,
@@ -627,21 +642,6 @@
    0
   ],
   [
-   "John Brennan",
-   "Emerald Society",
-   1.54,
-   21,
-   2,
-   8,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    1.5,
@@ -653,6 +653,21 @@
    5,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Jess Struggle Bus",
+   "Struggle Bus",
+   1.5,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0
   ],
@@ -672,17 +687,17 @@
    1
   ],
   [
-   "GOLDN SHOWR",
-   "{Substitutes}",
-   1.47,
-   6,
+   "Golden Showr Squeekertips",
+   "Squeekertips",
+   1.44,
+   3,
    1,
-   2,
-   0,
-   0,
    1,
    0,
+   0,
    1,
+   0,
+   0,
    0,
    0
   ],
@@ -732,7 +747,7 @@
    0
   ],
   [
-   "Tyler Throwgasms",
+   "Tyler Campbell",
    "Throwgasms",
    1.38,
    3,
@@ -972,21 +987,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -997,6 +997,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1212,6 +1227,21 @@
    0
   ],
   [
+   "Cindy Simpson",
+   "Squeekertips",
+   0.9,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Tracy Waud",
    "Shart Shooters",
    0.9,
@@ -1233,21 +1263,6 @@
    3,
    1,
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Cindy Simpson",
-   "Squeekertips",
-   0.9,
-   3,
-   0,
-   0,
    0,
    0,
    0,
@@ -1505,18 +1520,6 @@
    1
   ],
   [
-   "Brent Flynn",
-   "Tips Dont Lie",
-   16.35,
-   28,
-   8,
-   0,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    16.35,
@@ -1527,6 +1530,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Brent Flynn",
+   "Tips Dont Lie",
+   16.35,
+   28,
+   8,
+   0,
+   0,
+   0,
+   0,
+   13
   ],
   [
    "Steve Caufield",
@@ -1697,6 +1712,18 @@
    3
   ],
   [
+   "Golden Showr Squeekertips",
+   "Squeekertips",
+   14.29,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
    "Howie Klick",
    "Emerald Society",
    14.25,
@@ -1745,7 +1772,7 @@
    1
   ],
   [
-   "Tyler Throwgasms",
+   "Tyler Campbell",
    "Throwgasms",
    14.15,
    4,
@@ -1755,18 +1782,6 @@
    0,
    0,
    1
-  ],
-  [
-   "GOLDN SHOWR",
-   "{Substitutes}",
-   14.13,
-   8,
-   2,
-   0,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "John Waud",
@@ -1875,6 +1890,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Jess Struggle Bus",
+   "Struggle Bus",
+   13.89,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Aaron Struggle Bus",
@@ -2081,18 +2108,6 @@
    2
   ],
   [
-   "Lydia Wheeler",
-   "Shart Shooters",
-   12.27,
-   24,
-   6,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Adam Phillips",
    "Struggle Bus",
    12.27,
@@ -2103,6 +2118,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Lydia Wheeler",
+   "Shart Shooters",
+   12.27,
+   24,
+   6,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Sylvan Hemingway",
@@ -3003,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-12T15:16:34Z"
+ "updated": "2026-11-12T16:26:29Z"
 }

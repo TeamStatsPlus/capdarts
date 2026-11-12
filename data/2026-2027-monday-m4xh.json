@@ -120,16 +120,16 @@
     2.31
    ],
    [
-    "Fred James",
-    "Right There",
-    2.89,
-    2.96
-   ],
-   [
     "Tim Olmsted",
     "Dartbags",
     1.65,
     1.72
+   ],
+   [
+    "Blake Stevenson",
+    "RamRod",
+    1.47,
+    1.54
    ]
   ],
   "x": [
@@ -245,21 +245,6 @@
    1
   ],
   [
-   "Joel Diaz",
-   "RamRod",
-   2.49,
-   21,
-   11,
-   3,
-   0,
-   0,
-   12,
-   7,
-   2,
-   0,
-   1
-  ],
-  [
    "Jamie Johnson",
    "RamRod",
    2.49,
@@ -273,6 +258,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Joel Diaz",
+   "RamRod",
+   2.49,
+   21,
+   11,
+   3,
+   0,
+   0,
+   12,
+   7,
+   2,
+   0,
+   1
   ],
   [
    "Mike Murphy",
@@ -901,18 +901,6 @@
    32
   ],
   [
-   "Pat Childs",
-   "Roasted Shenanigans",
-   20.49,
-   4,
-   1,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Greg Poltorak",
    "Take It Out",
    20.49,
@@ -923,6 +911,18 @@
    0,
    0,
    39
+  ],
+  [
+   "Pat Childs",
+   "Roasted Shenanigans",
+   20.49,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Marc Hinds",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-12T15:15:50Z"
+ "updated": "2026-11-12T16:25:38Z"
 }
