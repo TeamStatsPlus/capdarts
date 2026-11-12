@@ -166,6 +166,12 @@
  "improved": {
   "c": [
    [
+    "Kevin Moses",
+    "Is It In",
+    1.76,
+    1.87
+   ],
+   [
     "Jamie Rialdi",
     "Show Your Tips",
     1.7,
@@ -176,12 +182,6 @@
     "Is It In",
     2.04,
     2.15
-   ],
-   [
-    "Kevin Moses",
-    "Is It In",
-    1.76,
-    1.87
    ]
   ],
   "x": [
@@ -372,21 +372,6 @@
    0
   ],
   [
-   "Michael Bell",
-   "Is It In",
-   2.09,
-   18,
-   4,
-   6,
-   2,
-   0,
-   3,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Jose Santiago",
    "Dartbags",
    2.09,
@@ -398,6 +383,21 @@
    4,
    5,
    2,
+   0,
+   0
+  ],
+  [
+   "Michael Bell",
+   "Is It In",
+   2.09,
+   18,
+   4,
+   6,
+   2,
+   0,
+   3,
+   3,
+   0,
    0,
    0
   ],
@@ -1032,21 +1032,6 @@
    0
   ],
   [
-   "Greg Cotchiti",
-   "Peppers And Onions",
-   1.32,
-   18,
-   0,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Tricia Busardo",
    "Aiming Fluid",
    1.32,
@@ -1058,6 +1043,21 @@
    2,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Greg Cotchiti",
+   "Peppers And Onions",
+   1.32,
+   18,
+   0,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -1391,18 +1391,6 @@
    13
   ],
   [
-   "Mike Bisig",
-   "Trippin On Trips",
-   18.57,
-   24,
-   8,
-   1,
-   0,
-   0,
-   0,
-   11
-  ],
-  [
    "Dale Pickens",
    "Points And Pints",
    18.57,
@@ -1413,6 +1401,18 @@
    0,
    0,
    9
+  ],
+  [
+   "Mike Bisig",
+   "Trippin On Trips",
+   18.57,
+   24,
+   8,
+   1,
+   0,
+   0,
+   0,
+   11
   ],
   [
    "Brad Paradise",
@@ -1811,18 +1811,6 @@
    0
   ],
   [
-   "Justin Ricci",
-   "Show Your Tips",
-   13.47,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kathy Bailey",
    "Chicks And Dicks",
    13.47,
@@ -1833,6 +1821,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Justin Ricci",
+   "Show Your Tips",
+   13.47,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Luke Leach",
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-12T04:17:45Z"
+ "updated": "2026-11-12T05:25:51Z"
 }

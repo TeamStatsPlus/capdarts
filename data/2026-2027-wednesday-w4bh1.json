@@ -357,21 +357,6 @@
    0
   ],
   [
-   "Graham Wheeler",
-   "Shart Shooters",
-   1.7,
-   18,
-   10,
-   2,
-   0,
-   0,
-   1,
-   2,
-   2,
-   0,
-   0
-  ],
-  [
    "Steve Caufield",
    "ProjectileDysfncion",
    1.7,
@@ -387,17 +372,17 @@
    0
   ],
   [
-   "James Simpson",
-   "Cant Close",
-   1.69,
-   15,
-   5,
-   5,
+   "Graham Wheeler",
+   "Shart Shooters",
+   1.7,
+   18,
+   10,
+   2,
    0,
    0,
-   3,
    1,
-   1,
+   2,
+   2,
    0,
    0
   ],
@@ -413,6 +398,21 @@
    3,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "James Simpson",
+   "Cant Close",
+   1.69,
+   15,
+   5,
+   5,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Danielle Henry",
-   "The Limp Wristers",
-   1.54,
-   18,
-   4,
-   7,
-   0,
-   0,
-   1,
-   1,
-   0,
-   2,
-   0
-  ],
-  [
    "Chris Murgatroyd",
    "Double Deuces",
    1.54,
@@ -639,6 +624,21 @@
    1,
    0,
    0,
+   0
+  ],
+  [
+   "Danielle Henry",
+   "The Limp Wristers",
+   1.54,
+   18,
+   4,
+   7,
+   0,
+   0,
+   1,
+   1,
+   0,
+   2,
    0
   ],
   [
@@ -777,21 +777,6 @@
    0
   ],
   [
-   "Howie Klick",
-   "Emerald Society",
-   1.34,
-   15,
-   3,
-   4,
-   1,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bri Smith",
    "3some Plus 1",
    1.34,
@@ -802,6 +787,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Howie Klick",
+   "Emerald Society",
+   1.34,
+   15,
+   3,
+   4,
+   1,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -927,21 +927,6 @@
    0
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   1.17,
-   12,
-   4,
-   3,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ellen Post",
    "Closer To Zero",
    1.17,
@@ -955,6 +940,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   1.17,
+   12,
+   4,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "John Inzinna",
@@ -972,21 +972,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -997,6 +982,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1733,8 +1733,8 @@
    2
   ],
   [
-   "Tyler Throwgasms",
-   "Throwgasms",
+   "Mark Pelcher",
+   "Emerald Society",
    14.15,
    4,
    0,
@@ -1745,8 +1745,8 @@
    1
   ],
   [
-   "Mark Pelcher",
-   "Emerald Society",
+   "Tyler Throwgasms",
+   "Throwgasms",
    14.15,
    4,
    0,
@@ -3003,5 +3003,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-12T04:18:09Z"
+ "updated": "2026-11-12T05:26:15Z"
 }
