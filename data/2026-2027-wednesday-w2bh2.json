@@ -335,21 +335,6 @@
    1
   ],
   [
-   "Patrick Reilly",
-   "Aiming Fluid Needed",
-   1.81,
-   36,
-   6,
-   10,
-   1,
-   0,
-   3,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Josh Bzduch Melino",
    "Just The Tip",
    1.81,
@@ -361,6 +346,21 @@
    2,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Patrick Reilly",
+   "Aiming Fluid Needed",
+   1.81,
+   36,
+   6,
+   10,
+   1,
+   0,
+   3,
+   3,
+   1,
    0,
    0
   ],
@@ -1306,5 +1306,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-12T19:18:11Z"
+ "updated": "2026-11-12T20:14:08Z"
 }

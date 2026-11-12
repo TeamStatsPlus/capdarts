@@ -623,21 +623,6 @@
    1
   ],
   [
-   "Mischa Herendeen",
-   "Good Smoke BBQ",
-   1.97,
-   3,
-   1,
-   1,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Biedrzycki",
    "Here 4 The Beer",
    1.97,
@@ -648,6 +633,21 @@
    0,
    7,
    4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mischa Herendeen",
+   "Good Smoke BBQ",
+   1.97,
+   3,
+   1,
+   1,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -758,21 +758,6 @@
    0
   ],
   [
-   "David Caesar",
-   "IDF NightCaps",
-   1.79,
-   18,
-   4,
-   4,
-   0,
-   0,
-   3,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Whitney Sawyer",
    "RedEye",
    1.79,
@@ -786,6 +771,21 @@
    2,
    0,
    1
+  ],
+  [
+   "David Caesar",
+   "IDF NightCaps",
+   1.79,
+   18,
+   4,
+   4,
+   0,
+   0,
+   3,
+   1,
+   2,
+   0,
+   0
   ],
   [
    "Ed Rowland",
@@ -1618,18 +1618,6 @@
    13
   ],
   [
-   "Ben Kulikowski",
-   "Good Smoke BBQ",
-   19.21,
-   24,
-   4,
-   0,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
    "Alex Todisco",
    "Slow Mother Chuckers",
    19.21,
@@ -1640,6 +1628,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   19.21,
+   24,
+   4,
+   0,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "David Caesar",
@@ -3087,5 +3087,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-12T19:17:36Z"
+ "updated": "2026-11-12T20:13:33Z"
 }

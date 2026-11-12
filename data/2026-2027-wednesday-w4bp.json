@@ -279,21 +279,6 @@
    2
   ],
   [
-   "Nick Wahal",
-   "Ryans Renegades",
-   2.69,
-   12,
-   3,
-   0,
-   1,
-   0,
-   8,
-   4,
-   3,
-   0,
-   1
-  ],
-  [
    "Joseph Shiner",
    "Satchel Of Richards",
    2.69,
@@ -307,6 +292,21 @@
    4,
    0,
    0
+  ],
+  [
+   "Nick Wahal",
+   "Ryans Renegades",
+   2.69,
+   12,
+   3,
+   0,
+   1,
+   0,
+   8,
+   4,
+   3,
+   0,
+   1
   ],
   [
    "Dashay Earlsey",
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-12T16:26:43Z"
+ "updated": "2026-11-12T20:14:39Z"
 }
