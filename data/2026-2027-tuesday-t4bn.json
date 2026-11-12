@@ -402,21 +402,6 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
-   2.08,
-   12,
-   5,
-   1,
-   1,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Alex Riley",
    "New Wave",
    2.08,
@@ -428,6 +413,21 @@
    5,
    0,
    4,
+   0,
+   0
+  ],
+  [
+   "John Bailey",
+   "Chicks And Dicks",
+   2.08,
+   12,
+   5,
+   1,
+   1,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -1391,18 +1391,6 @@
    13
   ],
   [
-   "Dale Pickens",
-   "Points And Pints",
-   18.57,
-   24,
-   4,
-   0,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
    "Mike Bisig",
    "Trippin On Trips",
    18.57,
@@ -1413,6 +1401,18 @@
    0,
    0,
    11
+  ],
+  [
+   "Dale Pickens",
+   "Points And Pints",
+   18.57,
+   24,
+   4,
+   0,
+   0,
+   0,
+   0,
+   9
   ],
   [
    "Brad Paradise",
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-12T16:26:02Z"
+ "updated": "2026-11-12T18:08:11Z"
 }
