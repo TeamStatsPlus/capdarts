@@ -41,13 +41,13 @@
   ],
   [
    "Average Joes",
-   39,
-   39
+   46,
+   45
   ],
   [
    "Wrong Hole",
-   37,
-   41
+   43,
+   48
   ],
   [
    "Ask Bobby",
@@ -66,14 +66,6 @@
   ]
  ],
  "results": [
-  [
-   "Wrong Hole",
-   "Rizm With The Tizm",
-   "11/04/2026",
-   6,
-   10,
-   3
-  ],
   [
    "Toasted Darts",
    "ReDarted",
@@ -108,11 +100,19 @@
   ],
   [
    "Average Joes",
-   "Id Hit That",
-   "11/04/2026",
+   "Wrong Hole",
+   "11/11/2026",
+   7,
+   7,
+   6
+  ],
+  [
+   "Wrong Hole",
+   "Average Joes",
+   "11/11/2026",
+   7,
    6,
-   8,
-   5
+   7
   ],
   [
    "Id Hit That",
@@ -229,6 +229,21 @@
    0
   ],
   [
+   "Zaccary Maguire",
+   "Team Stinky",
+   2.32,
+   18,
+   5,
+   4,
+   1,
+   0,
+   3,
+   1,
+   1,
+   0,
+   1
+  ],
+  [
    "Bob Fox",
    "Toasted Darts",
    2.32,
@@ -244,19 +259,19 @@
    0
   ],
   [
-   "Zaccary Maguire",
-   "Team Stinky",
-   2.32,
-   18,
-   5,
-   4,
-   1,
-   0,
+   "Mike Infantino",
+   "Wrong Hole",
+   2.31,
+   21,
+   6,
    3,
-   1,
-   1,
    0,
-   1
+   0,
+   10,
+   3,
+   5,
+   0,
+   0
   ],
   [
    "BJ Ashford",
@@ -300,36 +315,6 @@
    2,
    0,
    1,
-   0,
-   0
-  ],
-  [
-   "Mike Infantino",
-   "Wrong Hole",
-   2.26,
-   18,
-   5,
-   3,
-   0,
-   0,
-   8,
-   2,
-   4,
-   0,
-   0
-  ],
-  [
-   "Tony Villani",
-   "Wrong Hole",
-   2.21,
-   18,
-   5,
-   2,
-   0,
-   0,
-   5,
-   2,
-   3,
    0,
    0
   ],
@@ -394,6 +379,21 @@
    0
   ],
   [
+   "Tony Villani",
+   "Wrong Hole",
+   2.07,
+   21,
+   6,
+   3,
+   0,
+   0,
+   5,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
    "Chris Tapscott",
    "ReDarted",
    2.06,
@@ -405,21 +405,6 @@
    2,
    3,
    0,
-   0,
-   0
-  ],
-  [
-   "Brian Keefe",
-   "Average Joes",
-   2.0,
-   12,
-   5,
-   4,
-   0,
-   0,
-   4,
-   1,
-   1,
    0,
    0
   ],
@@ -499,6 +484,21 @@
    0
   ],
   [
+   "Brian Keefe",
+   "Average Joes",
+   1.91,
+   15,
+   6,
+   5,
+   0,
+   0,
+   4,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Frank Bancroft",
    "Dart Vaders",
    1.91,
@@ -525,21 +525,6 @@
    3,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Jim Iorio",
-   "Average Joes",
-   1.86,
-   18,
-   4,
-   6,
-   1,
-   0,
-   3,
-   4,
-   2,
    0,
    0
   ],
@@ -634,6 +619,21 @@
    0
   ],
   [
+   "Jim Iorio",
+   "Average Joes",
+   1.8,
+   21,
+   4,
+   7,
+   1,
+   0,
+   4,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
    "Steve Gonzalez",
    "ReDarted",
    1.8,
@@ -689,6 +689,21 @@
    0,
    3,
    3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jon Nolte",
+   "Average Joes",
+   1.77,
+   21,
+   6,
+   6,
+   0,
+   0,
+   3,
+   1,
    1,
    0,
    0
@@ -756,13 +771,13 @@
   [
    "Jason Gould",
    "Average Joes",
-   1.67,
-   15,
-   4,
+   1.69,
+   18,
+   6,
    2,
    0,
    0,
-   1,
+   2,
    1,
    1,
    0,
@@ -791,21 +806,6 @@
    5,
    4,
    1,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
-   "Jon Nolte",
-   "Average Joes",
-   1.64,
-   18,
-   5,
-   4,
-   0,
    0,
    1,
    1,
@@ -979,21 +979,6 @@
    0
   ],
   [
-   "Rik Fiordeliso",
-   "Wrong Hole",
-   1.36,
-   18,
-   0,
-   7,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mary Affronti",
    "RRP Crew",
    1.36,
@@ -1024,6 +1009,21 @@
    0
   ],
   [
+   "JOE",
+   "{Substitutes}",
+   1.32,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Todd Albright",
    "Id Hit That",
    1.31,
@@ -1034,6 +1034,21 @@
    0,
    3,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rik Fiordeliso",
+   "Wrong Hole",
+   1.31,
+   21,
+   0,
+   7,
+   0,
+   0,
+   4,
+   1,
    0,
    0,
    0
@@ -1206,6 +1221,18 @@
    3
   ],
   [
+   "Mike Infantino",
+   "Wrong Hole",
+   21.17,
+   28,
+   5,
+   1,
+   0,
+   0,
+   1,
+   28
+  ],
+  [
    "BJ Ashford",
    "Rizm With The Tizm",
    20.87,
@@ -1216,18 +1243,6 @@
    0,
    0,
    17
-  ],
-  [
-   "Mike Infantino",
-   "Wrong Hole",
-   20.57,
-   24,
-   4,
-   1,
-   0,
-   0,
-   1,
-   23
   ],
   [
    "Carlos Ortiz",
@@ -1268,14 +1283,14 @@
   [
    "Jim Iorio",
    "Average Joes",
-   19.52,
-   24,
-   3,
+   19.2,
+   28,
+   5,
    1,
    0,
    0,
    0,
-   10
+   11
   ],
   [
    "Michael TeWinkle",
@@ -1338,6 +1353,18 @@
    8
   ],
   [
+   "Tony Villani",
+   "Wrong Hole",
+   18.6,
+   28,
+   11,
+   0,
+   0,
+   0,
+   1,
+   15
+  ],
+  [
    "Jeff Bush",
    "Team Stinky",
    18.56,
@@ -1376,9 +1403,9 @@
   [
    "Jason Gould",
    "Average Joes",
-   18.21,
-   20,
-   6,
+   18.23,
+   24,
+   7,
    1,
    0,
    0,
@@ -1410,16 +1437,16 @@
    11
   ],
   [
-   "Tony Villani",
-   "Wrong Hole",
-   18.11,
-   24,
-   10,
-   0,
-   0,
-   0,
+   "JOE",
+   "{Substitutes}",
+   18.04,
+   4,
    1,
-   13
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Aaron Meeks",
@@ -1554,6 +1581,18 @@
    8
   ],
   [
+   "Jon Nolte",
+   "Average Joes",
+   16.46,
+   28,
+   6,
+   1,
+   0,
+   0,
+   0,
+   10
+  ],
+  [
    "Adam Northrup",
    "Wrong Hole",
    16.38,
@@ -1590,28 +1629,16 @@
    10
   ],
   [
-   "Jon Nolte",
-   "Average Joes",
-   16.0,
-   24,
-   6,
-   1,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Brian Keefe",
    "Average Joes",
-   15.77,
-   16,
+   15.85,
+   20,
    5,
    0,
    0,
    0,
    0,
-   7
+   9
   ],
   [
    "Mike Ask Bobby",
@@ -1734,6 +1761,18 @@
    6
   ],
   [
+   "Rik Fiordeliso",
+   "Wrong Hole",
+   14.57,
+   28,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
    "Mary Affronti",
    "RRP Crew",
    14.51,
@@ -1744,18 +1783,6 @@
    0,
    0,
    4
-  ],
-  [
-   "Rik Fiordeliso",
-   "Wrong Hole",
-   14.48,
-   24,
-   1,
-   0,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "Ben Mostyn",
@@ -2656,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-12T00:03:42Z"
+ "updated": "2026-11-12T01:37:30Z"
 }
