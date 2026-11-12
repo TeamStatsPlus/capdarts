@@ -402,21 +402,6 @@
    0
   ],
   [
-   "Alex Riley",
-   "New Wave",
-   2.08,
-   18,
-   7,
-   7,
-   1,
-   0,
-   5,
-   0,
-   4,
-   0,
-   0
-  ],
-  [
    "John Bailey",
    "Chicks And Dicks",
    2.08,
@@ -428,6 +413,21 @@
    3,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Alex Riley",
+   "New Wave",
+   2.08,
+   18,
+   7,
+   7,
+   1,
+   0,
+   5,
+   0,
+   4,
    0,
    0
   ],
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Jamie Rialdi",
-   "Show Your Tips",
-   1.81,
-   18,
-   2,
-   6,
-   0,
-   0,
-   6,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Jake Preston",
    "Show Your Tips",
    1.81,
@@ -685,6 +670,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Jamie Rialdi",
+   "Show Your Tips",
+   1.81,
+   18,
+   2,
+   6,
+   0,
+   0,
+   6,
+   2,
+   1,
+   0,
+   0
   ],
   [
    "Paul Cottingham",
@@ -897,21 +897,6 @@
    0
   ],
   [
-   "Joel Mattison",
-   "Truckin Bulls",
-   1.54,
-   18,
-   4,
-   1,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Sean New Wave",
    "New Wave",
    1.54,
@@ -922,6 +907,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joel Mattison",
+   "Truckin Bulls",
+   1.54,
+   18,
+   4,
+   1,
+   0,
+   0,
+   3,
+   1,
    0,
    0,
    0
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-12T18:08:11Z"
+ "updated": "2026-11-12T19:18:02Z"
 }

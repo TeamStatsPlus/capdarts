@@ -548,21 +548,6 @@
    0
   ],
   [
-   "Steve Wright",
-   "Wired",
-   2.07,
-   21,
-   9,
-   4,
-   1,
-   0,
-   5,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Shawn Hodgeman",
    "Here 4 The Beer",
    2.07,
@@ -574,6 +559,21 @@
    6,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Steve Wright",
+   "Wired",
+   2.07,
+   21,
+   9,
+   4,
+   1,
+   0,
+   5,
+   2,
+   1,
    0,
    0
   ],
@@ -863,21 +863,6 @@
    0
   ],
   [
-   "Scott Musial",
-   "The Shockers",
-   1.7,
-   21,
-   5,
-   1,
-   0,
-   0,
-   0,
-   2,
-   0,
-   0,
-   1
-  ],
-  [
    "Ryan Cuer",
    "RedEye",
    1.7,
@@ -893,19 +878,19 @@
    0
   ],
   [
-   "Johnny Golas",
-   "Halluciminatin",
-   1.68,
+   "Scott Musial",
+   "The Shockers",
+   1.7,
    21,
-   2,
-   2,
-   0,
-   0,
-   2,
+   5,
    1,
    0,
    0,
-   0
+   0,
+   2,
+   0,
+   0,
+   1
   ],
   [
    "Chuck Marchbanks",
@@ -917,6 +902,21 @@
    0,
    0,
    1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Johnny Golas",
+   "Halluciminatin",
+   1.68,
+   21,
+   2,
+   2,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -1118,21 +1118,6 @@
    0
   ],
   [
-   "John Seward",
-   "RedEye",
-   1.42,
-   15,
-   0,
-   4,
-   0,
-   0,
-   2,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Amanda Paige",
    "The Happy Accidents",
    1.42,
@@ -1142,6 +1127,21 @@
    0,
    0,
    3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "John Seward",
+   "RedEye",
+   1.42,
+   15,
+   0,
+   4,
+   0,
+   0,
+   2,
    1,
    1,
    0,
@@ -1618,18 +1618,6 @@
    13
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   19.21,
-   8,
-   4,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Ben Kulikowski",
    "Good Smoke BBQ",
    19.21,
@@ -1640,6 +1628,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   19.21,
+   8,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "David Caesar",
@@ -3087,5 +3087,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-12T18:07:43Z"
+ "updated": "2026-11-12T19:17:36Z"
 }

@@ -120,16 +120,16 @@
     1.23
    ],
    [
-    "Phil Warney",
-    "Gettin Looped",
-    1.73,
-    1.79
-   ],
-   [
     "Tom Smith",
     "4 Of Clubs",
     1.52,
     1.58
+   ],
+   [
+    "Phil Warney",
+    "Gettin Looped",
+    1.73,
+    1.79
    ]
   ],
   "x": [
@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Andy Del Gandio",
-   "The Critters",
-   1.87,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Brad Wight",
    "Thunderbuddies",
    1.87,
@@ -271,6 +256,21 @@
    4,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Andy Del Gandio",
+   "The Critters",
+   1.87,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
    0,
    0
   ],
@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Tony Jackson",
-   "Gettin Looped",
-   1.45,
-   21,
-   3,
-   9,
-   0,
-   0,
-   5,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mitch Jag",
    "Thats Bullshoot",
    1.45,
@@ -569,6 +554,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tony Jackson",
+   "Gettin Looped",
+   1.45,
+   21,
+   3,
+   9,
+   0,
+   0,
+   5,
    0,
    0,
    0,
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-12T18:08:06Z"
+ "updated": "2026-11-12T19:17:57Z"
 }
