@@ -120,16 +120,16 @@
     2.31
    ],
    [
+    "Fred James",
+    "Right There",
+    2.89,
+    2.96
+   ],
+   [
     "Tim Olmsted",
     "Dartbags",
     1.65,
     1.72
-   ],
-   [
-    "Blake Stevenson",
-    "RamRod",
-    1.47,
-    1.54
    ]
   ],
   "x": [
@@ -575,17 +575,17 @@
    0
   ],
   [
-   "Anthony Alletto",
-   "Dartbags",
+   "Connor Starr",
+   "Connor And The Jets",
    1.84,
-   21,
-   7,
-   3,
-   0,
-   0,
-   7,
+   18,
+   6,
    2,
    0,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -605,17 +605,17 @@
    0
   ],
   [
-   "Connor Starr",
-   "Connor And The Jets",
+   "Anthony Alletto",
+   "Dartbags",
    1.84,
-   18,
-   6,
-   2,
-   0,
-   0,
+   21,
+   7,
    3,
+   0,
+   0,
+   7,
    2,
-   1,
+   0,
    0,
    0
   ],
@@ -901,18 +901,6 @@
    32
   ],
   [
-   "Greg Poltorak",
-   "Take It Out",
-   20.49,
-   28,
-   8,
-   2,
-   0,
-   0,
-   0,
-   39
-  ],
-  [
    "Pat Childs",
    "Roasted Shenanigans",
    20.49,
@@ -923,6 +911,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Greg Poltorak",
+   "Take It Out",
+   20.49,
+   28,
+   8,
+   2,
+   0,
+   0,
+   0,
+   39
   ],
   [
    "Marc Hinds",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-12T20:13:39Z"
+ "updated": "2026-11-12T21:09:11Z"
 }

@@ -815,18 +815,6 @@
    21
   ],
   [
-   "Jim Cox",
-   "Methodical Missers",
-   16.36,
-   49,
-   7,
-   1,
-   0,
-   0,
-   0,
-   24
-  ],
-  [
    "Tim Turner",
    "Fairly Oddparents",
    16.36,
@@ -837,6 +825,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Jim Cox",
+   "Methodical Missers",
+   16.36,
+   49,
+   7,
+   1,
+   0,
+   0,
+   0,
+   24
   ],
   [
    "Syrica Story",
@@ -1833,5 +1833,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-12T20:14:03Z"
+ "updated": "2026-11-12T21:09:32Z"
 }

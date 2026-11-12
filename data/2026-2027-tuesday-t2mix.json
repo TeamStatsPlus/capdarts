@@ -224,16 +224,16 @@
     1.92
    ],
    [
-    "Katrina ReedMullen",
-    "Pointless",
-    1.64,
-    1.69
-   ],
-   [
     "Melissa Miles",
     "Pusc Paninis",
     2.27,
     2.32
+   ],
+   [
+    "Brian Zicari",
+    "Pointless",
+    1.87,
+    1.92
    ]
   ],
   "x": [
@@ -589,21 +589,6 @@
    0
   ],
   [
-   "Brian Zicari",
-   "Pointless",
-   1.92,
-   42,
-   14,
-   4,
-   3,
-   0,
-   7,
-   6,
-   3,
-   1,
-   0
-  ],
-  [
    "Danae Diaz",
    "Better Together",
    1.92,
@@ -616,6 +601,21 @@
    3,
    3,
    0,
+   0
+  ],
+  [
+   "Brian Zicari",
+   "Pointless",
+   1.92,
+   42,
+   14,
+   4,
+   3,
+   0,
+   7,
+   6,
+   3,
+   1,
    0
   ],
   [
@@ -769,21 +769,6 @@
    0
   ],
   [
-   "Julie DiGrazia",
-   "And Then There Was 2",
-   1.45,
-   36,
-   4,
-   2,
-   0,
-   0,
-   3,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "James Shell",
    "Dartaholicz",
    1.45,
@@ -797,6 +782,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Julie DiGrazia",
+   "And Then There Was 2",
+   1.45,
+   36,
+   4,
+   2,
+   0,
+   0,
+   3,
+   5,
+   0,
+   0,
+   0
   ],
   [
    "Shaunna Maloney",
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-12T20:13:46Z"
+ "updated": "2026-11-12T21:09:15Z"
 }
