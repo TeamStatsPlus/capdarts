@@ -172,16 +172,16 @@
     1.54
    ],
    [
-    "Erin Lamar",
-    "Throwgasms",
-    1.03,
-    1.11
-   ],
-   [
     "Stephen Monahan",
     "The Limp Wristers",
     1.52,
     1.6
+   ],
+   [
+    "Erin Lamar",
+    "Throwgasms",
+    1.03,
+    1.11
    ]
   ],
   "x": [
@@ -972,21 +972,6 @@
    0
   ],
   [
-   "Andrea Sutherland",
-   "Closer To Zero",
-   1.15,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Double Deuces",
    "Double Deuces",
    1.15,
@@ -997,6 +982,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrea Sutherland",
+   "Closer To Zero",
+   1.15,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -3003,5 +3003,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-12T13:37:43Z"
+ "updated": "2026-11-12T15:16:34Z"
 }

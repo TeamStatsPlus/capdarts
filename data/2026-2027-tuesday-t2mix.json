@@ -529,8 +529,8 @@
    0
   ],
   [
-   "TAYLOR",
-   "{Substitutes}",
+   "Taylor Koffenberger",
+   "Squeaky Wheel",
    2.1,
    6,
    0,
@@ -559,6 +559,21 @@
    0
   ],
   [
+   "Tyler CannonBailey",
+   "Squeaky Wheel",
+   1.96,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Kelly Kilmer",
    "Drunken Squids",
    1.96,
@@ -574,17 +589,17 @@
    0
   ],
   [
-   "Tyler CannonBailey",
-   "Squeaky Wheel",
-   1.96,
+   "Danae Diaz",
+   "Better Together",
+   1.92,
+   36,
+   14,
+   10,
+   3,
+   0,
    6,
-   1,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
+   3,
+   3,
    0,
    0
   ],
@@ -601,21 +616,6 @@
    6,
    3,
    1,
-   0
-  ],
-  [
-   "Danae Diaz",
-   "Better Together",
-   1.92,
-   36,
-   14,
-   10,
-   3,
-   0,
-   6,
-   3,
-   3,
-   0,
    0
   ],
   [
@@ -1062,8 +1062,8 @@
    57
   ],
   [
-   "TAYLOR",
-   "{Substitutes}",
+   "Taylor Koffenberger",
+   "Squeaky Wheel",
    18.01,
    7,
    0,
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-12T13:37:01Z"
+ "updated": "2026-11-12T15:15:56Z"
 }

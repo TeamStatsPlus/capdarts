@@ -120,16 +120,16 @@
     1.23
    ],
    [
-    "Phil Warney",
-    "Gettin Looped",
-    1.73,
-    1.79
-   ],
-   [
     "Tom Smith",
     "4 Of Clubs",
     1.52,
     1.58
+   ],
+   [
+    "Phil Warney",
+    "Gettin Looped",
+    1.73,
+    1.79
    ]
   ],
   "x": [
@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Andy Del Gandio",
-   "The Critters",
-   1.87,
-   3,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Brad Wight",
    "Thunderbuddies",
    1.87,
@@ -275,6 +260,21 @@
    0
   ],
   [
+   "Andy Del Gandio",
+   "The Critters",
+   1.87,
+   3,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Michael Justis",
    "4 Of Clubs",
    1.86,
@@ -285,36 +285,6 @@
    0,
    7,
    2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Brian Sloan",
-   "The Critters",
-   1.85,
-   21,
-   6,
-   2,
-   2,
-   0,
-   6,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
-   "Ian Heath",
-   "Lady And The Tramps",
-   1.85,
-   18,
-   12,
-   2,
-   0,
-   0,
-   1,
-   6,
    0,
    0,
    0
@@ -335,16 +305,31 @@
    0
   ],
   [
-   "Joe Rowland",
-   "Team Name",
-   1.83,
+   "Ian Heath",
+   "Lady And The Tramps",
+   1.85,
+   18,
+   12,
+   2,
+   0,
+   0,
+   1,
+   6,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.85,
    21,
-   7,
-   1,
+   6,
+   2,
+   2,
    0,
-   0,
-   7,
-   1,
+   6,
+   3,
    0,
    0,
    0
@@ -361,6 +346,21 @@
    5,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Joe Rowland",
+   "Team Name",
+   1.83,
+   21,
+   7,
+   1,
+   0,
+   0,
+   7,
+   1,
+   0,
    0,
    0
   ],
@@ -440,8 +440,8 @@
    0
   ],
   [
-   "MIKE",
-   "{Substitutes}",
+   "Mike Angora",
+   "No Sleep",
    1.69,
    3,
    0,
@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Mitch Jag",
-   "Thats Bullshoot",
-   1.45,
-   6,
-   1,
-   2,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tony Jackson",
    "Gettin Looped",
    1.45,
@@ -555,6 +540,21 @@
    0,
    5,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mitch Jag",
+   "Thats Bullshoot",
+   1.45,
+   6,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -695,21 +695,6 @@
    0
   ],
   [
-   "Molly Stanziano",
-   "4 Of Clubs",
-   1.27,
-   9,
-   3,
-   1,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tom Solorzano",
    "4 Of Clubs",
    1.27,
@@ -720,6 +705,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Molly Stanziano",
+   "4 Of Clubs",
+   1.27,
+   9,
+   3,
+   1,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -1387,8 +1387,8 @@
    5
   ],
   [
-   "MIKE",
-   "{Substitutes}",
+   "Mike Angora",
+   "No Sleep",
    11.78,
    4,
    0,
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-12T13:37:12Z"
+ "updated": "2026-11-12T15:16:06Z"
 }

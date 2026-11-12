@@ -6,8 +6,8 @@
  "standings": [
   [
    "Yearoff",
-   53,
-   25
+   52,
+   26
   ],
   [
    "Tip Deep",
@@ -26,8 +26,8 @@
   ],
   [
    "BullsHitters",
-   43,
-   48
+   44,
+   47
   ],
   [
    "Almost There",
@@ -47,16 +47,16 @@
  ],
  "results": [
   [
-   "Yearoff",
-   "BullsHitters",
-   "11/11/2026",
-   7,
-   9,
-   4
-  ],
-  [
    "Gameday",
    "Tip Deep",
+   "11/11/2026",
+   7,
+   8,
+   5
+  ],
+  [
+   "Yearoff",
+   "BullsHitters",
    "11/11/2026",
    7,
    8,
@@ -95,20 +95,20 @@
    7
   ],
   [
-   "Tip Deep",
-   "Gameday",
+   "BullsHitters",
+   "Yearoff",
    "11/11/2026",
    7,
    5,
    8
   ],
   [
-   "BullsHitters",
-   "Yearoff",
+   "Tip Deep",
+   "Gameday",
    "11/11/2026",
    7,
-   4,
-   9
+   5,
+   8
   ]
  ],
  "improved": {
@@ -350,21 +350,6 @@
    0
   ],
   [
-   "Jason Ehmann",
-   "Anotha One",
-   2.13,
-   18,
-   8,
-   2,
-   2,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Tom Barnard",
    "Tip Deep",
    2.13,
@@ -376,6 +361,21 @@
    8,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jason Ehmann",
+   "Anotha One",
+   2.13,
+   18,
+   8,
+   2,
+   2,
+   0,
+   5,
+   1,
+   1,
    0,
    0
   ],
@@ -1861,5 +1861,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-12T13:37:37Z"
+ "updated": "2026-11-12T15:16:28Z"
 }
