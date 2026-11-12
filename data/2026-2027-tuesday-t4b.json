@@ -470,21 +470,6 @@
    0
   ],
   [
-   "Darrin Costantini",
-   "Bad Boys",
-   1.81,
-   6,
-   1,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Brendan Sheerwood",
    "Dirty O Boys",
    1.81,
@@ -494,6 +479,21 @@
    0,
    0,
    11,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Darrin Costantini",
+   "Bad Boys",
+   1.81,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
    1,
    0,
    0,
@@ -1948,5 +1948,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-12T21:09:18Z"
+ "updated": "2026-11-12T22:05:25Z"
 }

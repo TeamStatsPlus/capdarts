@@ -88,16 +88,16 @@
  "improved": {
   "c": [
    [
-    "James Walsh",
-    "Water Off",
-    2.15,
-    2.19
-   ],
-   [
     "Tom Walter",
     "Bigg Darts",
     1.76,
     1.8
+   ],
+   [
+    "James Walsh",
+    "Water Off",
+    2.15,
+    2.19
    ],
    [
     "Dashay Earlsey",
@@ -324,21 +324,6 @@
    0
   ],
   [
-   "Jason Davis",
-   "Bigg Darts",
-   2.59,
-   6,
-   3,
-   0,
-   1,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Justin Burdett",
    "We Made The Cut",
    2.59,
@@ -350,6 +335,21 @@
    13,
    4,
    3,
+   0,
+   0
+  ],
+  [
+   "Jason Davis",
+   "Bigg Darts",
+   2.59,
+   6,
+   3,
+   0,
+   1,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-12T21:10:05Z"
+ "updated": "2026-11-12T22:06:17Z"
 }

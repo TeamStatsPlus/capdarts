@@ -120,16 +120,16 @@
     1.23
    ],
    [
-    "Tom Smith",
-    "4 Of Clubs",
-    1.52,
-    1.58
-   ],
-   [
     "Phil Warney",
     "Gettin Looped",
     1.73,
     1.79
+   ],
+   [
+    "Tom Smith",
+    "4 Of Clubs",
+    1.52,
+    1.58
    ]
   ],
   "x": [
@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Brad Wight",
-   "Thunderbuddies",
-   1.87,
-   21,
-   10,
-   5,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Andy Del Gandio",
    "The Critters",
    1.87,
@@ -271,6 +256,21 @@
    1,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Brad Wight",
+   "Thunderbuddies",
+   1.87,
+   21,
+   10,
+   5,
+   0,
+   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -335,21 +335,6 @@
    0
   ],
   [
-   "John Clark",
-   "Lady And The Tramps",
-   1.83,
-   18,
-   3,
-   7,
-   0,
-   0,
-   5,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Joe Rowland",
    "Team Name",
    1.83,
@@ -361,6 +346,21 @@
    7,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "John Clark",
+   "Lady And The Tramps",
+   1.83,
+   18,
+   3,
+   7,
+   0,
+   0,
+   5,
+   2,
+   1,
    0,
    0
   ],
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-12T21:09:24Z"
+ "updated": "2026-11-12T22:05:31Z"
 }
