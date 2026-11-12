@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Bri Smith",
-   "3some Plus 1",
-   1.34,
-   15,
-   6,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Howie Klick",
    "Emerald Society",
    1.34,
@@ -817,6 +802,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bri Smith",
+   "3some Plus 1",
+   1.34,
+   15,
+   6,
+   3,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -1137,21 +1137,6 @@
    0
   ],
   [
-   "Jamie Brown",
-   "Tips Dont Lie",
-   0.98,
-   9,
-   1,
-   2,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jill Calvert",
    "Squeekertips",
    0.98,
@@ -1162,6 +1147,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jamie Brown",
+   "Tips Dont Lie",
+   0.98,
+   9,
+   1,
+   2,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1520,18 +1520,6 @@
    1
   ],
   [
-   "Dan Berger",
-   "Emerald Society",
-   16.35,
-   24,
-   4,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Brent Flynn",
    "Tips Dont Lie",
    16.35,
@@ -1542,6 +1530,18 @@
    0,
    0,
    13
+  ],
+  [
+   "Dan Berger",
+   "Emerald Society",
+   16.35,
+   24,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Steve Caufield",
@@ -2108,18 +2108,6 @@
    2
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   12.27,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Lydia Wheeler",
    "Shart Shooters",
    12.27,
@@ -2130,6 +2118,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   12.27,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Sylvan Hemingway",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-12T22:06:03Z"
+ "updated": "2026-11-12T23:03:55Z"
 }

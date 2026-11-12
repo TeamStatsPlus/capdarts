@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T21:10:22Z",
+ "updated": "2026-11-12T23:04:29Z",
  "standings": [
   [
    "No Clue",
@@ -368,6 +368,21 @@
    1
   ],
   [
+   "Kirk Santelli",
+   "DoubleIn StumbleOut",
+   2.57,
+   30,
+   11,
+   3,
+   4,
+   0,
+   17,
+   4,
+   3,
+   0,
+   1
+  ],
+  [
    "Mike Georgetti",
    "No Clue",
    2.57,
@@ -395,21 +410,6 @@
    4,
    3,
    1,
-   1
-  ],
-  [
-   "Kirk Santelli",
-   "DoubleIn StumbleOut",
-   2.57,
-   30,
-   11,
-   3,
-   4,
-   0,
-   17,
-   4,
-   3,
-   0,
    1
   ],
   [
@@ -1096,10 +1096,10 @@
     2.54
    ],
    [
-    "Jamie Love",
-    "Draw Two",
-    2.31,
-    2.4
+    "Jason Arena",
+    "Throwing Shade",
+    2.13,
+    2.22
    ]
   ],
   "x": [

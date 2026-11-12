@@ -308,21 +308,6 @@
    0
   ],
   [
-   "Eric Westrich",
-   "Money Shot",
-   2.36,
-   18,
-   5,
-   12,
-   0,
-   0,
-   12,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "David Wills",
    "Tegridy",
    2.36,
@@ -351,6 +336,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Eric Westrich",
+   "Money Shot",
+   2.36,
+   18,
+   5,
+   12,
+   0,
+   0,
+   12,
+   3,
+   2,
+   0,
+   0
   ],
   [
    "Mark Quill",
@@ -623,21 +623,6 @@
    1
   ],
   [
-   "Mischa Herendeen",
-   "Good Smoke BBQ",
-   1.97,
-   3,
-   1,
-   1,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Biedrzycki",
    "Here 4 The Beer",
    1.97,
@@ -653,17 +638,17 @@
    0
   ],
   [
-   "Darrin Costantini",
-   "Wired",
-   1.95,
-   15,
-   5,
-   1,
-   0,
-   0,
-   1,
+   "Mischa Herendeen",
+   "Good Smoke BBQ",
+   1.97,
    3,
    1,
+   1,
+   0,
+   0,
+   3,
+   0,
+   0,
    0,
    0
   ],
@@ -681,6 +666,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Darrin Costantini",
+   "Wired",
+   1.95,
+   15,
+   5,
+   1,
+   0,
+   0,
+   1,
+   3,
+   1,
+   0,
+   0
   ],
   [
    "Dean Nicosia",
@@ -758,21 +758,6 @@
    0
   ],
   [
-   "David Caesar",
-   "IDF NightCaps",
-   1.79,
-   18,
-   4,
-   4,
-   0,
-   0,
-   3,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Whitney Sawyer",
    "RedEye",
    1.79,
@@ -786,6 +771,21 @@
    2,
    0,
    1
+  ],
+  [
+   "David Caesar",
+   "IDF NightCaps",
+   1.79,
+   18,
+   4,
+   4,
+   0,
+   0,
+   3,
+   1,
+   2,
+   0,
+   0
   ],
   [
    "Ed Rowland",
@@ -1618,18 +1618,6 @@
    13
   ],
   [
-   "Ben Kulikowski",
-   "Good Smoke BBQ",
-   19.21,
-   24,
-   4,
-   0,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
    "Alex Todisco",
    "Slow Mother Chuckers",
    19.21,
@@ -1640,6 +1628,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   19.21,
+   24,
+   4,
+   0,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "David Caesar",
@@ -3087,5 +3087,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-12T22:05:07Z"
+ "updated": "2026-11-12T23:03:00Z"
 }
