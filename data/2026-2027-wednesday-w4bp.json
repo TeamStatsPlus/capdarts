@@ -88,16 +88,16 @@
  "improved": {
   "c": [
    [
-    "Tom Walter",
-    "Bigg Darts",
-    1.76,
-    1.8
-   ],
-   [
     "James Walsh",
     "Water Off",
     2.15,
     2.19
+   ],
+   [
+    "Tom Walter",
+    "Bigg Darts",
+    1.76,
+    1.8
    ],
    [
     "Dashay Earlsey",
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-12T03:11:34Z"
+ "updated": "2026-11-12T04:18:23Z"
 }

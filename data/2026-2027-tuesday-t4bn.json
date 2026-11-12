@@ -1002,6 +1002,21 @@
    0
   ],
   [
+   "Joey Tortora",
+   "Points And Pints",
+   1.35,
+   18,
+   3,
+   3,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Pal New Wave",
    "New Wave",
    1.35,
@@ -1017,16 +1032,16 @@
    0
   ],
   [
-   "Joey Tortora",
-   "Points And Pints",
-   1.35,
+   "Greg Cotchiti",
+   "Peppers And Onions",
+   1.32,
    18,
-   3,
-   3,
-   0,
    0,
    1,
-   1,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -1043,21 +1058,6 @@
    2,
    2,
    1,
-   0,
-   0
-  ],
-  [
-   "Greg Cotchiti",
-   "Peppers And Onions",
-   1.32,
-   18,
-   0,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
    0,
    0
   ],
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-12T03:11:01Z"
+ "updated": "2026-11-12T04:17:45Z"
 }

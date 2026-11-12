@@ -10,17 +10,17 @@
    25
   ],
   [
+   "One For The Ditch",
+   45,
+   33
+  ],
+  [
    "Flight Phucked",
    43,
    35
   ],
   [
    "Andycapped",
-   35,
-   30
-  ],
-  [
-   "One For The Ditch",
    35,
    30
   ],
@@ -36,11 +36,19 @@
   ],
   [
    "TQMB",
-   7,
-   32
+   10,
+   42
   ]
  ],
  "results": [
+  [
+   "One For The Ditch",
+   "TQMB",
+   "11/11/2026",
+   7,
+   10,
+   3
+  ],
   [
    "Duckin Farts",
    "Pig Roasters",
@@ -66,14 +74,6 @@
    7
   ],
   [
-   "One For The Ditch",
-   "Flight Phucked",
-   "11/04/2026",
-   6,
-   6,
-   7
-  ],
-  [
    "Pig Roasters",
    "Duckin Farts",
    "11/11/2026",
@@ -91,11 +91,11 @@
   ],
   [
    "TQMB",
-   "Flight Phucked",
-   "10/14/2026",
+   "One For The Ditch",
+   "11/11/2026",
+   7,
    3,
-   0,
-   13
+   10
   ]
  ],
  "improved": {
@@ -133,10 +133,10 @@
     19.44
    ],
    [
-    "Jeff Brown",
-    "Flight Phucked",
-    17.26,
-    17.85
+    "Jim Chodak",
+    "TQMB",
+    14.94,
+    15.64
    ]
   ]
  },
@@ -187,21 +187,6 @@
    0
   ],
   [
-   "Mario Herman",
-   "One For The Ditch",
-   2.61,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Georgetti",
    "Flight Phucked",
    2.6,
@@ -247,6 +232,21 @@
    0
   ],
   [
+   "Ken Geer",
+   "One For The Ditch",
+   2.41,
+   18,
+   3,
+   5,
+   0,
+   0,
+   4,
+   5,
+   1,
+   0,
+   1
+  ],
+  [
    "Zach Baker",
    "Flight Phucked",
    2.4,
@@ -277,34 +277,34 @@
    0
   ],
   [
-   "Kevin Welling",
+   "Mario Herman",
    "One For The Ditch",
-   2.34,
-   15,
-   4,
-   4,
-   0,
-   0,
+   2.31,
    6,
-   3,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
   ],
   [
-   "Ken Geer",
+   "Kevin Welling",
    "One For The Ditch",
-   2.31,
-   15,
-   1,
+   2.28,
+   18,
+   5,
+   5,
+   0,
+   0,
+   7,
    4,
    0,
    0,
-   3,
-   4,
-   1,
-   0,
-   1
+   0
   ],
   [
    "Brian Faucher",
@@ -472,21 +472,6 @@
    0
   ],
   [
-   "Christopher Welling",
-   "One For The Ditch",
-   1.82,
-   15,
-   3,
-   6,
-   0,
-   0,
-   3,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "John Frazer",
    "Duckin Farts",
    1.81,
@@ -517,12 +502,12 @@
    0
   ],
   [
-   "Jeff Brown",
-   "Flight Phucked",
-   1.71,
+   "Christopher Welling",
+   "One For The Ditch",
+   1.78,
    18,
-   2,
-   7,
+   4,
+   8,
    0,
    0,
    3,
@@ -547,16 +532,16 @@
    0
   ],
   [
-   "Ron Pierce",
-   "TQMB",
-   1.65,
-   9,
-   1,
+   "Jeff Brown",
+   "Flight Phucked",
+   1.71,
+   18,
+   2,
+   7,
    0,
    0,
-   0,
-   1,
-   1,
+   3,
+   3,
    0,
    0,
    0
@@ -564,13 +549,28 @@
   [
    "Jim Chodak",
    "TQMB",
-   1.61,
-   9,
+   1.65,
+   12,
    0,
+   2,
+   0,
+   0,
+   4,
    1,
    0,
    0,
+   0
+  ],
+  [
+   "Ron Pierce",
+   "TQMB",
+   1.63,
+   12,
    1,
+   0,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -652,15 +652,30 @@
    0
   ],
   [
-   "Jon Harrel",
+   "Howie Revans",
    "TQMB",
-   1.09,
+   1.15,
    9,
-   0,
    1,
    0,
    0,
    0,
+   0,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jon Harrel",
+   "TQMB",
+   1.1,
+   12,
+   0,
+   1,
+   0,
+   0,
+   1,
    0,
    0,
    0,
@@ -671,21 +686,6 @@
    "Pig Roasters",
    1.06,
    3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Howie Revans",
-   "TQMB",
-   1.05,
-   6,
    0,
    0,
    0,
@@ -788,14 +788,14 @@
   [
    "Mario Herman",
    "One For The Ditch",
-   22.52,
-   4,
+   22.65,
+   8,
    0,
    2,
    0,
    0,
    0,
-   4
+   9
   ],
   [
    "Jamie Johnson",
@@ -834,18 +834,6 @@
    8
   ],
   [
-   "Kevin Welling",
-   "One For The Ditch",
-   21.76,
-   20,
-   6,
-   0,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
    "Jay Musshafen",
    "Wasted Talent",
    21.75,
@@ -858,18 +846,6 @@
    14
   ],
   [
-   "Ken Geer",
-   "One For The Ditch",
-   21.07,
-   20,
-   4,
-   1,
-   0,
-   0,
-   0,
-   10
-  ],
-  [
    "Steve Ruffino",
    "Flight Phucked",
    21.02,
@@ -880,6 +856,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Kevin Welling",
+   "One For The Ditch",
+   21.01,
+   24,
+   7,
+   0,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "Zach Baker",
@@ -918,16 +906,16 @@
    9
   ],
   [
-   "Ron Pierce",
-   "TQMB",
-   20.34,
-   12,
-   2,
+   "Ken Geer",
+   "One For The Ditch",
+   20.7,
+   24,
+   6,
+   3,
    0,
    0,
    0,
-   0,
-   9
+   11
   ],
   [
    "John Clarke",
@@ -978,6 +966,18 @@
    10
   ],
   [
+   "Ron Pierce",
+   "TQMB",
+   19.43,
+   16,
+   2,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
    "Mike Meyers",
    "Pig Roasters",
    19.16,
@@ -1002,18 +1002,6 @@
    12
   ],
   [
-   "Christopher Welling",
-   "One For The Ditch",
-   18.99,
-   20,
-   6,
-   0,
-   0,
-   0,
-   1,
-   9
-  ],
-  [
    "Johnny Nichols",
    "Wasted Talent",
    18.66,
@@ -1024,6 +1012,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Christopher Welling",
+   "One For The Ditch",
+   18.51,
+   24,
+   8,
+   0,
+   0,
+   0,
+   1,
+   11
   ],
   [
    "Bob Newell",
@@ -1074,6 +1074,18 @@
    5
   ],
   [
+   "Jim Chodak",
+   "TQMB",
+   15.64,
+   16,
+   2,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
    "Kayla Ross",
    "Andycapped",
    14.97,
@@ -1086,9 +1098,21 @@
    1
   ],
   [
-   "Jim Chodak",
+   "Jon Harrel",
    "TQMB",
-   14.94,
+   14.72,
+   16,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "Howie Revans",
+   "TQMB",
+   14.35,
    12,
    1,
    0,
@@ -1096,30 +1120,6 @@
    0,
    0,
    2
-  ],
-  [
-   "Jon Harrel",
-   "TQMB",
-   14.49,
-   12,
-   0,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
-   "Howie Revans",
-   "TQMB",
-   14.36,
-   8,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
   ],
   [
    "Steve Danzig",
@@ -1671,5 +1671,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-12T03:11:30Z"
+ "updated": "2026-11-12T04:18:19Z"
 }
