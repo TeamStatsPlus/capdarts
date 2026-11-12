@@ -421,21 +421,6 @@
    0
   ],
   [
-   "Steve Gallwey",
-   "636ers",
-   1.37,
-   30,
-   5,
-   8,
-   0,
-   0,
-   5,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Ed Rowland",
    "Double Trouble",
    1.37,
@@ -446,6 +431,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Gallwey",
+   "636ers",
+   1.37,
+   30,
+   5,
+   8,
+   0,
+   0,
+   5,
+   2,
    0,
    0,
    0
@@ -496,6 +496,21 @@
    0
   ],
   [
+   "Melissa Cocchiara",
+   "Bulleye Bandits",
+   1.21,
+   42,
+   2,
+   13,
+   0,
+   0,
+   9,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
    "Lou Sanchez",
    "Double Trouble",
    1.21,
@@ -522,21 +537,6 @@
    2,
    0,
    1,
-   0,
-   0
-  ],
-  [
-   "Melissa Cocchiara",
-   "Bulleye Bandits",
-   1.21,
-   42,
-   2,
-   13,
-   0,
-   0,
-   9,
-   2,
-   0,
    0,
    0
   ],
@@ -1623,5 +1623,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-12T01:36:16Z"
+ "updated": "2026-11-12T03:10:25Z"
 }

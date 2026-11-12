@@ -6,18 +6,18 @@
  "standings": [
   [
    "Duckin Farts",
-   44,
-   21
+   53,
+   25
   ],
   [
    "Flight Phucked",
-   37,
-   28
+   43,
+   35
   ],
   [
    "Andycapped",
-   28,
-   24
+   35,
+   30
   ],
   [
    "One For The Ditch",
@@ -31,8 +31,8 @@
   ],
   [
    "Pig Roasters",
-   19,
-   33
+   23,
+   42
   ],
   [
    "TQMB",
@@ -43,27 +43,27 @@
  "results": [
   [
    "Duckin Farts",
-   "Andycapped",
-   "11/04/2026",
-   6,
-   10,
-   3
-  ],
-  [
    "Pig Roasters",
-   "Wasted Talent",
-   "11/04/2026",
-   6,
+   "11/11/2026",
+   7,
    9,
    4
   ],
   [
+   "Andycapped",
    "Flight Phucked",
-   "One For The Ditch",
-   "11/04/2026",
-   6,
+   "11/11/2026",
+   7,
    7,
    6
+  ],
+  [
+   "Flight Phucked",
+   "Andycapped",
+   "11/11/2026",
+   7,
+   6,
+   7
   ],
   [
    "One For The Ditch",
@@ -74,20 +74,20 @@
    7
   ],
   [
+   "Pig Roasters",
+   "Duckin Farts",
+   "11/11/2026",
+   7,
+   4,
+   9
+  ],
+  [
    "Wasted Talent",
    "Pig Roasters",
    "11/04/2026",
    6,
    4,
    9
-  ],
-  [
-   "Andycapped",
-   "Duckin Farts",
-   "11/04/2026",
-   6,
-   3,
-   10
   ],
   [
    "TQMB",
@@ -101,42 +101,42 @@
  "improved": {
   "c": [
    [
-    "Kevin Welling",
-    "One For The Ditch",
-    2.2,
-    2.34
+    "Dave Radner",
+    "Andycapped",
+    2.34,
+    2.66
+   ],
+   [
+    "Bob Newell",
+    "Pig Roasters",
+    1.91,
+    2.06
    ],
    [
     "Mike Georgetti",
     "Flight Phucked",
-    2.36,
-    2.47
-   ],
-   [
-    "Chris Marquis",
-    "Wasted Talent",
-    2.85,
-    2.94
+    2.47,
+    2.6
    ]
   ],
   "x": [
    [
-    "Chris Marquis",
-    "Wasted Talent",
-    26.97,
-    28.04
+    "Joel Diaz",
+    "Duckin Farts",
+    20.02,
+    23.93
    ],
    [
-    "Mike Meyers",
-    "Pig Roasters",
-    18.47,
-    18.95
+    "John Frazer",
+    "Duckin Farts",
+    18.54,
+    19.44
    ],
    [
-    "Tom Alletto",
-    "Pig Roasters",
-    19.66,
-    20.05
+    "Jeff Brown",
+    "Flight Phucked",
+    17.26,
+    17.85
    ]
   ]
  },
@@ -159,15 +159,30 @@
   [
    "Andy Georgetti",
    "Andycapped",
-   2.87,
-   12,
-   8,
-   1,
+   2.77,
+   15,
+   9,
+   3,
    1,
    0,
    4,
    3,
    5,
+   0,
+   0
+  ],
+  [
+   "Dave Radner",
+   "Andycapped",
+   2.66,
+   9,
+   2,
+   4,
+   0,
+   0,
+   6,
+   1,
+   1,
    0,
    0
   ],
@@ -187,33 +202,18 @@
    0
   ],
   [
-   "Zach Baker",
-   "Flight Phucked",
-   2.52,
-   15,
-   3,
-   5,
-   0,
-   0,
-   3,
-   3,
-   3,
-   1,
-   0
-  ],
-  [
    "Mike Georgetti",
    "Flight Phucked",
-   2.47,
-   15,
-   6,
-   2,
-   1,
-   0,
+   2.6,
+   18,
    6,
    3,
-   4,
+   1,
    0,
+   8,
+   3,
+   6,
+   1,
    0
   ],
   [
@@ -247,6 +247,36 @@
    0
   ],
   [
+   "Zach Baker",
+   "Flight Phucked",
+   2.4,
+   18,
+   3,
+   5,
+   0,
+   0,
+   4,
+   3,
+   3,
+   1,
+   0
+  ],
+  [
+   "Joel Diaz",
+   "Duckin Farts",
+   2.37,
+   6,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Kevin Welling",
    "One For The Ditch",
    2.34,
@@ -257,21 +287,6 @@
    0,
    6,
    3,
-   0,
-   0,
-   0
-  ],
-  [
-   "Dave Radner",
-   "Andycapped",
-   2.34,
-   6,
-   0,
-   4,
-   0,
-   0,
-   3,
-   1,
    0,
    0,
    0
@@ -294,29 +309,14 @@
   [
    "Brian Faucher",
    "Duckin Farts",
-   2.27,
-   15,
+   2.24,
+   18,
    8,
-   2,
-   0,
-   0,
-   6,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
-   "Joel Diaz",
-   "Duckin Farts",
-   2.27,
    3,
    1,
-   1,
    0,
-   0,
-   0,
-   1,
+   6,
+   5,
    1,
    0,
    0
@@ -324,9 +324,9 @@
   [
    "Tom Alletto",
    "Pig Roasters",
-   2.16,
-   12,
-   1,
+   2.22,
+   15,
+   2,
    2,
    0,
    0,
@@ -352,15 +352,60 @@
    0
   ],
   [
-   "John Clarke",
-   "Duckin Farts",
-   2.02,
+   "Bob Newell",
+   "Pig Roasters",
+   2.06,
    15,
-   8,
+   4,
+   4,
+   0,
+   0,
+   5,
    3,
    0,
    0,
+   0
+  ],
+  [
+   "John Clarke",
+   "Duckin Farts",
+   2.05,
+   18,
+   9,
+   4,
+   0,
+   0,
    1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dominick Posadni",
+   "Andycapped",
+   2.04,
+   15,
+   3,
+   4,
+   0,
+   0,
+   4,
+   7,
+   1,
+   0,
+   0
+  ],
+  [
+   "Tim Terborg",
+   "Flight Phucked",
+   2.04,
+   15,
+   6,
+   2,
+   1,
+   0,
+   5,
    1,
    0,
    0,
@@ -393,66 +438,6 @@
    0,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Tim Terborg",
-   "Flight Phucked",
-   1.99,
-   12,
-   4,
-   2,
-   1,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Dominick Posadni",
-   "Andycapped",
-   1.98,
-   12,
-   3,
-   3,
-   0,
-   0,
-   3,
-   6,
-   0,
-   0,
-   0
-  ],
-  [
-   "Bob Newell",
-   "Pig Roasters",
-   1.91,
-   12,
-   3,
-   3,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "John Frazer",
-   "Duckin Farts",
-   1.91,
-   12,
-   0,
-   9,
-   0,
-   0,
-   3,
-   2,
-   1,
    0,
    0
   ],
@@ -502,45 +487,60 @@
    0
   ],
   [
-   "Jeff Brown",
-   "Flight Phucked",
-   1.77,
+   "John Frazer",
+   "Duckin Farts",
+   1.81,
    15,
-   2,
-   6,
+   0,
+   10,
    0,
    0,
-   2,
    3,
-   0,
+   2,
+   2,
    0,
    0
   ],
   [
    "Mike Meyers",
    "Pig Roasters",
-   1.7,
-   9,
-   2,
+   1.78,
+   12,
+   3,
    2,
    0,
    0,
    1,
    0,
-   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Jeff Brown",
+   "Flight Phucked",
+   1.71,
+   18,
+   2,
+   7,
+   0,
+   0,
+   3,
+   3,
+   0,
    0,
    0
   ],
   [
    "Aaron Lindenberg",
    "Pig Roasters",
-   1.69,
-   9,
+   1.71,
+   12,
    1,
-   1,
+   3,
    0,
    0,
-   5,
+   7,
    1,
    0,
    0,
@@ -562,21 +562,6 @@
    0
   ],
   [
-   "Pat Nichols",
-   "Wasted Talent",
-   1.61,
-   9,
-   1,
-   2,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jim Chodak",
    "TQMB",
    1.61,
@@ -587,6 +572,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Pat Nichols",
+   "Wasted Talent",
+   1.61,
+   9,
+   1,
+   2,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -639,14 +639,14 @@
   [
    "Kayla Ross",
    "Andycapped",
-   1.31,
-   12,
-   2,
-   4,
+   1.34,
+   15,
+   3,
+   5,
    0,
    0,
    1,
-   0,
+   1,
    0,
    0,
    0
@@ -728,38 +728,50 @@
   [
    "Dave Radner",
    "Andycapped",
-   26.77,
+   26.25,
+   12,
+   5,
+   2,
+   0,
+   0,
+   0,
+   16
+  ],
+  [
+   "Mike Georgetti",
+   "Flight Phucked",
+   25.19,
+   24,
+   9,
+   3,
+   0,
+   0,
+   0,
+   27
+  ],
+  [
+   "Andy Georgetti",
+   "Andycapped",
+   24.35,
+   20,
+   6,
+   2,
+   0,
+   0,
+   0,
+   20
+  ],
+  [
+   "Joel Diaz",
+   "Duckin Farts",
+   23.93,
    8,
    4,
    1,
    0,
    0,
    0,
-   11
-  ],
-  [
-   "Mike Georgetti",
-   "Flight Phucked",
-   25.77,
-   20,
-   9,
-   3,
-   0,
-   0,
-   0,
-   23
-  ],
-  [
-   "Andy Georgetti",
-   "Andycapped",
-   24.44,
-   16,
-   4,
-   2,
-   0,
-   0,
-   0,
-   16
+   7
   ],
   [
    "Alex Wasted Talent",
@@ -846,18 +858,6 @@
    14
   ],
   [
-   "Zach Baker",
-   "Flight Phucked",
-   21.27,
-   20,
-   2,
-   2,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
    "Ken Geer",
    "One For The Ditch",
    21.07,
@@ -882,16 +882,40 @@
    2
   ],
   [
+   "Zach Baker",
+   "Flight Phucked",
+   20.89,
+   24,
+   3,
+   2,
+   0,
+   0,
+   0,
+   17
+  ],
+  [
    "Brian Faucher",
    "Duckin Farts",
-   20.82,
-   20,
-   4,
+   20.86,
+   24,
+   5,
    3,
    0,
    0,
    0,
-   14
+   15
+  ],
+  [
+   "Aaron Lindenberg",
+   "Pig Roasters",
+   20.81,
+   16,
+   2,
+   1,
+   0,
+   0,
+   0,
+   9
   ],
   [
    "Ron Pierce",
@@ -906,64 +930,76 @@
    9
   ],
   [
-   "Aaron Lindenberg",
-   "Pig Roasters",
-   20.33,
-   12,
-   2,
-   1,
+   "John Clarke",
+   "Duckin Farts",
+   20.05,
+   24,
+   4,
    0,
    0,
    0,
-   7
+   0,
+   15
   ],
   [
    "Dominick Posadni",
    "Andycapped",
-   20.21,
-   16,
+   19.91,
+   20,
    3,
    2,
    0,
    0,
    0,
-   11
+   13
   ],
   [
    "Tom Alletto",
    "Pig Roasters",
-   20.05,
-   16,
+   19.77,
+   20,
    3,
    0,
    0,
    0,
    0,
-   8
+   10
   ],
   [
-   "Joel Diaz",
+   "John Frazer",
    "Duckin Farts",
-   20.02,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
-   "John Clarke",
-   "Duckin Farts",
-   19.6,
+   19.44,
    20,
-   4,
+   8,
    0,
    0,
    0,
    0,
-   13
+   10
+  ],
+  [
+   "Mike Meyers",
+   "Pig Roasters",
+   19.16,
+   16,
+   3,
+   0,
+   0,
+   0,
+   1,
+   9
+  ],
+  [
+   "Tim Terborg",
+   "Flight Phucked",
+   19.15,
+   20,
+   8,
+   1,
+   0,
+   0,
+   0,
+   12
   ],
   [
    "Christopher Welling",
@@ -978,42 +1014,6 @@
    9
   ],
   [
-   "Mike Meyers",
-   "Pig Roasters",
-   18.95,
-   12,
-   2,
-   0,
-   0,
-   0,
-   1,
-   6
-  ],
-  [
-   "Bob Newell",
-   "Pig Roasters",
-   18.84,
-   16,
-   0,
-   0,
-   0,
-   0,
-   2,
-   4
-  ],
-  [
-   "Tim Terborg",
-   "Flight Phucked",
-   18.77,
-   16,
-   7,
-   1,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Johnny Nichols",
    "Wasted Talent",
    18.66,
@@ -1026,28 +1026,28 @@
    8
   ],
   [
-   "John Frazer",
-   "Duckin Farts",
-   18.54,
-   16,
-   7,
+   "Bob Newell",
+   "Pig Roasters",
+   18.15,
+   20,
    0,
    0,
    0,
    0,
-   7
+   2,
+   4
   ],
   [
    "Jeff Brown",
    "Flight Phucked",
-   17.26,
-   20,
-   3,
+   17.85,
+   24,
+   5,
+   2,
    0,
    0,
    0,
-   0,
-   8
+   9
   ],
   [
    "Pat Nichols",
@@ -1076,8 +1076,8 @@
   [
    "Kayla Ross",
    "Andycapped",
-   15.13,
-   16,
+   14.97,
+   20,
    2,
    0,
    0,
@@ -1671,5 +1671,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-12T01:37:36Z"
+ "updated": "2026-11-12T03:11:30Z"
 }
