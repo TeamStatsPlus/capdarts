@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Travis Perry",
-   "Brighton Bruins",
-   2.38,
-   42,
-   18,
-   7,
-   3,
-   0,
-   20,
-   11,
-   4,
-   0,
-   0
-  ],
-  [
    "Dave Coin",
    "We Dem Boyz",
    2.38,
@@ -333,6 +318,21 @@
    2,
    0,
    1
+  ],
+  [
+   "Travis Perry",
+   "Brighton Bruins",
+   2.38,
+   42,
+   18,
+   7,
+   3,
+   0,
+   20,
+   11,
+   4,
+   0,
+   0
   ],
   [
    "Anthony Mineo",
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-12T07:42:22Z"
+ "updated": "2026-11-12T13:37:33Z"
 }

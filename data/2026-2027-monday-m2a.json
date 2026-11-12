@@ -314,21 +314,6 @@
    0
   ],
   [
-   "Ashton Maracle",
-   "Gingers Unite",
-   3.15,
-   40,
-   12,
-   15,
-   5,
-   0,
-   24,
-   20,
-   12,
-   0,
-   1
-  ],
-  [
    "Tashawn Rucker",
    "Straight 2 The Point",
    3.15,
@@ -357,6 +342,21 @@
    15,
    0,
    0
+  ],
+  [
+   "Ashton Maracle",
+   "Gingers Unite",
+   3.15,
+   40,
+   12,
+   15,
+   5,
+   0,
+   24,
+   20,
+   12,
+   0,
+   1
   ],
   [
    "Houston Hughey III",
@@ -389,21 +389,6 @@
    3
   ],
   [
-   "Rich Allen",
-   "Dave And Rich",
-   3.02,
-   40,
-   16,
-   11,
-   8,
-   0,
-   22,
-   13,
-   7,
-   0,
-   3
-  ],
-  [
    "Joe Gillett",
    "Off In Church",
    3.02,
@@ -417,6 +402,21 @@
    8,
    0,
    2
+  ],
+  [
+   "Rich Allen",
+   "Dave And Rich",
+   3.02,
+   40,
+   16,
+   11,
+   8,
+   0,
+   22,
+   13,
+   7,
+   0,
+   3
   ],
   [
    "Mike Frank",
@@ -1624,5 +1624,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-12T11:20:27Z"
+ "updated": "2026-11-12T13:36:32Z"
 }
