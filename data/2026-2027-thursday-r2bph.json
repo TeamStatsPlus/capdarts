@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T23:01:50Z",
+ "updated": "2026-11-13T23:56:32Z",
  "standings": [
   [
    "No Clue",
@@ -533,21 +533,6 @@
    0
   ],
   [
-   "Scott King",
-   "Scotts On The Rocks",
-   2.4,
-   42,
-   15,
-   10,
-   4,
-   0,
-   22,
-   9,
-   3,
-   0,
-   1
-  ],
-  [
    "Jamie Love",
    "Draw Two",
    2.4,
@@ -561,6 +546,21 @@
    5,
    0,
    2
+  ],
+  [
+   "Scott King",
+   "Scotts On The Rocks",
+   2.4,
+   42,
+   15,
+   10,
+   4,
+   0,
+   22,
+   9,
+   3,
+   0,
+   1
   ],
   [
    "John Salamone",
@@ -1117,16 +1117,16 @@
     1.49
    ],
    [
-    "Mike Georgetti",
-    "No Clue",
-    2.57,
-    2.64
-   ],
-   [
     "Alyxandria Weaver",
     "Retreat",
     1.72,
     1.79
+   ],
+   [
+    "Mike Georgetti",
+    "No Clue",
+    2.57,
+    2.64
    ]
   ],
   "x": [

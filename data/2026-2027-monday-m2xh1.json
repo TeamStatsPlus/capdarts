@@ -541,21 +541,6 @@
    0
   ],
   [
-   "Paul Humennyj",
-   "Couples Terapy",
-   1.15,
-   36,
-   5,
-   11,
-   0,
-   0,
-   4,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Ruth Jackson",
    "Couples Terapy",
    1.15,
@@ -566,6 +551,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Paul Humennyj",
+   "Couples Terapy",
+   1.15,
+   36,
+   5,
+   11,
+   0,
+   0,
+   4,
+   3,
    0,
    0,
    0
@@ -1623,5 +1623,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-13T23:00:18Z"
+ "updated": "2026-11-13T23:55:14Z"
 }

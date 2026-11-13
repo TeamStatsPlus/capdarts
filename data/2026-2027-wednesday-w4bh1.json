@@ -987,21 +987,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -1012,6 +997,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-13T23:01:18Z"
+ "updated": "2026-11-13T23:56:04Z"
 }

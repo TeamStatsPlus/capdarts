@@ -575,21 +575,6 @@
    0
   ],
   [
-   "Anthony Alletto",
-   "Dartbags",
-   1.84,
-   21,
-   7,
-   3,
-   0,
-   0,
-   7,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Aaron Lindenberg",
    "Roasted Shenanigans",
    1.84,
@@ -616,6 +601,21 @@
    3,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Anthony Alletto",
+   "Dartbags",
+   1.84,
+   21,
+   7,
+   3,
+   0,
+   0,
+   7,
+   2,
+   0,
    0,
    0
   ],
@@ -901,18 +901,6 @@
    32
   ],
   [
-   "Greg Poltorak",
-   "Take It Out",
-   20.49,
-   28,
-   8,
-   2,
-   0,
-   0,
-   0,
-   39
-  ],
-  [
    "Pat Childs",
    "Roasted Shenanigans",
    20.49,
@@ -923,6 +911,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Greg Poltorak",
+   "Take It Out",
+   20.49,
+   28,
+   8,
+   2,
+   0,
+   0,
+   0,
+   39
   ],
   [
    "Marc Hinds",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-13T23:00:33Z"
+ "updated": "2026-11-13T23:55:27Z"
 }
