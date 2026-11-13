@@ -120,16 +120,16 @@
     2.31
    ],
    [
+    "Fred James",
+    "Right There",
+    2.89,
+    2.96
+   ],
+   [
     "Tim Olmsted",
     "Dartbags",
     1.65,
     1.72
-   ],
-   [
-    "Blake Stevenson",
-    "RamRod",
-    1.47,
-    1.54
    ]
   ],
   "x": [
@@ -245,21 +245,6 @@
    1
   ],
   [
-   "Joel Diaz",
-   "RamRod",
-   2.49,
-   21,
-   11,
-   3,
-   0,
-   0,
-   12,
-   7,
-   2,
-   0,
-   1
-  ],
-  [
    "Jamie Johnson",
    "RamRod",
    2.49,
@@ -273,6 +258,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Joel Diaz",
+   "RamRod",
+   2.49,
+   21,
+   11,
+   3,
+   0,
+   0,
+   12,
+   7,
+   2,
+   0,
+   1
   ],
   [
    "Mike Murphy",
@@ -320,21 +320,6 @@
    1
   ],
   [
-   "Chris Jones",
-   "Right There",
-   2.34,
-   21,
-   9,
-   4,
-   1,
-   0,
-   6,
-   8,
-   2,
-   0,
-   0
-  ],
-  [
    "Scott Prince",
    "The Four Horseman",
    2.34,
@@ -362,6 +347,21 @@
    3,
    2,
    1,
+   0
+  ],
+  [
+   "Chris Jones",
+   "Right There",
+   2.34,
+   21,
+   9,
+   4,
+   1,
+   0,
+   6,
+   8,
+   2,
+   0,
    0
   ],
   [
@@ -710,21 +710,6 @@
    0
   ],
   [
-   "Mike Harrison",
-   "Connor And The Jets",
-   1.41,
-   21,
-   3,
-   2,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Angie Coville",
    "Roasted Shenanigans",
    1.41,
@@ -736,6 +721,21 @@
    4,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Mike Harrison",
+   "Connor And The Jets",
+   1.41,
+   21,
+   3,
+   2,
+   0,
+   0,
+   4,
+   1,
+   0,
    0,
    0
   ],
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-13T21:11:22Z"
+ "updated": "2026-11-13T22:02:58Z"
 }

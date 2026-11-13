@@ -522,21 +522,6 @@
    0
   ],
   [
-   "Paul Double Deuces",
-   "Double Deuces",
-   1.59,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Matt Goldman",
    "Double Deuces",
    1.59,
@@ -547,6 +532,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Paul Double Deuces",
+   "Double Deuces",
+   1.59,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -942,21 +942,6 @@
    0
   ],
   [
-   "Ellen Post",
-   "Closer To Zero",
-   1.17,
-   9,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   1
-  ],
-  [
    "Jess Post",
    "Closer To Zero",
    1.17,
@@ -970,6 +955,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Ellen Post",
+   "Closer To Zero",
+   1.17,
+   9,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1
   ],
   [
    "John Inzinna",
@@ -1520,18 +1520,6 @@
    1
   ],
   [
-   "Brent Flynn",
-   "Tips Dont Lie",
-   16.35,
-   28,
-   8,
-   0,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    16.35,
@@ -1542,6 +1530,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Brent Flynn",
+   "Tips Dont Lie",
+   16.35,
+   28,
+   8,
+   0,
+   0,
+   0,
+   0,
+   13
   ],
   [
    "Steve Caufield",
@@ -2108,18 +2108,6 @@
    2
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   12.27,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Lydia Wheeler",
    "Shart Shooters",
    12.27,
@@ -2130,6 +2118,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   12.27,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Sylvan Hemingway",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-13T21:12:06Z"
+ "updated": "2026-11-13T22:03:45Z"
 }

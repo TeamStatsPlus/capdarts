@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:12:40Z",
+ "updated": "2026-11-13T22:04:14Z",
  "standings": [
   [
    "No Clue",
@@ -353,21 +353,6 @@
    0
   ],
   [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   2.63,
-   36,
-   15,
-   2,
-   3,
-   0,
-   22,
-   6,
-   5,
-   2,
-   0
-  ],
-  [
    "Anthony Kelly",
    "Throw Bros",
    2.63,
@@ -381,6 +366,21 @@
    3,
    1,
    1
+  ],
+  [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   2.63,
+   36,
+   15,
+   2,
+   3,
+   0,
+   22,
+   6,
+   5,
+   2,
+   0
   ],
   [
    "Daniel Purpura",
@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Alexander Blake",
-   "Dart Bags T",
-   2.44,
-   42,
-   10,
-   13,
-   1,
-   0,
-   16,
-   9,
-   8,
-   0,
-   0
-  ],
-  [
    "Jason Bateman",
    "Retreat",
    2.44,
@@ -514,6 +499,21 @@
    2,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Alexander Blake",
+   "Dart Bags T",
+   2.44,
+   42,
+   10,
+   13,
+   1,
+   0,
+   16,
+   9,
+   8,
    0,
    0
   ],
@@ -1117,16 +1117,16 @@
     1.49
    ],
    [
-    "Mike Georgetti",
-    "No Clue",
-    2.57,
-    2.64
-   ],
-   [
     "Alyxandria Weaver",
     "Retreat",
     1.72,
     1.79
+   ],
+   [
+    "Mike Georgetti",
+    "No Clue",
+    2.57,
+    2.64
    ]
   ],
   "x": [
