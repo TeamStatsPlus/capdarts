@@ -120,16 +120,16 @@
     1.23
    ],
    [
-    "Phil Warney",
-    "Gettin Looped",
-    1.73,
-    1.79
-   ],
-   [
     "Tom Smith",
     "4 Of Clubs",
     1.52,
     1.58
+   ],
+   [
+    "Phil Warney",
+    "Gettin Looped",
+    1.73,
+    1.79
    ]
   ],
   "x": [
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-13T03:07:00Z"
+ "updated": "2026-11-13T04:17:33Z"
 }

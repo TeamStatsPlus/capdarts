@@ -120,16 +120,16 @@
     2.31
    ],
    [
+    "Blake Stevenson",
+    "RamRod",
+    1.47,
+    1.54
+   ],
+   [
     "Fred James",
     "Right There",
     2.89,
     2.96
-   ],
-   [
-    "Tim Olmsted",
-    "Dartbags",
-    1.65,
-    1.72
    ]
   ],
   "x": [
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-13T03:06:44Z"
+ "updated": "2026-11-13T04:17:15Z"
 }

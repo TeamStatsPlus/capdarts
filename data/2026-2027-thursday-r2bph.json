@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T03:08:02Z",
+ "updated": "2026-11-13T04:18:46Z",
  "standings": [
   [
    "No Clue",
@@ -13,8 +13,8 @@
   ],
   [
    "Dart Bags T",
-   49,
-   41
+   58,
+   47
   ],
   [
    "DoubleIn StumbleOut",
@@ -68,8 +68,8 @@
   ],
   [
    "TakingNamesTakingAim",
-   27,
-   48
+   33,
+   57
   ]
  ],
  "results": [
@@ -88,6 +88,14 @@
    7,
    10,
    5
+  ],
+  [
+   "Dart Bags T",
+   "TakingNamesTakingAim",
+   "11/12/2026",
+   7,
+   9,
+   6
   ],
   [
    "Revenge",
@@ -110,14 +118,6 @@
    "Throw Bros",
    "11/12/2026",
    7,
-   8,
-   7
-  ],
-  [
-   "TakingNamesTakingAim",
-   "Scotts On The Rocks",
-   "11/05/2026",
-   6,
    8,
    7
   ],
@@ -162,12 +162,12 @@
    9
   ],
   [
+   "TakingNamesTakingAim",
    "Dart Bags T",
-   "Revenge",
-   "11/05/2026",
+   "11/12/2026",
+   7,
    6,
-   5,
-   10
+   9
   ],
   [
    "DoubleIn StumbleOut",
@@ -323,36 +323,6 @@
    2
   ],
   [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   2.66,
-   30,
-   13,
-   1,
-   2,
-   0,
-   21,
-   5,
-   4,
-   2,
-   0
-  ],
-  [
-   "Mark Sennett",
-   "Dart Bags T",
-   2.65,
-   36,
-   18,
-   4,
-   0,
-   0,
-   23,
-   7,
-   4,
-   1,
-   0
-  ],
-  [
    "Kevin DeHollander",
    "Draw Two",
    2.64,
@@ -396,6 +366,21 @@
    3,
    1,
    1
+  ],
+  [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   2.63,
+   36,
+   15,
+   2,
+   3,
+   0,
+   22,
+   6,
+   5,
+   2,
+   0
   ],
   [
    "Daniel Purpura",
@@ -458,6 +443,21 @@
    1
   ],
   [
+   "Mark Sennett",
+   "Dart Bags T",
+   2.53,
+   42,
+   22,
+   4,
+   2,
+   0,
+   24,
+   8,
+   4,
+   1,
+   0
+  ],
+  [
    "Kirk Santelli",
    "DoubleIn StumbleOut",
    2.52,
@@ -471,21 +471,6 @@
    3,
    0,
    1
-  ],
-  [
-   "Alexander Blake",
-   "Dart Bags T",
-   2.48,
-   36,
-   10,
-   11,
-   1,
-   0,
-   16,
-   8,
-   7,
-   0,
-   0
   ],
   [
    "Will Zimmer",
@@ -514,6 +499,21 @@
    2,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Alexander Blake",
+   "Dart Bags T",
+   2.44,
+   42,
+   10,
+   13,
+   1,
+   0,
+   16,
+   9,
+   8,
    0,
    0
   ],
@@ -685,15 +685,15 @@
   [
    "Jessica Mitrano",
    "TakingNamesTakingAim",
-   1.31,
-   18,
+   1.49,
+   24,
+   2,
+   5,
    0,
-   4,
    0,
+   3,
    0,
    1,
-   0,
-   0,
    0,
    0
   ]
@@ -832,18 +832,6 @@
    71
   ],
   [
-   "Mark Sennett",
-   "Dart Bags T",
-   22.86,
-   42,
-   7,
-   15,
-   0,
-   0,
-   0,
-   65
-  ],
-  [
    "Todd Wagner",
    "Handjobs4thehomeless",
    22.71,
@@ -856,16 +844,16 @@
    86
   ],
   [
-   "Alexander Blake",
+   "Mark Sennett",
    "Dart Bags T",
-   22.55,
-   42,
-   14,
-   8,
+   22.6,
+   49,
+   10,
+   19,
    0,
    0,
    0,
-   63
+   75
   ],
   [
    "Scott Etter",
@@ -880,16 +868,28 @@
    67
   ],
   [
+   "Alexander Blake",
+   "Dart Bags T",
+   22.41,
+   49,
+   16,
+   12,
+   0,
+   0,
+   0,
+   75
+  ],
+  [
    "Erica Wall",
    "TakingNamesTakingAim",
-   22.15,
-   35,
-   8,
+   21.89,
+   42,
+   10,
    5,
    0,
    0,
    1,
-   65
+   82
   ],
   [
    "Mike Georgetti",
@@ -1098,23 +1098,23 @@
   [
    "Jessica Mitrano",
    "TakingNamesTakingAim",
-   14.42,
-   21,
+   14.37,
+   28,
    0,
    0,
    0,
    0,
    0,
-   7
+   9
   ]
  ],
  "improved": {
   "c": [
    [
-    "Mike Georgetti",
-    "No Clue",
-    2.57,
-    2.64
+    "Jessica Mitrano",
+    "TakingNamesTakingAim",
+    1.31,
+    1.49
    ],
    [
     "Alyxandria Weaver",
@@ -1123,10 +1123,10 @@
     1.79
    ],
    [
-    "Shawn Bentley",
-    "Throwing Shade",
-    2.55,
-    2.61
+    "Mike Georgetti",
+    "No Clue",
+    2.57,
+    2.64
    ]
   ],
   "x": [
