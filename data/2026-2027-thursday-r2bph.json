@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T15:10:00Z",
+ "updated": "2026-11-13T16:10:18Z",
  "standings": [
   [
    "No Clue",
@@ -383,21 +383,6 @@
    1
   ],
   [
-   "Shawn Bentley",
-   "Throwing Shade",
-   2.61,
-   42,
-   16,
-   10,
-   2,
-   1,
-   23,
-   10,
-   13,
-   0,
-   0
-  ],
-  [
    "Daniel Purpura",
    "Retreat",
    2.61,
@@ -411,6 +396,21 @@
    5,
    0,
    1
+  ],
+  [
+   "Shawn Bentley",
+   "Throwing Shade",
+   2.61,
+   42,
+   16,
+   10,
+   2,
+   1,
+   23,
+   10,
+   13,
+   0,
+   0
   ],
   [
    "Todd Wagner",
@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Jason Bateman",
-   "Retreat",
-   2.44,
-   6,
-   1,
-   0,
-   1,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Alexander Blake",
    "Dart Bags T",
    2.44,
@@ -514,6 +499,21 @@
    16,
    9,
    8,
+   0,
+   0
+  ],
+  [
+   "Jason Bateman",
+   "Retreat",
+   2.44,
+   6,
+   1,
+   0,
+   1,
+   0,
+   2,
+   1,
+   0,
    0,
    0
   ],
@@ -1117,16 +1117,16 @@
     1.49
    ],
    [
-    "Mike Georgetti",
-    "No Clue",
-    2.57,
-    2.64
-   ],
-   [
     "Alyxandria Weaver",
     "Retreat",
     1.72,
     1.79
+   ],
+   [
+    "Mike Georgetti",
+    "No Clue",
+    2.57,
+    2.64
    ]
   ],
   "x": [
