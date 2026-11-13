@@ -496,21 +496,6 @@
    0
   ],
   [
-   "Lou Sanchez",
-   "Double Trouble",
-   1.21,
-   42,
-   4,
-   15,
-   0,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Rob Hall",
    "Girls Wanna Have Fun",
    1.21,
@@ -541,17 +526,17 @@
    0
   ],
   [
-   "Ruth Jackson",
-   "Couples Terapy",
-   1.15,
-   6,
+   "Lou Sanchez",
+   "Double Trouble",
+   1.21,
+   42,
+   4,
+   15,
    0,
    0,
-   0,
-   0,
-   0,
-   0,
-   0,
+   5,
+   1,
+   1,
    0,
    0
   ],
@@ -566,6 +551,21 @@
    0,
    4,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ruth Jackson",
+   "Couples Terapy",
+   1.15,
+   6,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1623,5 +1623,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-13T20:14:40Z"
+ "updated": "2026-11-13T23:00:18Z"
 }
