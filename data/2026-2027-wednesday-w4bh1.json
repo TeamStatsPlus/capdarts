@@ -172,16 +172,16 @@
     1.54
    ],
    [
-    "Stephen Monahan",
-    "The Limp Wristers",
-    1.52,
-    1.6
-   ],
-   [
     "Erin Lamar",
     "Throwgasms",
     1.03,
     1.11
+   ],
+   [
+    "Stephen Monahan",
+    "The Limp Wristers",
+    1.52,
+    1.6
    ]
   ],
   "x": [
@@ -1137,21 +1137,6 @@
    0
   ],
   [
-   "Jill Calvert",
-   "Squeekertips",
-   0.98,
-   15,
-   3,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    0.98,
@@ -1162,6 +1147,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Squeekertips",
+   0.98,
+   15,
+   3,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1520,18 +1520,6 @@
    1
   ],
   [
-   "Brent Flynn",
-   "Tips Dont Lie",
-   16.35,
-   28,
-   8,
-   0,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    16.35,
@@ -1542,6 +1530,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Brent Flynn",
+   "Tips Dont Lie",
+   16.35,
+   28,
+   8,
+   0,
+   0,
+   0,
+   0,
+   13
   ],
   [
    "Steve Caufield",
@@ -2108,18 +2108,6 @@
    2
   ],
   [
-   "Lydia Wheeler",
-   "Shart Shooters",
-   12.27,
-   24,
-   6,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Adam Phillips",
    "Struggle Bus",
    12.27,
@@ -2130,6 +2118,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Lydia Wheeler",
+   "Shart Shooters",
+   12.27,
+   24,
+   6,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Sylvan Hemingway",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-13T18:09:31Z"
+ "updated": "2026-11-13T19:18:13Z"
 }

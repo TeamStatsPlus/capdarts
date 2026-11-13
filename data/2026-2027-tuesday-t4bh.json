@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Brad Wight",
-   "Thunderbuddies",
-   1.87,
-   21,
-   10,
-   5,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Andy Del Gandio",
    "The Critters",
    1.87,
@@ -271,6 +256,21 @@
    1,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Brad Wight",
+   "Thunderbuddies",
+   1.87,
+   21,
+   10,
+   5,
+   0,
+   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-13T18:08:58Z"
+ "updated": "2026-11-13T19:17:46Z"
 }

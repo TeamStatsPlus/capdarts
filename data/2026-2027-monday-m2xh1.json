@@ -496,21 +496,6 @@
    0
   ],
   [
-   "Rob Hall",
-   "Girls Wanna Have Fun",
-   1.21,
-   6,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Melissa Cocchiara",
    "Bulleye Bandits",
    1.21,
@@ -536,6 +521,21 @@
    0,
    5,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Rob Hall",
+   "Girls Wanna Have Fun",
+   1.21,
+   6,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
    1,
    0,
    0
@@ -1623,5 +1623,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-13T18:08:22Z"
+ "updated": "2026-11-13T19:17:16Z"
 }
