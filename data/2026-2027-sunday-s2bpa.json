@@ -496,21 +496,6 @@
    2
   ],
   [
-   "Judson Brown",
-   "Brown Viper",
-   2.36,
-   42,
-   7,
-   6,
-   1,
-   0,
-   17,
-   7,
-   4,
-   1,
-   0
-  ],
-  [
    "Chris Nesci",
    "Black And Brown",
    2.36,
@@ -523,6 +508,21 @@
    3,
    2,
    0,
+   0
+  ],
+  [
+   "Judson Brown",
+   "Brown Viper",
+   2.36,
+   42,
+   7,
+   6,
+   1,
+   0,
+   17,
+   7,
+   4,
+   1,
    0
   ],
   [
@@ -1509,5 +1509,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-13T17:15:13Z"
+ "updated": "2026-11-13T18:08:12Z"
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:17:10Z",
+ "updated": "2026-11-13T18:10:11Z",
  "standings": [
   [
    "No Clue",
@@ -323,6 +323,21 @@
    2
   ],
   [
+   "Kevin DeHollander",
+   "Draw Two",
+   2.64,
+   30,
+   13,
+   0,
+   0,
+   0,
+   18,
+   6,
+   5,
+   0,
+   0
+  ],
+  [
    "Mike Georgetti",
    "No Clue",
    2.64,
@@ -338,18 +353,18 @@
    0
   ],
   [
-   "Kevin DeHollander",
-   "Draw Two",
-   2.64,
-   30,
-   13,
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   2.63,
+   36,
+   15,
+   2,
+   3,
    0,
-   0,
-   0,
-   18,
+   22,
    6,
    5,
-   0,
+   2,
    0
   ],
   [
@@ -366,21 +381,6 @@
    3,
    1,
    1
-  ],
-  [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   2.63,
-   36,
-   15,
-   2,
-   3,
-   0,
-   22,
-   6,
-   5,
-   2,
-   0
   ],
   [
    "Shawn Bentley",
@@ -533,21 +533,6 @@
    0
   ],
   [
-   "Jamie Love",
-   "Draw Two",
-   2.4,
-   30,
-   5,
-   7,
-   2,
-   0,
-   11,
-   3,
-   5,
-   0,
-   2
-  ],
-  [
    "Scott King",
    "Scotts On The Rocks",
    2.4,
@@ -561,6 +546,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Jamie Love",
+   "Draw Two",
+   2.4,
+   30,
+   5,
+   7,
+   2,
+   0,
+   11,
+   3,
+   5,
+   0,
+   2
   ],
   [
    "John Salamone",
