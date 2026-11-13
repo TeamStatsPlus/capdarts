@@ -174,21 +174,6 @@
    1
   ],
   [
-   "James Samuelson",
-   "Satchel Of Richards",
-   3.08,
-   15,
-   7,
-   3,
-   2,
-   0,
-   12,
-   6,
-   4,
-   1,
-   2
-  ],
-  [
    "Joe Kinney III",
    "Fingerblasters",
    3.08,
@@ -202,6 +187,21 @@
    4,
    0,
    0
+  ],
+  [
+   "James Samuelson",
+   "Satchel Of Richards",
+   3.08,
+   15,
+   7,
+   3,
+   2,
+   0,
+   12,
+   6,
+   4,
+   1,
+   2
   ],
   [
    "Justin Southwick",
@@ -324,21 +324,6 @@
    0
   ],
   [
-   "Jason Davis",
-   "Bigg Darts",
-   2.59,
-   6,
-   3,
-   0,
-   1,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Justin Burdett",
    "We Made The Cut",
    2.59,
@@ -350,6 +335,21 @@
    13,
    4,
    3,
+   0,
+   0
+  ],
+  [
+   "Jason Davis",
+   "Bigg Darts",
+   2.59,
+   6,
+   3,
+   0,
+   1,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -384,21 +384,6 @@
    2
   ],
   [
-   "Scott Ingham",
-   "Bigg Darts",
-   2.42,
-   18,
-   2,
-   3,
-   0,
-   0,
-   7,
-   6,
-   1,
-   0,
-   0
-  ],
-  [
    "Luis Rodriguez",
    "We Made The Cut",
    2.42,
@@ -409,6 +394,21 @@
    0,
    8,
    4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Scott Ingham",
+   "Bigg Darts",
+   2.42,
+   18,
+   2,
+   3,
+   0,
+   0,
+   7,
+   6,
    1,
    0,
    0
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-13T20:15:48Z"
+ "updated": "2026-11-13T21:12:20Z"
 }

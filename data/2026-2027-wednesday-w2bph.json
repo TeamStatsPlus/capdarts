@@ -120,16 +120,16 @@
     2.76
    ],
    [
-    "James Mitchell",
-    "Dem BOYZ",
-    2.7,
-    2.75
-   ],
-   [
     "Erika Mardo",
     "Squishy Business",
     3.2,
     3.25
+   ],
+   [
+    "James Mitchell",
+    "Dem BOYZ",
+    2.7,
+    2.75
    ]
   ],
   "x": [
@@ -305,21 +305,6 @@
    0
   ],
   [
-   "Travis Perry",
-   "Brighton Bruins",
-   2.38,
-   42,
-   18,
-   7,
-   3,
-   0,
-   20,
-   11,
-   4,
-   0,
-   0
-  ],
-  [
    "Dave Coin",
    "We Dem Boyz",
    2.38,
@@ -333,6 +318,21 @@
    2,
    0,
    1
+  ],
+  [
+   "Travis Perry",
+   "Brighton Bruins",
+   2.38,
+   42,
+   18,
+   7,
+   3,
+   0,
+   20,
+   11,
+   4,
+   0,
+   0
   ],
   [
    "Anthony Mineo",
@@ -350,21 +350,6 @@
    0
   ],
   [
-   "William Lupiani",
-   "Cheers For Bad Darts",
-   2.24,
-   6,
-   2,
-   1,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Steven Haag",
    "Carpet Cleaners",
    2.24,
@@ -376,6 +361,21 @@
    13,
    6,
    4,
+   0,
+   0
+  ],
+  [
+   "William Lupiani",
+   "Cheers For Bad Darts",
+   2.24,
+   6,
+   2,
+   1,
+   0,
+   0,
+   4,
+   1,
+   0,
    0,
    0
   ],
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-13T20:15:27Z"
+ "updated": "2026-11-13T21:11:56Z"
 }
