@@ -357,21 +357,6 @@
    0
   ],
   [
-   "Steve Caufield",
-   "ProjectileDysfncion",
-   1.7,
-   18,
-   6,
-   6,
-   1,
-   0,
-   2,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Graham Wheeler",
    "Shart Shooters",
    1.7,
@@ -383,6 +368,21 @@
    1,
    2,
    2,
+   0,
+   0
+  ],
+  [
+   "Steve Caufield",
+   "ProjectileDysfncion",
+   1.7,
+   18,
+   6,
+   6,
+   1,
+   0,
+   2,
+   3,
+   1,
    0,
    0
   ],
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-13T04:18:05Z"
+ "updated": "2026-11-13T05:24:33Z"
 }
