@@ -308,6 +308,21 @@
    0
   ],
   [
+   "Eric Westrich",
+   "Money Shot",
+   2.36,
+   18,
+   5,
+   12,
+   0,
+   0,
+   12,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
    "David Wills",
    "Tegridy",
    2.36,
@@ -336,21 +351,6 @@
    0,
    0,
    1
-  ],
-  [
-   "Eric Westrich",
-   "Money Shot",
-   2.36,
-   18,
-   5,
-   12,
-   0,
-   0,
-   12,
-   3,
-   2,
-   0,
-   0
   ],
   [
    "Mark Quill",
@@ -653,21 +653,6 @@
    0
   ],
   [
-   "Rory Doran",
-   "Bad News Beers",
-   1.95,
-   21,
-   10,
-   7,
-   1,
-   0,
-   2,
-   3,
-   0,
-   0,
-   1
-  ],
-  [
    "Darrin Costantini",
    "Wired",
    1.95,
@@ -681,6 +666,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Rory Doran",
+   "Bad News Beers",
+   1.95,
+   21,
+   10,
+   7,
+   1,
+   0,
+   2,
+   3,
+   0,
+   0,
+   1
   ],
   [
    "Dean Nicosia",
@@ -3087,5 +3087,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-12T23:03:00Z"
+ "updated": "2026-11-13T01:30:08Z"
 }

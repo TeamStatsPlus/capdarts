@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T00:01:10Z",
+ "updated": "2026-11-13T01:31:43Z",
  "standings": [
   [
    "No Clue",
@@ -22,11 +22,6 @@
    41
   ],
   [
-   "Draw Two",
-   32,
-   28
-  ],
-  [
    "Throwing Shade",
    46,
    44
@@ -38,8 +33,13 @@
   ],
   [
    "Handjobs4thehomeless",
-   44,
-   46
+   52,
+   53
+  ],
+  [
+   "Draw Two",
+   36,
+   39
   ],
   [
    "Wags To Richs",
@@ -52,19 +52,19 @@
    48
   ],
   [
+   "Tag Team Tami",
+   41,
+   49
+  ],
+  [
    "Retreat",
-   32,
-   43
+   39,
+   51
   ],
   [
    "Never Trust A Dart",
    36,
    54
-  ],
-  [
-   "Tag Team Tami",
-   30,
-   45
   ],
   [
    "TakingNamesTakingAim",
@@ -73,6 +73,14 @@
   ]
  ],
  "results": [
+  [
+   "Tag Team Tami",
+   "Draw Two",
+   "11/12/2026",
+   7,
+   11,
+   4
+  ],
   [
    "Throw Bros",
    "Never Trust A Dart",
@@ -106,14 +114,6 @@
    6
   ],
   [
-   "Handjobs4thehomeless",
-   "DoubleIn StumbleOut",
-   "11/05/2026",
-   6,
-   9,
-   6
-  ],
-  [
    "Throwing Shade",
    "Retreat",
    "11/05/2026",
@@ -130,10 +130,18 @@
    7
   ],
   [
+   "Handjobs4thehomeless",
    "Retreat",
-   "Throwing Shade",
-   "11/05/2026",
-   6,
+   "11/12/2026",
+   7,
+   8,
+   7
+  ],
+  [
+   "Retreat",
+   "Handjobs4thehomeless",
+   "11/12/2026",
+   7,
    7,
    8
   ],
@@ -148,22 +156,6 @@
   [
    "DoubleIn StumbleOut",
    "Handjobs4thehomeless",
-   "11/05/2026",
-   6,
-   6,
-   9
-  ],
-  [
-   "Tag Team Tami",
-   "Wags To Richs",
-   "11/05/2026",
-   6,
-   6,
-   9
-  ],
-  [
-   "Draw Two",
-   "No Clue",
    "11/05/2026",
    6,
    6,
@@ -184,9 +176,32 @@
    6,
    4,
    11
+  ],
+  [
+   "Draw Two",
+   "Tag Team Tami",
+   "11/12/2026",
+   7,
+   4,
+   11
   ]
  ],
  "cricket": [
+  [
+   "Dave Wallace",
+   "Tag Team Tami",
+   3.35,
+   6,
+   4,
+   2,
+   2,
+   1,
+   5,
+   4,
+   1,
+   0,
+   0
+  ],
   [
    "Rich Allen",
    "Wags To Richs",
@@ -280,15 +295,15 @@
   [
    "Matt Wagner",
    "Handjobs4thehomeless",
-   2.86,
-   30,
-   8,
-   8,
+   2.87,
+   36,
+   10,
+   9,
    1,
    0,
-   17,
-   11,
-   5,
+   22,
+   12,
+   6,
    0,
    0
   ],
@@ -340,46 +355,31 @@
   [
    "Kevin DeHollander",
    "Draw Two",
-   2.61,
-   24,
-   12,
+   2.64,
+   30,
+   13,
    0,
    0,
    0,
-   14,
-   4,
-   4,
+   18,
+   6,
+   5,
    0,
    0
   ],
   [
    "Daniel Purpura",
    "Retreat",
-   2.58,
-   30,
-   10,
-   2,
-   1,
-   0,
-   14,
-   11,
-   4,
-   0,
-   1
-  ],
-  [
-   "Anthony Kelly",
-   "Throw Bros",
-   2.57,
-   30,
-   10,
-   0,
-   2,
-   0,
-   19,
-   4,
+   2.61,
+   36,
+   13,
    3,
    1,
+   0,
+   20,
+   12,
+   5,
+   0,
    1
   ],
   [
@@ -413,6 +413,21 @@
    0
   ],
   [
+   "Anthony Kelly",
+   "Throw Bros",
+   2.57,
+   30,
+   10,
+   0,
+   2,
+   0,
+   19,
+   4,
+   3,
+   1,
+   1
+  ],
+  [
    "Shawn Bentley",
    "Throwing Shade",
    2.55,
@@ -425,6 +440,21 @@
    7,
    11,
    0,
+   0
+  ],
+  [
+   "Todd Wagner",
+   "Handjobs4thehomeless",
+   2.55,
+   42,
+   16,
+   5,
+   0,
+   0,
+   22,
+   12,
+   5,
+   1,
    0
   ],
   [
@@ -441,21 +471,6 @@
    2,
    0,
    1
-  ],
-  [
-   "Todd Wagner",
-   "Handjobs4thehomeless",
-   2.52,
-   36,
-   14,
-   4,
-   0,
-   0,
-   19,
-   11,
-   3,
-   0,
-   0
   ],
   [
    "Alexander Blake",
@@ -536,29 +551,29 @@
    "Jamie Love",
    "Draw Two",
    2.4,
-   24,
+   30,
    5,
    7,
    2,
    0,
-   7,
+   11,
    3,
-   3,
+   5,
    0,
    2
   ],
   [
    "John Salamone",
    "Tag Team Tami",
-   2.23,
-   30,
+   2.26,
+   36,
+   11,
+   5,
+   0,
+   0,
+   13,
    8,
-   3,
-   0,
-   0,
-   9,
    7,
-   6,
    0,
    0
   ],
@@ -638,6 +653,21 @@
    0
   ],
   [
+   "Alyxandria Weaver",
+   "Retreat",
+   1.79,
+   30,
+   3,
+   6,
+   0,
+   0,
+   17,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Carol Bartell",
    "Wags To Richs",
    1.74,
@@ -649,21 +679,6 @@
    10,
    2,
    1,
-   0,
-   0
-  ],
-  [
-   "Alyxandria Weaver",
-   "Retreat",
-   1.72,
-   24,
-   2,
-   5,
-   0,
-   0,
-   12,
-   2,
-   0,
    0,
    0
   ],
@@ -721,6 +736,30 @@
    16
   ],
   [
+   "Dave Wallace",
+   "Tag Team Tami",
+   25.08,
+   7,
+   3,
+   1,
+   0,
+   0,
+   1,
+   12
+  ],
+  [
+   "Matt Wagner",
+   "Handjobs4thehomeless",
+   24.3,
+   42,
+   10,
+   1,
+   0,
+   0,
+   9,
+   96
+  ],
+  [
    "Will Zimmer",
    "Throw Bros",
    24.28,
@@ -745,18 +784,6 @@
    80
   ],
   [
-   "Matt Wagner",
-   "Handjobs4thehomeless",
-   24.01,
-   35,
-   9,
-   1,
-   0,
-   0,
-   8,
-   77
-  ],
-  [
    "Sean Liddle",
    "DoubleIn StumbleOut",
    23.95,
@@ -771,14 +798,14 @@
   [
    "Daniel Purpura",
    "Retreat",
-   23.58,
-   35,
-   12,
-   8,
+   23.91,
+   42,
+   13,
+   9,
    0,
    0,
    5,
-   66
+   86
   ],
   [
    "Kirk Santelli",
@@ -817,6 +844,18 @@
    65
   ],
   [
+   "Todd Wagner",
+   "Handjobs4thehomeless",
+   22.71,
+   49,
+   14,
+   2,
+   0,
+   0,
+   4,
+   86
+  ],
+  [
    "Alexander Blake",
    "Dart Bags T",
    22.55,
@@ -853,18 +892,6 @@
    65
   ],
   [
-   "Todd Wagner",
-   "Handjobs4thehomeless",
-   22.09,
-   42,
-   11,
-   2,
-   0,
-   0,
-   3,
-   66
-  ],
-  [
    "Mike Georgetti",
    "No Clue",
    21.72,
@@ -875,18 +902,6 @@
    0,
    1,
    64
-  ],
-  [
-   "Kevin DeHollander",
-   "Draw Two",
-   21.71,
-   28,
-   4,
-   3,
-   0,
-   0,
-   1,
-   39
   ],
   [
    "Scott King",
@@ -913,16 +928,28 @@
    8
   ],
   [
+   "Kevin DeHollander",
+   "Draw Two",
+   21.21,
+   35,
+   5,
+   3,
+   0,
+   0,
+   1,
+   45
+  ],
+  [
    "John Salamone",
    "Tag Team Tami",
-   21.07,
-   35,
-   9,
+   20.88,
+   42,
+   10,
    7,
    0,
    0,
    0,
-   50
+   58
   ],
   [
    "Shawn Bentley",
@@ -939,14 +966,14 @@
   [
    "Jamie Love",
    "Draw Two",
-   20.7,
-   28,
-   6,
-   2,
+   20.76,
+   35,
+   8,
+   3,
    0,
    0,
    1,
-   27
+   36
   ],
   [
    "Jason Arena",
@@ -1033,6 +1060,18 @@
    10
   ],
   [
+   "Alyxandria Weaver",
+   "Retreat",
+   16.03,
+   35,
+   7,
+   0,
+   0,
+   0,
+   0,
+   25
+  ],
+  [
    "Chris Dote",
    "TakingNamesTakingAim",
    16.02,
@@ -1043,18 +1082,6 @@
    0,
    0,
    7
-  ],
-  [
-   "Alyxandria Weaver",
-   "Retreat",
-   15.57,
-   28,
-   5,
-   0,
-   0,
-   0,
-   0,
-   20
   ],
   [
    "Carol Bartell",
@@ -1084,42 +1111,42 @@
  "improved": {
   "c": [
    [
-    "Chris Dote",
-    "TakingNamesTakingAim",
-    1.76,
-    1.96
+    "Alyxandria Weaver",
+    "Retreat",
+    1.72,
+    1.79
    ],
    [
-    "Eric Porte",
-    "Never Trust A Dart",
-    2.39,
-    2.54
+    "Todd Wagner",
+    "Handjobs4thehomeless",
+    2.52,
+    2.55
    ],
    [
-    "Jason Arena",
-    "Throwing Shade",
-    2.13,
-    2.22
+    "John Salamone",
+    "Tag Team Tami",
+    2.23,
+    2.26
    ]
   ],
   "x": [
    [
+    "Todd Wagner",
+    "Handjobs4thehomeless",
+    22.09,
+    22.71
+   ],
+   [
     "Alyxandria Weaver",
     "Retreat",
-    14.7,
-    15.57
+    15.57,
+    16.03
    ],
    [
     "Daniel Purpura",
     "Retreat",
-    22.89,
-    23.58
-   ],
-   [
-    "Anthony Kelly",
-    "Throw Bros",
-    22.72,
-    23.4
+    23.58,
+    23.91
    ]
   ]
  },
