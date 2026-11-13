@@ -454,21 +454,6 @@
    0
   ],
   [
-   "Brian Keefe",
-   "Average Joes",
-   1.91,
-   15,
-   6,
-   5,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Zach Gooding",
    "Toasted Darts",
    1.91,
@@ -495,6 +480,21 @@
    4,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Brian Keefe",
+   "Average Joes",
+   1.91,
+   15,
+   6,
+   5,
+   0,
+   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -544,21 +544,6 @@
    1
   ],
   [
-   "Jessie Purdy",
-   "Team Stinky",
-   1.84,
-   21,
-   5,
-   6,
-   0,
-   0,
-   5,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Gonzalez",
    "ReDarted",
    1.84,
@@ -569,6 +554,21 @@
    0,
    4,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jessie Purdy",
+   "Team Stinky",
+   1.84,
+   21,
+   5,
+   6,
+   0,
+   0,
+   5,
+   5,
    0,
    0,
    0
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-13T16:09:52Z"
+ "updated": "2026-11-13T17:16:37Z"
 }

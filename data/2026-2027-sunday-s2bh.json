@@ -217,10 +217,10 @@
     2.23
    ],
    [
-    "James Davis",
-    "Ones Are Closed",
-    2.09,
-    2.16
+    "Kristin Southwick",
+    "Tintins",
+    1.34,
+    1.41
    ]
   ],
   "x": [
@@ -381,21 +381,6 @@
    0
   ],
   [
-   "David Caesar",
-   "Night Shot",
-   2.14,
-   42,
-   15,
-   11,
-   2,
-   0,
-   14,
-   7,
-   3,
-   0,
-   0
-  ],
-  [
    "Sean Crowell",
    "The Dartbags",
    2.14,
@@ -407,6 +392,21 @@
    12,
    2,
    4,
+   0,
+   0
+  ],
+  [
+   "David Caesar",
+   "Night Shot",
+   2.14,
+   42,
+   15,
+   11,
+   2,
+   0,
+   14,
+   7,
+   3,
    0,
    0
   ],
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-13T16:08:34Z"
+ "updated": "2026-11-13T17:15:07Z"
 }
