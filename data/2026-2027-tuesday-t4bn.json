@@ -166,12 +166,6 @@
  "improved": {
   "c": [
    [
-    "Zach Zeek Smith",
-    "Is It In",
-    2.04,
-    2.15
-   ],
-   [
     "Kevin Moses",
     "Is It In",
     1.76,
@@ -182,6 +176,12 @@
     "Show Your Tips",
     1.7,
     1.81
+   ],
+   [
+    "Zach Zeek Smith",
+    "Is It In",
+    2.04,
+    2.15
    ]
   ],
   "x": [
@@ -522,21 +522,6 @@
    0
   ],
   [
-   "Kevin Adams",
-   "Aiming Fluid",
-   1.96,
-   6,
-   2,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Zack Fee",
    "Trippin On Trips",
    1.96,
@@ -547,6 +532,21 @@
    0,
    2,
    4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Adams",
+   "Aiming Fluid",
+   1.96,
+   6,
+   2,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Joe Tortora",
-   "Points And Pints",
-   1.68,
-   18,
-   7,
-   1,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Chris New Wave",
    "New Wave",
    1.68,
@@ -818,6 +803,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Joe Tortora",
+   "Points And Pints",
+   1.68,
+   18,
+   7,
+   1,
+   1,
+   0,
+   0,
+   1,
+   1,
    0,
    0
   ],
@@ -1002,21 +1002,6 @@
    0
   ],
   [
-   "Pal New Wave",
-   "New Wave",
-   1.35,
-   6,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Joey Tortora",
    "Points And Pints",
    1.35,
@@ -1027,6 +1012,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Pal New Wave",
+   "New Wave",
+   1.35,
+   6,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1391,18 +1391,6 @@
    13
   ],
   [
-   "Mike Bisig",
-   "Trippin On Trips",
-   18.57,
-   24,
-   8,
-   1,
-   0,
-   0,
-   0,
-   11
-  ],
-  [
    "Dale Pickens",
    "Points And Pints",
    18.57,
@@ -1413,6 +1401,18 @@
    0,
    0,
    9
+  ],
+  [
+   "Mike Bisig",
+   "Trippin On Trips",
+   18.57,
+   24,
+   8,
+   1,
+   0,
+   0,
+   0,
+   11
   ],
   [
    "Brad Paradise",
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-13T11:16:14Z"
+ "updated": "2026-11-13T12:14:29Z"
 }

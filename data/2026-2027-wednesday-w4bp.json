@@ -174,21 +174,6 @@
    1
   ],
   [
-   "James Samuelson",
-   "Satchel Of Richards",
-   3.08,
-   15,
-   7,
-   3,
-   2,
-   0,
-   12,
-   6,
-   4,
-   1,
-   2
-  ],
-  [
    "Joe Kinney III",
    "Fingerblasters",
    3.08,
@@ -202,6 +187,21 @@
    4,
    0,
    0
+  ],
+  [
+   "James Samuelson",
+   "Satchel Of Richards",
+   3.08,
+   15,
+   7,
+   3,
+   2,
+   0,
+   12,
+   6,
+   4,
+   1,
+   2
   ],
   [
    "Justin Southwick",
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-13T09:19:56Z"
+ "updated": "2026-11-13T12:15:12Z"
 }

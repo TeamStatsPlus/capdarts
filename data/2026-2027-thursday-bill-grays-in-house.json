@@ -230,21 +230,6 @@
    0
   ],
   [
-   "Josh Krause",
-   "BadDarts StankyFarts",
-   1.67,
-   36,
-   12,
-   2,
-   0,
-   0,
-   11,
-   8,
-   1,
-   0,
-   0
-  ],
-  [
    "Caleb Lee",
    "Just The Tip",
    1.67,
@@ -257,6 +242,21 @@
    3,
    1,
    1,
+   0
+  ],
+  [
+   "Josh Krause",
+   "BadDarts StankyFarts",
+   1.67,
+   36,
+   12,
+   2,
+   0,
+   0,
+   11,
+   8,
+   1,
+   0,
    0
   ],
   [
@@ -395,21 +395,6 @@
    0
   ],
   [
-   "Nick DelGaizo",
-   "BadDarts StankyFarts",
-   1.35,
-   32,
-   6,
-   4,
-   0,
-   0,
-   9,
-   2,
-   0,
-   0,
-   1
-  ],
-  [
    "Rick Falvo",
    "Sweet Pickles",
    1.35,
@@ -423,6 +408,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Nick DelGaizo",
+   "BadDarts StankyFarts",
+   1.35,
+   32,
+   6,
+   4,
+   0,
+   0,
+   9,
+   2,
+   0,
+   0,
+   1
   ],
   [
    "Joe Gravino",
@@ -894,7 +894,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-11-13T11:16:54Z",
+ "updated": "2026-11-13T12:15:17Z",
  "teams": [
   {
    "name": "Alex And Lawlor",
