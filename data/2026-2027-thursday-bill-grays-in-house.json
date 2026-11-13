@@ -6,150 +6,150 @@
  "standings": [
   [
    "Dyl Piccles",
-   55,
-   22
-  ],
-  [
-   "Just The Tip",
-   46,
-   31
+   63,
+   25
   ],
   [
    "Gotti And Hynes",
-   45,
-   32
+   57,
+   36
   ],
   [
-   "Sweet Pickles",
-   42,
-   35
-  ],
-  [
-   "Alex And Lawlor",
-   36,
+   "Just The Tip",
+   53,
    41
   ],
   [
-   "Nuch And Rich",
-   32,
+   "Sweet Pickles",
+   52,
+   41
+  ],
+  [
+   "Alex And Lawlor",
+   42,
    45
   ],
   [
+   "Nuch And Rich",
+   36,
+   51
+  ],
+  [
    "BadDarts StankyFarts",
-   27,
-   50
+   31,
+   57
   ],
   [
    "Austin And Joe",
-   25,
-   52
+   28,
+   66
   ]
  ],
  "results": [
   [
-   "Gotti And Hynes",
+   "Sweet Pickles",
    "Austin And Joe",
-   "11/05/2026",
-   7,
-   9,
-   2
+   "11/12/2026",
+   0,
+   6,
+   0
+  ],
+  [
+   "Gotti And Hynes",
+   "Just The Tip",
+   "11/12/2026",
+   0,
+   6,
+   0
   ],
   [
    "Dyl Piccles",
-   "BadDarts StankyFarts",
-   "11/05/2026",
-   7,
+   "Austin And Joe",
+   "11/12/2026",
    8,
-   3
-  ],
-  [
-   "Just The Tip",
-   "Sweet Pickles",
-   "11/05/2026",
-   7,
    8,
    3
   ],
   [
    "Alex And Lawlor",
-   "Nuch And Rich",
-   "11/05/2026",
-   7,
-   7,
+   "Sweet Pickles",
+   "11/12/2026",
+   8,
+   6,
    4
   ],
   [
    "Nuch And Rich",
-   "Alex And Lawlor",
-   "11/05/2026",
-   7,
+   "Gotti And Hynes",
+   "11/12/2026",
+   8,
+   4,
+   6
+  ],
+  [
+   "BadDarts StankyFarts",
+   "Just The Tip",
+   "11/12/2026",
+   8,
    4,
    7
   ],
   [
-   "BadDarts StankyFarts",
-   "Dyl Piccles",
-   "11/05/2026",
-   7,
-   3,
-   8
-  ],
-  [
-   "Sweet Pickles",
    "Just The Tip",
-   "11/05/2026",
-   7,
-   3,
-   8
+   "Gotti And Hynes",
+   "11/12/2026",
+   0,
+   0,
+   6
   ],
   [
    "Austin And Joe",
-   "Gotti And Hynes",
-   "11/05/2026",
-   7,
-   2,
-   9
+   "Sweet Pickles",
+   "11/12/2026",
+   0,
+   0,
+   6
   ]
  ],
  "improved": {
   "c": [
    [
-    "Michael Nuccitelli",
-    "Nuch And Rich",
-    1.25,
-    1.29
+    "Pat Just The Tip",
+    "Just The Tip",
+    1.42,
+    1.62
    ],
    [
     "Ryan Brown",
     "Just The Tip",
-    1.27,
-    1.3
+    1.31,
+    1.38
    ],
    [
-    "Alex Stathopoulos",
-    "Alex And Lawlor",
-    1.36,
-    1.39
+    "Josh Krause",
+    "BadDarts StankyFarts",
+    1.55,
+    1.58
    ]
   ],
   "x": [
    [
-    "Michael Hynes",
-    "Gotti And Hynes",
-    14.16,
-    14.86
+    "Kyle Johnson",
+    "Austin And Joe",
+    10.9,
+    13.99
    ],
    [
-    "Justin Yokajty",
-    "Gotti And Hynes",
-    16.59,
-    17.07
+    "Austin Julian",
+    "Austin And Joe",
+    15.22,
+    15.44
    ],
    [
-    "Caleb Lee",
-    "Just The Tip",
-    16.31,
-    16.66
+    "Rick Falvo",
+    "Sweet Pickles",
+    14.84,
+    15.04
    ]
   ]
  },
@@ -157,13 +157,13 @@
   [
    "Dylan Julian",
    "Dyl Piccles",
-   2.01,
-   28,
-   18,
+   2.04,
+   32,
+   22,
    5,
    2,
    0,
-   12,
+   13,
    5,
    2,
    2,
@@ -188,12 +188,12 @@
    "Nick Lawlor",
    "Alex And Lawlor",
    1.86,
-   28,
-   12,
-   1,
+   32,
+   13,
+   2,
    0,
    0,
-   9,
+   11,
    5,
    2,
    0,
@@ -202,14 +202,14 @@
   [
    "Justin Yokajty",
    "Gotti And Hynes",
-   1.72,
-   28,
-   12,
+   1.76,
+   34,
+   16,
    5,
    0,
    0,
-   10,
-   4,
+   13,
+   5,
    1,
    0,
    0
@@ -247,29 +247,44 @@
   [
    "Ben Coffey",
    "Sweet Pickles",
-   1.6,
-   28,
-   16,
-   2,
-   0,
-   0,
+   1.65,
+   34,
+   18,
    3,
+   0,
+   0,
+   5,
    8,
    2,
    0,
    0
   ],
   [
+   "Pat Just The Tip",
+   "Just The Tip",
+   1.62,
+   6,
+   2,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Josh Krause",
    "BadDarts StankyFarts",
-   1.55,
-   28,
+   1.58,
+   32,
+   10,
+   2,
+   0,
+   0,
    9,
-   1,
-   0,
-   0,
-   8,
-   5,
+   6,
    0,
    0,
    0
@@ -278,29 +293,29 @@
    "Michael Piccarreto",
    "Dyl Piccles",
    1.53,
-   28,
-   16,
-   7,
+   32,
+   18,
+   9,
    1,
    0,
-   4,
    5,
-   1,
+   6,
+   2,
    1,
    0
   ],
   [
    "Michael Hynes",
    "Gotti And Hynes",
-   1.49,
-   20,
-   10,
+   1.52,
+   26,
+   13,
+   5,
+   0,
+   0,
+   6,
    3,
-   0,
-   0,
-   4,
    2,
-   1,
    0,
    0
   ],
@@ -320,12 +335,27 @@
    0
   ],
   [
+   "Ryan Brown",
+   "Just The Tip",
+   1.38,
+   22,
+   7,
+   5,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Alex Stathopoulos",
    "Alex And Lawlor",
-   1.39,
-   24,
-   8,
-   2,
+   1.37,
+   28,
+   10,
+   3,
    0,
    0,
    4,
@@ -337,47 +367,47 @@
   [
    "Rich Ciaccio",
    "Nuch And Rich",
-   1.37,
-   12,
+   1.36,
+   16,
+   4,
+   3,
+   0,
+   0,
    3,
    2,
-   0,
-   0,
-   2,
-   2,
    1,
-   0,
-   0
-  ],
-  [
-   "Rick Falvo",
-   "Sweet Pickles",
-   1.34,
-   28,
-   8,
-   5,
-   0,
-   0,
-   6,
-   1,
-   0,
    0,
    0
   ],
   [
    "Nick DelGaizo",
    "BadDarts StankyFarts",
-   1.34,
-   28,
-   5,
+   1.35,
+   32,
+   6,
    4,
    0,
    0,
-   6,
+   9,
    2,
    0,
    0,
    1
+  ],
+  [
+   "Rick Falvo",
+   "Sweet Pickles",
+   1.35,
+   34,
+   12,
+   5,
+   0,
+   0,
+   7,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "Joe Gravino",
@@ -395,16 +425,16 @@
    0
   ],
   [
-   "Ryan Brown",
-   "Just The Tip",
+   "Kyle Johnson",
+   "Austin And Joe",
    1.3,
-   16,
-   5,
-   4,
+   6,
+   0,
+   0,
    0,
    0,
    2,
-   1,
+   2,
    0,
    0,
    0
@@ -412,9 +442,9 @@
   [
    "Michael Nuccitelli",
    "Nuch And Rich",
-   1.29,
-   28,
-   10,
+   1.26,
+   32,
+   11,
    2,
    0,
    0,
@@ -427,8 +457,8 @@
   [
    "Austin Julian",
    "Austin And Joe",
-   1.23,
-   28,
+   1.22,
+   34,
    6,
    2,
    1,
@@ -531,50 +561,50 @@
   [
    "Dylan Julian",
    "Dyl Piccles",
-   17.93,
-   35,
-   12,
+   17.88,
+   40,
+   14,
+   1,
    0,
    0,
    0,
-   0,
-   15
+   16
   ],
   [
    "Nick Lawlor",
    "Alex And Lawlor",
-   17.65,
-   35,
-   12,
+   17.83,
+   39,
+   15,
    0,
    0,
    0,
    1,
-   24
+   27
   ],
   [
    "Justin Yokajty",
    "Gotti And Hynes",
-   17.07,
-   35,
-   11,
+   17.42,
+   42,
+   15,
+   1,
    0,
    0,
    0,
-   0,
-   17
+   21
   ],
   [
    "Ryan Brown",
    "Just The Tip",
-   16.68,
-   20,
-   6,
+   16.67,
+   28,
+   9,
    0,
    0,
    0,
    0,
-   9
+   10
   ],
   [
    "Caleb Lee",
@@ -591,14 +621,14 @@
   [
    "Ben Coffey",
    "Sweet Pickles",
-   16.28,
-   35,
-   9,
+   16.29,
+   42,
+   13,
    0,
    0,
    0,
    0,
-   20
+   21
   ],
   [
    "Joe Gravino",
@@ -627,26 +657,26 @@
   [
    "Nick DelGaizo",
    "BadDarts StankyFarts",
-   15.83,
-   35,
-   6,
+   15.65,
+   40,
+   7,
    1,
    0,
    0,
    0,
-   15
+   17
   ],
   [
    "Michael Piccarreto",
    "Dyl Piccles",
-   15.7,
-   35,
+   15.45,
+   40,
    9,
    0,
    0,
    0,
    0,
-   8
+   9
   ],
   [
    "Michael Trass",
@@ -663,14 +693,14 @@
   [
    "Austin Julian",
    "Austin And Joe",
-   15.16,
-   35,
-   6,
+   15.44,
+   43,
+   9,
    0,
    0,
    0,
    0,
-   4
+   8
   ],
   [
    "AJ Dibo",
@@ -685,11 +715,11 @@
    4
   ],
   [
-   "Michael Hynes",
-   "Gotti And Hynes",
-   14.86,
-   25,
-   8,
+   "Rick Falvo",
+   "Sweet Pickles",
+   15.04,
+   42,
+   9,
    0,
    0,
    0,
@@ -697,10 +727,10 @@
    7
   ],
   [
-   "Rick Falvo",
-   "Sweet Pickles",
-   14.82,
-   35,
+   "Michael Hynes",
+   "Gotti And Hynes",
+   14.9,
+   32,
    9,
    0,
    0,
@@ -711,26 +741,26 @@
   [
    "Josh Krause",
    "BadDarts StankyFarts",
-   14.81,
-   35,
-   7,
+   14.84,
+   40,
+   8,
    0,
    0,
    0,
    0,
-   12
+   13
   ],
   [
-   "Alex Stathopoulos",
-   "Alex And Lawlor",
-   14.69,
-   30,
-   4,
+   "Pat Just The Tip",
+   "Just The Tip",
+   14.5,
+   8,
    0,
    0,
    0,
    0,
-   6
+   0,
+   1
   ],
   [
    "Jeff Allen",
@@ -745,6 +775,18 @@
    0
   ],
   [
+   "Alex Stathopoulos",
+   "Alex And Lawlor",
+   14.39,
+   34,
+   4,
+   0,
+   0,
+   0,
+   0,
+   7
+  ],
+  [
    "Mike Miceli",
    "Just The Tip",
    14.3,
@@ -757,16 +799,28 @@
    2
   ],
   [
+   "Kyle Johnson",
+   "Austin And Joe",
+   13.99,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
    "Rich Ciaccio",
    "Nuch And Rich",
-   13.94,
-   15,
-   5,
+   13.95,
+   19,
+   6,
    0,
    0,
    0,
    0,
-   3
+   4
   ],
   [
    "Ashton Julian",
@@ -783,9 +837,9 @@
   [
    "Michael Nuccitelli",
    "Nuch And Rich",
-   13.1,
-   35,
-   6,
+   13.2,
+   39,
+   7,
    0,
    0,
    0,
@@ -813,7 +867,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-11-13T00:00:52Z",
+ "updated": "2026-11-13T03:07:48Z",
  "teams": [
   {
    "name": "Alex And Lawlor",

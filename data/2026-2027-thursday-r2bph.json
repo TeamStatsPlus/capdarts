@@ -1,20 +1,15 @@
 {
- "updated": "2026-11-13T01:31:43Z",
+ "updated": "2026-11-13T03:08:02Z",
  "standings": [
   [
    "No Clue",
-   63,
-   27
+   73,
+   32
   ],
   [
    "Scotts On The Rocks",
-   54,
-   36
-  ],
-  [
-   "DoubleIn StumbleOut",
-   42,
-   33
+   62,
+   43
   ],
   [
    "Dart Bags T",
@@ -22,14 +17,19 @@
    41
   ],
   [
-   "Throwing Shade",
-   46,
-   44
+   "DoubleIn StumbleOut",
+   47,
+   43
   ],
   [
    "Revenge",
-   45,
-   45
+   54,
+   51
+  ],
+  [
+   "Throwing Shade",
+   54,
+   51
   ],
   [
    "Handjobs4thehomeless",
@@ -43,13 +43,13 @@
   ],
   [
    "Wags To Richs",
-   43,
-   47
+   50,
+   55
   ],
   [
    "Throw Bros",
-   42,
-   48
+   49,
+   56
   ],
   [
    "Tag Team Tami",
@@ -63,8 +63,8 @@
   ],
   [
    "Never Trust A Dart",
-   36,
-   54
+   42,
+   63
   ],
   [
    "TakingNamesTakingAim",
@@ -82,42 +82,34 @@
    4
   ],
   [
-   "Throw Bros",
-   "Never Trust A Dart",
-   "11/05/2026",
-   6,
-   11,
-   4
-  ],
-  [
-   "Revenge",
-   "Dart Bags T",
-   "11/05/2026",
-   6,
+   "No Clue",
+   "DoubleIn StumbleOut",
+   "11/12/2026",
+   7,
    10,
    5
   ],
   [
-   "No Clue",
-   "Draw Two",
-   "11/05/2026",
-   6,
+   "Revenge",
+   "Never Trust A Dart",
+   "11/12/2026",
+   7,
    9,
    6
   ],
   [
+   "Scotts On The Rocks",
    "Wags To Richs",
-   "Tag Team Tami",
-   "11/05/2026",
-   6,
-   9,
-   6
+   "11/12/2026",
+   7,
+   8,
+   7
   ],
   [
    "Throwing Shade",
-   "Retreat",
-   "11/05/2026",
-   6,
+   "Throw Bros",
+   "11/12/2026",
+   7,
    8,
    7
   ],
@@ -146,18 +138,26 @@
    8
   ],
   [
-   "Scotts On The Rocks",
-   "TakingNamesTakingAim",
-   "11/05/2026",
-   6,
+   "Throw Bros",
+   "Throwing Shade",
+   "11/12/2026",
+   7,
    7,
    8
   ],
   [
-   "DoubleIn StumbleOut",
-   "Handjobs4thehomeless",
-   "11/05/2026",
-   6,
+   "Wags To Richs",
+   "Scotts On The Rocks",
+   "11/12/2026",
+   7,
+   7,
+   8
+  ],
+  [
+   "Never Trust A Dart",
+   "Revenge",
+   "11/12/2026",
+   7,
    6,
    9
   ],
@@ -170,12 +170,12 @@
    10
   ],
   [
-   "Never Trust A Dart",
-   "Throw Bros",
-   "11/05/2026",
-   6,
-   4,
-   11
+   "DoubleIn StumbleOut",
+   "No Clue",
+   "11/12/2026",
+   7,
+   5,
+   10
   ],
   [
    "Draw Two",
@@ -203,32 +203,32 @@
    0
   ],
   [
-   "Rich Allen",
-   "Wags To Richs",
-   3.23,
-   36,
+   "Carlton Smith",
+   "Revenge",
+   3.16,
+   42,
+   22,
+   8,
+   3,
+   2,
+   34,
    14,
-   4,
-   7,
-   1,
-   23,
-   10,
    10,
    0,
    2
   ],
   [
-   "Carlton Smith",
-   "Revenge",
-   3.11,
-   36,
-   19,
-   7,
-   2,
+   "Rich Allen",
+   "Wags To Richs",
+   3.14,
+   42,
+   17,
+   4,
+   8,
    1,
-   28,
-   12,
-   9,
+   29,
+   11,
+   11,
    0,
    2
   ],
@@ -244,21 +244,6 @@
    3,
    0,
    3,
-   0,
-   0
-  ],
-  [
-   "Sean Liddle",
-   "DoubleIn StumbleOut",
-   2.93,
-   30,
-   10,
-   4,
-   6,
-   0,
-   20,
-   8,
-   6,
    0,
    0
   ],
@@ -280,15 +265,15 @@
   [
    "Andy Georgetti",
    "No Clue",
-   2.87,
-   36,
-   17,
+   2.88,
+   42,
+   22,
    10,
    2,
    0,
+   17,
    16,
-   13,
-   10,
+   12,
    0,
    2
   ],
@@ -308,19 +293,34 @@
    0
   ],
   [
+   "Sean Liddle",
+   "DoubleIn StumbleOut",
+   2.82,
+   36,
+   11,
+   4,
+   6,
+   0,
+   23,
+   8,
+   6,
+   0,
+   0
+  ],
+  [
    "Scott Etter",
    "Scotts On The Rocks",
-   2.69,
-   36,
-   14,
+   2.7,
+   42,
+   18,
    8,
    2,
    0,
-   21,
-   10,
-   6,
+   23,
+   11,
+   7,
    2,
-   1
+   2
   ],
   [
    "Erica Wall",
@@ -368,6 +368,36 @@
    0
   ],
   [
+   "Mike Georgetti",
+   "No Clue",
+   2.64,
+   42,
+   18,
+   12,
+   1,
+   0,
+   18,
+   11,
+   6,
+   1,
+   0
+  ],
+  [
+   "Anthony Kelly",
+   "Throw Bros",
+   2.63,
+   36,
+   13,
+   0,
+   3,
+   0,
+   23,
+   5,
+   3,
+   1,
+   1
+  ],
+  [
    "Daniel Purpura",
    "Retreat",
    2.61,
@@ -383,62 +413,17 @@
    1
   ],
   [
-   "Kirk Santelli",
-   "DoubleIn StumbleOut",
-   2.57,
-   30,
-   11,
-   3,
-   4,
-   0,
-   17,
-   4,
-   3,
-   0,
-   1
-  ],
-  [
-   "Mike Georgetti",
-   "No Clue",
-   2.57,
-   36,
-   16,
-   9,
-   1,
-   0,
-   18,
-   8,
-   5,
-   0,
-   0
-  ],
-  [
-   "Anthony Kelly",
-   "Throw Bros",
-   2.57,
-   30,
-   10,
-   0,
-   2,
-   0,
-   19,
-   4,
-   3,
-   1,
-   1
-  ],
-  [
    "Shawn Bentley",
    "Throwing Shade",
-   2.55,
-   36,
-   14,
-   8,
+   2.61,
+   42,
+   16,
+   10,
    2,
    1,
-   20,
-   7,
-   11,
+   23,
+   10,
+   13,
    0,
    0
   ],
@@ -461,14 +446,29 @@
    "Eric Porte",
    "Never Trust A Dart",
    2.54,
-   36,
-   12,
-   5,
-   1,
-   1,
-   23,
-   7,
+   42,
+   14,
+   6,
    2,
+   1,
+   25,
+   7,
+   4,
+   1,
+   1
+  ],
+  [
+   "Kirk Santelli",
+   "DoubleIn StumbleOut",
+   2.52,
+   36,
+   11,
+   4,
+   4,
+   0,
+   21,
+   4,
+   3,
    0,
    1
   ],
@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Archie Donaldson",
-   "Revenge",
-   2.47,
-   36,
-   12,
-   9,
-   0,
-   0,
-   19,
-   5,
-   5,
-   1,
-   0
-  ],
-  [
    "Jason Bateman",
    "Retreat",
    2.44,
@@ -533,16 +518,31 @@
    0
   ],
   [
+   "Archie Donaldson",
+   "Revenge",
+   2.43,
+   42,
+   14,
+   10,
+   1,
+   0,
+   21,
+   7,
+   5,
+   1,
+   0
+  ],
+  [
    "Scott King",
    "Scotts On The Rocks",
-   2.43,
-   36,
-   14,
-   7,
+   2.4,
+   42,
+   15,
+   10,
    4,
    0,
-   19,
-   7,
+   22,
+   9,
    3,
    0,
    1
@@ -580,29 +580,29 @@
   [
    "Jason Arena",
    "Throwing Shade",
-   2.22,
-   36,
-   13,
-   7,
+   2.24,
+   42,
+   15,
+   8,
    0,
    0,
+   9,
+   8,
    7,
-   6,
-   5,
    0,
    1
   ],
   [
    "Chris Contrera",
    "Throw Bros",
-   2.13,
-   30,
-   4,
+   2.16,
+   36,
    5,
-   1,
+   6,
+   2,
    0,
-   12,
-   3,
+   13,
+   4,
    1,
    0,
    0
@@ -611,16 +611,16 @@
    "Brandon Wheeler",
    "Never Trust A Dart",
    2.09,
-   36,
-   10,
-   4,
+   42,
+   11,
+   5,
    1,
    0,
-   17,
+   19,
    7,
    3,
    0,
-   1
+   2
   ],
   [
    "Mike Ronzo",
@@ -670,10 +670,10 @@
   [
    "Carol Bartell",
    "Wags To Richs",
-   1.74,
-   36,
+   1.66,
+   42,
    6,
-   6,
+   7,
    0,
    0,
    10,
@@ -700,27 +700,27 @@
  ],
  "x01": [
   [
+   "Rich Allen",
+   "Wags To Richs",
+   28.32,
+   49,
+   21,
+   52,
+   0,
+   0,
+   2,
+   114
+  ],
+  [
    "Carlton Smith",
    "Revenge",
-   28.12,
-   42,
-   14,
-   24,
+   27.92,
+   49,
+   16,
+   27,
    1,
    1,
    5,
-   84
-  ],
-  [
-   "Rich Allen",
-   "Wags To Richs",
-   27.91,
-   42,
-   18,
-   47,
-   0,
-   0,
-   1,
    96
   ],
   [
@@ -748,6 +748,18 @@
    12
   ],
   [
+   "Andy Georgetti",
+   "No Clue",
+   24.36,
+   49,
+   15,
+   19,
+   0,
+   0,
+   1,
+   91
+  ],
+  [
    "Matt Wagner",
    "Handjobs4thehomeless",
    24.3,
@@ -772,30 +784,6 @@
    11
   ],
   [
-   "Andy Georgetti",
-   "No Clue",
-   24.17,
-   42,
-   12,
-   15,
-   0,
-   0,
-   1,
-   80
-  ],
-  [
-   "Sean Liddle",
-   "DoubleIn StumbleOut",
-   23.95,
-   35,
-   10,
-   9,
-   0,
-   0,
-   0,
-   63
-  ],
-  [
    "Daniel Purpura",
    "Retreat",
    23.91,
@@ -810,26 +798,38 @@
   [
    "Kirk Santelli",
    "DoubleIn StumbleOut",
-   23.42,
-   35,
-   11,
-   10,
+   23.82,
+   42,
+   15,
+   14,
    0,
    0,
-   0,
-   62
+   1,
+   74
   ],
   [
    "Anthony Kelly",
    "Throw Bros",
-   23.4,
-   35,
-   12,
+   23.58,
+   42,
+   15,
    8,
    0,
    0,
    0,
-   54
+   72
+  ],
+  [
+   "Sean Liddle",
+   "DoubleIn StumbleOut",
+   23.34,
+   42,
+   10,
+   10,
+   0,
+   0,
+   0,
+   71
   ],
   [
    "Mark Sennett",
@@ -870,14 +870,14 @@
   [
    "Scott Etter",
    "Scotts On The Rocks",
-   22.19,
-   42,
-   17,
-   12,
+   22.43,
+   49,
+   20,
+   13,
    1,
    0,
    1,
-   56
+   67
   ],
   [
    "Erica Wall",
@@ -894,26 +894,26 @@
   [
    "Mike Georgetti",
    "No Clue",
-   21.72,
-   42,
+   21.74,
+   49,
    18,
-   9,
+   14,
    0,
    0,
    1,
-   64
+   71
   ],
   [
    "Scott King",
    "Scotts On The Rocks",
-   21.47,
-   42,
+   21.62,
+   49,
    9,
    11,
    0,
    0,
    2,
-   59
+   68
   ],
   [
    "Andy Horton",
@@ -926,6 +926,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Shawn Bentley",
+   "Throwing Shade",
+   21.32,
+   49,
+   10,
+   4,
+   1,
+   0,
+   4,
+   57
   ],
   [
    "Kevin DeHollander",
@@ -952,18 +964,6 @@
    58
   ],
   [
-   "Shawn Bentley",
-   "Throwing Shade",
-   20.79,
-   42,
-   6,
-   4,
-   1,
-   0,
-   3,
-   48
-  ],
-  [
    "Jamie Love",
    "Draw Two",
    20.76,
@@ -978,50 +978,62 @@
   [
    "Jason Arena",
    "Throwing Shade",
-   20.35,
-   42,
+   20.63,
+   49,
    13,
    3,
    0,
    0,
    4,
-   54
+   64
   ],
   [
    "Chris Contrera",
    "Throw Bros",
-   20.3,
-   35,
+   20.49,
+   42,
    9,
    7,
    0,
    0,
    0,
-   36
+   47
   ],
   [
    "Archie Donaldson",
    "Revenge",
-   19.93,
-   42,
+   20.44,
+   49,
+   7,
    5,
-   4,
    0,
    0,
    1,
-   56
+   68
+  ],
+  [
+   "Eric Porte",
+   "Never Trust A Dart",
+   19.41,
+   49,
+   9,
+   2,
+   0,
+   0,
+   1,
+   45
   ],
   [
    "Brandon Wheeler",
    "Never Trust A Dart",
-   19.39,
-   42,
-   7,
+   19.33,
+   49,
+   8,
    6,
    0,
    0,
-   3,
-   47
+   4,
+   51
   ],
   [
    "Mike Ronzo",
@@ -1034,18 +1046,6 @@
    0,
    0,
    37
-  ],
-  [
-   "Eric Porte",
-   "Never Trust A Dart",
-   18.99,
-   42,
-   7,
-   1,
-   0,
-   0,
-   1,
-   40
   ],
   [
    "Jason Bateman",
@@ -1087,13 +1087,13 @@
    "Carol Bartell",
    "Wags To Richs",
    15.24,
-   42,
-   5,
+   49,
+   6,
    1,
    0,
    0,
    0,
-   23
+   25
   ],
   [
    "Jessica Mitrano",
@@ -1111,22 +1111,22 @@
  "improved": {
   "c": [
    [
+    "Mike Georgetti",
+    "No Clue",
+    2.57,
+    2.64
+   ],
+   [
     "Alyxandria Weaver",
     "Retreat",
     1.72,
     1.79
    ],
    [
-    "Todd Wagner",
-    "Handjobs4thehomeless",
-    2.52,
-    2.55
-   ],
-   [
-    "John Salamone",
-    "Tag Team Tami",
-    2.23,
-    2.26
+    "Shawn Bentley",
+    "Throwing Shade",
+    2.55,
+    2.61
    ]
   ],
   "x": [
@@ -1137,16 +1137,16 @@
     22.71
    ],
    [
-    "Alyxandria Weaver",
-    "Retreat",
-    15.57,
-    16.03
+    "Shawn Bentley",
+    "Throwing Shade",
+    20.79,
+    21.32
    ],
    [
-    "Daniel Purpura",
-    "Retreat",
-    23.58,
-    23.91
+    "Archie Donaldson",
+    "Revenge",
+    19.93,
+    20.44
    ]
   ]
  },
