@@ -320,6 +320,21 @@
    1
   ],
   [
+   "Chris Jones",
+   "Right There",
+   2.34,
+   21,
+   9,
+   4,
+   1,
+   0,
+   6,
+   8,
+   2,
+   0,
+   0
+  ],
+  [
    "Scott Prince",
    "The Four Horseman",
    2.34,
@@ -347,21 +362,6 @@
    3,
    2,
    1,
-   0
-  ],
-  [
-   "Chris Jones",
-   "Right There",
-   2.34,
-   21,
-   9,
-   4,
-   1,
-   0,
-   6,
-   8,
-   2,
-   0,
    0
   ],
   [
@@ -575,21 +575,6 @@
    0
   ],
   [
-   "Anthony Alletto",
-   "Dartbags",
-   1.84,
-   21,
-   7,
-   3,
-   0,
-   0,
-   7,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Aaron Lindenberg",
    "Roasted Shenanigans",
    1.84,
@@ -616,6 +601,21 @@
    3,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Anthony Alletto",
+   "Dartbags",
+   1.84,
+   21,
+   7,
+   3,
+   0,
+   0,
+   7,
+   2,
+   0,
    0,
    0
   ],
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-13T07:40:14Z"
+ "updated": "2026-11-13T09:18:57Z"
 }

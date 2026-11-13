@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:41:29Z",
+ "updated": "2026-11-13T09:20:15Z",
  "standings": [
   [
    "No Clue",
@@ -353,21 +353,6 @@
    0
   ],
   [
-   "Anthony Kelly",
-   "Throw Bros",
-   2.63,
-   36,
-   13,
-   0,
-   3,
-   0,
-   23,
-   5,
-   3,
-   1,
-   1
-  ],
-  [
    "Erica Wall",
    "TakingNamesTakingAim",
    2.63,
@@ -383,18 +368,18 @@
    0
   ],
   [
-   "Daniel Purpura",
-   "Retreat",
-   2.61,
+   "Anthony Kelly",
+   "Throw Bros",
+   2.63,
    36,
    13,
+   0,
+   3,
+   0,
+   23,
+   5,
    3,
    1,
-   0,
-   20,
-   12,
-   5,
-   0,
    1
   ],
   [
@@ -411,6 +396,21 @@
    13,
    0,
    0
+  ],
+  [
+   "Daniel Purpura",
+   "Retreat",
+   2.61,
+   36,
+   13,
+   3,
+   1,
+   0,
+   20,
+   12,
+   5,
+   0,
+   1
   ],
   [
    "Todd Wagner",
@@ -533,21 +533,6 @@
    0
   ],
   [
-   "Scott King",
-   "Scotts On The Rocks",
-   2.4,
-   42,
-   15,
-   10,
-   4,
-   0,
-   22,
-   9,
-   3,
-   0,
-   1
-  ],
-  [
    "Jamie Love",
    "Draw Two",
    2.4,
@@ -561,6 +546,21 @@
    5,
    0,
    2
+  ],
+  [
+   "Scott King",
+   "Scotts On The Rocks",
+   2.4,
+   42,
+   15,
+   10,
+   4,
+   0,
+   22,
+   9,
+   3,
+   0,
+   1
   ],
   [
    "John Salamone",

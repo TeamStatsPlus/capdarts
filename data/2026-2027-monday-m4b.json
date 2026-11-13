@@ -204,10 +204,10 @@
     1.76
    ],
    [
-    "Erin Cuer",
-    "RedEye",
-    1.19,
-    1.3
+    "Steve Wright",
+    "Wired",
+    1.96,
+    2.07
    ]
   ],
   "x": [
@@ -308,21 +308,6 @@
    0
   ],
   [
-   "Brian Wemett",
-   "Good Smoke BBQ",
-   2.36,
-   18,
-   12,
-   2,
-   1,
-   0,
-   6,
-   3,
-   0,
-   0,
-   1
-  ],
-  [
    "Eric Westrich",
    "Money Shot",
    2.36,
@@ -351,6 +336,21 @@
    3,
    0,
    0
+  ],
+  [
+   "Brian Wemett",
+   "Good Smoke BBQ",
+   2.36,
+   18,
+   12,
+   2,
+   1,
+   0,
+   6,
+   3,
+   0,
+   0,
+   1
   ],
   [
    "Mark Quill",
@@ -473,21 +473,6 @@
    0
   ],
   [
-   "Steve Wemett",
-   "Good Smoke BBQ",
-   2.13,
-   6,
-   1,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Joe Rowland",
    "ChJokers",
    2.13,
@@ -498,6 +483,21 @@
    0,
    6,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Wemett",
+   "Good Smoke BBQ",
+   2.13,
+   6,
+   1,
+   2,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -653,21 +653,6 @@
    0
   ],
   [
-   "Rory Doran",
-   "Bad News Beers",
-   1.95,
-   21,
-   10,
-   7,
-   1,
-   0,
-   2,
-   3,
-   0,
-   0,
-   1
-  ],
-  [
    "Darrin Costantini",
    "Wired",
    1.95,
@@ -681,6 +666,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Rory Doran",
+   "Bad News Beers",
+   1.95,
+   21,
+   10,
+   7,
+   1,
+   0,
+   2,
+   3,
+   0,
+   0,
+   1
   ],
   [
    "Dean Nicosia",
@@ -893,21 +893,6 @@
    0
   ],
   [
-   "Chuck Marchbanks",
-   "Wired",
-   1.68,
-   3,
-   1,
-   2,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Johnny Golas",
    "Halluciminatin",
    1.68,
@@ -917,6 +902,21 @@
    0,
    0,
    2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chuck Marchbanks",
+   "Wired",
+   1.68,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
    1,
    0,
    0,
@@ -998,21 +998,6 @@
    0
   ],
   [
-   "Orion Wilkerson",
-   "IDF NightCaps",
-   1.61,
-   18,
-   3,
-   5,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Judson Brown",
    "Wired",
    1.61,
@@ -1023,6 +1008,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Orion Wilkerson",
+   "IDF NightCaps",
+   1.61,
+   18,
+   3,
+   5,
+   0,
+   0,
+   3,
+   1,
    0,
    0,
    0
@@ -1786,24 +1786,24 @@
    5
   ],
   [
-   "Bill Fitzgerald",
-   "Wired",
-   17.42,
-   28,
-   3,
-   0,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Tyrell Carver",
    "IDF NightCaps",
    17.42,
    24,
    1,
    1,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
+   "Bill Fitzgerald",
+   "Wired",
+   17.42,
+   28,
+   3,
+   0,
    0,
    0,
    0,
@@ -3087,5 +3087,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-13T07:40:06Z"
+ "updated": "2026-11-13T09:18:51Z"
 }
