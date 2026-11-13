@@ -166,6 +166,12 @@
  "improved": {
   "c": [
    [
+    "Zach Zeek Smith",
+    "Is It In",
+    2.04,
+    2.15
+   ],
+   [
     "Kevin Moses",
     "Is It In",
     1.76,
@@ -176,12 +182,6 @@
     "Show Your Tips",
     1.7,
     1.81
-   ],
-   [
-    "Zach Zeek Smith",
-    "Is It In",
-    2.04,
-    2.15
    ]
   ],
   "x": [
@@ -522,21 +522,6 @@
    0
   ],
   [
-   "Zack Fee",
-   "Trippin On Trips",
-   1.96,
-   9,
-   2,
-   5,
-   0,
-   0,
-   2,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Adams",
    "Aiming Fluid",
    1.96,
@@ -547,6 +532,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Zack Fee",
+   "Trippin On Trips",
+   1.96,
+   9,
+   2,
+   5,
+   0,
+   0,
+   2,
+   4,
    0,
    0,
    0
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-13T09:19:17Z"
+ "updated": "2026-11-13T11:16:14Z"
 }

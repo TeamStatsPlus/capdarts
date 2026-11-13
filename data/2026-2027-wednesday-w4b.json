@@ -126,10 +126,10 @@
     1.49
    ],
    [
-    "Dennis Obrien",
-    "Almost There",
-    1.42,
-    1.5
+    "Mike Toma",
+    "FTO",
+    1.44,
+    1.52
    ]
   ],
   "x": [
@@ -650,21 +650,6 @@
    0
   ],
   [
-   "Kyle Foelsch",
-   "Yearoff",
-   1.48,
-   15,
-   2,
-   5,
-   0,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tom Clonch",
    "Almost There",
    1.48,
@@ -675,6 +660,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kyle Foelsch",
+   "Yearoff",
+   1.48,
+   15,
+   2,
+   5,
+   0,
+   0,
+   4,
+   1,
    0,
    0,
    0
@@ -1861,5 +1861,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-13T09:19:36Z"
+ "updated": "2026-11-13T11:16:31Z"
 }
