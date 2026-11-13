@@ -88,16 +88,16 @@
  "improved": {
   "c": [
    [
-    "Tom Walter",
-    "Bigg Darts",
-    1.76,
-    1.8
-   ],
-   [
     "James Walsh",
     "Water Off",
     2.15,
     2.19
+   ],
+   [
+    "Tom Walter",
+    "Bigg Darts",
+    1.76,
+    1.8
    ],
    [
     "Dashay Earlsey",
@@ -174,21 +174,6 @@
    1
   ],
   [
-   "James Samuelson",
-   "Satchel Of Richards",
-   3.08,
-   15,
-   7,
-   3,
-   2,
-   0,
-   12,
-   6,
-   4,
-   1,
-   2
-  ],
-  [
    "Joe Kinney III",
    "Fingerblasters",
    3.08,
@@ -202,6 +187,21 @@
    4,
    0,
    0
+  ],
+  [
+   "James Samuelson",
+   "Satchel Of Richards",
+   3.08,
+   15,
+   7,
+   3,
+   2,
+   0,
+   12,
+   6,
+   4,
+   1,
+   2
   ],
   [
    "Justin Southwick",
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-13T13:34:01Z"
+ "updated": "2026-11-13T15:09:44Z"
 }

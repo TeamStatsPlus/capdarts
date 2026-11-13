@@ -172,16 +172,16 @@
     1.54
    ],
    [
-    "Erin Lamar",
-    "Throwgasms",
-    1.03,
-    1.11
-   ],
-   [
     "Stephen Monahan",
     "The Limp Wristers",
     1.52,
     1.6
+   ],
+   [
+    "Erin Lamar",
+    "Throwgasms",
+    1.03,
+    1.11
    ]
   ],
   "x": [
@@ -942,21 +942,6 @@
    0
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   1.17,
-   12,
-   4,
-   3,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ellen Post",
    "Closer To Zero",
    1.17,
@@ -970,6 +955,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   1.17,
+   12,
+   4,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "John Inzinna",
@@ -1227,6 +1227,21 @@
    0
   ],
   [
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
+   0.9,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Cindy Simpson",
    "Squeekertips",
    0.9,
@@ -1251,21 +1266,6 @@
    0,
    0,
    3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
-   0.9,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
    0,
    0,
    0,
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-13T13:33:46Z"
+ "updated": "2026-11-13T15:09:30Z"
 }

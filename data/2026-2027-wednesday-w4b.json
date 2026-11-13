@@ -126,10 +126,10 @@
     1.49
    ],
    [
-    "Dennis Obrien",
-    "Almost There",
-    1.42,
-    1.5
+    "Mike Toma",
+    "FTO",
+    1.44,
+    1.52
    ]
   ],
   "x": [
@@ -350,21 +350,6 @@
    0
   ],
   [
-   "Jason Ehmann",
-   "Anotha One",
-   2.13,
-   18,
-   8,
-   2,
-   2,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Tom Barnard",
    "Tip Deep",
    2.13,
@@ -376,6 +361,21 @@
    8,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jason Ehmann",
+   "Anotha One",
+   2.13,
+   18,
+   8,
+   2,
+   2,
+   0,
+   5,
+   1,
+   1,
    0,
    0
   ],
@@ -1861,5 +1861,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-13T13:33:41Z"
+ "updated": "2026-11-13T15:09:26Z"
 }
