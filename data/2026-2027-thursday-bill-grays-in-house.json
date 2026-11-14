@@ -230,21 +230,6 @@
    0
   ],
   [
-   "Josh Krause",
-   "BadDarts StankyFarts",
-   1.67,
-   36,
-   12,
-   2,
-   0,
-   0,
-   11,
-   8,
-   1,
-   0,
-   0
-  ],
-  [
    "Caleb Lee",
    "Just The Tip",
    1.67,
@@ -257,6 +242,21 @@
    3,
    1,
    1,
+   0
+  ],
+  [
+   "Josh Krause",
+   "BadDarts StankyFarts",
+   1.67,
+   36,
+   12,
+   2,
+   0,
+   0,
+   11,
+   8,
+   1,
+   0,
    0
   ],
   [
@@ -894,7 +894,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-11-14T03:08:40Z",
+ "updated": "2026-11-14T04:14:31Z",
  "teams": [
   {
    "name": "Alex And Lawlor",

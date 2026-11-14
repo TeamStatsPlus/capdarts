@@ -36,13 +36,13 @@
   ],
   [
    "We Dem Boyz",
-   30,
-   60
+   42,
+   63
   ],
   [
    "Tony And Julian",
-   18,
-   72
+   21,
+   84
   ]
  ],
  "results": [
@@ -61,6 +61,14 @@
    7,
    14,
    1
+  ],
+  [
+   "We Dem Boyz",
+   "Tony And Julian",
+   "11/13/2026",
+   3,
+   12,
+   3
   ],
   [
    "Carpet Cleaners",
@@ -95,20 +103,12 @@
    10
   ],
   [
-   "We Dem Boyz",
-   "Dem BOYZ",
-   "11/11/2026",
-   7,
-   1,
-   14
-  ],
-  [
    "Tony And Julian",
-   "Where The Bacon",
-   "11/11/2026",
-   7,
-   1,
-   14
+   "We Dem Boyz",
+   "11/13/2026",
+   3,
+   3,
+   12
   ]
  ],
  "improved": {
@@ -120,16 +120,16 @@
     2.76
    ],
    [
-    "Erika Mardo",
-    "Squishy Business",
-    3.2,
-    3.25
-   ],
-   [
     "James Mitchell",
     "Dem BOYZ",
     2.7,
     2.75
+   ],
+   [
+    "Erika Mardo",
+    "Squishy Business",
+    3.2,
+    3.25
    ]
   ],
   "x": [
@@ -290,6 +290,21 @@
    1
   ],
   [
+   "Dave Coin",
+   "We Dem Boyz",
+   2.44,
+   42,
+   11,
+   6,
+   2,
+   0,
+   16,
+   11,
+   2,
+   0,
+   1
+  ],
+  [
    "Alexander Blake",
    "Brighton Bruins",
    2.4,
@@ -305,21 +320,6 @@
    0
   ],
   [
-   "Dave Coin",
-   "We Dem Boyz",
-   2.38,
-   36,
-   8,
-   3,
-   2,
-   0,
-   14,
-   6,
-   2,
-   0,
-   1
-  ],
-  [
    "Travis Perry",
    "Brighton Bruins",
    2.38,
@@ -331,21 +331,6 @@
    20,
    11,
    4,
-   0,
-   0
-  ],
-  [
-   "Anthony Mineo",
-   "Tony And Julian",
-   2.26,
-   36,
-   8,
-   0,
-   1,
-   0,
-   16,
-   6,
-   2,
    0,
    0
   ],
@@ -380,6 +365,21 @@
    0
   ],
   [
+   "Anthony Mineo",
+   "Tony And Julian",
+   2.22,
+   42,
+   9,
+   0,
+   2,
+   0,
+   17,
+   7,
+   2,
+   0,
+   0
+  ],
+  [
    "Jason Miles",
    "Cheers For Bad Darts",
    2.03,
@@ -397,10 +397,10 @@
   [
    "Robyn Ralston",
    "We Dem Boyz",
-   2.02,
-   30,
-   4,
-   6,
+   1.97,
+   36,
+   8,
+   7,
    1,
    0,
    9,
@@ -443,13 +443,13 @@
    "Julian Diaz",
    "Tony And Julian",
    1.36,
-   36,
+   42,
    0,
    2,
    0,
    0,
    7,
-   0,
+   1,
    1,
    0,
    0
@@ -579,14 +579,14 @@
   [
    "Dave Coin",
    "We Dem Boyz",
-   20.83,
-   42,
-   9,
-   11,
+   20.76,
+   49,
+   14,
+   12,
    0,
    0,
    0,
-   56
+   72
   ],
   [
    "Steven Haag",
@@ -639,14 +639,14 @@
   [
    "Anthony Mineo",
    "Tony And Julian",
-   17.19,
-   42,
-   9,
-   3,
+   17.32,
+   49,
+   10,
+   5,
    0,
    0,
    0,
-   37
+   41
   ],
   [
    "Kelli Nash",
@@ -663,14 +663,14 @@
   [
    "Robyn Ralston",
    "We Dem Boyz",
-   16.61,
-   35,
+   17.0,
+   42,
    3,
-   2,
+   3,
    0,
    0,
    0,
-   21
+   32
   ],
   [
    "Julie DiGrazia",
@@ -687,14 +687,14 @@
   [
    "Julian Diaz",
    "Tony And Julian",
-   12.24,
-   42,
-   1,
+   12.19,
+   49,
+   2,
    0,
    0,
    0,
    0,
-   8
+   10
   ]
  ],
  "teams": [
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-14T01:27:46Z"
+ "updated": "2026-11-14T04:14:00Z"
 }

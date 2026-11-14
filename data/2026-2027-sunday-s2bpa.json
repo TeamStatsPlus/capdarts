@@ -451,21 +451,6 @@
    0
   ],
   [
-   "Efrain Figueroa",
-   "Black And Brown",
-   2.68,
-   36,
-   10,
-   3,
-   2,
-   0,
-   25,
-   10,
-   6,
-   0,
-   1
-  ],
-  [
    "Dashay Earlsey",
    "Water Off",
    2.68,
@@ -479,6 +464,21 @@
    8,
    2,
    2
+  ],
+  [
+   "Efrain Figueroa",
+   "Black And Brown",
+   2.68,
+   36,
+   10,
+   3,
+   2,
+   0,
+   25,
+   10,
+   6,
+   0,
+   1
   ],
   [
    "Archie Donaldson",
@@ -496,21 +496,6 @@
    2
   ],
   [
-   "Chris Nesci",
-   "Black And Brown",
-   2.36,
-   18,
-   1,
-   3,
-   0,
-   0,
-   9,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Judson Brown",
    "Brown Viper",
    2.36,
@@ -523,6 +508,21 @@
    7,
    4,
    1,
+   0
+  ],
+  [
+   "Chris Nesci",
+   "Black And Brown",
+   2.36,
+   18,
+   1,
+   3,
+   0,
+   0,
+   9,
+   3,
+   2,
+   0,
    0
   ],
   [
@@ -1509,5 +1509,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-14T01:26:47Z"
+ "updated": "2026-11-14T04:12:59Z"
 }
