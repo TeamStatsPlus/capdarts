@@ -166,6 +166,12 @@
  "improved": {
   "c": [
    [
+    "Zach Zeek Smith",
+    "Is It In",
+    2.04,
+    2.15
+   ],
+   [
     "Kevin Moses",
     "Is It In",
     1.76,
@@ -176,12 +182,6 @@
     "Show Your Tips",
     1.7,
     1.81
-   ],
-   [
-    "Zach Zeek Smith",
-    "Is It In",
-    2.04,
-    2.15
    ]
   ],
   "x": [
@@ -402,21 +402,6 @@
    0
   ],
   [
-   "Alex Riley",
-   "New Wave",
-   2.08,
-   18,
-   7,
-   7,
-   1,
-   0,
-   5,
-   0,
-   4,
-   0,
-   0
-  ],
-  [
    "John Bailey",
    "Chicks And Dicks",
    2.08,
@@ -428,6 +413,21 @@
    3,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Alex Riley",
+   "New Wave",
+   2.08,
+   18,
+   7,
+   7,
+   1,
+   0,
+   5,
+   0,
+   4,
    0,
    0
   ],
@@ -1002,21 +1002,6 @@
    0
   ],
   [
-   "Joey Tortora",
-   "Points And Pints",
-   1.35,
-   18,
-   3,
-   3,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Pal New Wave",
    "New Wave",
    1.35,
@@ -1027,6 +1012,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joey Tortora",
+   "Points And Pints",
+   1.35,
+   18,
+   3,
+   3,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-14T06:06:55Z"
+ "updated": "2026-11-14T07:28:03Z"
 }

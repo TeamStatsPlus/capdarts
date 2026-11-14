@@ -589,21 +589,6 @@
    0
   ],
   [
-   "Danae Diaz",
-   "Better Together",
-   1.92,
-   36,
-   14,
-   10,
-   3,
-   0,
-   6,
-   3,
-   3,
-   0,
-   0
-  ],
-  [
    "Brian Zicari",
    "Pointless",
    1.92,
@@ -616,6 +601,21 @@
    6,
    3,
    1,
+   0
+  ],
+  [
+   "Danae Diaz",
+   "Better Together",
+   1.92,
+   36,
+   14,
+   10,
+   3,
+   0,
+   6,
+   3,
+   3,
+   0,
    0
   ],
   [
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-14T06:06:41Z"
+ "updated": "2026-11-14T07:27:49Z"
 }
