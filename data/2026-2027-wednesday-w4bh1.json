@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.54,
-   15,
-   4,
-   3,
-   0,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "John Brennan",
    "Emerald Society",
    1.54,
@@ -639,6 +624,21 @@
    1,
    0,
    2,
+   0
+  ],
+  [
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.54,
+   15,
+   4,
+   3,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
    0
   ],
   [
@@ -762,21 +762,6 @@
    0
   ],
   [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.35,
@@ -786,6 +771,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -1520,18 +1520,6 @@
    1
   ],
   [
-   "Brent Flynn",
-   "Tips Dont Lie",
-   16.35,
-   28,
-   8,
-   0,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    16.35,
@@ -1542,6 +1530,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Brent Flynn",
+   "Tips Dont Lie",
+   16.35,
+   28,
+   8,
+   0,
+   0,
+   0,
+   0,
+   13
   ],
   [
    "Steve Caufield",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-14T14:59:28Z"
+ "updated": "2026-11-14T15:58:15Z"
 }
