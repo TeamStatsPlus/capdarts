@@ -172,16 +172,16 @@
     1.54
    ],
    [
-    "Stephen Monahan",
-    "The Limp Wristers",
-    1.52,
-    1.6
-   ],
-   [
     "Erin Lamar",
     "Throwgasms",
     1.03,
     1.11
+   ],
+   [
+    "Stephen Monahan",
+    "The Limp Wristers",
+    1.52,
+    1.6
    ]
   ],
   "x": [
@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Danielle Henry",
-   "The Limp Wristers",
-   1.54,
-   18,
-   4,
-   7,
-   0,
-   0,
-   1,
-   1,
-   0,
-   2,
-   0
-  ],
-  [
    "Chris Murgatroyd",
    "Double Deuces",
    1.54,
@@ -639,6 +624,21 @@
    1,
    0,
    0,
+   0
+  ],
+  [
+   "Danielle Henry",
+   "The Limp Wristers",
+   1.54,
+   18,
+   4,
+   7,
+   0,
+   0,
+   1,
+   1,
+   0,
+   2,
    0
   ],
   [
@@ -762,21 +762,6 @@
    0
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   1.35,
-   12,
-   5,
-   4,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Josh Struggle Bus",
    "Struggle Bus",
    1.35,
@@ -786,6 +771,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   1.35,
+   12,
+   5,
+   4,
+   0,
+   0,
+   3,
    0,
    0,
    0,
@@ -1137,21 +1137,6 @@
    0
   ],
   [
-   "Jill Calvert",
-   "Squeekertips",
-   0.98,
-   15,
-   3,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    0.98,
@@ -1162,6 +1147,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Squeekertips",
+   0.98,
+   15,
+   3,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1227,21 +1227,6 @@
    0
   ],
   [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
-   0.9,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Cindy Simpson",
    "Squeekertips",
    0.9,
@@ -1266,6 +1251,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
+   0.9,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -1760,8 +1760,8 @@
    2
   ],
   [
-   "Tyler Campbell",
-   "Throwgasms",
+   "Mark Pelcher",
+   "Emerald Society",
    14.15,
    4,
    0,
@@ -1772,8 +1772,8 @@
    1
   ],
   [
-   "Mark Pelcher",
-   "Emerald Society",
+   "Tyler Campbell",
+   "Throwgasms",
    14.15,
    4,
    0,
@@ -2108,18 +2108,6 @@
    2
   ],
   [
-   "Lydia Wheeler",
-   "Shart Shooters",
-   12.27,
-   24,
-   6,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Adam Phillips",
    "Struggle Bus",
    12.27,
@@ -2130,6 +2118,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Lydia Wheeler",
+   "Shart Shooters",
+   12.27,
+   24,
+   6,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Sylvan Hemingway",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-14T09:08:28Z"
+ "updated": "2026-11-14T11:01:08Z"
 }
