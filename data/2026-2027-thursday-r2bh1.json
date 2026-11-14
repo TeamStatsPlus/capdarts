@@ -127,16 +127,16 @@
  "improved": {
   "c": [
    [
-    "Dan Carroll",
-    "Not These Guys Again",
-    1.96,
-    2.0
-   ],
-   [
     "Colin Mousseau",
     "The Nobodys",
     1.89,
     1.93
+   ],
+   [
+    "Dan Carroll",
+    "Not These Guys Again",
+    1.96,
+    2.0
    ],
    [
     "Rowdy Woodworth",
@@ -333,21 +333,6 @@
    0
   ],
   [
-   "Jon Green",
-   "Split Decision",
-   1.8,
-   36,
-   6,
-   11,
-   0,
-   0,
-   8,
-   4,
-   2,
-   0,
-   0
-  ],
-  [
    "Matt Cortese",
    "2 Guys 1 Bull",
    1.8,
@@ -359,6 +344,21 @@
    3,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Jon Green",
+   "Split Decision",
+   1.8,
+   36,
+   6,
+   11,
+   0,
+   0,
+   8,
+   4,
+   2,
    0,
    0
   ],
@@ -1500,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-14T05:13:47Z"
+ "updated": "2026-11-14T06:07:43Z"
 }

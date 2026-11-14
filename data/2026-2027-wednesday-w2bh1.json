@@ -417,21 +417,6 @@
    0
   ],
   [
-   "Jim Cox",
-   "Methodical Missers",
-   1.6,
-   42,
-   9,
-   12,
-   2,
-   0,
-   6,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Karen Delbert",
    "Pointless",
    1.6,
@@ -442,6 +427,21 @@
    0,
    7,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jim Cox",
+   "Methodical Missers",
+   1.6,
+   42,
+   9,
+   12,
+   2,
+   0,
+   6,
+   0,
    0,
    0,
    0
@@ -462,21 +462,6 @@
    0
   ],
   [
-   "Sean Robertson",
-   "Pointless",
-   1.49,
-   42,
-   10,
-   10,
-   0,
-   0,
-   4,
-   3,
-   3,
-   0,
-   0
-  ],
-  [
    "James Miller",
    "Turd Ferguson",
    1.49,
@@ -488,6 +473,21 @@
    6,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Sean Robertson",
+   "Pointless",
+   1.49,
+   42,
+   10,
+   10,
+   0,
+   0,
+   4,
+   3,
+   3,
    0,
    0
   ],
@@ -815,18 +815,6 @@
    21
   ],
   [
-   "Jim Cox",
-   "Methodical Missers",
-   16.36,
-   49,
-   7,
-   1,
-   0,
-   0,
-   0,
-   24
-  ],
-  [
    "Tim Turner",
    "Fairly Oddparents",
    16.36,
@@ -837,6 +825,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Jim Cox",
+   "Methodical Missers",
+   16.36,
+   49,
+   7,
+   1,
+   0,
+   0,
+   0,
+   24
   ],
   [
    "Syrica Story",
@@ -1833,5 +1833,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-14T03:08:11Z"
+ "updated": "2026-11-14T06:06:59Z"
 }

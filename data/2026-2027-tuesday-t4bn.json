@@ -166,6 +166,12 @@
  "improved": {
   "c": [
    [
+    "Kevin Moses",
+    "Is It In",
+    1.76,
+    1.87
+   ],
+   [
     "Jamie Rialdi",
     "Show Your Tips",
     1.7,
@@ -176,12 +182,6 @@
     "Is It In",
     2.04,
     2.15
-   ],
-   [
-    "Kevin Moses",
-    "Is It In",
-    1.76,
-    1.87
    ]
   ],
   "x": [
@@ -402,21 +402,6 @@
    0
   ],
   [
-   "John Bailey",
-   "Chicks And Dicks",
-   2.08,
-   12,
-   5,
-   1,
-   1,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Alex Riley",
    "New Wave",
    2.08,
@@ -428,6 +413,21 @@
    5,
    0,
    4,
+   0,
+   0
+  ],
+  [
+   "John Bailey",
+   "Chicks And Dicks",
+   2.08,
+   12,
+   5,
+   1,
+   1,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Jake Preston",
-   "Show Your Tips",
-   1.81,
-   18,
-   4,
-   5,
-   0,
-   1,
-   4,
-   2,
-   0,
-   0,
-   1
-  ],
-  [
    "Jamie Rialdi",
    "Show Your Tips",
    1.81,
@@ -685,6 +670,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Jake Preston",
+   "Show Your Tips",
+   1.81,
+   18,
+   4,
+   5,
+   0,
+   1,
+   4,
+   2,
+   0,
+   0,
+   1
   ],
   [
    "Paul Cottingham",
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-14T05:12:55Z"
+ "updated": "2026-11-14T06:06:55Z"
 }

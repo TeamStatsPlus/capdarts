@@ -304,21 +304,6 @@
    1
   ],
   [
-   "Toby Affronti",
-   "RRP Crew",
-   2.16,
-   15,
-   6,
-   2,
-   2,
-   0,
-   3,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Kurt Krahenbuhl",
    "Rizm With The Tizm",
    2.16,
@@ -330,6 +315,21 @@
    5,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Toby Affronti",
+   "RRP Crew",
+   2.16,
+   15,
+   6,
+   2,
+   2,
+   0,
+   3,
+   0,
+   1,
    0,
    0
   ],
@@ -544,21 +544,6 @@
    1
   ],
   [
-   "Steve Gonzalez",
-   "ReDarted",
-   1.84,
-   18,
-   3,
-   4,
-   2,
-   0,
-   4,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Jessie Purdy",
    "Team Stinky",
    1.84,
@@ -569,6 +554,21 @@
    0,
    5,
    5,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Gonzalez",
+   "ReDarted",
+   1.84,
+   18,
+   3,
+   4,
+   2,
+   0,
+   4,
+   2,
    0,
    0,
    0
@@ -679,21 +679,6 @@
    0
   ],
   [
-   "Rob Ayotte",
-   "Liquor Box",
-   1.75,
-   12,
-   2,
-   3,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Thomas Macomber",
    "Ask Bobby",
    1.75,
@@ -704,6 +689,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rob Ayotte",
+   "Liquor Box",
+   1.75,
+   12,
+   2,
+   3,
+   0,
+   0,
+   3,
+   0,
    0,
    0,
    0
@@ -724,21 +724,6 @@
    0
   ],
   [
-   "Mike Hale",
-   "Id Hit That",
-   1.72,
-   18,
-   5,
-   0,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Courtney Armstrong",
    "Rizm With The Tizm",
    1.72,
@@ -750,6 +735,21 @@
    4,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Mike Hale",
+   "Id Hit That",
+   1.72,
+   18,
+   5,
+   0,
+   0,
+   0,
+   2,
+   3,
+   0,
    0,
    0
   ],
@@ -769,21 +769,6 @@
    0
   ],
   [
-   "Matthew Griffith",
-   "Rizm With The Tizm",
-   1.67,
-   21,
-   7,
-   3,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Chester Mathis",
    "Toasted Darts",
    1.67,
@@ -797,6 +782,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Matthew Griffith",
+   "Rizm With The Tizm",
+   1.67,
+   21,
+   7,
+   3,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "Adam Northrup",
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-14T05:13:30Z"
+ "updated": "2026-11-14T06:07:25Z"
 }
