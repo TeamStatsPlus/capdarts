@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T11:58:02Z",
+ "updated": "2026-11-14T13:16:43Z",
  "standings": [
   [
    "No Clue",
@@ -323,6 +323,21 @@
    2
   ],
   [
+   "Kevin DeHollander",
+   "Draw Two",
+   2.64,
+   30,
+   13,
+   0,
+   0,
+   0,
+   18,
+   6,
+   5,
+   0,
+   0
+  ],
+  [
    "Mike Georgetti",
    "No Clue",
    2.64,
@@ -338,18 +353,18 @@
    0
   ],
   [
-   "Kevin DeHollander",
-   "Draw Two",
-   2.64,
-   30,
-   13,
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   2.63,
+   36,
+   15,
+   2,
+   3,
    0,
-   0,
-   0,
-   18,
+   22,
    6,
    5,
-   0,
+   2,
    0
   ],
   [
@@ -368,19 +383,19 @@
    1
   ],
   [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   2.63,
+   "Daniel Purpura",
+   "Retreat",
+   2.61,
    36,
-   15,
-   2,
+   13,
    3,
+   1,
    0,
-   22,
-   6,
+   20,
+   12,
    5,
-   2,
-   0
+   0,
+   1
   ],
   [
    "Shawn Bentley",
@@ -396,21 +411,6 @@
    13,
    0,
    0
-  ],
-  [
-   "Daniel Purpura",
-   "Retreat",
-   2.61,
-   36,
-   13,
-   3,
-   1,
-   0,
-   20,
-   12,
-   5,
-   0,
-   1
   ],
   [
    "Todd Wagner",
@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Jason Bateman",
-   "Retreat",
-   2.44,
-   6,
-   1,
-   0,
-   1,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Alexander Blake",
    "Dart Bags T",
    2.44,
@@ -514,6 +499,21 @@
    16,
    9,
    8,
+   0,
+   0
+  ],
+  [
+   "Jason Bateman",
+   "Retreat",
+   2.44,
+   6,
+   1,
+   0,
+   1,
+   0,
+   2,
+   1,
+   0,
    0,
    0
   ],
@@ -533,21 +533,6 @@
    0
   ],
   [
-   "Jamie Love",
-   "Draw Two",
-   2.4,
-   30,
-   5,
-   7,
-   2,
-   0,
-   11,
-   3,
-   5,
-   0,
-   2
-  ],
-  [
    "Scott King",
    "Scotts On The Rocks",
    2.4,
@@ -561,6 +546,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Jamie Love",
+   "Draw Two",
+   2.4,
+   30,
+   5,
+   7,
+   2,
+   0,
+   11,
+   3,
+   5,
+   0,
+   2
   ],
   [
    "John Salamone",
@@ -1117,16 +1117,16 @@
     1.49
    ],
    [
-    "Alyxandria Weaver",
-    "Retreat",
-    1.72,
-    1.79
-   ],
-   [
     "Mike Georgetti",
     "No Clue",
     2.57,
     2.64
+   ],
+   [
+    "Alyxandria Weaver",
+    "Retreat",
+    1.72,
+    1.79
    ]
   ],
   "x": [

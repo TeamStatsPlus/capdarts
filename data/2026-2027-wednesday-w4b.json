@@ -200,12 +200,12 @@
    0
   ],
   [
-   "Jeff Every",
-   "FTO",
+   "Jojo Goodrell",
+   "Gameday",
    2.42,
    3,
    1,
-   2,
+   1,
    1,
    0,
    1,
@@ -215,12 +215,12 @@
    0
   ],
   [
-   "Jojo Goodrell",
-   "Gameday",
+   "Jeff Every",
+   "FTO",
    2.42,
    3,
    1,
-   1,
+   2,
    1,
    0,
    1,
@@ -1861,5 +1861,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-14T11:57:21Z"
+ "updated": "2026-11-14T13:16:02Z"
 }
