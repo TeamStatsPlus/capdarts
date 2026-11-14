@@ -530,6 +530,21 @@
    0
   ],
   [
+   "Mike Lewis",
+   "Gettin Looped",
+   1.45,
+   3,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Tony Jackson",
    "Gettin Looped",
    1.45,
@@ -555,21 +570,6 @@
    0,
    1,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Mike Lewis",
-   "Gettin Looped",
-   1.45,
-   3,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0,
    0
@@ -725,21 +725,6 @@
    0
   ],
   [
-   "Rik Sawyer",
-   "The Critters",
-   1.23,
-   18,
-   2,
-   4,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Sue Fuhry",
    "4 Of Clubs",
    1.23,
@@ -750,6 +735,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rik Sawyer",
+   "The Critters",
+   1.23,
+   18,
+   2,
+   4,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1351,18 +1351,6 @@
    0
   ],
   [
-   "Brett Harling",
-   "No Sleep",
-   12.84,
-   24,
-   2,
-   0,
-   0,
-   0,
-   1,
-   0
-  ],
-  [
    "David Pearce",
    "Thunderbuddies",
    12.84,
@@ -1373,6 +1361,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Brett Harling",
+   "No Sleep",
+   12.84,
+   24,
+   2,
+   0,
+   0,
+   0,
+   1,
+   0
   ],
   [
    "Kim Derbini",
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-14T07:27:59Z"
+ "updated": "2026-11-14T09:07:55Z"
 }
