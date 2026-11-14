@@ -172,16 +172,16 @@
     1.54
    ],
    [
-    "Stephen Monahan",
-    "The Limp Wristers",
-    1.52,
-    1.6
-   ],
-   [
     "Erin Lamar",
     "Throwgasms",
     1.03,
     1.11
+   ],
+   [
+    "Stephen Monahan",
+    "The Limp Wristers",
+    1.52,
+    1.6
    ]
   ],
   "x": [
@@ -597,6 +597,21 @@
    0
   ],
   [
+   "Danielle Henry",
+   "The Limp Wristers",
+   1.54,
+   18,
+   4,
+   7,
+   0,
+   0,
+   1,
+   1,
+   0,
+   2,
+   0
+  ],
+  [
    "Chris Murgatroyd",
    "Double Deuces",
    1.54,
@@ -624,21 +639,6 @@
    1,
    0,
    0,
-   0
-  ],
-  [
-   "Danielle Henry",
-   "The Limp Wristers",
-   1.54,
-   18,
-   4,
-   7,
-   0,
-   0,
-   1,
-   1,
-   0,
-   2,
    0
   ],
   [
@@ -762,21 +762,6 @@
    0
   ],
   [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.35,
@@ -786,6 +771,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -987,21 +987,6 @@
    0
   ],
   [
-   "Andrea Sutherland",
-   "Closer To Zero",
-   1.15,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Double Deuces",
    "Double Deuces",
    1.15,
@@ -1012,6 +997,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrea Sutherland",
+   "Closer To Zero",
+   1.15,
+   3,
+   1,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1107,21 +1107,6 @@
    0
   ],
   [
-   "Debbie Caufield",
-   "ProjectileDysfncion",
-   1.0,
-   6,
-   1,
-   5,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Katy Carges",
    "Throwgasms",
    1.0,
@@ -1132,6 +1117,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Debbie Caufield",
+   "ProjectileDysfncion",
+   1.0,
+   6,
+   1,
+   5,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -1227,6 +1227,21 @@
    0
   ],
   [
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
+   0.9,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Cindy Simpson",
    "Squeekertips",
    0.9,
@@ -1251,21 +1266,6 @@
    0,
    0,
    3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
-   0.9,
-   3,
-   1,
-   1,
-   0,
-   0,
-   0,
    0,
    0,
    0,
@@ -1520,18 +1520,6 @@
    1
   ],
   [
-   "Brent Flynn",
-   "Tips Dont Lie",
-   16.35,
-   28,
-   8,
-   0,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    16.35,
@@ -1542,6 +1530,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Brent Flynn",
+   "Tips Dont Lie",
+   16.35,
+   28,
+   8,
+   0,
+   0,
+   0,
+   0,
+   13
   ],
   [
    "Steve Caufield",
@@ -1856,18 +1856,6 @@
    1
   ],
   [
-   "John Brennan",
-   "Emerald Society",
-   13.94,
-   28,
-   7,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Nancy Miller",
    "3some Plus 1",
    13.94,
@@ -1878,6 +1866,18 @@
    0,
    0,
    1
+  ],
+  [
+   "John Brennan",
+   "Emerald Society",
+   13.94,
+   28,
+   7,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Adam Fowles",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-14T16:59:01Z"
+ "updated": "2026-11-14T17:53:38Z"
 }

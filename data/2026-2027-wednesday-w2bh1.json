@@ -462,21 +462,6 @@
    0
   ],
   [
-   "James Miller",
-   "Turd Ferguson",
-   1.49,
-   36,
-   10,
-   14,
-   0,
-   0,
-   6,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Sean Robertson",
    "Pointless",
    1.49,
@@ -488,6 +473,21 @@
    4,
    3,
    3,
+   0,
+   0
+  ],
+  [
+   "James Miller",
+   "Turd Ferguson",
+   1.49,
+   36,
+   10,
+   14,
+   0,
+   0,
+   6,
+   1,
+   1,
    0,
    0
   ],
@@ -815,18 +815,6 @@
    21
   ],
   [
-   "Tim Turner",
-   "Fairly Oddparents",
-   16.36,
-   35,
-   8,
-   2,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
    "Jim Cox",
    "Methodical Missers",
    16.36,
@@ -837,6 +825,18 @@
    0,
    0,
    24
+  ],
+  [
+   "Tim Turner",
+   "Fairly Oddparents",
+   16.36,
+   35,
+   8,
+   2,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "Syrica Story",
@@ -1833,5 +1833,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-14T16:58:39Z"
+ "updated": "2026-11-14T17:53:18Z"
 }
