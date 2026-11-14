@@ -304,21 +304,6 @@
    1
   ],
   [
-   "Kurt Krahenbuhl",
-   "Rizm With The Tizm",
-   2.16,
-   12,
-   4,
-   4,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Toby Affronti",
    "RRP Crew",
    2.16,
@@ -330,6 +315,21 @@
    3,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Kurt Krahenbuhl",
+   "Rizm With The Tizm",
+   2.16,
+   12,
+   4,
+   4,
+   0,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -544,21 +544,6 @@
    1
   ],
   [
-   "Jessie Purdy",
-   "Team Stinky",
-   1.84,
-   21,
-   5,
-   6,
-   0,
-   0,
-   5,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Gonzalez",
    "ReDarted",
    1.84,
@@ -569,6 +554,21 @@
    0,
    4,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jessie Purdy",
+   "Team Stinky",
+   1.84,
+   21,
+   5,
+   6,
+   0,
+   0,
+   5,
+   5,
    0,
    0,
    0
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-14T04:14:17Z"
+ "updated": "2026-11-14T05:13:30Z"
 }

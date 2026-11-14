@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T04:14:47Z",
+ "updated": "2026-11-14T05:13:57Z",
  "standings": [
   [
    "No Clue",
@@ -353,21 +353,6 @@
    0
   ],
   [
-   "Anthony Kelly",
-   "Throw Bros",
-   2.63,
-   36,
-   13,
-   0,
-   3,
-   0,
-   23,
-   5,
-   3,
-   1,
-   1
-  ],
-  [
    "Erica Wall",
    "TakingNamesTakingAim",
    2.63,
@@ -383,19 +368,19 @@
    0
   ],
   [
-   "Shawn Bentley",
-   "Throwing Shade",
-   2.61,
-   42,
-   16,
-   10,
-   2,
-   1,
-   23,
-   10,
+   "Anthony Kelly",
+   "Throw Bros",
+   2.63,
+   36,
    13,
    0,
-   0
+   3,
+   0,
+   23,
+   5,
+   3,
+   1,
+   1
   ],
   [
    "Daniel Purpura",
@@ -411,6 +396,21 @@
    5,
    0,
    1
+  ],
+  [
+   "Shawn Bentley",
+   "Throwing Shade",
+   2.61,
+   42,
+   16,
+   10,
+   2,
+   1,
+   23,
+   10,
+   13,
+   0,
+   0
   ],
   [
    "Todd Wagner",
@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Jason Bateman",
-   "Retreat",
-   2.44,
-   6,
-   1,
-   0,
-   1,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Alexander Blake",
    "Dart Bags T",
    2.44,
@@ -514,6 +499,21 @@
    16,
    9,
    8,
+   0,
+   0
+  ],
+  [
+   "Jason Bateman",
+   "Retreat",
+   2.44,
+   6,
+   1,
+   0,
+   1,
+   0,
+   2,
+   1,
+   0,
    0,
    0
   ],
@@ -533,21 +533,6 @@
    0
   ],
   [
-   "Jamie Love",
-   "Draw Two",
-   2.4,
-   30,
-   5,
-   7,
-   2,
-   0,
-   11,
-   3,
-   5,
-   0,
-   2
-  ],
-  [
    "Scott King",
    "Scotts On The Rocks",
    2.4,
@@ -561,6 +546,21 @@
    3,
    0,
    1
+  ],
+  [
+   "Jamie Love",
+   "Draw Two",
+   2.4,
+   30,
+   5,
+   7,
+   2,
+   0,
+   11,
+   3,
+   5,
+   0,
+   2
   ],
   [
    "John Salamone",

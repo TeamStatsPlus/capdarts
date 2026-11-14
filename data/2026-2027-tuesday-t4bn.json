@@ -166,12 +166,6 @@
  "improved": {
   "c": [
    [
-    "Kevin Moses",
-    "Is It In",
-    1.76,
-    1.87
-   ],
-   [
     "Jamie Rialdi",
     "Show Your Tips",
     1.7,
@@ -182,6 +176,12 @@
     "Is It In",
     2.04,
     2.15
+   ],
+   [
+    "Kevin Moses",
+    "Is It In",
+    1.76,
+    1.87
    ]
   ],
   "x": [
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-14T04:13:47Z"
+ "updated": "2026-11-14T05:12:55Z"
 }

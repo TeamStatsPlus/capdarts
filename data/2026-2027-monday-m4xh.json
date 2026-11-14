@@ -120,16 +120,16 @@
     2.31
    ],
    [
+    "Fred James",
+    "Right There",
+    2.89,
+    2.96
+   ],
+   [
     "Tim Olmsted",
     "Dartbags",
     1.65,
     1.72
-   ],
-   [
-    "Blake Stevenson",
-    "RamRod",
-    1.47,
-    1.54
    ]
   ],
   "x": [
@@ -245,21 +245,6 @@
    1
   ],
   [
-   "Jamie Johnson",
-   "RamRod",
-   2.49,
-   6,
-   1,
-   1,
-   0,
-   0,
-   4,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Joel Diaz",
    "RamRod",
    2.49,
@@ -273,6 +258,21 @@
    2,
    0,
    1
+  ],
+  [
+   "Jamie Johnson",
+   "RamRod",
+   2.49,
+   6,
+   1,
+   1,
+   0,
+   0,
+   4,
+   3,
+   1,
+   0,
+   0
   ],
   [
    "Mike Murphy",
@@ -1840,5 +1840,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-14T04:13:26Z"
+ "updated": "2026-11-14T05:12:35Z"
 }
