@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Steven Haag",
-   "Carpet Cleaners",
-   2.24,
-   36,
-   13,
-   8,
-   0,
-   0,
-   13,
-   6,
-   4,
-   0,
-   0
-  ],
-  [
    "William Lupiani",
    "Cheers For Bad Darts",
    2.24,
@@ -361,6 +346,21 @@
    4,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Steven Haag",
+   "Carpet Cleaners",
+   2.24,
+   36,
+   13,
+   8,
+   0,
+   0,
+   13,
+   6,
+   4,
    0,
    0
   ],
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-14T14:08:23Z"
+ "updated": "2026-11-14T14:59:16Z"
 }

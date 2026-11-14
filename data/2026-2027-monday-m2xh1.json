@@ -496,6 +496,21 @@
    0
   ],
   [
+   "Rob Hall",
+   "Girls Wanna Have Fun",
+   1.21,
+   6,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
    "Melissa Cocchiara",
    "Bulleye Bandits",
    1.21,
@@ -526,17 +541,17 @@
    0
   ],
   [
-   "Rob Hall",
-   "Girls Wanna Have Fun",
-   1.21,
-   6,
+   "Paul Humennyj",
+   "Couples Terapy",
+   1.15,
+   36,
+   5,
+   11,
    0,
    0,
+   4,
+   3,
    0,
-   0,
-   2,
-   0,
-   1,
    0,
    0
   ],
@@ -551,21 +566,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Paul Humennyj",
-   "Couples Terapy",
-   1.15,
-   36,
-   5,
-   11,
-   0,
-   0,
-   4,
-   3,
    0,
    0,
    0
@@ -1623,5 +1623,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-14T14:07:32Z"
+ "updated": "2026-11-14T14:58:24Z"
 }
