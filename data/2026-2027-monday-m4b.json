@@ -398,21 +398,6 @@
    0
   ],
   [
-   "Tim Smith",
-   "ChJokers",
-   2.21,
-   18,
-   4,
-   9,
-   0,
-   0,
-   4,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Shondell Kirton",
    "IDF NightCaps",
    2.21,
@@ -426,6 +411,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Tim Smith",
+   "ChJokers",
+   2.21,
+   18,
+   4,
+   9,
+   0,
+   0,
+   4,
+   2,
+   0,
+   0,
+   0
   ],
   [
    "Ben Kulikowski",
@@ -788,21 +788,6 @@
    0
   ],
   [
-   "Ed Rowland",
-   "ChJokers",
-   1.76,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Danny Zysman",
    "The Shockers",
    1.76,
@@ -812,6 +797,21 @@
    0,
    0,
    6,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ed Rowland",
+   "ChJokers",
+   1.76,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0,
@@ -3087,5 +3087,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-14T15:57:18Z"
+ "updated": "2026-11-14T16:58:04Z"
 }

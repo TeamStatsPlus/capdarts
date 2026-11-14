@@ -120,16 +120,16 @@
     1.23
    ],
    [
-    "Phil Warney",
-    "Gettin Looped",
-    1.73,
-    1.79
-   ],
-   [
     "Tom Smith",
     "4 Of Clubs",
     1.52,
     1.58
+   ],
+   [
+    "Phil Warney",
+    "Gettin Looped",
+    1.73,
+    1.79
    ]
   ],
   "x": [
@@ -290,21 +290,6 @@
    0
   ],
   [
-   "Brian Sloan",
-   "The Critters",
-   1.85,
-   21,
-   6,
-   2,
-   2,
-   0,
-   6,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Rick Ernst",
    "Gettin Looped",
    1.85,
@@ -330,6 +315,21 @@
    0,
    1,
    6,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.85,
+   21,
+   6,
+   2,
+   2,
+   0,
+   6,
+   3,
    0,
    0,
    0
@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Tony Jackson",
-   "Gettin Looped",
-   1.45,
-   21,
-   3,
-   9,
-   0,
-   0,
-   5,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mitch Jag",
    "Thats Bullshoot",
    1.45,
@@ -569,6 +554,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tony Jackson",
+   "Gettin Looped",
+   1.45,
+   21,
+   3,
+   9,
+   0,
+   0,
+   5,
    0,
    0,
    0,
@@ -725,21 +725,6 @@
    0
   ],
   [
-   "Rik Sawyer",
-   "The Critters",
-   1.23,
-   18,
-   2,
-   4,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Sue Fuhry",
    "4 Of Clubs",
    1.23,
@@ -750,6 +735,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rik Sawyer",
+   "The Critters",
+   1.23,
+   18,
+   2,
+   4,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-14T15:57:42Z"
+ "updated": "2026-11-14T16:58:28Z"
 }

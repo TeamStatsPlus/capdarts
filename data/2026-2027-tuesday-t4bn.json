@@ -166,6 +166,12 @@
  "improved": {
   "c": [
    [
+    "Kevin Moses",
+    "Is It In",
+    1.76,
+    1.87
+   ],
+   [
     "Jamie Rialdi",
     "Show Your Tips",
     1.7,
@@ -176,12 +182,6 @@
     "Is It In",
     2.04,
     2.15
-   ],
-   [
-    "Kevin Moses",
-    "Is It In",
-    1.76,
-    1.87
    ]
   ],
   "x": [
@@ -657,21 +657,6 @@
    0
   ],
   [
-   "Jake Preston",
-   "Show Your Tips",
-   1.81,
-   18,
-   4,
-   5,
-   0,
-   1,
-   4,
-   2,
-   0,
-   0,
-   1
-  ],
-  [
    "Jamie Rialdi",
    "Show Your Tips",
    1.81,
@@ -685,6 +670,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Jake Preston",
+   "Show Your Tips",
+   1.81,
+   18,
+   4,
+   5,
+   0,
+   1,
+   4,
+   2,
+   0,
+   0,
+   1
   ],
   [
    "Paul Cottingham",
@@ -1002,21 +1002,6 @@
    0
   ],
   [
-   "Joey Tortora",
-   "Points And Pints",
-   1.35,
-   18,
-   3,
-   3,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Pal New Wave",
    "New Wave",
    1.35,
@@ -1027,6 +1012,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joey Tortora",
+   "Points And Pints",
+   1.35,
+   18,
+   3,
+   3,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-14T15:57:47Z"
+ "updated": "2026-11-14T16:58:33Z"
 }
