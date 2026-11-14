@@ -417,21 +417,6 @@
    0
   ],
   [
-   "Karen Delbert",
-   "Pointless",
-   1.6,
-   42,
-   10,
-   10,
-   0,
-   0,
-   7,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jim Cox",
    "Methodical Missers",
    1.6,
@@ -442,6 +427,21 @@
    0,
    6,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Karen Delbert",
+   "Pointless",
+   1.6,
+   42,
+   10,
+   10,
+   0,
+   0,
+   7,
+   1,
    0,
    0,
    0
@@ -1833,5 +1833,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-13T23:55:49Z"
+ "updated": "2026-11-14T01:27:37Z"
 }

@@ -224,16 +224,16 @@
     1.92
    ],
    [
+    "Katrina ReedMullen",
+    "Pointless",
+    1.64,
+    1.69
+   ],
+   [
     "Melissa Miles",
     "Pusc Paninis",
     2.27,
     2.32
-   ],
-   [
-    "Brian Zicari",
-    "Pointless",
-    1.87,
-    1.92
    ]
   ],
   "x": [
@@ -559,21 +559,6 @@
    0
   ],
   [
-   "Tyler CannonBailey",
-   "Squeaky Wheel",
-   1.96,
-   6,
-   1,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Kelly Kilmer",
    "Drunken Squids",
    1.96,
@@ -585,6 +570,21 @@
    12,
    5,
    2,
+   0,
+   0
+  ],
+  [
+   "Tyler CannonBailey",
+   "Squeaky Wheel",
+   1.96,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
    0,
    0
   ],
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-13T23:55:33Z"
+ "updated": "2026-11-14T01:27:19Z"
 }

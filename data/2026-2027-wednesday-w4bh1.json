@@ -357,21 +357,6 @@
    0
   ],
   [
-   "Graham Wheeler",
-   "Shart Shooters",
-   1.7,
-   18,
-   10,
-   2,
-   0,
-   0,
-   1,
-   2,
-   2,
-   0,
-   0
-  ],
-  [
    "Steve Caufield",
    "ProjectileDysfncion",
    1.7,
@@ -387,17 +372,17 @@
    0
   ],
   [
-   "James Simpson",
-   "Cant Close",
-   1.69,
-   15,
-   5,
-   5,
+   "Graham Wheeler",
+   "Shart Shooters",
+   1.7,
+   18,
+   10,
+   2,
    0,
    0,
-   3,
    1,
-   1,
+   2,
+   2,
    0,
    0
   ],
@@ -413,6 +398,21 @@
    3,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "James Simpson",
+   "Cant Close",
+   1.69,
+   15,
+   5,
+   5,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -642,21 +642,6 @@
    0
   ],
   [
-   "Dan Berger",
-   "Emerald Society",
-   1.5,
-   18,
-   6,
-   2,
-   0,
-   0,
-   5,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Jess Struggle Bus",
    "Struggle Bus",
    1.5,
@@ -668,6 +653,21 @@
    0,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Dan Berger",
+   "Emerald Society",
+   1.5,
+   18,
+   6,
+   2,
+   0,
+   0,
+   5,
+   2,
+   0,
    0,
    0
   ],
@@ -1272,11 +1272,11 @@
    0
   ],
   [
-   "Marin Valentino",
-   "The Limp Wristers",
+   "Aaron Struggle Bus",
+   "Struggle Bus",
    0.89,
-   3,
-   1,
+   6,
+   0,
    0,
    0,
    0,
@@ -1287,11 +1287,11 @@
    0
   ],
   [
-   "Aaron Struggle Bus",
-   "Struggle Bus",
+   "Marin Valentino",
+   "The Limp Wristers",
    0.89,
-   6,
-   0,
+   3,
+   1,
    0,
    0,
    0,
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-13T23:56:04Z"
+ "updated": "2026-11-14T01:27:56Z"
 }
