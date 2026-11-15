@@ -732,21 +732,6 @@
    0
   ],
   [
-   "Dan Spencer",
-   "Peppers And Onions",
-   1.72,
-   15,
-   2,
-   1,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Coyle",
    "Fat Bastards",
    1.72,
@@ -758,6 +743,21 @@
    2,
    4,
    0,
+   0,
+   0
+  ],
+  [
+   "Dan Spencer",
+   "Peppers And Onions",
+   1.72,
+   15,
+   2,
+   1,
+   0,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-15T20:57:36Z"
+ "updated": "2026-11-15T21:56:34Z"
 }
