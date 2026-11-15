@@ -1351,18 +1351,6 @@
    0
   ],
   [
-   "David Pearce",
-   "Thunderbuddies",
-   12.84,
-   24,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Brett Harling",
    "No Sleep",
    12.84,
@@ -1373,6 +1361,18 @@
    0,
    1,
    0
+  ],
+  [
+   "David Pearce",
+   "Thunderbuddies",
+   12.84,
+   24,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Kim Derbini",
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-15T09:07:17Z"
+ "updated": "2026-11-15T10:05:28Z"
 }
