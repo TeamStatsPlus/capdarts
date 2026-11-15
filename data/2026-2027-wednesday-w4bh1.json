@@ -1137,21 +1137,6 @@
    0
   ],
   [
-   "Jamie Brown",
-   "Tips Dont Lie",
-   0.98,
-   9,
-   1,
-   2,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jill Calvert",
    "Squeekertips",
    0.98,
@@ -1162,6 +1147,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jamie Brown",
+   "Tips Dont Lie",
+   0.98,
+   9,
+   1,
+   2,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1520,18 +1520,6 @@
    1
   ],
   [
-   "Dan Berger",
-   "Emerald Society",
-   16.35,
-   24,
-   4,
-   0,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
    "Brent Flynn",
    "Tips Dont Lie",
    16.35,
@@ -1542,6 +1530,18 @@
    0,
    0,
    13
+  ],
+  [
+   "Dan Berger",
+   "Emerald Society",
+   16.35,
+   24,
+   4,
+   0,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Steve Caufield",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-15T16:59:42Z"
+ "updated": "2026-11-15T17:54:32Z"
 }
