@@ -384,21 +384,6 @@
    2
   ],
   [
-   "Scott Ingham",
-   "Bigg Darts",
-   2.42,
-   18,
-   2,
-   3,
-   0,
-   0,
-   7,
-   6,
-   1,
-   0,
-   0
-  ],
-  [
    "Luis Rodriguez",
    "We Made The Cut",
    2.42,
@@ -409,6 +394,21 @@
    0,
    8,
    4,
+   1,
+   0,
+   0
+  ],
+  [
+   "Scott Ingham",
+   "Bigg Darts",
+   2.42,
+   18,
+   2,
+   3,
+   0,
+   0,
+   7,
+   6,
    1,
    0,
    0
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-15T15:00:30Z"
+ "updated": "2026-11-15T16:59:57Z"
 }
