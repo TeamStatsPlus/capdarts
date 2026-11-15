@@ -172,16 +172,16 @@
     1.54
    ],
    [
-    "Stephen Monahan",
-    "The Limp Wristers",
-    1.52,
-    1.6
-   ],
-   [
     "Erin Lamar",
     "Throwgasms",
     1.03,
     1.11
+   ],
+   [
+    "Stephen Monahan",
+    "The Limp Wristers",
+    1.52,
+    1.6
    ]
   ],
   "x": [
@@ -942,21 +942,6 @@
    0
   ],
   [
-   "Jess Post",
-   "Closer To Zero",
-   1.17,
-   12,
-   4,
-   3,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Ellen Post",
    "Closer To Zero",
    1.17,
@@ -970,6 +955,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Jess Post",
+   "Closer To Zero",
+   1.17,
+   12,
+   4,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "John Inzinna",
@@ -987,21 +987,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -1012,6 +997,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1227,6 +1227,21 @@
    0
   ],
   [
+   "Kaitlyn Schaeffer",
+   "Throwgasms",
+   0.9,
+   3,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Cindy Simpson",
    "Squeekertips",
    0.9,
@@ -1257,12 +1272,12 @@
    0
   ],
   [
-   "Kaitlyn Schaeffer",
-   "Throwgasms",
-   0.9,
+   "Marin Valentino",
+   "The Limp Wristers",
+   0.89,
    3,
    1,
-   1,
+   0,
    0,
    0,
    0,
@@ -1277,21 +1292,6 @@
    0.89,
    6,
    0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Marin Valentino",
-   "The Limp Wristers",
-   0.89,
-   3,
-   1,
    0,
    0,
    0,
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-15T04:15:55Z"
+ "updated": "2026-11-15T05:17:25Z"
 }
