@@ -35,17 +35,17 @@
    29
   ],
   [
+   "Docs Crew",
+   43,
+   35
+  ],
+  [
    "Team Titos",
    50,
    41
   ],
   [
    "Glass N Stache",
-   35,
-   30
-  ],
-  [
-   "Docs Crew",
    35,
    30
   ],
@@ -71,8 +71,8 @@
   ],
   [
    "Tires And Soda",
-   28,
-   63
+   33,
+   71
   ],
   [
    "The Dartbags",
@@ -104,6 +104,14 @@
    7,
    10,
    3
+  ],
+  [
+   "Docs Crew",
+   "Tires And Soda",
+   "11/15/2026",
+   8,
+   8,
+   5
   ],
   [
    "Tintins",
@@ -170,12 +178,12 @@
    8
   ],
   [
+   "Tires And Soda",
    "Docs Crew",
-   "One Hole Off",
-   "11/08/2026",
-   7,
-   3,
-   10
+   "11/15/2026",
+   8,
+   5,
+   8
   ],
   [
    "Ones Are Closed",
@@ -192,55 +200,35 @@
    5,
    2,
    11
-  ],
-  [
-   "Tires And Soda",
-   "Team Titos",
-   "11/08/2026",
-   7,
-   0,
-   13
   ]
  ],
  "improved": {
   "c": [
    [
-    "Aaron Davis",
-    "Ones Are Closed",
-    0.87,
-    1.06
+    "Steve Bauman",
+    "Docs Crew",
+    2.08,
+    2.19
    ],
    [
-    "Kenny Williams",
-    "Glass N Stache",
-    2.1,
-    2.23
+    "Karl Taylor",
+    "Tires And Soda",
+    1.79,
+    1.87
    ],
    [
-    "Kristin Southwick",
-    "Tintins",
-    1.34,
-    1.41
+    "Enzo Maiola",
+    "Docs Crew",
+    2.41,
+    2.42
    ]
   ],
   "x": [
    [
-    "Kenny Williams",
-    "Glass N Stache",
-    17.93,
-    18.81
-   ],
-   [
-    "Andrew Williams",
-    "One Hole Off",
-    21.48,
-    22.17
-   ],
-   [
-    "Aaron Davis",
-    "Ones Are Closed",
-    13.5,
-    14.0
+    "Karl Taylor",
+    "Tires And Soda",
+    17.67,
+    17.91
    ]
   ]
  },
@@ -278,15 +266,15 @@
   [
    "Enzo Maiola",
    "Docs Crew",
-   2.41,
-   30,
+   2.42,
+   36,
+   12,
    9,
-   8,
    2,
    0,
-   8,
-   4,
-   4,
+   10,
+   5,
+   5,
    0,
    1
   ],
@@ -351,6 +339,21 @@
    2
   ],
   [
+   "Steve Bauman",
+   "Docs Crew",
+   2.19,
+   30,
+   7,
+   8,
+   0,
+   0,
+   3,
+   4,
+   5,
+   0,
+   1
+  ],
+  [
    "Claude Yeoumas",
    "Brothas",
    2.19,
@@ -381,21 +384,6 @@
    0
   ],
   [
-   "Sean Crowell",
-   "The Dartbags",
-   2.14,
-   36,
-   10,
-   1,
-   0,
-   0,
-   12,
-   2,
-   4,
-   0,
-   0
-  ],
-  [
    "David Caesar",
    "Night Shot",
    2.14,
@@ -407,6 +395,21 @@
    14,
    7,
    3,
+   0,
+   0
+  ],
+  [
+   "Sean Crowell",
+   "The Dartbags",
+   2.14,
+   36,
+   10,
+   1,
+   0,
+   0,
+   12,
+   2,
+   4,
    0,
    0
   ],
@@ -424,21 +427,6 @@
    2,
    1,
    0
-  ],
-  [
-   "Steve Bauman",
-   "Docs Crew",
-   2.08,
-   24,
-   6,
-   5,
-   0,
-   0,
-   2,
-   2,
-   1,
-   0,
-   1
   ],
   [
    "Jason Miles",
@@ -467,6 +455,21 @@
    5,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   1.9,
+   24,
+   7,
+   7,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -501,21 +504,6 @@
    0
   ],
   [
-   "Dave Heschke",
-   "Fing The Neighbors",
-   1.9,
-   24,
-   7,
-   7,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Ethan Glashauser",
    "Glass N Stache",
    1.87,
@@ -527,6 +515,21 @@
    8,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Karl Taylor",
+   "Tires And Soda",
+   1.87,
+   42,
+   10,
+   6,
+   2,
+   0,
+   15,
+   3,
+   2,
    0,
    0
   ],
@@ -576,21 +579,6 @@
    0
   ],
   [
-   "Karl Taylor",
-   "Tires And Soda",
-   1.79,
-   36,
-   9,
-   5,
-   2,
-   0,
-   10,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Tony Maiola",
    "Docs Crew",
    1.76,
@@ -606,21 +594,6 @@
    0
   ],
   [
-   "Jeff Bush",
-   "Tires And Soda",
-   1.73,
-   36,
-   5,
-   9,
-   1,
-   0,
-   8,
-   4,
-   2,
-   0,
-   0
-  ],
-  [
    "Dustin Nelson",
    "TWINS",
    1.71,
@@ -632,6 +605,21 @@
    2,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Jeff Bush",
+   "Tires And Soda",
+   1.7,
+   42,
+   6,
+   10,
+   1,
+   0,
+   8,
+   4,
+   2,
    0,
    0
   ],
@@ -760,14 +748,14 @@
   [
    "Enzo Maiola",
    "Docs Crew",
-   24.74,
-   35,
-   11,
+   24.57,
+   42,
    12,
+   14,
    0,
    0,
    0,
-   37
+   44
   ],
   [
    "Justin Southwick",
@@ -820,14 +808,14 @@
   [
    "Steve Bauman",
    "Docs Crew",
-   21.59,
-   28,
-   6,
+   21.47,
+   35,
+   9,
    0,
    0,
    0,
    0,
-   25
+   29
   ],
   [
    "Cameron Giles",
@@ -938,18 +926,6 @@
    19
   ],
   [
-   "Kenny Williams",
-   "Glass N Stache",
-   18.81,
-   35,
-   11,
-   2,
-   0,
-   0,
-   0,
-   19
-  ],
-  [
    "Claude Yeoumas",
    "Brothas",
    18.81,
@@ -960,6 +936,18 @@
    0,
    0,
    22
+  ],
+  [
+   "Kenny Williams",
+   "Glass N Stache",
+   18.81,
+   35,
+   11,
+   2,
+   0,
+   0,
+   0,
+   19
   ],
   [
    "TJ Vay",
@@ -1000,26 +988,14 @@
   [
    "Karl Taylor",
    "Tires And Soda",
-   17.67,
-   42,
-   6,
-   0,
-   0,
-   0,
-   0,
-   19
-  ],
-  [
-   "Jeff Bush",
-   "Tires And Soda",
-   17.49,
-   42,
+   17.91,
+   49,
    8,
-   4,
    0,
    0,
    0,
-   13
+   0,
+   22
   ],
   [
    "Dustin Nelson",
@@ -1032,6 +1008,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Jeff Bush",
+   "Tires And Soda",
+   17.44,
+   49,
+   9,
+   4,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "Ethan Glashauser",
@@ -2258,5 +2246,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-15T22:55:30Z"
+ "updated": "2026-11-16T01:47:24Z"
 }
