@@ -26,8 +26,8 @@
   ],
   [
    "Straight 2 The Point",
-   48,
-   37
+   62,
+   40
   ],
   [
    "Dirty Draws",
@@ -40,11 +40,6 @@
    33
   ],
   [
-   "IGY6",
-   25,
-   43
-  ],
-  [
    "Water Off",
    37,
    65
@@ -53,6 +48,11 @@
    "Dirty Kids MFWs",
    29,
    56
+  ],
+  [
+   "IGY6",
+   28,
+   57
   ],
   [
    "Respectdabull",
@@ -76,6 +76,14 @@
    7,
    15,
    2
+  ],
+  [
+   "Straight 2 The Point",
+   "IGY6",
+   "11/15/2026",
+   8,
+   14,
+   3
   ],
   [
    "Dave And Rich",
@@ -102,26 +110,10 @@
    8
   ],
   [
-   "Straight 2 The Point",
-   "Off In Church",
-   "11/09/2026",
-   7,
-   8,
-   9
-  ],
-  [
    "Dirty Draws",
    "Dave And Rich",
    "11/09/2026",
    7,
-   6,
-   11
-  ],
-  [
-   "IGY6",
-   "Gingers Unite",
-   "11/02/2026",
-   6,
    6,
    11
   ],
@@ -132,6 +124,14 @@
    6,
    6,
    11
+  ],
+  [
+   "IGY6",
+   "Straight 2 The Point",
+   "11/15/2026",
+   8,
+   3,
+   14
   ],
   [
    "Respectdabull",
@@ -153,42 +153,36 @@
  "improved": {
   "c": [
    [
-    "Dave Wallace",
-    "Dave And Rich",
-    3.07,
-    3.15
+    "Tashawn Rucker",
+    "Straight 2 The Point",
+    3.15,
+    3.23
    ],
    [
-    "Cory Kent",
-    "Gingers Unite",
-    3.13,
-    3.18
-   ],
-   [
-    "Steve Dailor",
-    "Dirty Draws",
-    3.76,
-    3.81
+    "Carlton Smith",
+    "Straight 2 The Point",
+    3.45,
+    3.46
    ]
   ],
   "x": [
    [
-    "Joe Gillett",
-    "Off In Church",
-    24.87,
-    26.12
+    "Jay Pierce",
+    "IGY6",
+    20.01,
+    20.59
    ],
    [
-    "Rich Allen",
-    "Dave And Rich",
-    26.95,
-    27.63
+    "Archie Donaldson",
+    "IGY6",
+    22.65,
+    23.01
    ],
    [
-    "Anthony Nesci",
-    "Respectdabull",
-    21.42,
-    21.83
+    "Tashawn Rucker",
+    "Straight 2 The Point",
+    23.5,
+    23.55
    ]
   ]
  },
@@ -271,17 +265,32 @@
   [
    "Carlton Smith",
    "Straight 2 The Point",
-   3.45,
-   40,
-   15,
-   9,
+   3.46,
+   48,
+   20,
+   12,
    5,
    1,
-   30,
-   17,
-   12,
+   32,
+   20,
+   20,
    0,
    6
+  ],
+  [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   3.23,
+   48,
+   20,
+   10,
+   3,
+   0,
+   40,
+   17,
+   7,
+   0,
+   5
   ],
   [
    "Matt Herne",
@@ -314,19 +323,19 @@
    0
   ],
   [
-   "Tashawn Rucker",
-   "Straight 2 The Point",
+   "Ashton Maracle",
+   "Gingers Unite",
    3.15,
    40,
+   12,
    15,
-   7,
-   3,
-   0,
-   31,
-   14,
    5,
    0,
-   4
+   24,
+   20,
+   12,
+   0,
+   1
   ],
   [
    "Dave Wallace",
@@ -342,21 +351,6 @@
    15,
    0,
    0
-  ],
-  [
-   "Ashton Maracle",
-   "Gingers Unite",
-   3.15,
-   40,
-   12,
-   15,
-   5,
-   0,
-   24,
-   20,
-   12,
-   0,
-   1
   ],
   [
    "Houston Hughey III",
@@ -389,21 +383,6 @@
    3
   ],
   [
-   "Joe Gillett",
-   "Off In Church",
-   3.02,
-   32,
-   14,
-   8,
-   4,
-   1,
-   16,
-   11,
-   8,
-   0,
-   2
-  ],
-  [
    "Rich Allen",
    "Dave And Rich",
    3.02,
@@ -417,6 +396,21 @@
    7,
    0,
    3
+  ],
+  [
+   "Joe Gillett",
+   "Off In Church",
+   3.02,
+   32,
+   14,
+   8,
+   4,
+   1,
+   16,
+   11,
+   8,
+   0,
+   2
   ],
   [
    "Mike Frank",
@@ -479,32 +473,17 @@
    1
   ],
   [
-   "Jay Pierce",
-   "IGY6",
-   2.69,
-   32,
-   7,
-   5,
-   5,
-   0,
-   17,
-   7,
-   7,
-   0,
-   0
-  ],
-  [
    "Archie Donaldson",
    "IGY6",
    2.66,
-   32,
+   40,
    9,
    7,
    1,
    0,
-   14,
+   20,
    8,
-   5,
+   6,
    1,
    1
   ],
@@ -520,6 +499,21 @@
    17,
    5,
    3,
+   0,
+   0
+  ],
+  [
+   "Jay Pierce",
+   "IGY6",
+   2.63,
+   40,
+   7,
+   5,
+   5,
+   0,
+   23,
+   9,
+   8,
    0,
    0
   ],
@@ -672,14 +666,14 @@
   [
    "Carlton Smith",
    "Straight 2 The Point",
-   26.93,
-   35,
-   14,
+   26.87,
+   42,
    15,
+   16,
    0,
    0,
-   4,
-   64
+   7,
+   77
   ],
   [
    "Matt Herne",
@@ -756,14 +750,14 @@
   [
    "Tashawn Rucker",
    "Straight 2 The Point",
-   23.5,
-   35,
-   4,
-   11,
+   23.55,
+   42,
+   7,
+   12,
    0,
    0,
    0,
-   55
+   67
   ],
   [
    "Houston Hughey III",
@@ -790,6 +784,18 @@
    59
   ],
   [
+   "Archie Donaldson",
+   "IGY6",
+   23.01,
+   35,
+   7,
+   5,
+   0,
+   0,
+   2,
+   57
+  ],
+  [
    "Dashay Earlsey",
    "Water Off",
    22.89,
@@ -812,18 +818,6 @@
    0,
    2,
    35
-  ],
-  [
-   "Archie Donaldson",
-   "IGY6",
-   22.65,
-   28,
-   6,
-   5,
-   0,
-   0,
-   2,
-   44
   ],
   [
    "Anthony Nesci",
@@ -850,6 +844,18 @@
    46
   ],
   [
+   "Jay Pierce",
+   "IGY6",
+   20.59,
+   35,
+   5,
+   12,
+   0,
+   0,
+   0,
+   34
+  ],
+  [
    "Austin Prince",
    "Respectdabull",
    20.15,
@@ -860,18 +866,6 @@
    0,
    0,
    5
-  ],
-  [
-   "Jay Pierce",
-   "IGY6",
-   20.01,
-   28,
-   3,
-   9,
-   0,
-   0,
-   0,
-   27
   ],
   [
    "Steve Water Off",
@@ -1624,5 +1618,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-15T21:55:54Z"
+ "updated": "2026-11-15T23:59:22Z"
 }
