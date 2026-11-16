@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Mitch Jag",
-   "Thats Bullshoot",
-   1.45,
-   6,
-   1,
-   2,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Lewis",
    "Gettin Looped",
    1.45,
@@ -570,6 +555,21 @@
    0,
    5,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mitch Jag",
+   "Thats Bullshoot",
+   1.45,
+   6,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-16T22:07:02Z"
+ "updated": "2026-11-16T23:04:57Z"
 }
