@@ -561,21 +561,6 @@
    0
   ],
   [
-   "Donovan Caraballo",
-   "Talk Darty To Me",
-   1.77,
-   36,
-   9,
-   6,
-   0,
-   0,
-   9,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Chaz Carley",
    "Night Shot",
    1.77,
@@ -587,6 +572,21 @@
    10,
    4,
    1,
+   0,
+   0
+  ],
+  [
+   "Donovan Caraballo",
+   "Talk Darty To Me",
+   1.77,
+   36,
+   9,
+   6,
+   0,
+   0,
+   9,
+   1,
+   2,
    0,
    0
   ],
@@ -830,18 +830,6 @@
    29
   ],
   [
-   "Sean Crowell",
-   "The Dartbags",
-   19.61,
-   42,
-   8,
-   2,
-   0,
-   0,
-   0,
-   36
-  ],
-  [
    "James Davis",
    "Ones Are Closed",
    19.61,
@@ -852,6 +840,18 @@
    0,
    0,
    30
+  ],
+  [
+   "Sean Crowell",
+   "The Dartbags",
+   19.61,
+   42,
+   8,
+   2,
+   0,
+   0,
+   0,
+   36
   ],
   [
    "Brian Kea",
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-16T15:54:52Z"
+ "updated": "2026-11-16T17:31:35Z"
 }
