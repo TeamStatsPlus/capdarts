@@ -6,18 +6,18 @@
  "standings": [
   [
    "Pickled Turtles",
-   65,
-   10
+   72,
+   18
   ],
   [
    "Here For The BEER",
-   71,
-   19
+   81,
+   24
   ],
   [
    "Ghost Bear",
-   54,
-   36
+   62,
+   43
   ],
   [
    "Rich And Tom",
@@ -30,55 +30,39 @@
    52
   ],
   [
-   "Box Chevy",
-   53,
-   52
-  ],
-  [
    "Water Off",
-   51,
-   54
+   61,
+   59
   ],
   [
-   "Brown Viper",
-   41,
-   64
+   "Box Chevy",
+   58,
+   62
   ],
   [
    "Black And Brown",
-   29,
-   61
+   43,
+   62
+  ],
+  [
+   "Brown Viper",
+   46,
+   74
   ],
   [
    "Not Ready 4Primetime",
-   3,
-   102
+   4,
+   116
   ]
  ],
  "results": [
   [
-   "Brown Viper",
+   "Black And Brown",
    "Not Ready 4Primetime",
-   "11/08/2026",
-   7,
-   15,
-   0
-  ],
-  [
-   "Pickled Turtles",
-   "Box Chevy",
-   "11/08/2026",
-   7,
-   13,
-   2
-  ],
-  [
-   "Here For The BEER",
-   "Water Off",
-   "11/08/2026",
-   7,
-   11,
-   4
+   "11/15/2026",
+   8,
+   14,
+   1
   ],
   [
    "Straight 2 The Point",
@@ -89,10 +73,50 @@
    4
   ],
   [
+   "Here For The BEER",
+   "Box Chevy",
+   "11/15/2026",
+   8,
+   10,
+   5
+  ],
+  [
+   "Water Off",
+   "Brown Viper",
+   "11/15/2026",
+   8,
+   10,
+   5
+  ],
+  [
    "Ghost Bear",
-   "Straight 2 The Point",
-   "11/08/2026",
+   "Pickled Turtles",
+   "11/15/2026",
+   8,
+   8,
+   7
+  ],
+  [
+   "Pickled Turtles",
+   "Ghost Bear",
+   "11/15/2026",
+   8,
    7,
+   8
+  ],
+  [
+   "Box Chevy",
+   "Here For The BEER",
+   "11/15/2026",
+   8,
+   5,
+   10
+  ],
+  [
+   "Brown Viper",
+   "Water Off",
+   "11/15/2026",
+   8,
    5,
    10
   ],
@@ -105,48 +129,42 @@
    11
   ],
   [
-   "Water Off",
-   "Here For The BEER",
-   "11/08/2026",
-   7,
-   4,
-   11
-  ],
-  [
-   "Black And Brown",
-   "Rich And Tom",
-   "11/08/2026",
-   7,
-   3,
-   12
-  ],
-  [
-   "Box Chevy",
-   "Pickled Turtles",
-   "11/08/2026",
-   7,
-   2,
-   13
-  ],
-  [
    "Not Ready 4Primetime",
-   "Brown Viper",
-   "11/08/2026",
-   7,
-   0,
-   15
+   "Black And Brown",
+   "11/15/2026",
+   8,
+   1,
+   14
   ]
  ],
  "improved": {
   "c": [
    [
-    "Rich Allen",
-    "Rich And Tom",
-    3.24,
-    3.26
+    "Branden Daniels",
+    "Black And Brown",
+    2.1,
+    2.16
+   ],
+   [
+    "Judson Brown",
+    "Brown Viper",
+    2.36,
+    2.39
+   ],
+   [
+    "Cory Humphries",
+    "Water Off",
+    2.99,
+    3.01
    ]
   ],
   "x": [
+   [
+    "Branden Daniels",
+    "Black And Brown",
+    19.51,
+    20.29
+   ],
    [
     "Carlton Smith",
     "Straight 2 The Point",
@@ -154,10 +172,10 @@
     26.46
    ],
    [
-    "Rich Allen",
-    "Rich And Tom",
-    27.04,
-    27.25
+    "Judson Brown",
+    "Brown Viper",
+    21.67,
+    21.94
    ]
   ]
  },
@@ -208,49 +226,49 @@
    0
   ],
   [
-   "Glenn Wilson",
-   "Here For The BEER",
-   3.43,
-   30,
-   17,
-   8,
-   4,
-   1,
-   27,
-   15,
-   9,
-   1,
-   3
-  ],
-  [
    "Dave Wallace",
    "Ghost Bear",
-   3.41,
-   36,
-   18,
+   3.34,
+   42,
+   21,
    7,
    1,
    1,
-   35,
-   12,
-   12,
+   40,
+   15,
+   14,
    2,
    0
   ],
   [
-   "Chris Maloney",
-   "Pickled Turtles",
+   "Glenn Wilson",
+   "Here For The BEER",
    3.33,
-   30,
-   17,
+   36,
+   20,
+   9,
+   4,
+   1,
+   33,
+   16,
    10,
    1,
+   3
+  ],
+  [
+   "Chris Maloney",
+   "Pickled Turtles",
+   3.29,
+   36,
+   20,
+   11,
+   1,
    0,
-   25,
-   12,
-   7,
+   28,
+   17,
+   8,
    2,
-   2
+   3
   ],
   [
    "Rich Allen",
@@ -285,32 +303,17 @@
   [
    "Devan Wilson",
    "Here For The BEER",
-   3.19,
-   36,
-   21,
-   9,
-   3,
+   3.2,
+   42,
+   24,
+   11,
+   4,
    0,
-   26,
-   13,
-   18,
+   30,
+   14,
+   21,
    0,
    0
-  ],
-  [
-   "Ashton Maracle",
-   "Ghost Bear",
-   3.1,
-   36,
-   14,
-   9,
-   2,
-   0,
-   22,
-   9,
-   10,
-   1,
-   1
   ],
   [
    "Carlton Smith",
@@ -330,16 +333,31 @@
   [
    "Cory Humphries",
    "Water Off",
-   2.99,
-   42,
-   19,
+   3.01,
+   48,
+   22,
    4,
+   3,
+   0,
+   41,
+   22,
+   10,
+   0,
+   1
+  ],
+  [
+   "Ashton Maracle",
+   "Ghost Bear",
+   2.98,
+   42,
+   14,
+   11,
    2,
    0,
-   38,
-   20,
-   8,
-   0,
+   26,
+   11,
+   11,
+   1,
    1
   ],
   [
@@ -360,15 +378,15 @@
   [
    "Fred James",
    "Brown Viper",
-   2.82,
-   42,
-   14,
-   3,
+   2.83,
+   48,
+   16,
+   4,
    4,
    0,
-   18,
-   14,
-   11,
+   22,
+   16,
+   12,
    0,
    1
   ],
@@ -383,21 +401,6 @@
    0,
    5,
    1,
-   1,
-   0,
-   0
-  ],
-  [
-   "Andy Mitrano",
-   "Pickled Turtles",
-   2.7,
-   6,
-   3,
-   3,
-   0,
-   0,
-   3,
-   0,
    1,
    0,
    0
@@ -421,31 +424,46 @@
    "Dashay Earlsey",
    "Water Off",
    2.68,
-   42,
-   6,
-   9,
+   48,
+   8,
+   10,
    2,
    0,
-   27,
-   7,
-   8,
+   28,
+   9,
+   10,
    2,
    2
   ],
   [
-   "Efrain Figueroa",
-   "Black And Brown",
-   2.68,
-   36,
-   10,
+   "Andy Mitrano",
+   "Pickled Turtles",
+   2.67,
+   12,
+   5,
+   4,
+   0,
+   0,
+   7,
+   0,
    3,
-   2,
    0,
-   25,
-   10,
-   6,
+   0
+  ],
+  [
+   "Archie Donaldson",
+   "Box Chevy",
+   2.64,
+   42,
+   13,
+   5,
+   3,
+   1,
+   19,
+   7,
+   11,
    0,
-   1
+   2
   ],
   [
    "Tom Ralston",
@@ -463,19 +481,34 @@
    2
   ],
   [
-   "Archie Donaldson",
-   "Box Chevy",
-   2.62,
-   36,
-   11,
-   5,
+   "Efrain Figueroa",
+   "Black And Brown",
+   2.61,
+   42,
+   15,
+   3,
    2,
-   1,
-   18,
-   6,
-   9,
    0,
-   2
+   31,
+   10,
+   6,
+   0,
+   1
+  ],
+  [
+   "Judson Brown",
+   "Brown Viper",
+   2.39,
+   48,
+   8,
+   8,
+   3,
+   0,
+   21,
+   8,
+   5,
+   1,
+   1
   ],
   [
    "Chris Nesci",
@@ -493,46 +526,46 @@
    0
   ],
   [
-   "Judson Brown",
-   "Brown Viper",
-   2.36,
-   42,
-   7,
+   "Branden Daniels",
+   "Black And Brown",
+   2.16,
+   24,
    6,
+   4,
+   0,
+   0,
+   13,
+   2,
    1,
    0,
-   17,
-   7,
-   4,
-   1,
    0
   ],
   [
-   "Branden Daniels",
-   "Black And Brown",
-   2.1,
-   18,
-   4,
-   1,
-   0,
-   0,
-   10,
+   "CHRIS NESCI",
+   "{Substitutes}",
+   2.11,
+   6,
    0,
    1,
+   0,
+   0,
+   1,
+   1,
+   0,
    0,
    0
   ],
   [
    "Micheal Morgan",
    "Not Ready 4Primetime",
-   1.86,
-   42,
+   1.82,
+   48,
+   3,
+   0,
+   0,
+   0,
+   11,
    2,
-   0,
-   0,
-   0,
-   10,
-   1,
    5,
    0,
    0
@@ -540,11 +573,11 @@
   [
    "Zach Morgan",
    "Not Ready 4Primetime",
-   1.68,
-   42,
+   1.62,
+   48,
    0,
-   1,
-   1,
+   2,
+   2,
    0,
    4,
    6,
@@ -579,18 +612,6 @@
    10
   ],
   [
-   "Chris Maloney",
-   "Pickled Turtles",
-   27.81,
-   35,
-   12,
-   11,
-   0,
-   0,
-   4,
-   62
-  ],
-  [
    "Rich Allen",
    "Rich And Tom",
    27.25,
@@ -601,6 +622,18 @@
    0,
    3,
    74
+  ],
+  [
+   "Chris Maloney",
+   "Pickled Turtles",
+   27.12,
+   42,
+   13,
+   12,
+   0,
+   0,
+   4,
+   77
   ],
   [
    "Ryan OFlynn",
@@ -641,50 +674,62 @@
   [
    "Glenn Wilson",
    "Here For The BEER",
-   26.02,
-   35,
-   17,
-   13,
+   25.74,
+   42,
+   18,
+   15,
    0,
    1,
    3,
-   49
+   58
   ],
   [
-   "Dave Wallace",
-   "Ghost Bear",
-   25.58,
-   42,
-   11,
-   12,
-   0,
-   0,
+   "CHRIS NESCI",
+   "{Substitutes}",
+   25.28,
+   7,
+   2,
    3,
-   68
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Devan Wilson",
    "Here For The BEER",
-   25.47,
-   42,
-   14,
+   24.93,
+   49,
+   17,
    12,
    0,
    0,
    4,
-   58
+   67
+  ],
+  [
+   "Dave Wallace",
+   "Ghost Bear",
+   24.78,
+   49,
+   14,
+   13,
+   0,
+   0,
+   3,
+   79
   ],
   [
    "Cory Humphries",
    "Water Off",
-   23.95,
-   49,
-   16,
+   24.06,
+   56,
+   18,
    11,
    0,
    0,
-   1,
-   76
+   4,
+   88
   ],
   [
    "Erika Mardo",
@@ -701,14 +746,14 @@
   [
    "Ashton Maracle",
    "Ghost Bear",
-   23.24,
-   42,
-   11,
+   23.29,
+   49,
+   13,
    8,
    0,
    1,
    2,
-   60
+   73
   ],
   [
    "Justin Smith",
@@ -725,14 +770,14 @@
   [
    "Fred James",
    "Brown Viper",
-   23.1,
-   49,
-   12,
-   15,
+   22.93,
+   56,
+   13,
+   17,
    0,
    0,
    1,
-   67
+   73
   ],
   [
    "Chris Nesci",
@@ -749,26 +794,26 @@
   [
    "Dashay Earlsey",
    "Water Off",
-   22.72,
-   49,
-   10,
-   5,
+   22.89,
+   56,
+   13,
+   7,
    0,
    0,
    3,
-   68
+   77
   ],
   [
    "Archie Donaldson",
    "Box Chevy",
-   22.69,
-   42,
-   11,
-   11,
+   22.76,
+   49,
+   12,
+   12,
    0,
    0,
    3,
-   54
+   65
   ],
   [
    "Mike Nicholls",
@@ -781,18 +826,6 @@
    0,
    0,
    13
-  ],
-  [
-   "Andy Mitrano",
-   "Pickled Turtles",
-   22.05,
-   7,
-   2,
-   1,
-   0,
-   0,
-   1,
-   10
   ],
   [
    "Tom Ralston",
@@ -809,62 +842,74 @@
   [
    "Efrain Figueroa",
    "Black And Brown",
-   22.0,
-   42,
-   9,
-   10,
+   21.95,
+   49,
+   14,
+   13,
    0,
    0,
    0,
-   60
+   68
   ],
   [
    "Judson Brown",
    "Brown Viper",
-   21.67,
-   49,
+   21.94,
+   56,
+   9,
    8,
-   6,
    1,
    0,
    2,
-   45
+   52
   ],
   [
    "Branden Daniels",
    "Black And Brown",
-   19.51,
-   21,
-   2,
+   20.29,
+   28,
+   4,
+   6,
+   0,
+   0,
+   0,
+   28
+  ],
+  [
+   "Andy Mitrano",
+   "Pickled Turtles",
+   19.45,
+   14,
    3,
+   1,
    0,
    0,
-   0,
-   18
+   1,
+   14
   ],
   [
    "Micheal Morgan",
    "Not Ready 4Primetime",
-   16.25,
-   49,
+   16.33,
+   56,
    1,
    2,
    0,
    0,
    1,
-   22
+   27
   ],
   [
    "Zach Morgan",
    "Not Ready 4Primetime",
    15.39,
-   49,
+   56,
    0,
    0,
    0,
    0,
    0,
-   24
+   26
   ]
  ],
  "teams": [
@@ -1491,5 +1536,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-16T01:47:29Z"
+ "updated": "2026-11-16T03:19:07Z"
 }
