@@ -610,7 +610,7 @@
   },
   {
    "name": "Galactic Platypus",
-   "site": "Russell Station",
+   "site": "Noonans",
    "captain": "Mike Infantino",
    "phone": "585-506-2518"
   },
@@ -1180,6 +1180,12 @@
    "address": "2515 Mt Read Blvd, Rochester, NY 14615"
   },
   {
+   "name": "Noonans",
+   "machines": 2,
+   "phone": "585-865-7460",
+   "address": "3170 Lake Ave, Rochester, NY 14612"
+  },
+  {
    "name": "Perris Pizza",
    "machines": 2,
    "phone": "585-244-9090",
@@ -1198,5 +1204,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-16T09:08:13Z"
+ "updated": "2026-11-16T19:20:48Z"
 }
