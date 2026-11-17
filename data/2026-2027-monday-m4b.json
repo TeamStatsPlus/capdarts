@@ -563,21 +563,6 @@
    0
   ],
   [
-   "Joe Scalise",
-   "Off Target",
-   2.05,
-   3,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Hodgeman",
    "Here 4 The Beer",
    2.05,
@@ -589,6 +574,21 @@
    6,
    1,
    3,
+   0,
+   0
+  ],
+  [
+   "Joe Scalise",
+   "Off Target",
+   2.05,
+   3,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -998,21 +998,6 @@
    0
   ],
   [
-   "Johnny Golas",
-   "Halluciminatin",
-   1.58,
-   24,
-   2,
-   2,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Chuck Coates",
    "Wired",
    1.58,
@@ -1022,6 +1007,21 @@
    0,
    0,
    6,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Johnny Golas",
+   "Halluciminatin",
+   1.58,
+   24,
+   2,
+   2,
+   0,
+   0,
+   2,
    1,
    0,
    0,
@@ -1885,18 +1885,6 @@
    5
   ],
   [
-   "Kevin Rowland",
-   "Off Target",
-   16.84,
-   28,
-   4,
-   1,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Johnny Golas",
    "Halluciminatin",
    16.84,
@@ -1907,6 +1895,18 @@
    0,
    0,
    9
+  ],
+  [
+   "Kevin Rowland",
+   "Off Target",
+   16.84,
+   28,
+   4,
+   1,
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Bill Greenough",
@@ -3114,5 +3114,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-17T05:21:36Z"
+ "updated": "2026-11-17T07:41:51Z"
 }
