@@ -349,21 +349,6 @@
    0
   ],
   [
-   "Dave Robinson",
-   "Dart Vaders",
-   2.12,
-   6,
-   2,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Carlos Ortiz",
    "ReDarted",
    2.12,
@@ -375,6 +360,21 @@
    3,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Dave Robinson",
+   "Dart Vaders",
+   2.12,
+   6,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -724,21 +724,6 @@
    0
   ],
   [
-   "Mike Hale",
-   "Id Hit That",
-   1.72,
-   18,
-   5,
-   0,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Courtney Armstrong",
    "Rizm With The Tizm",
    1.72,
@@ -750,6 +735,21 @@
    4,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Mike Hale",
+   "Id Hit That",
+   1.72,
+   18,
+   5,
+   0,
+   0,
+   0,
+   2,
+   3,
+   0,
    0,
    0
   ],
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-17T12:12:04Z"
+ "updated": "2026-11-17T13:35:50Z"
 }

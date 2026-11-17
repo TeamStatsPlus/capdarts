@@ -126,10 +126,10 @@
     1.49
    ],
    [
-    "Dennis Obrien",
-    "Almost There",
-    1.42,
-    1.5
+    "Mike Toma",
+    "FTO",
+    1.44,
+    1.52
    ]
   ],
   "x": [
@@ -605,21 +605,6 @@
    1
   ],
   [
-   "Rob Cutt",
-   "BullsHitters",
-   1.5,
-   3,
-   0,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dennis Obrien",
    "Almost There",
    1.5,
@@ -631,6 +616,21 @@
    2,
    2,
    2,
+   0,
+   0
+  ],
+  [
+   "Rob Cutt",
+   "BullsHitters",
+   1.5,
+   3,
+   0,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -1861,5 +1861,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-17T09:23:59Z"
+ "updated": "2026-11-17T13:35:40Z"
 }

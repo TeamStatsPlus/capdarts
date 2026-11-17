@@ -308,21 +308,6 @@
    0
   ],
   [
-   "Brian Wemett",
-   "Good Smoke BBQ",
-   2.38,
-   21,
-   12,
-   4,
-   1,
-   0,
-   8,
-   4,
-   0,
-   0,
-   1
-  ],
-  [
    "David Wills",
    "Tegridy",
    2.38,
@@ -349,6 +334,21 @@
    7,
    1,
    3,
+   0,
+   1
+  ],
+  [
+   "Brian Wemett",
+   "Good Smoke BBQ",
+   2.38,
+   21,
+   12,
+   4,
+   1,
+   0,
+   8,
+   4,
+   0,
    0,
    1
   ],
@@ -653,21 +653,6 @@
    0
   ],
   [
-   "Rory Doran",
-   "Bad News Beers",
-   1.95,
-   24,
-   10,
-   9,
-   1,
-   0,
-   2,
-   3,
-   0,
-   0,
-   1
-  ],
-  [
    "Dave Biedrzycki",
    "Here 4 The Beer",
    1.95,
@@ -696,6 +681,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Rory Doran",
+   "Bad News Beers",
+   1.95,
+   24,
+   10,
+   9,
+   1,
+   0,
+   2,
+   3,
+   0,
+   0,
+   1
   ],
   [
    "David Caesar",
@@ -893,21 +893,6 @@
    0
   ],
   [
-   "Chuck Marchbanks",
-   "Wired",
-   1.68,
-   3,
-   1,
-   2,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Wemett",
    "Good Smoke BBQ",
    1.68,
@@ -918,6 +903,21 @@
    0,
    4,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chuck Marchbanks",
+   "Wired",
+   1.68,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -3114,5 +3114,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-17T12:11:07Z"
+ "updated": "2026-11-17T13:35:03Z"
 }
