@@ -308,6 +308,21 @@
    0
   ],
   [
+   "David Wills",
+   "Tegridy",
+   2.38,
+   21,
+   10,
+   4,
+   1,
+   0,
+   8,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
    "Mark Quill",
    "Money Shot",
    2.38,
@@ -336,21 +351,6 @@
    0,
    0,
    1
-  ],
-  [
-   "David Wills",
-   "Tegridy",
-   2.38,
-   21,
-   10,
-   4,
-   1,
-   0,
-   8,
-   2,
-   3,
-   0,
-   0
   ],
   [
    "Eric Westrich",
@@ -428,21 +428,6 @@
    0
   ],
   [
-   "Chad Pike",
-   "Here 4 The Beer",
-   2.19,
-   21,
-   9,
-   5,
-   0,
-   0,
-   5,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Shondell Kirton",
    "IDF NightCaps",
    2.19,
@@ -456,6 +441,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Chad Pike",
+   "Here 4 The Beer",
+   2.19,
+   21,
+   9,
+   5,
+   0,
+   0,
+   5,
+   3,
+   2,
+   0,
+   0
   ],
   [
    "Joe Soriano",
@@ -563,21 +563,6 @@
    0
   ],
   [
-   "Joe Scalise",
-   "Off Target",
-   2.05,
-   3,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Shawn Hodgeman",
    "Here 4 The Beer",
    2.05,
@@ -589,6 +574,21 @@
    6,
    1,
    3,
+   0,
+   0
+  ],
+  [
+   "Joe Scalise",
+   "Off Target",
+   2.05,
+   3,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -653,17 +653,17 @@
    0
   ],
   [
-   "Dean Nicosia",
-   "Money Shot",
+   "Dave Biedrzycki",
+   "Here 4 The Beer",
    1.95,
-   6,
-   2,
+   24,
+   9,
+   3,
+   0,
+   0,
+   8,
    4,
    0,
-   0,
-   2,
-   1,
-   1,
    0,
    0
   ],
@@ -683,17 +683,17 @@
    1
   ],
   [
-   "Dave Biedrzycki",
-   "Here 4 The Beer",
+   "Dean Nicosia",
+   "Money Shot",
    1.95,
-   24,
-   9,
-   3,
-   0,
-   0,
-   8,
+   6,
+   2,
    4,
    0,
+   0,
+   2,
+   1,
+   1,
    0,
    0
   ],
@@ -743,21 +743,6 @@
    0
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   1.82,
-   9,
-   4,
-   4,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jake Maracle",
    "Slow Mother Chuckers",
    1.82,
@@ -767,6 +752,21 @@
    0,
    0,
    2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   1.82,
+   9,
+   4,
+   4,
+   0,
+   0,
+   3,
    1,
    0,
    0,
@@ -938,16 +938,16 @@
    0
   ],
   [
-   "Steve Strowbridge",
-   "Off Target",
-   1.61,
-   21,
-   6,
+   "Matt Wedow",
+   "The Happy Accidents",
+   1.65,
    3,
    0,
+   2,
    0,
-   3,
+   0,
    1,
+   0,
    0,
    0,
    0
@@ -963,6 +963,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Strowbridge",
+   "Off Target",
+   1.61,
+   21,
+   6,
+   3,
+   0,
+   0,
+   3,
+   1,
    0,
    0,
    0
@@ -1043,21 +1058,6 @@
    0
   ],
   [
-   "Orion Wilkerson",
-   "IDF NightCaps",
-   1.54,
-   21,
-   3,
-   6,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Ed Rowland",
    "ChJokers",
    1.54,
@@ -1068,6 +1068,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Orion Wilkerson",
+   "IDF NightCaps",
+   1.54,
+   21,
+   3,
+   6,
+   0,
+   0,
+   3,
+   1,
    0,
    0,
    0
@@ -1098,21 +1113,6 @@
    0,
    1,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "DAVE VEDRO",
-   "{Substitutes}",
-   1.49,
-   6,
-   0,
-   2,
-   0,
-   0,
-   2,
-   0,
    0,
    0,
    0
@@ -1202,6 +1202,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Vedro",
+   "Wired",
+   1.33,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0,
@@ -1609,18 +1624,6 @@
    15
   ],
   [
-   "Ben Kulikowski",
-   "Good Smoke BBQ",
-   19.72,
-   28,
-   6,
-   0,
-   0,
-   0,
-   1,
-   17
-  ],
-  [
    "Steve Wright",
    "Wired",
    19.72,
@@ -1630,6 +1633,18 @@
    0,
    0,
    0,
+   17
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   19.72,
+   28,
+   6,
+   0,
+   0,
+   0,
+   1,
    17
   ],
   [
@@ -1691,6 +1706,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Matt Wedow",
+   "The Happy Accidents",
+   18.65,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Joe Soriano",
@@ -1825,18 +1852,6 @@
    8
   ],
   [
-   "DAVE VEDRO",
-   "{Substitutes}",
-   17.18,
-   8,
-   2,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
    "Dickie Rowland",
    "ChJokers",
    17.14,
@@ -1885,18 +1900,6 @@
    5
   ],
   [
-   "Kevin Rowland",
-   "Off Target",
-   16.84,
-   28,
-   4,
-   1,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Johnny Golas",
    "Halluciminatin",
    16.84,
@@ -1907,6 +1910,18 @@
    0,
    0,
    9
+  ],
+  [
+   "Kevin Rowland",
+   "Off Target",
+   16.84,
+   28,
+   4,
+   1,
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Bill Greenough",
@@ -2063,6 +2078,18 @@
    0,
    1,
    3
+  ],
+  [
+   "Dave Vedro",
+   "Wired",
+   15.69,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Brandon English",
@@ -3114,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-17T15:12:30Z"
+ "updated": "2026-11-17T16:17:46Z"
 }
