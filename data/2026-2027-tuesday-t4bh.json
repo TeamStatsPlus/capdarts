@@ -695,21 +695,6 @@
    0
   ],
   [
-   "Tom Solorzano",
-   "4 Of Clubs",
-   1.27,
-   21,
-   4,
-   7,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Molly Stanziano",
    "4 Of Clubs",
    1.27,
@@ -720,6 +705,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   1.27,
+   21,
+   4,
+   7,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-16T23:58:49Z"
+ "updated": "2026-11-17T01:36:38Z"
 }

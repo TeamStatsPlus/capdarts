@@ -25,24 +25,24 @@
    39
   ],
   [
-   "Methodical Missers",
-   47,
-   44
-  ],
-  [
    "Pointless",
    47,
    44
   ],
   [
+   "Girls Night",
+   46,
+   45
+  ],
+  [
+   "Methodical Missers",
+   51,
+   53
+  ],
+  [
    "Bull Shitters",
    44,
    47
-  ],
-  [
-   "Girls Night",
-   37,
-   41
   ],
   [
    "BitterDisappointment",
@@ -99,6 +99,14 @@
    4
   ],
   [
+   "Girls Night",
+   "Methodical Missers",
+   "11/16/2026",
+   9,
+   9,
+   4
+  ],
+  [
    "Bull Shitters",
    "Pointless",
    "11/11/2026",
@@ -113,14 +121,6 @@
    7,
    7,
    6
-  ],
-  [
-   "Girls Night",
-   "Fairly Oddparents",
-   "11/11/2026",
-   7,
-   6,
-   7
   ],
   [
    "Pointless",
@@ -139,20 +139,20 @@
    9
   ],
   [
+   "Methodical Missers",
+   "Girls Night",
+   "11/16/2026",
+   9,
+   4,
+   9
+  ],
+  [
    "Two Girls One Bull",
    "Methodical Missers",
    "11/04/2026",
    6,
    4,
    9
-  ],
-  [
-   "Methodical Missers",
-   "Two Furry Dudes",
-   "11/11/2026",
-   7,
-   3,
-   10
   ],
   [
    "Shared Brain Cell",
@@ -166,42 +166,24 @@
  "improved": {
   "c": [
    [
-    "Lisa Gaita",
-    "Fairly Oddparents",
-    1.1,
-    1.21
-   ],
-   [
-    "Karen Delbert",
-    "Pointless",
-    1.53,
-    1.6
-   ],
-   [
-    "Joe Martinez",
-    "Darts Deep",
-    1.36,
-    1.42
+    "Kelly Hodgkins",
+    "Girls Night",
+    1.45,
+    1.46
    ]
   ],
   "x": [
    [
-    "Grace Maracle",
-    "Shared Brain Cell",
-    14.29,
-    14.8
+    "Kelly Hodgkins",
+    "Girls Night",
+    14.58,
+    15.01
    ],
    [
-    "Joe Martinez",
-    "Darts Deep",
-    13.29,
-    13.75
-   ],
-   [
-    "Oscar Wheeler",
-    "Two Furry Dudes",
-    18.04,
-    18.36
+    "Jim Cox",
+    "Methodical Missers",
+    16.36,
+    16.38
    ]
   ]
  },
@@ -240,14 +222,14 @@
    "Melissa Wallace",
    "Girls Night",
    2.26,
-   36,
-   11,
-   5,
-   0,
-   0,
+   42,
    13,
-   4,
-   5,
+   6,
+   0,
+   0,
+   15,
+   6,
+   7,
    0,
    1
   ],
@@ -269,15 +251,15 @@
   [
    "Adam Deutsch",
    "Methodical Missers",
-   2.0,
-   42,
-   12,
-   9,
+   1.99,
+   48,
+   14,
+   10,
    0,
    0,
-   9,
-   6,
-   1,
+   11,
+   8,
+   2,
    0,
    0
   ],
@@ -417,6 +399,21 @@
    0
   ],
   [
+   "Jim Cox",
+   "Methodical Missers",
+   1.6,
+   48,
+   10,
+   14,
+   2,
+   0,
+   7,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Karen Delbert",
    "Pointless",
    1.6,
@@ -432,21 +429,6 @@
    0
   ],
   [
-   "Jim Cox",
-   "Methodical Missers",
-   1.6,
-   42,
-   9,
-   12,
-   2,
-   0,
-   6,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Amy Poltorak",
    "In Whiskey We Trust",
    1.51,
@@ -456,21 +438,6 @@
    0,
    0,
    3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
-   "James Miller",
-   "Turd Ferguson",
-   1.49,
-   36,
-   10,
-   14,
-   0,
-   0,
-   6,
    1,
    1,
    0,
@@ -492,6 +459,21 @@
    0
   ],
   [
+   "James Miller",
+   "Turd Ferguson",
+   1.49,
+   36,
+   10,
+   14,
+   0,
+   0,
+   6,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
    "Grace Maracle",
    "Shared Brain Cell",
    1.46,
@@ -509,13 +491,13 @@
   [
    "Kelly Hodgkins",
    "Girls Night",
-   1.45,
-   36,
-   5,
-   11,
+   1.46,
+   42,
+   6,
+   13,
    0,
    0,
-   4,
+   6,
    2,
    1,
    0,
@@ -673,14 +655,14 @@
   [
    "Melissa Wallace",
    "Girls Night",
-   22.11,
-   42,
-   16,
-   10,
+   22.03,
+   49,
+   20,
+   11,
    0,
    0,
    0,
-   43
+   47
   ],
   [
    "Matthew Sutherland",
@@ -709,14 +691,14 @@
   [
    "Adam Deutsch",
    "Methodical Missers",
-   19.33,
-   49,
+   19.01,
+   56,
    19,
    0,
    0,
    0,
    0,
-   30
+   33
   ],
   [
    "Will Pardue",
@@ -803,6 +785,18 @@
    22
   ],
   [
+   "Jim Cox",
+   "Methodical Missers",
+   16.38,
+   56,
+   7,
+   1,
+   0,
+   0,
+   0,
+   25
+  ],
+  [
    "Karen Delbert",
    "Pointless",
    16.37,
@@ -825,18 +819,6 @@
    0,
    0,
    15
-  ],
-  [
-   "Jim Cox",
-   "Methodical Missers",
-   16.36,
-   49,
-   7,
-   1,
-   0,
-   0,
-   0,
-   24
   ],
   [
    "Syrica Story",
@@ -911,6 +893,18 @@
    15
   ],
   [
+   "Kelly Hodgkins",
+   "Girls Night",
+   15.01,
+   49,
+   6,
+   0,
+   0,
+   0,
+   0,
+   8
+  ],
+  [
    "Grace Maracle",
    "Shared Brain Cell",
    14.8,
@@ -921,18 +915,6 @@
    0,
    0,
    11
-  ],
-  [
-   "Kelly Hodgkins",
-   "Girls Night",
-   14.58,
-   42,
-   4,
-   0,
-   0,
-   0,
-   0,
-   5
   ],
   [
    "James Miller",
@@ -1833,5 +1815,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-16T23:05:07Z"
+ "updated": "2026-11-17T01:36:48Z"
 }
