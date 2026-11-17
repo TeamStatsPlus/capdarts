@@ -383,21 +383,6 @@
    0
   ],
   [
-   "Jon Vallone",
-   "Good Smoke BBQ",
-   2.25,
-   24,
-   7,
-   8,
-   0,
-   0,
-   10,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Ben Kulikowski",
    "Good Smoke BBQ",
    2.25,
@@ -409,6 +394,21 @@
    9,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Jon Vallone",
+   "Good Smoke BBQ",
+   2.25,
+   24,
+   7,
+   8,
+   0,
+   0,
+   10,
+   1,
+   1,
    0,
    0
   ],
@@ -743,21 +743,6 @@
    0
   ],
   [
-   "Alex Todisco",
-   "Slow Mother Chuckers",
-   1.82,
-   9,
-   4,
-   4,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jake Maracle",
    "Slow Mother Chuckers",
    1.82,
@@ -767,6 +752,21 @@
    0,
    0,
    2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Todisco",
+   "Slow Mother Chuckers",
+   1.82,
+   9,
+   4,
+   4,
+   0,
+   0,
+   3,
    1,
    0,
    0,
@@ -938,21 +938,6 @@
    0
   ],
   [
-   "Judson Brown",
-   "Wired",
-   1.61,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Strowbridge",
    "Off Target",
    1.61,
@@ -963,6 +948,21 @@
    0,
    3,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Judson Brown",
+   "Wired",
+   1.61,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1103,21 +1103,6 @@
    0
   ],
   [
-   "Jake Halluciminatin",
-   "Halluciminatin",
-   1.49,
-   21,
-   1,
-   0,
-   0,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "DAVE VEDRO",
    "{Substitutes}",
    1.49,
@@ -1129,6 +1114,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jake Halluciminatin",
+   "Halluciminatin",
+   1.49,
+   21,
+   1,
+   0,
+   0,
+   0,
+   3,
+   1,
+   1,
    0,
    0
   ],
@@ -1268,21 +1268,6 @@
    0
   ],
   [
-   "Alex Franchot",
-   "Off Target",
-   1.06,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Cortese",
    "Off Target",
    1.06,
@@ -1292,6 +1277,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Franchot",
+   "Off Target",
+   1.06,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -1885,18 +1885,6 @@
    5
   ],
   [
-   "Johnny Golas",
-   "Halluciminatin",
-   16.84,
-   32,
-   8,
-   0,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
    "Kevin Rowland",
    "Off Target",
    16.84,
@@ -1907,6 +1895,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Johnny Golas",
+   "Halluciminatin",
+   16.84,
+   32,
+   8,
+   0,
+   0,
+   0,
+   0,
+   9
   ],
   [
    "Bill Greenough",
@@ -3114,5 +3114,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-17T09:23:06Z"
+ "updated": "2026-11-17T11:17:06Z"
 }

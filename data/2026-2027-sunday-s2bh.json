@@ -426,21 +426,6 @@
    0
   ],
   [
-   "Jason Miles",
-   "Fing The Neighbors",
-   2.02,
-   30,
-   8,
-   7,
-   0,
-   0,
-   9,
-   2,
-   1,
-   0,
-   1
-  ],
-  [
    "Robyn Ralston",
    "We Dem Boyz",
    2.02,
@@ -454,6 +439,21 @@
    3,
    1,
    0
+  ],
+  [
+   "Jason Miles",
+   "Fing The Neighbors",
+   2.02,
+   30,
+   8,
+   7,
+   0,
+   0,
+   9,
+   2,
+   1,
+   0,
+   1
   ],
   [
    "TJ Vay",
@@ -830,18 +830,6 @@
    29
   ],
   [
-   "Sean Crowell",
-   "The Dartbags",
-   19.61,
-   42,
-   8,
-   2,
-   0,
-   0,
-   0,
-   36
-  ],
-  [
    "James Davis",
    "Ones Are Closed",
    19.61,
@@ -852,6 +840,18 @@
    0,
    0,
    30
+  ],
+  [
+   "Sean Crowell",
+   "The Dartbags",
+   19.61,
+   42,
+   8,
+   2,
+   0,
+   0,
+   0,
+   36
   ],
   [
    "Brian Kea",
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-17T09:22:39Z"
+ "updated": "2026-11-17T11:16:40Z"
 }
