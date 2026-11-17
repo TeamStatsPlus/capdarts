@@ -127,22 +127,22 @@
  "improved": {
   "c": [
    [
-    "Dan Carroll",
-    "Not These Guys Again",
-    1.96,
-    2.0
-   ],
-   [
     "Colin Mousseau",
     "The Nobodys",
     1.89,
     1.93
    ],
    [
-    "Rowdy Woodworth",
-    "The Nobodys",
-    2.25,
-    2.28
+    "Dan Carroll",
+    "Not These Guys Again",
+    1.96,
+    2.0
+   ],
+   [
+    "Joe Scalise",
+    "2 Guys 1 Bull",
+    2.0,
+    2.03
    ]
   ],
   "x": [
@@ -438,21 +438,6 @@
    0
   ],
   [
-   "Holden Sandlar",
-   "Split Decision",
-   1.49,
-   36,
-   11,
-   6,
-   0,
-   0,
-   6,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Lutomski",
    "Top Shottas",
    1.49,
@@ -464,6 +449,21 @@
    6,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Holden Sandlar",
+   "Split Decision",
+   1.49,
+   36,
+   11,
+   6,
+   0,
+   0,
+   6,
+   0,
+   0,
    0,
    0
   ],
@@ -1500,5 +1500,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-17T01:37:27Z"
+ "updated": "2026-11-17T03:10:05Z"
 }

@@ -6,8 +6,13 @@
  "standings": [
   [
    "Who Darted",
-   52,
-   26
+   61,
+   30
+  ],
+  [
+   "Ballsagna",
+   56,
+   35
   ],
   [
    "Dark Sharts",
@@ -15,14 +20,9 @@
    35
   ],
   [
-   "Ballsagna",
-   45,
-   33
-  ],
-  [
    "Your In Treble",
-   48,
-   43
+   57,
+   47
   ],
   [
    "636ers",
@@ -30,24 +30,24 @@
    44
   ],
   [
-   "Double Trouble",
-   46,
-   45
-  ],
-  [
    "Bulleye Bandits",
    42,
    49
   ],
   [
+   "Double Trouble",
+   48,
+   56
+  ],
+  [
    "No Bulls",
-   42,
-   49
+   46,
+   58
   ],
   [
    "Couples Terapy",
-   35,
-   56
+   39,
+   65
   ],
   [
    "Girls Wanna Have Fun",
@@ -58,11 +58,11 @@
  "results": [
   [
    "Ballsagna",
-   "Couples Terapy",
-   "11/09/2026",
-   7,
-   10,
-   3
+   "Double Trouble",
+   "11/16/2026",
+   8,
+   11,
+   2
   ],
   [
    "Dark Sharts",
@@ -73,6 +73,22 @@
    3
   ],
   [
+   "Who Darted",
+   "Couples Terapy",
+   "11/16/2026",
+   8,
+   9,
+   4
+  ],
+  [
+   "Your In Treble",
+   "No Bulls",
+   "11/16/2026",
+   8,
+   9,
+   4
+  ],
+  [
    "636ers",
    "Bulleye Bandits",
    "11/09/2026",
@@ -81,32 +97,8 @@
    5
   ],
   [
-   "Double Trouble",
-   "Girls Wanna Have Fun",
-   "11/09/2026",
-   7,
-   7,
-   6
-  ],
-  [
-   "Your In Treble",
-   "Who Darted",
-   "11/09/2026",
-   7,
-   7,
-   6
-  ],
-  [
    "Girls Wanna Have Fun",
    "Double Trouble",
-   "11/09/2026",
-   7,
-   6,
-   7
-  ],
-  [
-   "Who Darted",
-   "Your In Treble",
    "11/09/2026",
    7,
    6,
@@ -122,60 +114,68 @@
   ],
   [
    "Couples Terapy",
-   "Ballsagna",
-   "11/09/2026",
-   7,
-   3,
-   10
+   "Who Darted",
+   "11/16/2026",
+   8,
+   4,
+   9
   ],
   [
    "No Bulls",
-   "Dark Sharts",
-   "11/09/2026",
-   7,
-   3,
-   10
+   "Your In Treble",
+   "11/16/2026",
+   8,
+   4,
+   9
+  ],
+  [
+   "Double Trouble",
+   "Ballsagna",
+   "11/16/2026",
+   8,
+   2,
+   11
   ]
  ],
  "improved": {
   "c": [
    [
-    "John Demott",
-    "636ers",
-    1.53,
-    1.65
+    "Todd Cornell",
+    "Ballsagna",
+    1.41,
+    1.48
    ],
    [
-    "Jordyn Sullivan",
-    "Girls Wanna Have Fun",
-    1.62,
-    1.7
+    "Shawn Thurley",
+    "Your In Treble",
+    1.8,
+    1.87
    ],
    [
-    "Alyssa Rank",
-    "Dark Sharts",
-    1.43,
-    1.5
+    "Ted Temple",
+    "No Bulls",
+    1.36,
+    1.41
    ]
   ],
   "x": [
    [
-    "Chris Wagner",
-    "636ers",
-    17.85,
-    18.38
+    "Todd Cornell",
+    "Ballsagna",
+    14.63,
+    15.28
    ],
    [
-    "Carrie Shaw",
+    "Paul Humennyj",
     "Couples Terapy",
-    14.35,
-    14.73
+    12.69,
+    12.93
    ],
    [
-    "Benjamin Gill",
-    "Who Darted",
-    17.16,
-    17.46
+    "Nick Gatti",
+    "Your In Treble",
+    17.83,
+    18.02
    ]
   ]
  },
@@ -196,21 +196,6 @@
    0
   ],
   [
-   "Zach Gooding",
-   "Ballsagna",
-   2.01,
-   36,
-   18,
-   4,
-   2,
-   0,
-   11,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Chris Wagner",
    "636ers",
    2.0,
@@ -222,6 +207,21 @@
    8,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Zach Gooding",
+   "Ballsagna",
+   1.95,
+   42,
+   19,
+   8,
+   2,
+   0,
+   12,
+   2,
+   3,
    0,
    0
   ],
@@ -241,11 +241,56 @@
    1
   ],
   [
+   "Shawn Thurley",
+   "Your In Treble",
+   1.87,
+   48,
+   12,
+   11,
+   0,
+   0,
+   9,
+   11,
+   3,
+   0,
+   0
+  ],
+  [
+   "Benjamin Gill",
+   "Who Darted",
+   1.78,
+   42,
+   17,
+   12,
+   0,
+   0,
+   10,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Brian Zicari",
+   "No Bulls",
+   1.76,
+   48,
+   11,
+   15,
+   0,
+   0,
+   15,
+   5,
+   1,
+   0,
+   0
+  ],
+  [
    "Jimmy Mietus",
    "Double Trouble",
-   1.82,
-   36,
-   14,
+   1.76,
+   42,
+   15,
    4,
    0,
    0,
@@ -256,57 +301,12 @@
    0
   ],
   [
-   "Shawn Thurley",
-   "Your In Treble",
-   1.8,
-   42,
-   11,
-   9,
-   0,
-   0,
-   9,
-   9,
-   2,
-   0,
-   0
-  ],
-  [
-   "Benjamin Gill",
-   "Who Darted",
-   1.76,
-   36,
-   16,
-   9,
-   0,
-   0,
-   10,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
-   "Brian Zicari",
-   "No Bulls",
-   1.74,
-   42,
-   10,
-   13,
-   0,
-   0,
-   15,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
    "Nick Gatti",
    "Your In Treble",
-   1.73,
-   42,
-   9,
+   1.72,
+   48,
    11,
+   12,
    1,
    0,
    9,
@@ -348,10 +348,10 @@
   [
    "Kendra Loya",
    "Who Darted",
-   1.52,
-   36,
-   9,
-   16,
+   1.54,
+   42,
+   12,
+   17,
    0,
    0,
    6,
@@ -376,32 +376,47 @@
    0
   ],
   [
-   "Carrie Shaw",
-   "Couples Terapy",
-   1.47,
+   "Todd Cornell",
+   "Ballsagna",
+   1.48,
    42,
-   11,
-   5,
-   1,
+   8,
+   19,
    0,
-   5,
-   2,
+   0,
+   8,
+   3,
    0,
    0,
    0
   ],
   [
-   "Todd Cornell",
-   "Ballsagna",
-   1.41,
-   36,
-   4,
-   18,
-   0,
+   "Carrie Shaw",
+   "Couples Terapy",
+   1.47,
+   48,
+   12,
+   6,
+   1,
    0,
    5,
    3,
    0,
+   0,
+   0
+  ],
+  [
+   "Ted Temple",
+   "No Bulls",
+   1.41,
+   48,
+   15,
+   11,
+   0,
+   0,
+   6,
+   1,
+   2,
    0,
    0
   ],
@@ -416,21 +431,6 @@
    0,
    2,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Steve Gallwey",
-   "636ers",
-   1.37,
-   30,
-   5,
-   8,
-   0,
-   0,
-   5,
-   2,
    0,
    0,
    0
@@ -451,17 +451,17 @@
    0
   ],
   [
-   "Ted Temple",
-   "No Bulls",
-   1.36,
-   42,
-   13,
-   10,
+   "Steve Gallwey",
+   "636ers",
+   1.37,
+   30,
+   5,
+   8,
    0,
    0,
-   3,
-   1,
-   1,
+   5,
+   2,
+   0,
    0,
    0
   ],
@@ -496,21 +496,6 @@
    0
   ],
   [
-   "Rob Hall",
-   "Girls Wanna Have Fun",
-   1.21,
-   6,
-   0,
-   0,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Melissa Cocchiara",
    "Bulleye Bandits",
    1.21,
@@ -526,16 +511,46 @@
    0
   ],
   [
+   "Rob Hall",
+   "Girls Wanna Have Fun",
+   1.21,
+   6,
+   0,
+   0,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
    "Lou Sanchez",
    "Double Trouble",
-   1.21,
-   42,
+   1.2,
+   48,
    4,
-   15,
+   16,
    0,
    0,
    5,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Paul Humennyj",
+   "Couples Terapy",
+   1.16,
+   42,
+   6,
+   12,
+   0,
+   0,
+   5,
+   3,
    1,
    0,
    0
@@ -551,21 +566,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Paul Humennyj",
-   "Couples Terapy",
-   1.15,
-   36,
-   5,
-   11,
-   0,
-   0,
-   4,
-   3,
    0,
    0,
    0
@@ -587,14 +587,14 @@
   [
    "Zach Gooding",
    "Ballsagna",
-   21.31,
-   42,
-   20,
+   20.96,
+   49,
+   25,
    10,
    0,
    0,
    0,
-   34
+   38
   ],
   [
    "Chris Wagner",
@@ -611,14 +611,14 @@
   [
    "Nick Gatti",
    "Your In Treble",
-   17.83,
-   49,
-   15,
-   2,
+   18.02,
+   56,
+   20,
+   3,
    0,
    0,
    0,
-   28
+   30
   ],
   [
    "Jordyn Sullivan",
@@ -645,6 +645,18 @@
    21
   ],
   [
+   "Benjamin Gill",
+   "Who Darted",
+   17.62,
+   49,
+   18,
+   3,
+   0,
+   0,
+   0,
+   27
+  ],
+  [
    "Pat Cocchiara",
    "Bulleye Bandits",
    17.59,
@@ -655,18 +667,6 @@
    0,
    0,
    29
-  ],
-  [
-   "Benjamin Gill",
-   "Who Darted",
-   17.46,
-   42,
-   15,
-   3,
-   0,
-   0,
-   0,
-   21
   ],
   [
    "John Demott",
@@ -683,38 +683,26 @@
   [
    "Jimmy Mietus",
    "Double Trouble",
-   17.18,
-   42,
-   18,
+   16.92,
+   49,
+   19,
    1,
    0,
    0,
    0,
-   21
+   24
   ],
   [
    "Shawn Thurley",
    "Your In Treble",
-   16.75,
-   49,
+   16.61,
+   56,
    13,
    0,
    1,
    0,
    1,
-   26
-  ],
-  [
-   "Brian Zicari",
-   "No Bulls",
-   16.7,
-   49,
-   10,
-   3,
-   0,
-   0,
-   0,
-   13
+   27
   ],
   [
    "Ed Rowland",
@@ -729,28 +717,40 @@
    2
   ],
   [
+   "Brian Zicari",
+   "No Bulls",
+   16.5,
+   56,
+   11,
+   3,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
    "Kendra Loya",
    "Who Darted",
-   16.44,
-   42,
-   11,
+   16.31,
+   49,
+   13,
    0,
    0,
    0,
    0,
-   23
+   25
   ],
   [
    "Ted Temple",
    "No Bulls",
-   16.08,
-   49,
+   16.01,
+   56,
    9,
    0,
    0,
    0,
    1,
-   16
+   17
   ],
   [
    "Jessica Zimmerman",
@@ -777,6 +777,18 @@
    2
   ],
   [
+   "Todd Cornell",
+   "Ballsagna",
+   15.28,
+   49,
+   4,
+   1,
+   0,
+   0,
+   0,
+   12
+  ],
+  [
    "Rob Hall",
    "Girls Wanna Have Fun",
    14.93,
@@ -787,30 +799,6 @@
    0,
    0,
    5
-  ],
-  [
-   "Carrie Shaw",
-   "Couples Terapy",
-   14.73,
-   49,
-   13,
-   1,
-   0,
-   0,
-   0,
-   12
-  ],
-  [
-   "Todd Cornell",
-   "Ballsagna",
-   14.63,
-   42,
-   3,
-   1,
-   0,
-   0,
-   0,
-   6
   ],
   [
    "Steve Gallwey",
@@ -825,16 +813,28 @@
    4
   ],
   [
+   "Carrie Shaw",
+   "Couples Terapy",
+   14.49,
+   56,
+   14,
+   1,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
    "Lou Sanchez",
    "Double Trouble",
-   13.96,
-   49,
+   14.03,
+   56,
    5,
    0,
    0,
    0,
    0,
-   9
+   11
   ],
   [
    "Kristen Hall",
@@ -875,14 +875,14 @@
   [
    "Paul Humennyj",
    "Couples Terapy",
-   12.69,
-   42,
-   5,
+   12.93,
+   49,
+   6,
    0,
    0,
    0,
    0,
-   5
+   6
   ]
  ],
  "teams": [
@@ -1623,5 +1623,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-17T01:36:08Z"
+ "updated": "2026-11-17T03:08:34Z"
 }

@@ -5,24 +5,24 @@
  },
  "standings": [
   [
-   "RCE",
-   53,
-   15
+   "Dave And Rich",
+   74,
+   28
   ],
   [
-   "Dave And Rich",
-   62,
-   23
+   "RCE",
+   61,
+   24
   ],
   [
    "Off In Church",
-   46,
-   22
+   55,
+   30
   ],
   [
    "Gingers Unite",
-   53,
-   32
+   63,
+   39
   ],
   [
    "Straight 2 The Point",
@@ -31,23 +31,23 @@
   ],
   [
    "Dirty Draws",
-   47,
-   38
+   59,
+   43
   ],
   [
    "The Regulators",
-   35,
-   33
+   42,
+   43
   ],
   [
    "Water Off",
-   37,
-   65
+   42,
+   77
   ],
   [
    "Dirty Kids MFWs",
-   29,
-   56
+   34,
+   68
   ],
   [
    "IGY6",
@@ -62,22 +62,6 @@
  ],
  "results": [
   [
-   "RCE",
-   "Water Off",
-   "11/09/2026",
-   7,
-   15,
-   2
-  ],
-  [
-   "Gingers Unite",
-   "Respectdabull",
-   "11/09/2026",
-   7,
-   15,
-   2
-  ],
-  [
    "Straight 2 The Point",
    "IGY6",
    "11/15/2026",
@@ -87,43 +71,67 @@
   ],
   [
    "Dave And Rich",
-   "Dirty Draws",
-   "11/09/2026",
-   7,
-   11,
-   6
+   "Water Off",
+   "11/16/2026",
+   8,
+   12,
+   5
   ],
   [
+   "Dirty Draws",
    "Dirty Kids MFWs",
-   "Respectdabull",
-   "11/02/2026",
-   6,
+   "11/16/2026",
+   8,
+   12,
+   5
+  ],
+  [
+   "Gingers Unite",
+   "The Regulators",
+   "11/16/2026",
+   8,
    10,
    7
   ],
   [
    "Off In Church",
-   "Straight 2 The Point",
-   "11/09/2026",
-   7,
+   "RCE",
+   "11/16/2026",
+   8,
    9,
    8
   ],
   [
-   "Dirty Draws",
-   "Dave And Rich",
-   "11/09/2026",
-   7,
-   6,
-   11
+   "RCE",
+   "Off In Church",
+   "11/16/2026",
+   8,
+   8,
+   9
   ],
   [
    "The Regulators",
+   "Gingers Unite",
+   "11/16/2026",
+   8,
+   7,
+   10
+  ],
+  [
+   "Dirty Kids MFWs",
+   "Dirty Draws",
+   "11/16/2026",
+   8,
+   5,
+   12
+  ],
+  [
+   "Water Off",
    "Dave And Rich",
-   "11/02/2026",
-   6,
-   6,
-   11
+   "11/16/2026",
+   8,
+   5,
+   12
   ],
   [
    "IGY6",
@@ -140,32 +148,36 @@
    7,
    2,
    15
-  ],
-  [
-   "Water Off",
-   "RCE",
-   "11/09/2026",
-   7,
-   2,
-   15
   ]
  ],
  "improved": {
   "c": [
    [
+    "Joe Gillett",
+    "Off In Church",
+    3.02,
+    3.13
+   ],
+   [
+    "Jeff Childs",
+    "Off In Church",
+    3.72,
+    3.83
+   ],
+   [
     "Tashawn Rucker",
     "Straight 2 The Point",
     3.15,
     3.23
-   ],
-   [
-    "Carlton Smith",
-    "Straight 2 The Point",
-    3.45,
-    3.46
    ]
   ],
   "x": [
+   [
+    "Amy DeBruyne",
+    "Dirty Kids MFWs",
+    19.75,
+    20.34
+   ],
    [
     "Jay Pierce",
     "IGY6",
@@ -173,16 +185,10 @@
     20.59
    ],
    [
-    "Archie Donaldson",
-    "IGY6",
-    22.65,
-    23.01
-   ],
-   [
-    "Tashawn Rucker",
-    "Straight 2 The Point",
-    23.5,
-    23.55
+    "JohnnyLee Jenkins",
+    "The Regulators",
+    30.25,
+    30.82
    ]
   ]
  },
@@ -190,75 +196,75 @@
   [
    "JohnnyLee Jenkins",
    "The Regulators",
-   3.99,
-   24,
-   14,
+   3.89,
+   32,
+   18,
    2,
    2,
    3,
-   16,
-   13,
-   13,
+   21,
+   15,
+   17,
    1,
-   1
+   3
   ],
   [
-   "Alex Brant",
-   "RCE",
-   3.93,
-   32,
-   17,
-   9,
-   2,
+   "Jeff Childs",
+   "Off In Church",
+   3.83,
+   40,
+   18,
+   11,
+   4,
    1,
-   29,
-   9,
+   27,
+   18,
    21,
-   1,
+   3,
    4
   ],
   [
    "Steve Dailor",
    "Dirty Draws",
-   3.81,
-   40,
-   16,
-   7,
+   3.8,
+   48,
+   21,
+   8,
    7,
    0,
-   24,
-   23,
-   17,
+   37,
+   25,
+   21,
    1,
    5
   ],
   [
-   "Jeff Childs",
-   "Off In Church",
-   3.72,
-   32,
-   13,
+   "Alex Brant",
+   "RCE",
+   3.77,
+   40,
+   18,
    10,
    4,
    1,
-   24,
+   33,
    11,
-   16,
+   23,
    1,
-   3
+   5
   ],
   [
    "Chris Maloney",
    "RCE",
-   3.66,
-   32,
-   16,
-   10,
+   3.54,
+   40,
+   17,
+   11,
    3,
    0,
-   28,
-   10,
-   10,
+   33,
+   12,
+   11,
    2,
    3
   ],
@@ -311,106 +317,121 @@
    "Cory Kent",
    "Gingers Unite",
    3.18,
-   40,
+   48,
+   23,
+   6,
+   1,
+   0,
+   38,
    20,
-   5,
-   1,
-   0,
-   33,
-   16,
-   8,
-   0,
-   0
-  ],
-  [
-   "Dave Wallace",
-   "Dave And Rich",
-   3.15,
-   40,
-   18,
-   9,
-   5,
-   1,
-   32,
-   13,
-   15,
+   10,
    0,
    0
   ],
   [
    "Ashton Maracle",
    "Gingers Unite",
-   3.15,
-   40,
-   12,
+   3.16,
+   48,
    15,
+   17,
    5,
    0,
-   24,
+   30,
    20,
-   12,
+   18,
    0,
    1
   ],
   [
-   "Houston Hughey III",
-   "Dirty Draws",
-   3.04,
+   "Joe Gillett",
+   "Off In Church",
+   3.13,
    40,
+   17,
    11,
-   8,
-   2,
+   4,
    1,
-   24,
-   12,
+   22,
+   16,
    11,
    0,
+   2
+  ],
+  [
+   "Dave Wallace",
+   "Dave And Rich",
+   3.13,
+   48,
+   21,
+   10,
+   5,
+   1,
+   38,
+   15,
+   18,
+   0,
+   1
+  ],
+  [
+   "Rich Allen",
+   "Dave And Rich",
+   3.09,
+   48,
+   19,
+   13,
+   8,
+   0,
+   27,
+   16,
+   13,
+   0,
+   4
+  ],
+  [
+   "Houston Hughey III",
+   "Dirty Draws",
+   3.07,
+   48,
+   13,
+   11,
+   3,
+   1,
+   29,
+   14,
+   14,
+   1,
    3
   ],
   [
    "Cory Humphries",
    "Water Off",
-   3.03,
-   48,
-   11,
-   6,
+   3.05,
+   56,
+   14,
+   7,
    3,
    0,
-   28,
-   12,
-   10,
-   0,
-   3
-  ],
-  [
-   "Rich Allen",
-   "Dave And Rich",
-   3.02,
-   40,
-   16,
-   11,
-   8,
-   0,
-   22,
-   13,
-   7,
-   0,
-   3
-  ],
-  [
-   "Joe Gillett",
-   "Off In Church",
-   3.02,
-   32,
+   35,
    14,
-   8,
-   4,
-   1,
-   16,
-   11,
-   8,
+   14,
    0,
-   2
+   3
+  ],
+  [
+   "Tom Williamson",
+   "Dirty Kids MFWs",
+   3.03,
+   8,
+   2,
+   0,
+   1,
+   0,
+   5,
+   2,
+   3,
+   0,
+   0
   ],
   [
    "Mike Frank",
@@ -460,14 +481,14 @@
   [
    "Dashay Earlsey",
    "Water Off",
-   2.82,
-   40,
-   9,
-   5,
-   0,
-   0,
-   14,
+   2.79,
+   48,
+   10,
    7,
+   0,
+   0,
+   21,
+   8,
    9,
    1,
    1
@@ -488,21 +509,6 @@
    1
   ],
   [
-   "William Lupiani",
-   "The Regulators",
-   2.63,
-   32,
-   2,
-   10,
-   1,
-   0,
-   17,
-   5,
-   3,
-   0,
-   0
-  ],
-  [
    "Jay Pierce",
    "IGY6",
    2.63,
@@ -518,17 +524,32 @@
    0
   ],
   [
-   "Amy DeBruyne",
-   "Dirty Kids MFWs",
-   2.51,
+   "William Lupiani",
+   "The Regulators",
+   2.57,
    40,
-   4,
-   7,
+   2,
+   13,
+   1,
+   0,
+   19,
+   8,
    3,
    0,
-   18,
-   11,
+   0
+  ],
+  [
+   "Amy DeBruyne",
+   "Dirty Kids MFWs",
+   2.56,
+   48,
    5,
+   9,
+   3,
+   0,
+   27,
+   11,
+   6,
    0,
    1
   ],
@@ -580,30 +601,6 @@
  ],
  "x01": [
   [
-   "Steve Dailor",
-   "Dirty Draws",
-   31.32,
-   35,
-   18,
-   27,
-   0,
-   0,
-   1,
-   76
-  ],
-  [
-   "Jeff Childs",
-   "Off In Church",
-   30.92,
-   28,
-   13,
-   19,
-   0,
-   0,
-   1,
-   65
-  ],
-  [
    "Mike Frank",
    "The Regulators",
    30.85,
@@ -618,50 +615,74 @@
   [
    "JohnnyLee Jenkins",
    "The Regulators",
-   30.25,
-   21,
-   12,
-   13,
+   30.82,
+   28,
+   15,
+   18,
    0,
    0,
-   2,
-   43
+   3,
+   58
+  ],
+  [
+   "Jeff Childs",
+   "Off In Church",
+   30.78,
+   35,
+   14,
+   22,
+   0,
+   0,
+   1,
+   84
+  ],
+  [
+   "Steve Dailor",
+   "Dirty Draws",
+   30.6,
+   42,
+   22,
+   31,
+   0,
+   0,
+   1,
+   95
   ],
   [
    "Alex Brant",
    "RCE",
-   29.8,
-   28,
-   12,
-   18,
+   29.88,
+   35,
+   17,
+   27,
    0,
    1,
    9,
-   44
+   57
   ],
   [
    "Chris Maloney",
    "RCE",
-   28.11,
-   28,
-   8,
-   10,
+   27.9,
+   35,
+   9,
+   12,
    0,
    1,
    3,
-   54
+   67
   ],
   [
    "Rich Allen",
    "Dave And Rich",
-   27.63,
-   35,
-   16,
-   18,
+   27.7,
+   42,
+   21,
+   22,
    0,
    0,
-   0,
-   61
+   1,
+   75
   ],
   [
    "Carlton Smith",
@@ -690,14 +711,26 @@
   [
    "Dave Wallace",
    "Dave And Rich",
-   26.83,
-   35,
-   12,
+   26.48,
+   42,
+   13,
    9,
    0,
    3,
-   5,
-   71
+   6,
+   81
+  ],
+  [
+   "Cory Humphries",
+   "Water Off",
+   26.43,
+   49,
+   14,
+   15,
+   0,
+   0,
+   4,
+   81
   ],
   [
    "Alex Hoestermann",
@@ -714,38 +747,38 @@
   [
    "Joe Gillett",
    "Off In Church",
-   26.12,
-   28,
+   25.45,
+   35,
    6,
-   14,
+   17,
    0,
    0,
    0,
-   46
+   53
   ],
   [
-   "Cory Humphries",
-   "Water Off",
-   26.07,
+   "Cory Kent",
+   "Gingers Unite",
+   25.13,
+   42,
+   11,
+   17,
+   0,
+   0,
+   2,
+   63
+  ],
+  [
+   "Ashton Maracle",
+   "Gingers Unite",
+   23.74,
    42,
    13,
    11,
    0,
    0,
-   3,
-   69
-  ],
-  [
-   "Cory Kent",
-   "Gingers Unite",
-   24.77,
-   35,
-   9,
-   12,
-   0,
-   0,
-   1,
-   54
+   2,
+   67
   ],
   [
    "Tashawn Rucker",
@@ -762,26 +795,14 @@
   [
    "Houston Hughey III",
    "Dirty Draws",
-   23.36,
-   35,
-   2,
-   8,
+   23.47,
+   42,
+   3,
+   12,
    0,
    0,
    1,
-   46
-  ],
-  [
-   "Ashton Maracle",
-   "Gingers Unite",
-   23.3,
-   35,
-   11,
-   8,
-   0,
-   0,
-   1,
-   59
+   57
   ],
   [
    "Archie Donaldson",
@@ -798,26 +819,26 @@
   [
    "Dashay Earlsey",
    "Water Off",
-   22.89,
-   35,
+   22.8,
+   42,
    4,
    8,
    0,
    0,
    2,
-   50
+   61
   ],
   [
    "William Lupiani",
    "The Regulators",
-   22.68,
-   28,
+   22.57,
+   35,
    1,
    6,
    0,
    0,
    2,
-   35
+   43
   ],
   [
    "Anthony Nesci",
@@ -844,6 +865,18 @@
    46
   ],
   [
+   "Tom Williamson",
+   "Dirty Kids MFWs",
+   20.7,
+   7,
+   0,
+   2,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
    "Jay Pierce",
    "IGY6",
    20.59,
@@ -854,6 +887,18 @@
    0,
    0,
    34
+  ],
+  [
+   "Amy DeBruyne",
+   "Dirty Kids MFWs",
+   20.34,
+   42,
+   5,
+   4,
+   0,
+   0,
+   1,
+   48
   ],
   [
    "Austin Prince",
@@ -878,18 +923,6 @@
    0,
    0,
    8
-  ],
-  [
-   "Amy DeBruyne",
-   "Dirty Kids MFWs",
-   19.75,
-   35,
-   3,
-   3,
-   0,
-   0,
-   1,
-   39
   ]
  ],
  "teams": [
@@ -1618,5 +1651,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-17T01:36:03Z"
+ "updated": "2026-11-17T03:08:30Z"
 }

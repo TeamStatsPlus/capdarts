@@ -426,21 +426,6 @@
    0
   ],
   [
-   "Robyn Ralston",
-   "We Dem Boyz",
-   2.02,
-   30,
-   8,
-   12,
-   1,
-   0,
-   10,
-   1,
-   3,
-   1,
-   0
-  ],
-  [
    "Jason Miles",
    "Fing The Neighbors",
    2.02,
@@ -454,6 +439,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   2.02,
+   30,
+   8,
+   12,
+   1,
+   0,
+   10,
+   1,
+   3,
+   1,
+   0
   ],
   [
    "TJ Vay",
@@ -561,21 +561,6 @@
    0
   ],
   [
-   "Donovan Caraballo",
-   "Talk Darty To Me",
-   1.77,
-   36,
-   9,
-   6,
-   0,
-   0,
-   9,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Chaz Carley",
    "Night Shot",
    1.77,
@@ -587,6 +572,21 @@
    10,
    4,
    1,
+   0,
+   0
+  ],
+  [
+   "Donovan Caraballo",
+   "Talk Darty To Me",
+   1.77,
+   36,
+   9,
+   6,
+   0,
+   0,
+   9,
+   1,
+   2,
    0,
    0
   ],
@@ -878,18 +878,6 @@
    25
   ],
   [
-   "David Caesar",
-   "Night Shot",
-   19.33,
-   56,
-   15,
-   4,
-   0,
-   0,
-   0,
-   31
-  ],
-  [
    "Kenny Williams",
    "Glass N Stache",
    19.33,
@@ -900,6 +888,18 @@
    0,
    0,
    29
+  ],
+  [
+   "David Caesar",
+   "Night Shot",
+   19.33,
+   56,
+   15,
+   4,
+   0,
+   0,
+   0,
+   31
   ],
   [
    "Neal Kenyon",
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-17T01:35:54Z"
+ "updated": "2026-11-17T03:08:20Z"
 }
