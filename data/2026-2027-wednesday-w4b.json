@@ -605,21 +605,6 @@
    1
   ],
   [
-   "Rob Cutt",
-   "BullsHitters",
-   1.5,
-   3,
-   0,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dennis Obrien",
    "Almost There",
    1.5,
@@ -631,6 +616,21 @@
    2,
    2,
    2,
+   0,
+   0
+  ],
+  [
+   "Rob Cutt",
+   "BullsHitters",
+   1.5,
+   3,
+   0,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -1861,5 +1861,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-17T21:13:04Z"
+ "updated": "2026-11-17T22:14:46Z"
 }
