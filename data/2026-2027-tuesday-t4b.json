@@ -120,16 +120,16 @@
     1.89
    ],
    [
-    "Goel Adinoel",
-    "Goodlife",
-    1.88,
-    1.95
-   ],
-   [
     "Norberto Cervantes",
     "Dirty O Boys",
     2.25,
     2.32
+   ],
+   [
+    "Goel Adinoel",
+    "Goodlife",
+    1.88,
+    1.95
    ]
   ],
   "x": [
@@ -185,21 +185,6 @@
    2
   ],
   [
-   "AJ Perry",
-   "Caps N Plaids",
-   2.37,
-   18,
-   5,
-   7,
-   0,
-   1,
-   7,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Peter Rogers",
    "Bad Boys",
    2.37,
@@ -211,6 +196,21 @@
    9,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "AJ Perry",
+   "Caps N Plaids",
+   2.37,
+   18,
+   5,
+   7,
+   0,
+   1,
+   7,
+   3,
+   1,
    0,
    0
   ],
@@ -1948,5 +1948,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-17T11:17:20Z"
+ "updated": "2026-11-17T12:11:22Z"
 }
