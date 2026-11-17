@@ -399,21 +399,6 @@
    0
   ],
   [
-   "Jim Cox",
-   "Methodical Missers",
-   1.6,
-   48,
-   10,
-   14,
-   2,
-   0,
-   7,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Karen Delbert",
    "Pointless",
    1.6,
@@ -429,6 +414,21 @@
    0
   ],
   [
+   "Jim Cox",
+   "Methodical Missers",
+   1.6,
+   48,
+   10,
+   14,
+   2,
+   0,
+   7,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Amy Poltorak",
    "In Whiskey We Trust",
    1.51,
@@ -438,6 +438,21 @@
    0,
    0,
    3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "James Miller",
+   "Turd Ferguson",
+   1.49,
+   36,
+   10,
+   14,
+   0,
+   0,
+   6,
    1,
    1,
    0,
@@ -459,17 +474,17 @@
    0
   ],
   [
-   "James Miller",
-   "Turd Ferguson",
-   1.49,
+   "Grace Maracle",
+   "Shared Brain Cell",
+   1.46,
    36,
-   10,
-   14,
+   8,
+   7,
    0,
    0,
-   6,
-   1,
-   1,
+   5,
+   4,
+   3,
    0,
    0
   ],
@@ -485,21 +500,6 @@
    6,
    2,
    1,
-   0,
-   0
-  ],
-  [
-   "Grace Maracle",
-   "Shared Brain Cell",
-   1.46,
-   36,
-   8,
-   7,
-   0,
-   0,
-   5,
-   4,
-   3,
    0,
    0
   ],
@@ -1815,5 +1815,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-17T17:26:44Z"
+ "updated": "2026-11-17T19:26:43Z"
 }
