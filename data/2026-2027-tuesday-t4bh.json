@@ -11,33 +11,33 @@
   ],
   [
    "Thunderbuddies",
-   54,
-   37
+   60,
+   44
   ],
   [
    "4 Of Clubs",
-   49,
-   42
+   60,
+   44
   ],
   [
    "Gettin Looped",
-   48,
-   43
-  ],
-  [
-   "The Critters",
-   45,
-   46
+   55,
+   49
   ],
   [
    "Team Name",
-   41,
-   50
+   49,
+   55
+  ],
+  [
+   "The Critters",
+   47,
+   57
   ],
   [
    "Thats Bullshoot",
-   31,
-   47
+   36,
+   55
   ],
   [
    "No Sleep",
@@ -47,12 +47,12 @@
  ],
  "results": [
   [
+   "4 Of Clubs",
    "The Critters",
-   "No Sleep",
-   "11/10/2026",
-   7,
-   10,
-   3
+   "11/17/2026",
+   8,
+   11,
+   2
   ],
   [
    "Lady And The Tramps",
@@ -63,44 +63,36 @@
    4
   ],
   [
-   "Gettin Looped",
    "Team Name",
-   "11/10/2026",
-   7,
+   "Thats Bullshoot",
+   "11/17/2026",
+   8,
    8,
    5
   ],
   [
-   "4 Of Clubs",
+   "Gettin Looped",
    "Thunderbuddies",
-   "11/10/2026",
-   7,
+   "11/17/2026",
+   8,
    7,
    6
   ],
   [
    "Thunderbuddies",
-   "4 Of Clubs",
-   "11/10/2026",
-   7,
+   "Gettin Looped",
+   "11/17/2026",
+   8,
    6,
    7
   ],
   [
+   "Thats Bullshoot",
    "Team Name",
-   "Gettin Looped",
-   "11/10/2026",
-   7,
+   "11/17/2026",
+   8,
    5,
    8
-  ],
-  [
-   "Thats Bullshoot",
-   "Lady And The Tramps",
-   "11/10/2026",
-   7,
-   4,
-   9
   ],
   [
    "No Sleep",
@@ -109,47 +101,55 @@
    7,
    3,
    10
+  ],
+  [
+   "The Critters",
+   "4 Of Clubs",
+   "11/17/2026",
+   8,
+   2,
+   11
   ]
  ],
  "improved": {
   "c": [
    [
-    "Rik Sawyer",
-    "The Critters",
-    1.14,
-    1.23
-   ],
-   [
-    "Tom Smith",
+    "Sue Fuhry",
     "4 Of Clubs",
-    1.52,
-    1.58
+    1.23,
+    1.33
    ],
    [
-    "Phil Warney",
-    "Gettin Looped",
-    1.73,
-    1.79
+    "Tom Solorzano",
+    "4 Of Clubs",
+    1.27,
+    1.33
+   ],
+   [
+    "Lou Sanchez",
+    "Team Name",
+    1.13,
+    1.18
    ]
   ],
   "x": [
    [
-    "Rik Sawyer",
-    "The Critters",
-    13.45,
-    14.17
+    "Lou Sanchez",
+    "Team Name",
+    12.93,
+    13.36
    ],
    [
-    "Skylar DAmico",
-    "The Critters",
-    17.56,
-    18.12
+    "David Pearce",
+    "Thunderbuddies",
+    12.84,
+    13.26
    ],
    [
-    "Phil Warney",
+    "Rick Ernst",
     "Gettin Looped",
-    17.67,
-    18.18
+    17.99,
+    18.3
    ]
   ]
  },
@@ -170,25 +170,10 @@
    0
   ],
   [
-   "Jordan Kiessling",
-   "Thats Bullshoot",
-   2.0,
-   15,
-   4,
-   4,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Ben Deuel",
    "Thunderbuddies",
-   1.99,
-   18,
+   1.98,
+   21,
    6,
    5,
    0,
@@ -230,6 +215,21 @@
    0
   ],
   [
+   "Jordan Kiessling",
+   "Thats Bullshoot",
+   1.94,
+   18,
+   4,
+   5,
+   0,
+   0,
+   3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
    "Philip Rowland",
    "Team Name",
    1.92,
@@ -241,6 +241,51 @@
    1,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Brad Wight",
+   "Thunderbuddies",
+   1.92,
+   24,
+   11,
+   6,
+   0,
+   0,
+   6,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.88,
+   24,
+   7,
+   2,
+   2,
+   0,
+   6,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Rick Ernst",
+   "Gettin Looped",
+   1.87,
+   24,
+   8,
+   4,
+   1,
+   0,
+   1,
+   3,
+   1,
    0,
    0
   ],
@@ -260,51 +305,6 @@
    0
   ],
   [
-   "Brad Wight",
-   "Thunderbuddies",
-   1.87,
-   21,
-   10,
-   5,
-   0,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
-   "Michael Justis",
-   "4 Of Clubs",
-   1.86,
-   21,
-   6,
-   6,
-   0,
-   0,
-   7,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Rick Ernst",
-   "Gettin Looped",
-   1.85,
-   21,
-   7,
-   4,
-   1,
-   0,
-   1,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Ian Heath",
    "Lady And The Tramps",
    1.85,
@@ -315,36 +315,6 @@
    0,
    1,
    6,
-   0,
-   0,
-   0
-  ],
-  [
-   "Brian Sloan",
-   "The Critters",
-   1.85,
-   21,
-   6,
-   2,
-   2,
-   0,
-   6,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
-   "Joe Rowland",
-   "Team Name",
-   1.83,
-   21,
-   7,
-   1,
-   0,
-   0,
-   7,
-   1,
    0,
    0,
    0
@@ -380,32 +350,47 @@
    0
   ],
   [
-   "Phil Warney",
-   "Gettin Looped",
-   1.79,
-   18,
-   5,
+   "Joe Rowland",
+   "Team Name",
+   1.81,
+   24,
+   7,
    2,
    0,
    0,
    9,
    1,
-   1,
+   0,
    0,
    0
   ],
   [
-   "Scott Fry",
-   "Thunderbuddies",
-   1.77,
+   "Michael Justis",
+   "4 Of Clubs",
+   1.78,
+   24,
+   8,
+   6,
+   0,
+   0,
+   7,
+   2,
+   0,
+   1,
+   0
+  ],
+  [
+   "Phil Warney",
+   "Gettin Looped",
+   1.74,
    21,
-   3,
-   9,
-   0,
-   0,
    6,
    3,
    0,
+   0,
+   10,
+   1,
+   1,
    0,
    0
   ],
@@ -427,16 +412,31 @@
   [
    "Chris Collins",
    "Thats Bullshoot",
-   1.7,
-   18,
+   1.73,
+   21,
+   7,
+   5,
+   0,
+   0,
    6,
-   3,
    0,
-   0,
+   1,
+   1,
+   0
+  ],
+  [
+   "Scott Fry",
+   "Thunderbuddies",
+   1.69,
+   24,
    4,
+   9,
    0,
+   0,
+   8,
+   3,
    1,
-   1,
+   0,
    0
   ],
   [
@@ -457,15 +457,15 @@
   [
    "Skylar DAmico",
    "The Critters",
-   1.68,
-   21,
+   1.64,
+   24,
    6,
    3,
    0,
    0,
-   4,
+   5,
    2,
-   1,
+   2,
    0,
    0
   ],
@@ -485,21 +485,6 @@
    0
   ],
   [
-   "Tom Smith",
-   "4 Of Clubs",
-   1.58,
-   9,
-   4,
-   2,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Montante",
    "No Sleep",
    1.57,
@@ -515,30 +500,75 @@
    0
   ],
   [
-   "Emily Chard",
-   "Thats Bullshoot",
-   1.46,
-   18,
+   "Tom Smith",
+   "4 Of Clubs",
+   1.56,
+   12,
    4,
-   3,
+   4,
    0,
    0,
-   2,
-   2,
+   1,
    0,
+   1,
    0,
    0
   ],
   [
    "Tony Jackson",
    "Gettin Looped",
-   1.45,
+   1.47,
+   24,
+   4,
+   11,
+   0,
+   0,
+   6,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jimmy Mietus",
+   "Team Name",
+   1.46,
    21,
-   3,
-   9,
+   4,
+   2,
    0,
    0,
+   1,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "Emily Chard",
+   "Thats Bullshoot",
+   1.46,
+   21,
    5,
+   4,
+   0,
+   0,
+   2,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Lewis",
+   "Gettin Looped",
+   1.45,
+   3,
+   3,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -560,57 +590,12 @@
    0
   ],
   [
-   "Mike Lewis",
-   "Gettin Looped",
-   1.45,
-   3,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Jimmy Mietus",
-   "Team Name",
-   1.44,
-   18,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
-   "Edward Gschrey",
-   "Team Name",
-   1.42,
-   12,
-   1,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Debbie Olyer",
    "Gettin Looped",
-   1.4,
-   21,
-   4,
+   1.41,
+   24,
    5,
+   6,
    0,
    0,
    2,
@@ -623,13 +608,28 @@
    "Casey Birch",
    "The Critters",
    1.38,
-   18,
+   21,
    0,
    6,
    0,
    0,
-   4,
+   5,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   1.35,
+   15,
+   1,
+   2,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -644,6 +644,36 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sue Fuhry",
+   "4 Of Clubs",
+   1.33,
+   24,
+   4,
+   9,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   1.33,
+   24,
+   6,
+   8,
+   0,
+   0,
+   2,
    0,
    0,
    0,
@@ -695,21 +725,6 @@
    0
   ],
   [
-   "Tom Solorzano",
-   "4 Of Clubs",
-   1.27,
-   21,
-   4,
-   7,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Molly Stanziano",
    "4 Of Clubs",
    1.27,
@@ -725,46 +740,16 @@
    0
   ],
   [
-   "Sue Fuhry",
-   "4 Of Clubs",
-   1.23,
-   21,
-   3,
-   7,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Rik Sawyer",
    "The Critters",
-   1.23,
-   18,
+   1.2,
+   21,
    2,
-   4,
+   5,
    0,
    0,
    1,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "David Pearce",
-   "Thunderbuddies",
-   1.19,
-   18,
-   4,
-   8,
-   0,
-   0,
-   1,
-   1,
    0,
    0,
    0
@@ -773,8 +758,8 @@
    "Mike Garrity",
    "Thats Bullshoot",
    1.18,
-   15,
-   1,
+   18,
+   3,
    4,
    0,
    0,
@@ -787,15 +772,30 @@
   [
    "Lou Sanchez",
    "Team Name",
-   1.13,
-   21,
-   0,
+   1.18,
+   24,
+   1,
    8,
    0,
    0,
-   4,
+   5,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "David Pearce",
+   "Thunderbuddies",
+   1.14,
+   21,
+   4,
+   9,
+   0,
+   0,
+   1,
+   1,
+   0,
    0,
    0
   ],
@@ -861,14 +861,14 @@
   [
    "Joe Rowland",
    "Team Name",
-   20.0,
-   28,
+   19.88,
+   32,
    11,
    3,
    0,
    0,
    0,
-   21
+   23
   ],
   [
    "Philip Rowland",
@@ -883,18 +883,6 @@
    3
   ],
   [
-   "Brian Sloan",
-   "The Critters",
-   18.7,
-   28,
-   13,
-   1,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
    "Ian Heath",
    "Lady And The Tramps",
    18.67,
@@ -907,16 +895,16 @@
    13
   ],
   [
-   "Ben Deuel",
-   "Thunderbuddies",
-   18.56,
-   24,
-   8,
+   "Brian Sloan",
+   "The Critters",
+   18.66,
+   32,
+   14,
    1,
    0,
    0,
    0,
-   15
+   16
   ],
   [
    "Kevin Rowland",
@@ -931,10 +919,10 @@
    2
   ],
   [
-   "Phil Warney",
+   "Rick Ernst",
    "Gettin Looped",
-   18.18,
-   24,
+   18.3,
+   32,
    7,
    0,
    0,
@@ -943,10 +931,34 @@
    13
   ],
   [
+   "Phil Warney",
+   "Gettin Looped",
+   18.21,
+   28,
+   7,
+   0,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "Ben Deuel",
+   "Thunderbuddies",
+   17.93,
+   28,
+   9,
+   1,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
    "Skylar DAmico",
    "The Critters",
-   18.12,
-   28,
+   17.88,
+   32,
    9,
    1,
    0,
@@ -955,28 +967,16 @@
    16
   ],
   [
-   "Rick Ernst",
-   "Gettin Looped",
-   17.99,
-   28,
-   7,
-   0,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
    "Brad Wight",
    "Thunderbuddies",
-   17.58,
-   28,
-   10,
+   17.85,
+   32,
+   12,
    3,
    0,
    0,
    0,
-   9
+   12
   ],
   [
    "Jim Barnard",
@@ -1015,11 +1015,23 @@
    2
   ],
   [
+   "Chris Collins",
+   "Thats Bullshoot",
+   16.91,
+   28,
+   4,
+   1,
+   0,
+   0,
+   0,
+   15
+  ],
+  [
    "Scott Fry",
    "Thunderbuddies",
-   16.92,
-   28,
-   5,
+   16.7,
+   32,
+   6,
    0,
    0,
    0,
@@ -1027,16 +1039,16 @@
    10
   ],
   [
-   "Chris Collins",
-   "Thats Bullshoot",
-   16.75,
-   24,
-   3,
+   "Michael Justis",
+   "4 Of Clubs",
+   16.67,
+   32,
+   13,
    1,
    0,
    0,
    0,
-   12
+   9
   ],
   [
    "John Clark",
@@ -1051,30 +1063,6 @@
    9
   ],
   [
-   "Jordan Kiessling",
-   "Thats Bullshoot",
-   16.62,
-   20,
-   5,
-   0,
-   1,
-   0,
-   1,
-   5
-  ],
-  [
-   "Michael Justis",
-   "4 Of Clubs",
-   16.43,
-   28,
-   11,
-   1,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Travis Hall",
    "Lady And The Tramps",
    16.42,
@@ -1087,23 +1075,35 @@
    10
   ],
   [
+   "Jordan Kiessling",
+   "Thats Bullshoot",
+   16.32,
+   24,
+   5,
+   0,
+   1,
+   0,
+   1,
+   5
+  ],
+  [
    "Jimmy Mietus",
    "Team Name",
-   16.31,
-   24,
-   7,
+   16.07,
+   28,
+   8,
    0,
    0,
    0,
    0,
-   13
+   14
   ],
   [
    "Tom Smith",
    "4 Of Clubs",
-   15.96,
-   12,
-   2,
+   15.46,
+   16,
+   4,
    0,
    0,
    0,
@@ -1126,13 +1126,13 @@
    "Sue Fuhry",
    "4 Of Clubs",
    15.18,
-   28,
-   4,
+   32,
+   6,
    0,
    0,
    0,
    0,
-   7
+   8
   ],
   [
    "Ben Vassallo",
@@ -1147,16 +1147,40 @@
    2
   ],
   [
+   "Casey Birch",
+   "The Critters",
+   14.74,
+   28,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
    "Mike Garrity",
    "Thats Bullshoot",
-   14.8,
-   20,
+   14.73,
+   24,
    2,
    0,
    0,
    0,
    0,
    5
+  ],
+  [
+   "Tony Jackson",
+   "Gettin Looped",
+   14.7,
+   32,
+   11,
+   1,
+   0,
+   0,
+   0,
+   7
   ],
   [
    "Chris Hartmann",
@@ -1171,18 +1195,6 @@
    0
   ],
   [
-   "Casey Birch",
-   "The Critters",
-   14.67,
-   24,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Star Mattice",
    "Team Name",
    14.53,
@@ -1195,52 +1207,28 @@
    1
   ],
   [
-   "Debbie Olyer",
-   "Gettin Looped",
-   14.52,
-   28,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Tom Solorzano",
    "4 Of Clubs",
-   14.49,
-   28,
+   14.5,
+   32,
    7,
    0,
    0,
    0,
    0,
-   7
+   9
   ],
   [
-   "Tony Jackson",
+   "Debbie Olyer",
    "Gettin Looped",
-   14.46,
-   28,
-   9,
-   1,
-   0,
-   0,
-   0,
-   6
-  ],
-  [
-   "Emily Chard",
-   "Thats Bullshoot",
-   14.33,
-   24,
-   5,
+   14.42,
+   32,
+   4,
    0,
    0,
    0,
    0,
-   3
+   4
   ],
   [
    "Mike Lewis",
@@ -1258,13 +1246,13 @@
    "Rik Sawyer",
    "The Critters",
    14.17,
-   24,
+   28,
    4,
    0,
    0,
    0,
    1,
-   5
+   6
   ],
   [
    "Fiona Nelson",
@@ -1277,6 +1265,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Emily Chard",
+   "Thats Bullshoot",
+   14.06,
+   28,
+   5,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Debbie Lillie",
@@ -1293,14 +1293,14 @@
   [
    "Edward Gschrey",
    "Team Name",
-   13.62,
-   16,
-   2,
+   13.79,
+   20,
+   4,
    0,
    0,
    0,
    0,
-   1
+   2
   ],
   [
    "Mike Montante",
@@ -1329,14 +1329,26 @@
   [
    "Lou Sanchez",
    "Team Name",
-   12.93,
+   13.36,
+   32,
+   4,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
+   "David Pearce",
+   "Thunderbuddies",
+   13.26,
    28,
-   1,
+   3,
    0,
    0,
    0,
    0,
-   2
+   4
   ],
   [
    "Mitch Jag",
@@ -1349,18 +1361,6 @@
    0,
    0,
    0
-  ],
-  [
-   "David Pearce",
-   "Thunderbuddies",
-   12.84,
-   24,
-   3,
-   0,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "Brett Harling",
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-18T01:42:39Z"
+ "updated": "2026-11-18T03:11:13Z"
 }
