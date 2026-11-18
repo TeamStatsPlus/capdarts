@@ -66,7 +66,7 @@
    "Goodlife",
    "3 Guys And A Girl",
    "11/17/2026",
-   1,
+   8,
    7,
    6
   ],
@@ -82,7 +82,7 @@
    "3 Guys And A Girl",
    "Goodlife",
    "11/17/2026",
-   1,
+   8,
    6,
    7
   ],
@@ -146,10 +146,10 @@
     15.32
    ],
    [
-    "Richard Pecorino",
-    "Caps N Plaids",
-    19.2,
-    19.87
+    "Erick Ramos",
+    "Goodlife",
+    18.36,
+    19.14
    ]
   ]
  },
@@ -620,8 +620,8 @@
    0
   ],
   [
-   "TIM ROGERS",
-   "{Substitutes}",
+   "Tim Rogers",
+   "Bad Boys",
    1.58,
    3,
    0,
@@ -630,6 +630,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Andrew Bochetto",
+   "Sloppy Darts",
+   1.57,
+   24,
+   2,
+   8,
+   0,
+   0,
+   5,
+   3,
    0,
    0,
    0
@@ -646,21 +661,6 @@
    0,
    0,
    1,
-   0,
-   0
-  ],
-  [
-   "Andrew Bochetto",
-   "Sloppy Darts",
-   1.57,
-   24,
-   2,
-   8,
-   0,
-   0,
-   5,
-   3,
-   0,
    0,
    0
   ],
@@ -1108,8 +1108,8 @@
    2
   ],
   [
-   "TIM ROGERS",
-   "{Substitutes}",
+   "Tim Rogers",
+   "Bad Boys",
    17.37,
    4,
    2,
@@ -1204,18 +1204,6 @@
    2
   ],
   [
-   "Robin Guerrieri",
-   "3 Guys And A Girl",
-   15.72,
-   28,
-   4,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Marty Cordy",
    "Dirty O Boys",
    15.72,
@@ -1226,6 +1214,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Robin Guerrieri",
+   "3 Guys And A Girl",
+   15.72,
+   28,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Matthew Griffin",
@@ -1975,5 +1975,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-18T16:24:05Z"
+ "updated": "2026-11-18T18:09:15Z"
 }
