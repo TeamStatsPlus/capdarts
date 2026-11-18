@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T03:12:19Z",
+ "updated": "2026-11-18T04:19:43Z",
  "standings": [
   [
    "No Clue",
@@ -323,21 +323,6 @@
    2
   ],
   [
-   "Kevin DeHollander",
-   "Draw Two",
-   2.64,
-   30,
-   13,
-   0,
-   0,
-   0,
-   18,
-   6,
-   5,
-   0,
-   0
-  ],
-  [
    "Mike Georgetti",
    "No Clue",
    2.64,
@@ -350,6 +335,21 @@
    11,
    6,
    1,
+   0
+  ],
+  [
+   "Kevin DeHollander",
+   "Draw Two",
+   2.64,
+   30,
+   13,
+   0,
+   0,
+   0,
+   18,
+   6,
+   5,
+   0,
    0
   ],
   [
@@ -383,21 +383,6 @@
    0
   ],
   [
-   "Daniel Purpura",
-   "Retreat",
-   2.61,
-   36,
-   13,
-   3,
-   1,
-   0,
-   20,
-   12,
-   5,
-   0,
-   1
-  ],
-  [
    "Shawn Bentley",
    "Throwing Shade",
    2.61,
@@ -411,6 +396,21 @@
    13,
    0,
    0
+  ],
+  [
+   "Daniel Purpura",
+   "Retreat",
+   2.61,
+   36,
+   13,
+   3,
+   1,
+   0,
+   20,
+   12,
+   5,
+   0,
+   1
   ],
   [
    "Todd Wagner",
@@ -1117,16 +1117,16 @@
     1.49
    ],
    [
-    "Mike Georgetti",
-    "No Clue",
-    2.57,
-    2.64
-   ],
-   [
     "Alyxandria Weaver",
     "Retreat",
     1.72,
     1.79
+   ],
+   [
+    "Mike Georgetti",
+    "No Clue",
+    2.57,
+    2.64
    ]
   ],
   "x": [

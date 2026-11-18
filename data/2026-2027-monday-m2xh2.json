@@ -245,6 +245,21 @@
    0
   ],
   [
+   "Will Zimmer",
+   "Game Of Throws",
+   2.41,
+   36,
+   5,
+   8,
+   1,
+   0,
+   19,
+   6,
+   7,
+   0,
+   0
+  ],
+  [
    "Todd Guichard",
    "ApologiseNow",
    2.41,
@@ -273,21 +288,6 @@
    1,
    0,
    1
-  ],
-  [
-   "Will Zimmer",
-   "Game Of Throws",
-   2.41,
-   36,
-   5,
-   8,
-   1,
-   0,
-   19,
-   6,
-   7,
-   0,
-   0
   ],
   [
    "Todd Keller",
@@ -1204,5 +1204,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-18T03:10:48Z"
+ "updated": "2026-11-18T04:17:56Z"
 }

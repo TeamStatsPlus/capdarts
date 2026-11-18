@@ -383,21 +383,6 @@
    0
   ],
   [
-   "Jon Vallone",
-   "Good Smoke BBQ",
-   2.25,
-   24,
-   7,
-   8,
-   0,
-   0,
-   10,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Ben Kulikowski",
    "Good Smoke BBQ",
    2.25,
@@ -409,6 +394,21 @@
    9,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Jon Vallone",
+   "Good Smoke BBQ",
+   2.25,
+   24,
+   7,
+   8,
+   0,
+   0,
+   10,
+   1,
+   1,
    0,
    0
   ],
@@ -428,21 +428,6 @@
    0
   ],
   [
-   "Chad Pike",
-   "Here 4 The Beer",
-   2.19,
-   21,
-   9,
-   5,
-   0,
-   0,
-   5,
-   3,
-   2,
-   0,
-   0
-  ],
-  [
    "Shondell Kirton",
    "IDF NightCaps",
    2.19,
@@ -456,6 +441,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Chad Pike",
+   "Here 4 The Beer",
+   2.19,
+   21,
+   9,
+   5,
+   0,
+   0,
+   5,
+   3,
+   2,
+   0,
+   0
   ],
   [
    "Joe Soriano",
@@ -653,6 +653,21 @@
    0
   ],
   [
+   "Rory Doran",
+   "Bad News Beers",
+   1.95,
+   24,
+   10,
+   9,
+   1,
+   0,
+   2,
+   3,
+   0,
+   0,
+   1
+  ],
+  [
    "Dean Nicosia",
    "Money Shot",
    1.95,
@@ -681,21 +696,6 @@
    0,
    0,
    0
-  ],
-  [
-   "Rory Doran",
-   "Bad News Beers",
-   1.95,
-   24,
-   10,
-   9,
-   1,
-   0,
-   2,
-   3,
-   0,
-   0,
-   1
   ],
   [
    "David Caesar",
@@ -893,21 +893,6 @@
    0
   ],
   [
-   "Mike Wemett",
-   "Good Smoke BBQ",
-   1.68,
-   21,
-   4,
-   7,
-   0,
-   0,
-   4,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Chuck Marchbanks",
    "Wired",
    1.68,
@@ -918,6 +903,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Wemett",
+   "Good Smoke BBQ",
+   1.68,
+   21,
+   4,
+   7,
+   0,
+   0,
+   4,
+   3,
    0,
    0,
    0
@@ -953,21 +953,6 @@
    0
   ],
   [
-   "Steve Strowbridge",
-   "Off Target",
-   1.61,
-   21,
-   6,
-   3,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Judson Brown",
    "Wired",
    1.61,
@@ -978,6 +963,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Steve Strowbridge",
+   "Off Target",
+   1.61,
+   21,
+   6,
+   3,
+   0,
+   0,
+   3,
+   1,
    0,
    0,
    0
@@ -1283,21 +1283,6 @@
    0
   ],
   [
-   "Alex Franchot",
-   "Off Target",
-   1.06,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Cortese",
    "Off Target",
    1.06,
@@ -1307,6 +1292,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alex Franchot",
+   "Off Target",
+   1.06,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -3141,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-18T03:10:53Z"
+ "updated": "2026-11-18T04:18:00Z"
 }
