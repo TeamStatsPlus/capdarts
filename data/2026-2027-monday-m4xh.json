@@ -290,21 +290,6 @@
    0
   ],
   [
-   "Nick Pritchard",
-   "The Four Horseman",
-   2.38,
-   24,
-   14,
-   2,
-   1,
-   1,
-   5,
-   3,
-   5,
-   0,
-   1
-  ],
-  [
    "Mike Murphy",
    "Wrong Hole",
    2.38,
@@ -318,6 +303,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Nick Pritchard",
+   "The Four Horseman",
+   2.38,
+   24,
+   14,
+   2,
+   1,
+   1,
+   5,
+   3,
+   5,
+   0,
+   1
   ],
   [
    "Chris Nesci",
@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Bailey Plummer",
-   "Dartbags",
-   1.94,
-   24,
-   6,
-   5,
-   1,
-   0,
-   8,
-   4,
-   1,
-   0,
-   1
-  ],
-  [
    "Brian Faucher",
    "RamRod",
    1.94,
@@ -558,6 +543,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Bailey Plummer",
+   "Dartbags",
+   1.94,
+   24,
+   6,
+   5,
+   1,
+   0,
+   8,
+   4,
+   1,
+   0,
+   1
   ],
   [
    "Marc Hinds",
@@ -695,21 +695,6 @@
    0
   ],
   [
-   "Blake Stevenson",
-   "RamRod",
-   1.55,
-   18,
-   8,
-   3,
-   0,
-   0,
-   5,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Sarah McKnight",
    "Take It Out",
    1.55,
@@ -721,6 +706,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Blake Stevenson",
+   "RamRod",
+   1.55,
+   18,
+   8,
+   3,
+   0,
+   0,
+   5,
+   1,
+   2,
    0,
    0
   ],
@@ -740,21 +740,6 @@
    0
   ],
   [
-   "Angie Coville",
-   "Roasted Shenanigans",
-   1.41,
-   21,
-   3,
-   4,
-   0,
-   0,
-   5,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Harrison",
    "Connor And The Jets",
    1.41,
@@ -766,6 +751,21 @@
    4,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Angie Coville",
+   "Roasted Shenanigans",
+   1.41,
+   21,
+   3,
+   4,
+   0,
+   0,
+   5,
+   0,
+   1,
    0,
    0
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-18T22:10:05Z"
+ "updated": "2026-11-18T23:10:33Z"
 }
