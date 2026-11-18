@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Todd Guichard",
-   "ApologiseNow",
-   2.41,
-   42,
-   10,
-   7,
-   0,
-   0,
-   8,
-   10,
-   5,
-   0,
-   0
-  ],
-  [
    "Desmond Parris",
    "Kookeez Krumble",
    2.41,
@@ -286,6 +271,21 @@
    19,
    6,
    7,
+   0,
+   0
+  ],
+  [
+   "Todd Guichard",
+   "ApologiseNow",
+   2.41,
+   42,
+   10,
+   7,
+   0,
+   0,
+   8,
+   10,
+   5,
    0,
    0
   ],
@@ -1204,5 +1204,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-18T15:16:36Z"
+ "updated": "2026-11-18T16:23:44Z"
 }

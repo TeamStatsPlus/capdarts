@@ -172,16 +172,16 @@
     1.54
    ],
    [
-    "Erin Lamar",
-    "Throwgasms",
-    1.03,
-    1.11
-   ],
-   [
     "Stephen Monahan",
     "The Limp Wristers",
     1.52,
     1.6
+   ],
+   [
+    "Erin Lamar",
+    "Throwgasms",
+    1.03,
+    1.11
    ]
   ],
   "x": [
@@ -792,21 +792,6 @@
    0
   ],
   [
-   "Howie Klick",
-   "Emerald Society",
-   1.34,
-   15,
-   3,
-   4,
-   1,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bri Smith",
    "3some Plus 1",
    1.34,
@@ -817,6 +802,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Howie Klick",
+   "Emerald Society",
+   1.34,
+   15,
+   3,
+   4,
+   1,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1137,21 +1137,6 @@
    0
   ],
   [
-   "Jill Calvert",
-   "Squeekertips",
-   0.98,
-   15,
-   3,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    0.98,
@@ -1162,6 +1147,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Squeekertips",
+   0.98,
+   15,
+   3,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1520,18 +1520,6 @@
    1
   ],
   [
-   "Brent Flynn",
-   "Tips Dont Lie",
-   16.35,
-   28,
-   8,
-   0,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    16.35,
@@ -1542,6 +1530,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Brent Flynn",
+   "Tips Dont Lie",
+   16.35,
+   28,
+   8,
+   0,
+   0,
+   0,
+   0,
+   13
   ],
   [
    "Steve Caufield",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-18T15:17:29Z"
+ "updated": "2026-11-18T16:24:45Z"
 }
