@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Robert Gare",
-   "3 Guys And A Girl",
-   2.07,
-   21,
-   6,
-   8,
-   0,
-   0,
-   9,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Steve Wright",
    "Bad Boys",
    2.07,
@@ -361,6 +346,21 @@
    1,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Robert Gare",
+   "3 Guys And A Girl",
+   2.07,
+   21,
+   6,
+   8,
+   0,
+   0,
+   9,
+   1,
+   2,
    0,
    0
   ],
@@ -1204,18 +1204,6 @@
    2
   ],
   [
-   "Marty Cordy",
-   "Dirty O Boys",
-   15.72,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Robin Guerrieri",
    "3 Guys And A Girl",
    15.72,
@@ -1226,6 +1214,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Marty Cordy",
+   "Dirty O Boys",
+   15.72,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Matthew Griffin",
@@ -1975,5 +1975,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-18T13:39:53Z"
+ "updated": "2026-11-18T15:16:55Z"
 }
