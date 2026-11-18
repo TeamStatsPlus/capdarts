@@ -249,21 +249,6 @@
    1
   ],
   [
-   "Oscar Wheeler",
-   "Two Furry Dudes",
-   1.99,
-   42,
-   8,
-   15,
-   2,
-   0,
-   12,
-   4,
-   4,
-   0,
-   0
-  ],
-  [
    "Adam Deutsch",
    "Methodical Missers",
    1.99,
@@ -275,6 +260,21 @@
    11,
    8,
    2,
+   0,
+   0
+  ],
+  [
+   "Oscar Wheeler",
+   "Two Furry Dudes",
+   1.99,
+   42,
+   8,
+   15,
+   2,
+   0,
+   12,
+   4,
+   4,
    0,
    0
   ],
@@ -1815,5 +1815,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-18T06:23:13Z"
+ "updated": "2026-11-18T08:33:26Z"
 }

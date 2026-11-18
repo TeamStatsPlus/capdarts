@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Bailey Plummer",
-   "Dartbags",
-   1.94,
-   24,
-   6,
-   5,
-   1,
-   0,
-   8,
-   4,
-   1,
-   0,
-   1
-  ],
-  [
    "Brian Faucher",
    "RamRod",
    1.94,
@@ -558,6 +543,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Bailey Plummer",
+   "Dartbags",
+   1.94,
+   24,
+   6,
+   5,
+   1,
+   0,
+   8,
+   4,
+   1,
+   0,
+   1
   ],
   [
    "Marc Hinds",
@@ -740,21 +740,6 @@
    0
   ],
   [
-   "Angie Coville",
-   "Roasted Shenanigans",
-   1.41,
-   21,
-   3,
-   4,
-   0,
-   0,
-   5,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Harrison",
    "Connor And The Jets",
    1.41,
@@ -766,6 +751,21 @@
    4,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Angie Coville",
+   "Roasted Shenanigans",
+   1.41,
+   21,
+   3,
+   4,
+   0,
+   0,
+   5,
+   0,
+   1,
    0,
    0
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-18T06:22:49Z"
+ "updated": "2026-11-18T08:32:58Z"
 }
