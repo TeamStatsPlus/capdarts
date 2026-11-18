@@ -126,10 +126,10 @@
     1.33
    ],
    [
-    "Brad Wight",
-    "Thunderbuddies",
-    1.87,
-    1.92
+    "Lou Sanchez",
+    "Team Name",
+    1.13,
+    1.18
    ]
   ],
   "x": [
@@ -200,21 +200,6 @@
    0
   ],
   [
-   "Jordan Kiessling",
-   "Thats Bullshoot",
-   1.94,
-   18,
-   4,
-   5,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Jim Barnard",
    "4 Of Clubs",
    1.94,
@@ -226,6 +211,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jordan Kiessling",
+   "Thats Bullshoot",
+   1.94,
+   18,
+   4,
+   5,
+   0,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -380,21 +380,6 @@
    0
   ],
   [
-   "Phil Warney",
-   "Gettin Looped",
-   1.74,
-   21,
-   6,
-   3,
-   0,
-   0,
-   10,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Chris DiStasio",
    "No Sleep",
    1.74,
@@ -407,6 +392,21 @@
    2,
    1,
    1,
+   0
+  ],
+  [
+   "Phil Warney",
+   "Gettin Looped",
+   1.74,
+   21,
+   6,
+   3,
+   0,
+   0,
+   10,
+   1,
+   1,
+   0,
    0
   ],
   [
@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Emily Chard",
-   "Thats Bullshoot",
-   1.46,
-   21,
-   5,
-   4,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Jimmy Mietus",
    "Team Name",
    1.46,
@@ -556,6 +541,21 @@
    1,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Emily Chard",
+   "Thats Bullshoot",
+   1.46,
+   21,
+   5,
+   4,
+   0,
+   0,
+   2,
+   3,
+   0,
    0,
    0
   ],
@@ -635,21 +635,6 @@
    0
   ],
   [
-   "Tom Solorzano",
-   "4 Of Clubs",
-   1.33,
-   24,
-   6,
-   8,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Rowland",
    "Team Name",
    1.33,
@@ -675,6 +660,21 @@
    0,
    2,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   1.33,
+   24,
+   6,
+   8,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -755,21 +755,6 @@
    0
   ],
   [
-   "Mike Garrity",
-   "Thats Bullshoot",
-   1.18,
-   18,
-   3,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Lou Sanchez",
    "Team Name",
    1.18,
@@ -781,6 +766,21 @@
    5,
    0,
    2,
+   0,
+   0
+  ],
+  [
+   "Mike Garrity",
+   "Thats Bullshoot",
+   1.18,
+   18,
+   3,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-18T04:18:35Z"
+ "updated": "2026-11-18T06:23:05Z"
 }

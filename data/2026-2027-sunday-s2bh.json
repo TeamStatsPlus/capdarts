@@ -561,21 +561,6 @@
    0
   ],
   [
-   "Chaz Carley",
-   "Night Shot",
-   1.77,
-   48,
-   11,
-   16,
-   1,
-   0,
-   10,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
    "Donovan Caraballo",
    "Talk Darty To Me",
    1.77,
@@ -587,6 +572,21 @@
    9,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Chaz Carley",
+   "Night Shot",
+   1.77,
+   48,
+   11,
+   16,
+   1,
+   0,
+   10,
+   4,
+   1,
    0,
    0
   ],
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-18T04:17:33Z"
+ "updated": "2026-11-18T06:22:18Z"
 }

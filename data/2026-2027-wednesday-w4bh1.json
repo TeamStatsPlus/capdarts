@@ -987,21 +987,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.15,
-   3,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Andrea Sutherland",
    "Closer To Zero",
    1.15,
@@ -1012,6 +997,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.15,
+   3,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -2108,18 +2108,6 @@
    2
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   12.27,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Lydia Wheeler",
    "Shart Shooters",
    12.27,
@@ -2130,6 +2118,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   12.27,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Sylvan Hemingway",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-18T04:19:07Z"
+ "updated": "2026-11-18T06:23:32Z"
 }
