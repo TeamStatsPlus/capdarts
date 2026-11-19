@@ -6,33 +6,28 @@
  "standings": [
   [
    "Turd Ferguson",
-   54,
-   24
+   63,
+   28
   ],
   [
    "In Whiskey We Trust",
-   59,
-   32
+   63,
+   41
   ],
   [
    "Darts Deep",
-   53,
-   38
+   61,
+   43
   ],
   [
    "Two Furry Dudes",
-   52,
-   39
-  ],
-  [
-   "Pointless",
-   47,
-   44
-  ],
-  [
-   "Girls Night",
-   46,
+   59,
    45
+  ],
+  [
+   "Bull Shitters",
+   53,
+   51
   ],
   [
    "Methodical Missers",
@@ -40,9 +35,14 @@
    53
   ],
   [
-   "Bull Shitters",
-   44,
-   47
+   "Pointless",
+   51,
+   53
+  ],
+  [
+   "Girls Night",
+   51,
+   53
   ],
   [
    "BitterDisappointment",
@@ -51,8 +51,8 @@
   ],
   [
    "Two Girls One Bull",
-   30,
-   48
+   36,
+   55
   ],
   [
    "Shared Brain Cell",
@@ -67,50 +67,26 @@
  ],
  "results": [
   [
-   "Darts Deep",
-   "Shared Brain Cell",
-   "11/11/2026",
-   7,
-   10,
-   3
-  ],
-  [
-   "Two Furry Dudes",
-   "Methodical Missers",
-   "11/11/2026",
-   7,
-   10,
-   3
-  ],
-  [
-   "In Whiskey We Trust",
-   "BitterDisappointment",
-   "11/11/2026",
-   7,
-   9,
-   4
-  ],
-  [
    "Turd Ferguson",
-   "Bull Shitters",
-   "11/04/2026",
-   6,
-   9,
-   4
-  ],
-  [
-   "Girls Night",
-   "Methodical Missers",
-   "11/16/2026",
-   9,
-   9,
-   4
-  ],
-  [
-   "Bull Shitters",
    "Pointless",
-   "11/11/2026",
-   7,
+   "11/18/2026",
+   8,
+   9,
+   4
+  ],
+  [
+   "Bull Shitters",
+   "In Whiskey We Trust",
+   "11/18/2026",
+   8,
+   9,
+   4
+  ],
+  [
+   "Darts Deep",
+   "Girls Night",
+   "11/18/2026",
+   8,
    8,
    5
   ],
@@ -123,10 +99,26 @@
    6
   ],
   [
-   "Pointless",
-   "Bull Shitters",
-   "11/11/2026",
+   "Two Furry Dudes",
+   "Two Girls One Bull",
+   "11/18/2026",
+   8,
    7,
+   6
+  ],
+  [
+   "Two Girls One Bull",
+   "Two Furry Dudes",
+   "11/18/2026",
+   8,
+   6,
+   7
+  ],
+  [
+   "Girls Night",
+   "Darts Deep",
+   "11/18/2026",
+   8,
    5,
    8
   ],
@@ -139,6 +131,14 @@
    9
   ],
   [
+   "In Whiskey We Trust",
+   "Bull Shitters",
+   "11/18/2026",
+   8,
+   4,
+   9
+  ],
+  [
    "Methodical Missers",
    "Girls Night",
    "11/16/2026",
@@ -147,10 +147,10 @@
    9
   ],
   [
-   "Two Girls One Bull",
-   "Methodical Missers",
-   "11/04/2026",
-   6,
+   "Pointless",
+   "Turd Ferguson",
+   "11/18/2026",
+   8,
    4,
    9
   ],
@@ -168,16 +168,22 @@
    [
     "Kelly Hodgkins",
     "Girls Night",
-    1.45,
-    1.46
+    1.46,
+    1.47
+   ],
+   [
+    "Melissa Wallace",
+    "Girls Night",
+    2.2,
+    2.21
    ]
   ],
   "x": [
    [
     "Kelly Hodgkins",
     "Girls Night",
-    14.58,
-    15.01
+    14.84,
+    15.2
    ],
    [
     "Jim Cox",
@@ -191,14 +197,14 @@
   [
    "Greg Poltorak",
    "In Whiskey We Trust",
-   2.47,
-   42,
-   19,
-   7,
-   3,
+   2.5,
+   48,
+   21,
+   8,
+   4,
    0,
-   18,
-   6,
+   22,
+   7,
    3,
    0,
    0
@@ -206,46 +212,46 @@
   [
    "Jarrett Boutet",
    "Turd Ferguson",
-   2.32,
-   36,
-   14,
-   10,
+   2.31,
+   42,
+   17,
+   13,
    0,
    0,
-   10,
+   12,
    8,
    1,
    0,
    0
   ],
   [
-   "Melissa Wallace",
-   "Girls Night",
-   2.26,
+   "Matthew Sutherland",
+   "Darts Deep",
+   2.24,
    42,
-   13,
-   6,
+   20,
+   10,
+   1,
    0,
-   0,
-   15,
-   6,
-   7,
-   0,
+   14,
+   8,
+   3,
+   1,
    1
   ],
   [
-   "Matthew Sutherland",
-   "Darts Deep",
-   2.22,
-   36,
-   16,
-   9,
+   "Melissa Wallace",
+   "Girls Night",
+   2.21,
+   48,
+   14,
+   6,
    1,
    0,
-   9,
+   18,
+   6,
    8,
-   2,
-   1,
+   0,
    1
   ],
   [
@@ -264,15 +270,30 @@
    0
   ],
   [
-   "Oscar Wheeler",
-   "Two Furry Dudes",
-   1.99,
+   "Will Pardue",
+   "Bull Shitters",
+   1.96,
    42,
-   8,
-   15,
+   10,
+   7,
+   0,
+   0,
+   10,
    2,
    0,
-   12,
+   0,
+   2
+  ],
+  [
+   "Oscar Wheeler",
+   "Two Furry Dudes",
+   1.95,
+   48,
+   10,
+   16,
+   3,
+   0,
+   13,
    4,
    4,
    0,
@@ -294,21 +315,6 @@
    0
   ],
   [
-   "Will Pardue",
-   "Bull Shitters",
-   1.9,
-   36,
-   8,
-   6,
-   0,
-   0,
-   10,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Keith Seiffert",
    "BitterDisappointment",
    1.83,
@@ -326,17 +332,32 @@
   [
    "Zach Morgan",
    "Two Furry Dudes",
-   1.78,
-   42,
-   15,
-   8,
+   1.76,
+   48,
+   16,
+   10,
    0,
    0,
-   5,
-   5,
+   7,
+   6,
    2,
    0,
    0
+  ],
+  [
+   "Vinny Cardinale",
+   "Bull Shitters",
+   1.74,
+   48,
+   9,
+   12,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   1
   ],
   [
    "John Tubiolo",
@@ -352,21 +373,6 @@
    0,
    0,
    0
-  ],
-  [
-   "Vinny Cardinale",
-   "Bull Shitters",
-   1.73,
-   42,
-   8,
-   10,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   1
   ],
   [
    "Tim Turner",
@@ -386,13 +392,13 @@
   [
    "Syrica Story",
    "Two Girls One Bull",
-   1.71,
-   36,
-   13,
-   2,
+   1.7,
+   42,
+   15,
+   3,
    1,
    0,
-   4,
+   5,
    1,
    1,
    0,
@@ -416,14 +422,14 @@
   [
    "Karen Delbert",
    "Pointless",
-   1.6,
-   42,
+   1.54,
+   48,
    10,
    10,
    0,
    0,
    7,
-   1,
+   2,
    0,
    0,
    0
@@ -431,13 +437,28 @@
   [
    "Amy Poltorak",
    "In Whiskey We Trust",
-   1.51,
-   18,
-   3,
-   8,
+   1.52,
+   24,
+   4,
+   10,
    0,
    0,
    3,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "James Miller",
+   "Turd Ferguson",
+   1.48,
+   42,
+   13,
+   17,
+   0,
+   0,
+   9,
    1,
    1,
    0,
@@ -446,29 +467,29 @@
   [
    "Sean Robertson",
    "Pointless",
-   1.49,
-   42,
+   1.47,
+   48,
    10,
    10,
    0,
    0,
+   6,
    4,
-   3,
    3,
    0,
    0
   ],
   [
-   "James Miller",
-   "Turd Ferguson",
-   1.49,
-   36,
-   10,
+   "Kelly Hodgkins",
+   "Girls Night",
+   1.47,
+   48,
+   6,
    14,
    0,
    0,
-   6,
-   1,
+   7,
+   2,
    1,
    0,
    0
@@ -489,32 +510,17 @@
    0
   ],
   [
-   "Kelly Hodgkins",
-   "Girls Night",
-   1.46,
-   42,
-   6,
-   13,
-   0,
-   0,
-   6,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Joe Martinez",
    "Darts Deep",
-   1.42,
-   36,
-   8,
-   11,
+   1.41,
+   42,
+   9,
+   15,
    0,
    0,
    3,
    3,
-   0,
+   1,
    0,
    0
   ],
@@ -534,21 +540,6 @@
    0
   ],
   [
-   "Amiee Story",
-   "Two Girls One Bull",
-   1.37,
-   36,
-   2,
-   13,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Eric Bullock",
    "BitterDisappointment",
    1.34,
@@ -559,6 +550,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Amiee Story",
+   "Two Girls One Bull",
+   1.33,
+   42,
+   3,
+   15,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -643,38 +649,38 @@
   [
    "Greg Poltorak",
    "In Whiskey We Trust",
-   24.48,
-   49,
-   29,
+   23.43,
+   56,
+   30,
    5,
    0,
    1,
    5,
-   69
+   73
   ],
   [
    "Melissa Wallace",
    "Girls Night",
-   22.03,
-   49,
-   20,
-   11,
+   22.05,
+   56,
+   22,
+   12,
    0,
    0,
    0,
-   47
+   51
   ],
   [
    "Matthew Sutherland",
    "Darts Deep",
-   21.48,
-   42,
-   17,
+   21.67,
+   49,
+   19,
    2,
    0,
    0,
    0,
-   46
+   55
   ],
   [
    "John Tubiolo",
@@ -701,52 +707,40 @@
    33
   ],
   [
-   "Will Pardue",
-   "Bull Shitters",
-   18.52,
-   42,
-   13,
-   2,
-   0,
-   0,
-   0,
-   24
-  ],
-  [
    "Oscar Wheeler",
    "Two Furry Dudes",
-   18.36,
-   49,
-   16,
+   18.65,
+   56,
+   18,
    4,
    0,
    0,
    0,
-   30
+   36
   ],
   [
    "Jarrett Boutet",
    "Turd Ferguson",
-   18.35,
-   42,
-   18,
+   18.46,
+   49,
+   20,
    3,
    0,
    0,
    0,
-   30
+   35
   ],
   [
-   "Vinny Cardinale",
+   "Will Pardue",
    "Bull Shitters",
-   17.29,
+   18.19,
    49,
-   11,
-   1,
+   16,
+   2,
    0,
    0,
    0,
-   22
+   28
   ],
   [
    "Keith Seiffert",
@@ -773,16 +767,40 @@
    17
   ],
   [
+   "Vinny Cardinale",
+   "Bull Shitters",
+   17.01,
+   56,
+   14,
+   1,
+   0,
+   0,
+   0,
+   23
+  ],
+  [
+   "Karen Delbert",
+   "Pointless",
+   16.72,
+   56,
+   13,
+   1,
+   0,
+   0,
+   0,
+   25
+  ],
+  [
    "Zach Morgan",
    "Two Furry Dudes",
-   16.43,
-   49,
-   13,
+   16.59,
+   56,
+   15,
    0,
    0,
    0,
    0,
-   22
+   26
   ],
   [
    "Jim Cox",
@@ -795,18 +813,6 @@
    0,
    0,
    25
-  ],
-  [
-   "Karen Delbert",
-   "Pointless",
-   16.37,
-   49,
-   11,
-   1,
-   0,
-   0,
-   0,
-   21
   ],
   [
    "Tim Turner",
@@ -823,26 +829,26 @@
   [
    "Syrica Story",
    "Two Girls One Bull",
-   16.35,
-   42,
-   11,
+   16.09,
+   49,
+   14,
    2,
    0,
    0,
    0,
-   19
+   22
   ],
   [
    "Sean Robertson",
    "Pointless",
    15.84,
-   49,
-   14,
+   56,
+   16,
    0,
    0,
    0,
    0,
-   16
+   17
   ],
   [
    "Mike Kolberg",
@@ -857,16 +863,16 @@
    7
   ],
   [
-   "Amy Poltorak",
-   "In Whiskey We Trust",
-   15.58,
-   21,
-   3,
+   "Amiee Story",
+   "Two Girls One Bull",
+   15.56,
+   49,
+   4,
    0,
    0,
    0,
    0,
-   3
+   18
   ],
   [
    "Eric Bullock",
@@ -881,28 +887,16 @@
    2
   ],
   [
-   "Amiee Story",
-   "Two Girls One Bull",
-   15.22,
-   42,
-   4,
-   0,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
    "Kelly Hodgkins",
    "Girls Night",
-   15.01,
-   49,
-   6,
+   15.2,
+   56,
+   8,
    0,
    0,
    0,
    0,
-   8
+   9
   ],
   [
    "Grace Maracle",
@@ -917,11 +911,23 @@
    11
   ],
   [
+   "Amy Poltorak",
+   "In Whiskey We Trust",
+   14.54,
+   28,
+   3,
+   0,
+   0,
+   0,
+   0,
+   3
+  ],
+  [
    "James Miller",
    "Turd Ferguson",
-   14.35,
-   42,
-   11,
+   14.26,
+   49,
+   12,
    0,
    0,
    0,
@@ -943,14 +949,14 @@
   [
    "Joe Martinez",
    "Darts Deep",
-   13.75,
-   42,
-   10,
+   13.91,
+   49,
+   11,
    0,
    0,
    0,
    0,
-   7
+   8
   ],
   [
    "Kevin Tierney",
@@ -1815,5 +1821,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-19T00:07:56Z"
+ "updated": "2026-11-19T03:12:10Z"
 }
