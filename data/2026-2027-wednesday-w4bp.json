@@ -459,21 +459,6 @@
    0
   ],
   [
-   "Jake Maracle",
-   "Ryans Renegades",
-   2.26,
-   9,
-   0,
-   3,
-   1,
-   0,
-   2,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Chris Hattala",
    "Bigg Darts",
    2.26,
@@ -487,6 +472,21 @@
    4,
    1,
    1
+  ],
+  [
+   "Jake Maracle",
+   "Ryans Renegades",
+   2.26,
+   9,
+   0,
+   3,
+   1,
+   0,
+   2,
+   3,
+   1,
+   0,
+   0
   ],
   [
    "James Walsh",
@@ -1369,5 +1369,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-19T10:26:56Z"
+ "updated": "2026-11-19T13:44:16Z"
 }
