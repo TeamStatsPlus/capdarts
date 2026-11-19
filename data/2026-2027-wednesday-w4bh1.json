@@ -172,16 +172,16 @@
     1.54
    ],
    [
-    "Erin Lamar",
-    "Throwgasms",
-    1.03,
-    1.11
-   ],
-   [
     "Stephen Monahan",
     "The Limp Wristers",
     1.52,
     1.6
+   ],
+   [
+    "Erin Lamar",
+    "Throwgasms",
+    1.03,
+    1.11
    ]
   ],
   "x": [
@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.54,
-   15,
-   4,
-   3,
-   0,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "John Brennan",
    "Emerald Society",
    1.54,
@@ -639,6 +624,21 @@
    1,
    0,
    2,
+   0
+  ],
+  [
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.54,
+   15,
+   4,
+   3,
+   0,
+   0,
+   2,
+   2,
+   0,
+   0,
    0
   ],
   [
@@ -762,21 +762,6 @@
    0
   ],
   [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.35,
@@ -786,6 +771,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -1520,18 +1520,6 @@
    1
   ],
   [
-   "Brent Flynn",
-   "Tips Dont Lie",
-   16.35,
-   28,
-   8,
-   0,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
    "Dan Berger",
    "Emerald Society",
    16.35,
@@ -1542,6 +1530,18 @@
    0,
    0,
    6
+  ],
+  [
+   "Brent Flynn",
+   "Tips Dont Lie",
+   16.35,
+   28,
+   8,
+   0,
+   0,
+   0,
+   0,
+   13
   ],
   [
    "Steve Caufield",
@@ -2108,18 +2108,6 @@
    2
   ],
   [
-   "Adam Phillips",
-   "Struggle Bus",
-   12.27,
-   16,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1
-  ],
-  [
    "Lydia Wheeler",
    "Shart Shooters",
    12.27,
@@ -2130,6 +2118,18 @@
    0,
    0,
    3
+  ],
+  [
+   "Adam Phillips",
+   "Struggle Bus",
+   12.27,
+   16,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
   ],
   [
    "Sylvan Hemingway",
@@ -3030,5 +3030,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-18T23:11:10Z"
+ "updated": "2026-11-19T00:08:15Z"
 }

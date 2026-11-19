@@ -383,21 +383,6 @@
    0
   ],
   [
-   "Ben Kulikowski",
-   "Good Smoke BBQ",
-   2.25,
-   21,
-   3,
-   6,
-   0,
-   0,
-   9,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Jon Vallone",
    "Good Smoke BBQ",
    2.25,
@@ -409,6 +394,21 @@
    10,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   2.25,
+   21,
+   3,
+   6,
+   0,
+   0,
+   9,
+   2,
+   0,
    0,
    0
   ],
@@ -428,21 +428,6 @@
    0
   ],
   [
-   "Shondell Kirton",
-   "IDF NightCaps",
-   2.19,
-   21,
-   7,
-   4,
-   0,
-   0,
-   2,
-   7,
-   1,
-   0,
-   1
-  ],
-  [
    "Chad Pike",
    "Here 4 The Beer",
    2.19,
@@ -456,6 +441,21 @@
    2,
    0,
    0
+  ],
+  [
+   "Shondell Kirton",
+   "IDF NightCaps",
+   2.19,
+   21,
+   7,
+   4,
+   0,
+   0,
+   2,
+   7,
+   1,
+   0,
+   1
   ],
   [
    "Joe Soriano",
@@ -653,21 +653,6 @@
    0
   ],
   [
-   "Rory Doran",
-   "Bad News Beers",
-   1.95,
-   24,
-   10,
-   9,
-   1,
-   0,
-   2,
-   3,
-   0,
-   0,
-   1
-  ],
-  [
    "Dean Nicosia",
    "Money Shot",
    1.95,
@@ -696,6 +681,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Rory Doran",
+   "Bad News Beers",
+   1.95,
+   24,
+   10,
+   9,
+   1,
+   0,
+   2,
+   3,
+   0,
+   0,
+   1
   ],
   [
    "David Caesar",
@@ -1900,18 +1900,6 @@
    5
   ],
   [
-   "Johnny Golas",
-   "Halluciminatin",
-   16.84,
-   32,
-   8,
-   0,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
    "Kevin Rowland",
    "Off Target",
    16.84,
@@ -1922,6 +1910,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Johnny Golas",
+   "Halluciminatin",
+   16.84,
+   32,
+   8,
+   0,
+   0,
+   0,
+   0,
+   9
   ],
   [
    "Bill Greenough",
@@ -3141,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-18T23:10:29Z"
+ "updated": "2026-11-19T00:07:28Z"
 }
