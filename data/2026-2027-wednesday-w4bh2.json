@@ -274,21 +274,6 @@
    0
   ],
   [
-   "Matthew Nesbitt",
-   "ReDarted",
-   2.19,
-   18,
-   8,
-   4,
-   0,
-   0,
-   5,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Toby Affronti",
    "RRP Crew",
    2.19,
@@ -319,6 +304,21 @@
    1
   ],
   [
+   "Matthew Nesbitt",
+   "ReDarted",
+   2.19,
+   18,
+   8,
+   4,
+   0,
+   0,
+   5,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
    "Kurt Krahenbuhl",
    "Rizm With The Tizm",
    2.14,
@@ -334,21 +334,6 @@
    0
   ],
   [
-   "Eric Porter",
-   "Liquor Box",
-   2.12,
-   24,
-   10,
-   8,
-   2,
-   0,
-   6,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Robinson",
    "Dart Vaders",
    2.12,
@@ -359,6 +344,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Eric Porter",
+   "Liquor Box",
+   2.12,
+   24,
+   10,
+   8,
+   2,
+   0,
+   6,
+   4,
    0,
    0,
    0
@@ -454,21 +454,6 @@
    0
   ],
   [
-   "Frank Bancroft",
-   "Dart Vaders",
-   1.9,
-   24,
-   7,
-   7,
-   0,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Brian Keefe",
    "Average Joes",
    1.9,
@@ -495,6 +480,21 @@
    2,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Frank Bancroft",
+   "Dart Vaders",
+   1.9,
+   24,
+   7,
+   7,
+   0,
+   0,
+   5,
+   1,
+   1,
    0,
    0
   ],
@@ -574,21 +574,6 @@
    0
   ],
   [
-   "Brian Lawler",
-   "Ask Bobby",
-   1.83,
-   21,
-   3,
-   6,
-   0,
-   0,
-   6,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Juan Rosado",
    "Liquor Box",
    1.83,
@@ -615,6 +600,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Brian Lawler",
+   "Ask Bobby",
+   1.83,
+   21,
+   3,
+   6,
+   0,
+   0,
+   6,
+   2,
+   1,
    0,
    0
   ],
@@ -754,21 +754,6 @@
    0
   ],
   [
-   "Adam Northrup",
-   "Wrong Hole",
-   1.69,
-   21,
-   6,
-   4,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Hale",
    "Id Hit That",
    1.69,
@@ -779,6 +764,21 @@
    0,
    2,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Northrup",
+   "Wrong Hole",
+   1.69,
+   21,
+   6,
+   4,
+   0,
+   0,
+   4,
+   0,
    0,
    0,
    0
@@ -829,21 +829,6 @@
    0
   ],
   [
-   "Chester Mathis",
-   "Toasted Darts",
-   1.6,
-   24,
-   5,
-   9,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   1
-  ],
-  [
    "Miguel Carmona",
    "RRP Crew",
    1.6,
@@ -857,6 +842,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Chester Mathis",
+   "Toasted Darts",
+   1.6,
+   24,
+   5,
+   9,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   1
   ],
   [
    "Jeff Bush",
@@ -1521,18 +1521,6 @@
    10
   ],
   [
-   "Thomas Macomber",
-   "Ask Bobby",
-   16.98,
-   28,
-   9,
-   1,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Rick Nelson",
    "Toasted Darts",
    16.98,
@@ -1543,6 +1531,18 @@
    0,
    0,
    10
+  ],
+  [
+   "Thomas Macomber",
+   "Ask Bobby",
+   16.98,
+   28,
+   9,
+   1,
+   0,
+   0,
+   0,
+   7
   ],
   [
    "Brian Lawler",
@@ -1557,18 +1557,6 @@
    7
   ],
   [
-   "Dean Affronti",
-   "RRP Crew",
-   16.53,
-   20,
-   0,
-   0,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Nick Maguire",
    "Team Stinky",
    16.53,
@@ -1579,6 +1567,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Dean Affronti",
+   "RRP Crew",
+   16.53,
+   20,
+   0,
+   0,
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Jon Nolte",
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-19T08:37:29Z"
+ "updated": "2026-11-19T10:26:47Z"
 }

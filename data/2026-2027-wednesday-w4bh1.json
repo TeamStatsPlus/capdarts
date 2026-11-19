@@ -507,21 +507,6 @@
    0
   ],
   [
-   "Stephen Monahan",
-   "The Limp Wristers",
-   1.58,
-   21,
-   5,
-   9,
-   0,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Loucks",
    "3some Plus 1",
    1.58,
@@ -547,6 +532,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Stephen Monahan",
+   "The Limp Wristers",
+   1.58,
+   21,
+   5,
+   9,
+   0,
+   0,
+   0,
+   4,
    0,
    0,
    0
@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Danielle Henry",
-   "The Limp Wristers",
-   1.53,
-   21,
-   6,
-   8,
-   0,
-   0,
-   1,
-   1,
-   0,
-   2,
-   0
-  ],
-  [
    "Chris Murgatroyd",
    "Double Deuces",
    1.53,
@@ -624,6 +609,21 @@
    2,
    1,
    0,
+   0
+  ],
+  [
+   "Danielle Henry",
+   "The Limp Wristers",
+   1.53,
+   21,
+   6,
+   8,
+   0,
+   0,
+   1,
+   1,
+   0,
+   2,
    0
   ],
   [
@@ -777,6 +777,21 @@
    0
   ],
   [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Christa Herbst",
    "Cant Close",
    1.35,
@@ -802,21 +817,6 @@
    0,
    2,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0,
    0
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "John Inzinna",
-   "Cant Close",
-   1.13,
-   21,
-   2,
-   9,
-   0,
-   0,
-   2,
-   0,
-   0,
-   1,
-   0
-  ],
-  [
    "Jacob Post",
    "Struggle Bus",
    1.13,
@@ -1044,6 +1029,21 @@
    0,
    0,
    0,
+   0
+  ],
+  [
+   "John Inzinna",
+   "Cant Close",
+   1.13,
+   21,
+   2,
+   9,
+   0,
+   0,
+   2,
+   0,
+   0,
+   1,
    0
   ],
   [
@@ -1182,21 +1182,6 @@
    0
   ],
   [
-   "Jill Calvert",
-   "Squeekertips",
-   0.98,
-   15,
-   3,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    0.98,
@@ -1207,6 +1192,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Squeekertips",
+   0.98,
+   15,
+   3,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -3057,5 +3057,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-19T08:37:23Z"
+ "updated": "2026-11-19T10:26:42Z"
 }
