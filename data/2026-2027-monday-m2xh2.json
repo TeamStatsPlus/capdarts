@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Desmond Parris",
-   "Kookeez Krumble",
-   2.41,
-   48,
-   13,
-   12,
-   1,
-   0,
-   24,
-   14,
-   1,
-   0,
-   1
-  ],
-  [
    "Will Zimmer",
    "Game Of Throws",
    2.41,
@@ -288,6 +273,21 @@
    5,
    0,
    0
+  ],
+  [
+   "Desmond Parris",
+   "Kookeez Krumble",
+   2.41,
+   48,
+   13,
+   12,
+   1,
+   0,
+   24,
+   14,
+   1,
+   0,
+   1
   ],
   [
    "Todd Keller",
@@ -1204,5 +1204,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-19T08:36:22Z"
+ "updated": "2026-11-19T12:16:57Z"
 }
