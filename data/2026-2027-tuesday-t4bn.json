@@ -172,16 +172,16 @@
     2.02
    ],
    [
-    "Jake Preston",
-    "Show Your Tips",
-    1.81,
-    1.9
-   ],
-   [
     "Desmond Parris",
     "Fat Bastards",
     2.22,
     2.31
+   ],
+   [
+    "Jake Preston",
+    "Show Your Tips",
+    1.81,
+    1.9
    ]
   ],
   "x": [
@@ -552,21 +552,6 @@
    0
   ],
   [
-   "Kevin Adams",
-   "Aiming Fluid",
-   1.94,
-   9,
-   4,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Anthony Kelly",
    "AM Lumber",
    1.94,
@@ -576,6 +561,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Adams",
+   "Aiming Fluid",
+   1.94,
+   9,
+   4,
+   2,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -627,21 +627,6 @@
    0
   ],
   [
-   "Kevin Moses",
-   "Is It In",
-   1.83,
-   21,
-   1,
-   11,
-   0,
-   0,
-   5,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Jamie Rialdi",
    "Show Your Tips",
    1.83,
@@ -652,6 +637,21 @@
    0,
    8,
    2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Kevin Moses",
+   "Is It In",
+   1.83,
+   21,
+   1,
+   11,
+   0,
+   0,
+   5,
+   3,
    1,
    0,
    0
@@ -852,21 +852,6 @@
    0
   ],
   [
-   "Eric Smith",
-   "Show Your Tips",
-   1.58,
-   21,
-   6,
-   3,
-   0,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Ken Geer",
    "Chicks And Dicks",
    1.58,
@@ -877,6 +862,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Eric Smith",
+   "Show Your Tips",
+   1.58,
+   21,
+   6,
+   3,
+   0,
+   0,
+   0,
+   3,
    0,
    0,
    0
@@ -1002,21 +1002,6 @@
    0
   ],
   [
-   "Pal New Wave",
-   "New Wave",
-   1.35,
-   6,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Tricia Busardo",
    "Aiming Fluid",
    1.35,
@@ -1028,6 +1013,21 @@
    4,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Pal New Wave",
+   "New Wave",
+   1.35,
+   6,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0
   ],
@@ -1811,18 +1811,6 @@
    0
   ],
   [
-   "Justin Ricci",
-   "Show Your Tips",
-   13.47,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kathy Bailey",
    "Chicks And Dicks",
    13.47,
@@ -1833,6 +1821,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Justin Ricci",
+   "Show Your Tips",
+   13.47,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Kevin Adams",
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-19T04:21:34Z"
+ "updated": "2026-11-19T06:21:17Z"
 }
