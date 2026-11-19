@@ -25,19 +25,19 @@
    47
   ],
   [
-   "Where The Bacon",
-   48,
-   42
-  ],
-  [
    "Squishy Business",
    52,
    53
   ],
   [
+   "Where The Bacon",
+   52,
+   53
+  ],
+  [
    "We Dem Boyz",
-   42,
-   63
+   53,
+   67
   ],
   [
    "Tony And Julian",
@@ -47,20 +47,12 @@
  ],
  "results": [
   [
-   "Where The Bacon",
-   "Tony And Julian",
-   "11/11/2026",
-   7,
-   14,
-   1
-  ],
-  [
    "We Dem Boyz",
-   "Tony And Julian",
-   "11/13/2026",
-   3,
-   12,
-   3
+   "Where The Bacon",
+   "11/18/2026",
+   8,
+   11,
+   4
   ],
   [
    "Brighton Bruins",
@@ -109,6 +101,14 @@
    8,
    5,
    10
+  ],
+  [
+   "Where The Bacon",
+   "We Dem Boyz",
+   "11/18/2026",
+   8,
+   4,
+   11
   ]
  ],
  "improved": {
@@ -120,16 +120,16 @@
     2.3
    ],
    [
+    "Robyn Ralston",
+    "We Dem Boyz",
+    1.97,
+    2.01
+   ],
+   [
     "James Mitchell",
     "Dem BOYZ",
     2.75,
     2.78
-   ],
-   [
-    "Travis Perry",
-    "Brighton Bruins",
-    2.38,
-    2.41
    ]
   ],
   "x": [
@@ -232,17 +232,17 @@
   [
    "Brian Galletto",
    "Where The Bacon",
-   2.76,
-   30,
-   13,
+   2.75,
+   36,
+   14,
    6,
    1,
    0,
-   20,
-   8,
+   23,
+   9,
    6,
    1,
-   1
+   2
   ],
   [
    "Mark Sennett",
@@ -292,14 +292,14 @@
   [
    "Dave Coin",
    "We Dem Boyz",
-   2.44,
-   42,
-   11,
-   6,
+   2.47,
+   48,
+   14,
+   8,
    2,
    0,
-   16,
-   11,
+   18,
+   12,
    2,
    0,
    1
@@ -397,15 +397,15 @@
   [
    "Robyn Ralston",
    "We Dem Boyz",
-   1.97,
-   36,
-   8,
-   7,
+   2.01,
+   42,
+   11,
+   9,
    1,
    0,
-   9,
-   3,
-   3,
+   10,
+   7,
+   4,
    0,
    1
   ],
@@ -413,12 +413,12 @@
    "Kelli Nash",
    "Where The Bacon",
    1.91,
-   36,
-   10,
+   42,
+   11,
    7,
    0,
-   0,
-   8,
+   1,
+   10,
    5,
    1,
    1,
@@ -531,14 +531,14 @@
   [
    "Brian Galletto",
    "Where The Bacon",
-   23.98,
-   35,
-   12,
-   18,
+   23.94,
+   42,
+   14,
+   22,
    0,
    0,
    1,
-   63
+   75
   ],
   [
    "James Mitchell",
@@ -579,14 +579,14 @@
   [
    "Dave Coin",
    "We Dem Boyz",
-   20.76,
-   49,
-   14,
-   12,
+   20.75,
+   56,
+   18,
+   13,
    0,
    0,
    0,
-   72
+   81
   ],
   [
    "Steven Haag",
@@ -649,28 +649,28 @@
    3
   ],
   [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   17.07,
+   49,
+   4,
+   3,
+   0,
+   0,
+   0,
+   38
+  ],
+  [
    "Kelli Nash",
    "Where The Bacon",
-   17.02,
-   42,
+   16.88,
+   49,
    9,
    6,
    0,
    0,
    0,
-   33
-  ],
-  [
-   "Robyn Ralston",
-   "We Dem Boyz",
-   17.0,
-   42,
-   3,
-   3,
-   0,
-   0,
-   0,
-   32
+   40
   ],
   [
    "Julie DiGrazia",
@@ -1288,5 +1288,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-19T03:12:20Z"
+ "updated": "2026-11-19T04:21:46Z"
 }

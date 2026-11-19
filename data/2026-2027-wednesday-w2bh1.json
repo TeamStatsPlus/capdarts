@@ -46,8 +46,8 @@
   ],
   [
    "BitterDisappointment",
-   32,
-   46
+   41,
+   50
   ],
   [
    "Two Girls One Bull",
@@ -61,14 +61,14 @@
   ],
   [
    "Fairly Oddparents",
-   24,
-   54
+   28,
+   63
   ]
  ],
  "results": [
   [
-   "Turd Ferguson",
-   "Pointless",
+   "BitterDisappointment",
+   "Fairly Oddparents",
    "11/18/2026",
    8,
    9,
@@ -83,20 +83,20 @@
    4
   ],
   [
+   "Turd Ferguson",
+   "Pointless",
+   "11/18/2026",
+   8,
+   9,
+   4
+  ],
+  [
    "Darts Deep",
    "Girls Night",
    "11/18/2026",
    8,
    8,
    5
-  ],
-  [
-   "Fairly Oddparents",
-   "Girls Night",
-   "11/11/2026",
-   7,
-   7,
-   6
   ],
   [
    "Two Furry Dudes",
@@ -123,10 +123,10 @@
    8
   ],
   [
+   "Fairly Oddparents",
    "BitterDisappointment",
-   "In Whiskey We Trust",
-   "11/11/2026",
-   7,
+   "11/18/2026",
+   8,
    4,
    9
   ],
@@ -166,16 +166,16 @@
  "improved": {
   "c": [
    [
-    "Kelly Hodgkins",
-    "Girls Night",
-    1.46,
-    1.47
-   ],
-   [
     "Melissa Wallace",
     "Girls Night",
     2.2,
     2.21
+   ],
+   [
+    "Kelly Hodgkins",
+    "Girls Night",
+    1.46,
+    1.47
    ]
   ],
   "x": [
@@ -317,13 +317,13 @@
   [
    "Keith Seiffert",
    "BitterDisappointment",
-   1.83,
-   36,
-   12,
-   5,
+   1.86,
+   42,
+   15,
+   6,
    1,
    0,
-   4,
+   5,
    3,
    1,
    0,
@@ -345,21 +345,6 @@
    0
   ],
   [
-   "Vinny Cardinale",
-   "Bull Shitters",
-   1.74,
-   48,
-   9,
-   12,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   1
-  ],
-  [
    "John Tubiolo",
    "Bull Shitters",
    1.74,
@@ -375,19 +360,19 @@
    0
   ],
   [
-   "Tim Turner",
-   "Fairly Oddparents",
-   1.72,
-   30,
+   "Vinny Cardinale",
+   "Bull Shitters",
+   1.74,
+   48,
    9,
-   5,
+   12,
+   0,
+   0,
+   2,
+   0,
    1,
    0,
-   3,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   [
    "Syrica Story",
@@ -400,6 +385,21 @@
    0,
    5,
    1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Tim Turner",
+   "Fairly Oddparents",
+   1.69,
+   36,
+   10,
+   6,
+   1,
+   0,
+   4,
+   0,
    1,
    0,
    0
@@ -465,21 +465,6 @@
    0
   ],
   [
-   "Sean Robertson",
-   "Pointless",
-   1.47,
-   48,
-   10,
-   10,
-   0,
-   0,
-   6,
-   4,
-   3,
-   0,
-   0
-  ],
-  [
    "Kelly Hodgkins",
    "Girls Night",
    1.47,
@@ -491,6 +476,21 @@
    7,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Sean Robertson",
+   "Pointless",
+   1.47,
+   48,
+   10,
+   10,
+   0,
+   0,
+   6,
+   4,
+   3,
    0,
    0
   ],
@@ -570,21 +570,6 @@
    0
   ],
   [
-   "Kevin Tierney",
-   "BitterDisappointment",
-   1.25,
-   30,
-   3,
-   10,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Kae Lovell",
    "Darts Deep",
    1.24,
@@ -595,6 +580,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Tierney",
+   "BitterDisappointment",
+   1.22,
+   36,
+   4,
+   13,
+   0,
+   0,
+   5,
+   1,
    0,
    0,
    0
@@ -617,14 +617,14 @@
   [
    "Chrissie Cosola",
    "Fairly Oddparents",
-   0.88,
-   18,
-   2,
-   6,
+   0.93,
+   24,
+   3,
+   7,
    0,
    0,
-   0,
-   0,
+   1,
+   1,
    0,
    0,
    0
@@ -745,14 +745,14 @@
   [
    "Keith Seiffert",
    "BitterDisappointment",
-   17.15,
-   42,
-   10,
+   17.49,
+   49,
+   15,
    2,
    0,
    1,
    1,
-   23
+   31
   ],
   [
    "Breonna Provorse",
@@ -803,6 +803,18 @@
    26
   ],
   [
+   "Tim Turner",
+   "Fairly Oddparents",
+   16.56,
+   42,
+   9,
+   3,
+   1,
+   0,
+   0,
+   22
+  ],
+  [
    "Jim Cox",
    "Methodical Missers",
    16.38,
@@ -813,18 +825,6 @@
    0,
    0,
    25
-  ],
-  [
-   "Tim Turner",
-   "Fairly Oddparents",
-   16.36,
-   35,
-   8,
-   2,
-   0,
-   0,
-   0,
-   15
   ],
   [
    "Syrica Story",
@@ -961,8 +961,8 @@
   [
    "Kevin Tierney",
    "BitterDisappointment",
-   13.66,
-   35,
+   13.53,
+   42,
    2,
    0,
    0,
@@ -997,14 +997,14 @@
   [
    "Chrissie Cosola",
    "Fairly Oddparents",
-   10.27,
-   21,
-   1,
+   10.45,
+   28,
+   2,
    0,
    0,
    0,
    0,
-   2
+   3
   ]
  ],
  "teams": [
@@ -1821,5 +1821,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-19T03:12:10Z"
+ "updated": "2026-11-19T04:21:37Z"
 }

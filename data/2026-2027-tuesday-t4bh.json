@@ -200,21 +200,6 @@
    0
   ],
   [
-   "Jordan Kiessling",
-   "Thats Bullshoot",
-   1.94,
-   18,
-   4,
-   5,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Jim Barnard",
    "4 Of Clubs",
    1.94,
@@ -226,6 +211,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jordan Kiessling",
+   "Thats Bullshoot",
+   1.94,
+   18,
+   4,
+   5,
+   0,
+   0,
+   3,
+   2,
+   1,
    0,
    0
   ],
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-19T03:12:00Z"
+ "updated": "2026-11-19T04:21:29Z"
 }
