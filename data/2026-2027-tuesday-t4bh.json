@@ -380,21 +380,6 @@
    0
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   1.74,
-   18,
-   4,
-   6,
-   0,
-   0,
-   8,
-   2,
-   1,
-   1,
-   0
-  ],
-  [
    "Phil Warney",
    "Gettin Looped",
    1.74,
@@ -407,6 +392,21 @@
    1,
    1,
    0,
+   0
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   1.74,
+   18,
+   4,
+   6,
+   0,
+   0,
+   8,
+   2,
+   1,
+   1,
    0
   ],
   [
@@ -560,21 +560,6 @@
    0
   ],
   [
-   "Mitch Jag",
-   "Thats Bullshoot",
-   1.45,
-   6,
-   1,
-   2,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Lewis",
    "Gettin Looped",
    1.45,
@@ -585,6 +570,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mitch Jag",
+   "Thats Bullshoot",
+   1.45,
+   6,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-19T19:23:15Z"
+ "updated": "2026-11-19T21:10:49Z"
 }
