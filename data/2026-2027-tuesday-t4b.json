@@ -170,21 +170,6 @@
    1
   ],
   [
-   "Jeff Hunt",
-   "Bad News Beers",
-   2.44,
-   24,
-   9,
-   2,
-   1,
-   0,
-   13,
-   5,
-   4,
-   0,
-   2
-  ],
-  [
    "Colin Sprague",
    "Sloppy Darts",
    2.44,
@@ -198,6 +183,21 @@
    1,
    0,
    0
+  ],
+  [
+   "Jeff Hunt",
+   "Bad News Beers",
+   2.44,
+   24,
+   9,
+   2,
+   1,
+   0,
+   13,
+   5,
+   4,
+   0,
+   2
   ],
   [
    "AJ Perry",
@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Steve Wright",
-   "Bad Boys",
-   2.07,
-   3,
-   0,
-   1,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Robert Gare",
    "3 Guys And A Girl",
    2.07,
@@ -361,6 +346,21 @@
    9,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Steve Wright",
+   "Bad Boys",
+   2.07,
+   3,
+   0,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
    0,
    0
   ],
@@ -1975,5 +1975,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-19T06:21:08Z"
+ "updated": "2026-11-19T08:36:46Z"
 }
