@@ -387,21 +387,6 @@
    0
   ],
   [
-   "Ryan Boardman",
-   "Double Deuces",
-   1.7,
-   21,
-   6,
-   7,
-   0,
-   0,
-   2,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Caufield",
    "ProjectileDysfncion",
    1.7,
@@ -413,6 +398,21 @@
    2,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Ryan Boardman",
+   "Double Deuces",
+   1.7,
+   21,
+   6,
+   7,
+   0,
+   0,
+   2,
+   2,
+   0,
    0,
    0
   ],
@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.53,
-   18,
-   5,
-   5,
-   0,
-   0,
-   2,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Danielle Henry",
    "The Limp Wristers",
    1.53,
@@ -624,6 +609,21 @@
    1,
    0,
    2,
+   0
+  ],
+  [
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.53,
+   18,
+   5,
+   5,
+   0,
+   0,
+   2,
+   2,
+   1,
+   0,
    0
   ],
   [
@@ -777,21 +777,6 @@
    0
   ],
   [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.35,
@@ -817,6 +802,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "Jacob Post",
-   "Struggle Bus",
-   1.13,
-   12,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "John Inzinna",
    "Cant Close",
    1.13,
@@ -1044,6 +1029,21 @@
    0,
    0,
    1,
+   0
+  ],
+  [
+   "Jacob Post",
+   "Struggle Bus",
+   1.13,
+   12,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
    0
   ],
   [
@@ -1182,21 +1182,6 @@
    0
   ],
   [
-   "Jamie Brown",
-   "Tips Dont Lie",
-   0.98,
-   9,
-   1,
-   2,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jill Calvert",
    "Squeekertips",
    0.98,
@@ -1212,16 +1197,16 @@
    0
   ],
   [
-   "Carly Kostiw",
-   "Squeekertips",
-   0.97,
-   18,
+   "Jamie Brown",
+   "Tips Dont Lie",
+   0.98,
+   9,
    1,
-   4,
+   2,
+   0,
    0,
    0,
    1,
-   0,
    0,
    0,
    0
@@ -1242,12 +1227,42 @@
    0
   ],
   [
+   "Carly Kostiw",
+   "Squeekertips",
+   0.97,
+   18,
+   1,
+   4,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Kaitlyn Schaeffer",
    "Throwgasms",
    0.94,
    6,
    1,
    2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Hayley Perine",
+   "Throwgasms",
+   0.91,
+   3,
+   0,
+   0,
    0,
    0,
    0,
@@ -1266,21 +1281,6 @@
    0,
    0,
    4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Hayley Perine",
-   "Throwgasms",
-   0.91,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0,
    0,
@@ -1715,18 +1715,6 @@
    5
   ],
   [
-   "Geoff Milunich",
-   "Tips Dont Lie",
-   14.42,
-   24,
-   7,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Stephanie Carlson",
    "The Limp Wristers",
    14.42,
@@ -1737,6 +1725,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Geoff Milunich",
+   "Tips Dont Lie",
+   14.42,
+   24,
+   7,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Jason Post",
@@ -1799,8 +1799,8 @@
    2
   ],
   [
-   "Mark Pelcher",
-   "Emerald Society",
+   "Tyler Campbell",
+   "Throwgasms",
    14.15,
    4,
    0,
@@ -1811,8 +1811,8 @@
    1
   ],
   [
-   "Tyler Campbell",
-   "Throwgasms",
+   "Mark Pelcher",
+   "Emerald Society",
    14.15,
    4,
    0,
@@ -3057,5 +3057,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-19T17:23:01Z"
+ "updated": "2026-11-19T19:23:41Z"
 }
