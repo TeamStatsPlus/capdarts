@@ -153,16 +153,16 @@
  "improved": {
   "c": [
    [
-    "Joe Gillett",
-    "Off In Church",
-    3.02,
-    3.13
-   ],
-   [
     "Jeff Childs",
     "Off In Church",
     3.72,
     3.83
+   ],
+   [
+    "Joe Gillett",
+    "Off In Church",
+    3.02,
+    3.13
    ],
    [
     "Tashawn Rucker",
@@ -344,21 +344,6 @@
    1
   ],
   [
-   "Joe Gillett",
-   "Off In Church",
-   3.13,
-   40,
-   17,
-   11,
-   4,
-   1,
-   22,
-   16,
-   11,
-   0,
-   2
-  ],
-  [
    "Dave Wallace",
    "Dave And Rich",
    3.13,
@@ -372,6 +357,21 @@
    18,
    0,
    1
+  ],
+  [
+   "Joe Gillett",
+   "Off In Church",
+   3.13,
+   40,
+   17,
+   11,
+   4,
+   1,
+   22,
+   16,
+   11,
+   0,
+   2
   ],
   [
    "Rich Allen",
@@ -1651,5 +1651,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-20T11:18:57Z"
+ "updated": "2026-11-20T18:14:54Z"
 }
