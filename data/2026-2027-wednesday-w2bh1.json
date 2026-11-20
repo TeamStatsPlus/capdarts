@@ -345,21 +345,6 @@
    0
   ],
   [
-   "Vinny Cardinale",
-   "Bull Shitters",
-   1.74,
-   48,
-   9,
-   12,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   1
-  ],
-  [
    "John Tubiolo",
    "Bull Shitters",
    1.74,
@@ -373,6 +358,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Vinny Cardinale",
+   "Bull Shitters",
+   1.74,
+   48,
+   9,
+   12,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   1
   ],
   [
    "Syrica Story",
@@ -510,21 +510,6 @@
    0
   ],
   [
-   "Mike Kolberg",
-   "In Whiskey We Trust",
-   1.41,
-   24,
-   4,
-   11,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Joe Martinez",
    "Darts Deep",
    1.41,
@@ -536,6 +521,21 @@
    3,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Mike Kolberg",
+   "In Whiskey We Trust",
+   1.41,
+   24,
+   4,
+   11,
+   0,
+   0,
+   2,
+   3,
+   0,
    0,
    0
   ],
@@ -1821,5 +1821,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-20T07:42:14Z"
+ "updated": "2026-11-20T09:23:46Z"
 }
