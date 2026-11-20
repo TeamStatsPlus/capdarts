@@ -1557,18 +1557,6 @@
    7
   ],
   [
-   "Nick Maguire",
-   "Team Stinky",
-   16.53,
-   32,
-   4,
-   1,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
    "Dean Affronti",
    "RRP Crew",
    16.53,
@@ -1579,6 +1567,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Nick Maguire",
+   "Team Stinky",
+   16.53,
+   32,
+   4,
+   1,
+   0,
+   0,
+   0,
+   15
   ],
   [
    "Jon Nolte",
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-20T13:36:22Z"
+ "updated": "2026-11-20T16:19:44Z"
 }

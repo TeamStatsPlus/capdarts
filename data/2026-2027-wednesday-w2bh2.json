@@ -320,21 +320,6 @@
    0
   ],
   [
-   "Patrick Reilly",
-   "Aiming Fluid Needed",
-   1.79,
-   42,
-   7,
-   11,
-   1,
-   0,
-   3,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
    "Ruben Lowery",
    "BYE INCOMPLETE",
    1.79,
@@ -346,6 +331,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Patrick Reilly",
+   "Aiming Fluid Needed",
+   1.79,
+   42,
+   7,
+   11,
+   1,
+   0,
+   3,
+   4,
+   1,
    0,
    0
   ],
@@ -1306,5 +1306,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-20T11:19:55Z"
+ "updated": "2026-11-20T16:19:22Z"
 }

@@ -290,21 +290,6 @@
    0
   ],
   [
-   "Nick Pritchard",
-   "The Four Horseman",
-   2.38,
-   24,
-   14,
-   2,
-   1,
-   1,
-   5,
-   3,
-   5,
-   0,
-   1
-  ],
-  [
    "Mike Murphy",
    "Wrong Hole",
    2.38,
@@ -318,6 +303,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Nick Pritchard",
+   "The Four Horseman",
+   2.38,
+   24,
+   14,
+   2,
+   1,
+   1,
+   5,
+   3,
+   5,
+   0,
+   1
   ],
   [
    "Chris Nesci",
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-20T15:16:41Z"
+ "updated": "2026-11-20T16:18:51Z"
 }
