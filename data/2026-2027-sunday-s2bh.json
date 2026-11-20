@@ -426,21 +426,6 @@
    0
   ],
   [
-   "Jason Miles",
-   "Fing The Neighbors",
-   2.02,
-   30,
-   8,
-   7,
-   0,
-   0,
-   9,
-   2,
-   1,
-   0,
-   1
-  ],
-  [
    "Robyn Ralston",
    "We Dem Boyz",
    2.02,
@@ -454,6 +439,21 @@
    3,
    1,
    0
+  ],
+  [
+   "Jason Miles",
+   "Fing The Neighbors",
+   2.02,
+   30,
+   8,
+   7,
+   0,
+   0,
+   9,
+   2,
+   1,
+   0,
+   1
   ],
   [
    "TJ Vay",
@@ -830,18 +830,6 @@
    29
   ],
   [
-   "Sean Crowell",
-   "The Dartbags",
-   19.61,
-   42,
-   8,
-   2,
-   0,
-   0,
-   0,
-   36
-  ],
-  [
    "James Davis",
    "Ones Are Closed",
    19.61,
@@ -852,6 +840,18 @@
    0,
    0,
    30
+  ],
+  [
+   "Sean Crowell",
+   "The Dartbags",
+   19.61,
+   42,
+   8,
+   2,
+   0,
+   0,
+   0,
+   36
   ],
   [
    "Brian Kea",
@@ -878,18 +878,6 @@
    25
   ],
   [
-   "Kenny Williams",
-   "Glass N Stache",
-   19.33,
-   42,
-   12,
-   4,
-   0,
-   0,
-   0,
-   29
-  ],
-  [
    "David Caesar",
    "Night Shot",
    19.33,
@@ -900,6 +888,18 @@
    0,
    0,
    31
+  ],
+  [
+   "Kenny Williams",
+   "Glass N Stache",
+   19.33,
+   42,
+   12,
+   4,
+   0,
+   0,
+   0,
+   29
   ],
   [
    "Neal Kenyon",
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-20T03:05:28Z"
+ "updated": "2026-11-20T05:25:45Z"
 }
