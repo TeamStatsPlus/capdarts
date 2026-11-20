@@ -218,12 +218,6 @@
  "improved": {
   "c": [
    [
-    "Mark Dalberth",
-    "And Then There Was 2",
-    1.82,
-    1.89
-   ],
-   [
     "Melissa Wallace",
     "Turtle Time",
     2.43,
@@ -234,6 +228,12 @@
     "Dartaholicz",
     1.48,
     1.55
+   ],
+   [
+    "Mark Dalberth",
+    "And Then There Was 2",
+    1.82,
+    1.89
    ]
   ],
   "x": [
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-20T09:23:26Z"
+ "updated": "2026-11-20T11:19:29Z"
 }
