@@ -218,12 +218,6 @@
  "improved": {
   "c": [
    [
-    "Melissa Wallace",
-    "Turtle Time",
-    2.43,
-    2.5
-   ],
-   [
     "Jametta Boston",
     "Dartaholicz",
     1.48,
@@ -234,6 +228,12 @@
     "And Then There Was 2",
     1.82,
     1.89
+   ],
+   [
+    "Melissa Wallace",
+    "Turtle Time",
+    2.43,
+    2.5
    ]
   ],
   "x": [
@@ -559,21 +559,6 @@
    0
   ],
   [
-   "Danae Diaz",
-   "Better Together",
-   1.97,
-   42,
-   15,
-   13,
-   3,
-   0,
-   9,
-   5,
-   3,
-   0,
-   0
-  ],
-  [
    "Robyn Ralston",
    "Sprinkles On Top",
    1.97,
@@ -585,6 +570,21 @@
    6,
    6,
    2,
+   0,
+   0
+  ],
+  [
+   "Danae Diaz",
+   "Better Together",
+   1.97,
+   42,
+   15,
+   13,
+   3,
+   0,
+   9,
+   5,
+   3,
    0,
    0
   ],
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-20T11:19:29Z"
+ "updated": "2026-11-20T13:35:37Z"
 }
