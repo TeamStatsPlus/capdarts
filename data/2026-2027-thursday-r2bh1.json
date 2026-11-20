@@ -6,13 +6,8 @@
  "standings": [
   [
    "The Nobodys",
-   53,
-   25
-  ],
-  [
-   "B And D",
-   47,
-   31
+   62,
+   29
   ],
   [
    "2 Guys 1 Bull",
@@ -30,19 +25,24 @@
    39
   ],
   [
+   "B And D",
+   51,
+   40
+  ],
+  [
    "Top Shottas",
    50,
    41
   ],
   [
    "Tipped Out",
-   48,
-   43
+   54,
+   50
   ],
   [
    "Dave N Buster",
-   45,
-   46
+   52,
+   52
   ],
   [
    "BYE INCOMPLETE 2",
@@ -52,22 +52,6 @@
  ],
  "results": [
   [
-   "Dave N Buster",
-   "BYE INCOMPLETE 2",
-   "12/03/2026",
-   9,
-   13,
-   0
-  ],
-  [
-   "Tipped Out",
-   "BYE INCOMPLETE 2",
-   "11/12/2026",
-   7,
-   13,
-   0
-  ],
-  [
    "Not These Guys Again",
    "BYE INCOMPLETE 2",
    "11/19/2026",
@@ -76,18 +60,18 @@
    0
   ],
   [
-   "B And D",
    "Dave N Buster",
-   "11/05/2026",
-   6,
-   10,
-   3
+   "BYE INCOMPLETE 2",
+   "12/03/2026",
+   9,
+   13,
+   0
   ],
   [
    "The Nobodys",
-   "2 Guys 1 Bull",
-   "11/12/2026",
-   7,
+   "B And D",
+   "11/19/2026",
+   8,
    9,
    4
   ],
@@ -100,12 +84,28 @@
    5
   ],
   [
+   "Tipped Out",
+   "Dave N Buster",
+   "11/19/2026",
+   8,
+   6,
+   7
+  ],
+  [
    "2 Guys 1 Bull",
    "Split Decision",
    "11/19/2026",
    8,
    5,
    8
+  ],
+  [
+   "B And D",
+   "The Nobodys",
+   "11/19/2026",
+   8,
+   4,
+   9
   ],
   [
    "Top Shottas",
@@ -125,8 +125,46 @@
   ]
  ],
  "improved": {
-  "c": [],
-  "x": []
+  "c": [
+   [
+    "Dave DeCarlo",
+    "Dave N Buster",
+    1.78,
+    1.84
+   ],
+   [
+    "Paul Guadagna",
+    "Tipped Out",
+    1.55,
+    1.59
+   ],
+   [
+    "Dan Mousseau Jr",
+    "B And D",
+    2.54,
+    2.58
+   ]
+  ],
+  "x": [
+   [
+    "Rowdy Woodworth",
+    "The Nobodys",
+    18.11,
+    18.69
+   ],
+   [
+    "Brian Palermo",
+    "B And D",
+    15.95,
+    16.22
+   ],
+   [
+    "Colin Mousseau",
+    "The Nobodys",
+    18.31,
+    18.44
+   ]
+  ]
  },
  "cricket": [
   [
@@ -147,14 +185,14 @@
   [
    "Dan Mousseau Jr",
    "B And D",
-   2.54,
-   30,
-   11,
-   4,
+   2.58,
+   36,
+   12,
+   6,
    2,
    1,
+   17,
    11,
-   9,
    2,
    0,
    1
@@ -177,15 +215,15 @@
   [
    "Rowdy Woodworth",
    "The Nobodys",
-   2.28,
-   36,
-   14,
-   7,
+   2.31,
+   42,
+   15,
+   9,
    0,
    1,
-   14,
-   0,
-   3,
+   17,
+   1,
+   4,
    0,
    0
   ],
@@ -222,15 +260,15 @@
   [
    "Jack Ruppert",
    "Tipped Out",
-   2.02,
-   30,
-   10,
-   6,
+   2.04,
+   36,
+   12,
+   7,
    0,
    0,
+   4,
    3,
    3,
-   2,
    0,
    0
   ],
@@ -267,10 +305,10 @@
   [
    "Colin Mousseau",
    "The Nobodys",
-   1.93,
-   36,
-   7,
-   14,
+   1.94,
+   42,
+   9,
+   15,
    0,
    0,
    12,
@@ -310,6 +348,21 @@
    0
   ],
   [
+   "Dave DeCarlo",
+   "Dave N Buster",
+   1.84,
+   42,
+   5,
+   12,
+   1,
+   0,
+   9,
+   4,
+   3,
+   0,
+   0
+  ],
+  [
    "Jon Green",
    "Split Decision",
    1.8,
@@ -321,6 +374,21 @@
    9,
    4,
    2,
+   0,
+   0
+  ],
+  [
+   "Brian Pintagro",
+   "Dave N Buster",
+   1.8,
+   42,
+   12,
+   5,
+   4,
+   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -340,47 +408,32 @@
    0
   ],
   [
-   "Dave DeCarlo",
-   "Dave N Buster",
-   1.78,
-   36,
-   4,
-   10,
-   1,
-   0,
-   6,
-   4,
-   3,
-   0,
-   0
-  ],
-  [
-   "Brian Pintagro",
-   "Dave N Buster",
-   1.77,
-   36,
-   10,
-   4,
-   4,
-   0,
-   3,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Paul Guadagna",
    "Tipped Out",
-   1.55,
+   1.59,
+   42,
+   8,
+   12,
+   1,
+   0,
+   4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Palermo",
+   "B And D",
+   1.53,
    36,
-   7,
-   10,
-   1,
+   6,
+   12,
    0,
-   3,
-   1,
    0,
+   5,
+   2,
+   1,
    0,
    0
   ],
@@ -396,21 +449,6 @@
    1,
    1,
    0,
-   0,
-   0
-  ],
-  [
-   "Brian Palermo",
-   "B And D",
-   1.5,
-   30,
-   4,
-   11,
-   0,
-   0,
-   4,
-   1,
-   1,
    0,
    0
   ],
@@ -494,14 +532,14 @@
   [
    "Dan Mousseau Jr",
    "B And D",
-   23.94,
-   35,
+   24.02,
+   42,
    14,
-   5,
+   7,
    0,
    0,
    1,
-   40
+   46
   ],
   [
    "Cory Humphries",
@@ -542,14 +580,14 @@
   [
    "Jack Ruppert",
    "Tipped Out",
-   19.53,
-   35,
-   6,
+   19.52,
+   42,
+   8,
    1,
    0,
    0,
    0,
-   23
+   27
   ],
   [
    "Dan Carroll",
@@ -576,16 +614,40 @@
    3
   ],
   [
+   "Rowdy Woodworth",
+   "The Nobodys",
+   18.69,
+   49,
+   10,
+   3,
+   0,
+   0,
+   0,
+   26
+  ],
+  [
    "Brian Pintagro",
    "Dave N Buster",
-   18.47,
-   42,
-   12,
+   18.58,
+   49,
+   15,
+   2,
+   0,
+   0,
+   0,
+   32
+  ],
+  [
+   "Colin Mousseau",
+   "The Nobodys",
+   18.44,
+   49,
+   19,
    1,
    0,
    0,
    0,
-   28
+   22
   ],
   [
    "Matt Cortese",
@@ -598,30 +660,6 @@
    0,
    0,
    12
-  ],
-  [
-   "Colin Mousseau",
-   "The Nobodys",
-   18.31,
-   42,
-   14,
-   1,
-   0,
-   0,
-   0,
-   19
-  ],
-  [
-   "Rowdy Woodworth",
-   "The Nobodys",
-   18.11,
-   42,
-   9,
-   2,
-   0,
-   0,
-   0,
-   20
   ],
   [
    "Jon Green",
@@ -662,38 +700,38 @@
   [
    "Dave DeCarlo",
    "Dave N Buster",
-   16.76,
-   42,
-   6,
+   16.72,
+   49,
+   7,
    3,
    0,
    0,
    0,
-   12
+   15
   ],
   [
    "Paul Guadagna",
    "Tipped Out",
-   16.33,
-   42,
-   12,
+   16.38,
+   49,
+   13,
    0,
    0,
    0,
    0,
-   19
+   20
   ],
   [
    "Brian Palermo",
    "B And D",
-   15.95,
-   35,
-   5,
+   16.22,
+   42,
+   6,
    0,
    0,
    0,
    0,
-   5
+   7
   ],
   [
    "Bill Hills",
@@ -1489,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-20T01:32:41Z"
+ "updated": "2026-11-20T03:07:19Z"
 }

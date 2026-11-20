@@ -6,150 +6,150 @@
  "standings": [
   [
    "Pinky And The Brain",
-   53,
-   38
-  ],
-  [
-   "Sticky Bandits",
-   43,
-   35
-  ],
-  [
-   "Bacon Titz",
-   34,
-   31
+   60,
+   44
   ],
   [
    "DartBods",
+   50,
+   41
+  ],
+  [
+   "Bacon Titz",
    40,
    38
   ],
   [
-   "Tie And Spye",
+   "Sticky Bandits",
    46,
    45
   ],
   [
-   "Thats An Out",
-   35,
-   43
+   "Tie And Spye",
+   51,
+   53
   ],
   [
    "Paint It Black",
-   35,
-   43
+   43,
+   48
+  ],
+  [
+   "Thats An Out",
+   41,
+   50
   ],
   [
    "Double Out",
-   26,
-   39
+   33,
+   45
   ]
  ],
  "results": [
   [
-   "Pinky And The Brain",
-   "Thats An Out",
-   "11/12/2026",
-   7,
-   8,
-   5
-  ],
-  [
    "DartBods",
+   "Sticky Bandits",
+   "11/19/2026",
+   8,
+   10,
+   3
+  ],
+  [
+   "Paint It Black",
    "Tie And Spye",
-   "11/12/2026",
-   7,
+   "11/19/2026",
+   8,
    8,
    5
   ],
   [
+   "Pinky And The Brain",
    "Bacon Titz",
-   "Paint It Black",
-   "11/12/2026",
-   7,
-   7,
-   6
-  ],
-  [
-   "Sticky Bandits",
-   "Double Out",
-   "11/12/2026",
-   7,
+   "11/19/2026",
+   8,
    7,
    6
   ],
   [
    "Double Out",
-   "Sticky Bandits",
-   "11/12/2026",
+   "Thats An Out",
+   "11/19/2026",
+   8,
    7,
+   6
+  ],
+  [
+   "Bacon Titz",
+   "Pinky And The Brain",
+   "11/19/2026",
+   8,
    6,
    7
   ],
   [
-   "Paint It Black",
-   "Bacon Titz",
-   "11/12/2026",
-   7,
+   "Thats An Out",
+   "Double Out",
+   "11/19/2026",
+   8,
    6,
    7
   ],
   [
    "Tie And Spye",
-   "DartBods",
-   "11/12/2026",
-   7,
+   "Paint It Black",
+   "11/19/2026",
+   8,
    5,
    8
   ],
   [
-   "Thats An Out",
-   "Pinky And The Brain",
-   "11/12/2026",
-   7,
-   5,
-   8
+   "Sticky Bandits",
+   "DartBods",
+   "11/19/2026",
+   8,
+   3,
+   10
   ]
  ],
  "improved": {
   "c": [
    [
-    "Patrick OReilly",
-    "DartBods",
-    1.8,
-    1.88
-   ],
-   [
-    "Tie Lightle",
-    "Tie And Spye",
-    2.14,
-    2.18
+    "Ethan Burnham Fay",
+    "Thats An Out",
+    1.9,
+    2.0
    ],
    [
     "Brandon Bacon",
     "Bacon Titz",
-    2.19,
-    2.22
+    2.22,
+    2.28
+   ],
+   [
+    "Sarah Szewczyk",
+    "Pinky And The Brain",
+    1.88,
+    1.93
    ]
   ],
   "x": [
    [
     "Patrick OReilly",
     "DartBods",
-    17.13,
-    17.51
+    17.51,
+    18.03
    ],
    [
     "Brandon Bacon",
     "Bacon Titz",
-    21.55,
-    21.86
+    21.86,
+    22.28
    ],
    [
-    "Rob Youdan",
-    "Paint It Black",
-    19.31,
-    19.5
+    "Joe Scharr",
+    "Pinky And The Brain",
+    22.73,
+    23.08
    ]
   ]
  },
@@ -157,60 +157,75 @@
   [
    "Joe Scharr",
    "Pinky And The Brain",
-   2.74,
-   42,
-   18,
-   9,
+   2.72,
+   48,
+   21,
+   10,
    0,
    0,
-   27,
-   11,
-   6,
+   29,
+   12,
+   7,
    0,
    0
   ],
   [
    "Michael DAccursio",
    "Sticky Bandits",
-   2.47,
-   36,
-   11,
+   2.43,
+   42,
+   13,
    9,
    1,
    0,
-   9,
+   11,
    8,
-   2,
+   4,
    0,
    1
   ],
   [
    "Michael Walton",
    "Sticky Bandits",
-   2.43,
-   36,
+   2.37,
+   42,
    9,
-   11,
+   13,
    1,
    0,
    17,
-   5,
+   6,
    2,
-   0,
+   1,
    0
   ],
   [
    "Bryan Chatterton",
    "Paint It Black",
-   2.35,
+   2.33,
+   42,
+   9,
+   7,
+   1,
+   0,
+   21,
+   7,
+   4,
+   0,
+   0
+  ],
+  [
+   "Brandon Bacon",
+   "Bacon Titz",
+   2.28,
    36,
-   8,
-   5,
+   11,
+   7,
    1,
    0,
    18,
-   6,
-   3,
+   7,
+   0,
    0,
    0
   ],
@@ -232,91 +247,76 @@
   [
    "Todd Palmer",
    "Double Out",
-   2.23,
-   30,
-   2,
-   8,
+   2.19,
+   36,
+   4,
+   9,
    0,
    0,
    9,
-   7,
+   8,
    2,
    1,
-   0
-  ],
-  [
-   "Brandon Bacon",
-   "Bacon Titz",
-   2.22,
-   30,
-   10,
-   6,
-   1,
-   0,
-   13,
-   6,
-   0,
-   0,
-   0
-  ],
-  [
-   "Tie Lightle",
-   "Tie And Spye",
-   2.18,
-   42,
-   16,
-   7,
-   1,
-   0,
-   16,
-   5,
-   2,
-   0,
-   0
-  ],
-  [
-   "Jeff Folger",
-   "Thats An Out",
-   2.16,
-   6,
-   3,
-   2,
-   0,
-   0,
-   1,
-   1,
-   1,
-   0,
-   0
+   1
   ],
   [
    "Timothy Kelly",
    "DartBods",
-   2.15,
-   36,
-   15,
-   5,
+   2.18,
+   42,
+   18,
+   6,
    1,
    0,
-   9,
+   10,
+   5,
+   4,
+   0,
+   2
+  ],
+  [
+   "Tie Lightle",
+   "Tie And Spye",
+   2.15,
+   48,
+   16,
+   10,
+   1,
+   0,
+   16,
    5,
    3,
    0,
-   1
+   0
   ],
   [
    "Rob Youdan",
    "Paint It Black",
-   2.12,
-   36,
-   5,
-   8,
+   2.1,
+   42,
+   7,
+   9,
    4,
    0,
-   5,
    6,
+   7,
+   1,
    0,
+   1
+  ],
+  [
+   "Ethan Burnham Fay",
+   "Thats An Out",
+   2.0,
+   36,
+   7,
+   6,
+   1,
    0,
+   9,
+   4,
+   4,
+   1,
    1
   ],
   [
@@ -335,27 +335,42 @@
    0
   ],
   [
-   "Ethan Burnham Fay",
-   "Thats An Out",
-   1.9,
-   30,
-   5,
-   5,
-   0,
-   0,
-   7,
-   3,
-   3,
+   "Sarah Szewczyk",
+   "Pinky And The Brain",
+   1.93,
+   48,
+   10,
+   21,
    1,
+   0,
+   12,
+   6,
+   0,
+   1,
+   0
+  ],
+  [
+   "Ian Conyers",
+   "Tie And Spye",
+   1.89,
+   48,
+   10,
+   16,
+   1,
+   0,
+   11,
+   5,
+   1,
+   0,
    0
   ],
   [
    "Patrick OReilly",
    "DartBods",
-   1.88,
-   36,
-   5,
-   15,
+   1.89,
+   42,
+   6,
+   18,
    1,
    0,
    10,
@@ -365,31 +380,16 @@
    0
   ],
   [
-   "Sarah Szewczyk",
-   "Pinky And The Brain",
-   1.88,
-   42,
-   9,
-   18,
+   "Jeff Folger",
+   "Thats An Out",
+   1.82,
+   12,
+   4,
+   4,
    0,
    0,
-   7,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
-   "Ian Conyers",
-   "Tie And Spye",
-   1.88,
-   42,
-   7,
-   16,
    1,
-   0,
-   8,
-   5,
+   3,
    1,
    0,
    0
@@ -397,14 +397,29 @@
   [
    "Sarah McKnight",
    "Double Out",
-   1.64,
-   30,
-   8,
-   2,
+   1.66,
+   36,
+   9,
+   4,
    0,
    0,
    6,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Loucks",
+   "Bacon Titz",
+   1.56,
+   6,
+   1,
+   1,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -429,134 +444,134 @@
   [
    "Bryan Chatterton",
    "Paint It Black",
-   25.44,
-   42,
-   10,
-   19,
+   25.24,
+   49,
+   12,
+   21,
    0,
    0,
    1,
-   37
+   43
   ],
   [
    "Joe Scharr",
    "Pinky And The Brain",
-   22.73,
-   49,
-   22,
-   1,
+   23.08,
+   56,
+   25,
+   2,
    0,
    0,
    3,
-   41
+   46
   ],
   [
-   "Michael Walton",
-   "Sticky Bandits",
-   21.99,
-   42,
-   8,
+   "Mike Loucks",
+   "Bacon Titz",
+   22.85,
    7,
+   1,
    0,
    0,
    0,
-   33
+   0,
+   5
   ],
   [
    "Brandon Bacon",
    "Bacon Titz",
-   21.86,
-   35,
-   12,
-   1,
-   0,
-   0,
-   0,
-   26
-  ],
-  [
-   "Michael DAccursio",
-   "Sticky Bandits",
-   21.74,
+   22.28,
    42,
-   14,
-   7,
-   0,
-   0,
-   0,
-   37
-  ],
-  [
-   "Todd Palmer",
-   "Double Out",
-   21.03,
-   35,
-   8,
-   2,
-   0,
-   0,
-   0,
-   32
-  ],
-  [
-   "Tie Lightle",
-   "Tie And Spye",
-   20.18,
-   49,
    15,
-   5,
-   0,
-   0,
-   1,
-   29
-  ],
-  [
-   "Rob Youdan",
-   "Paint It Black",
-   19.5,
-   42,
-   12,
    3,
    0,
    0,
    0,
-   21
+   31
   ],
   [
-   "Timothy Kelly",
-   "DartBods",
-   19.46,
-   42,
-   11,
-   1,
-   0,
-   0,
-   0,
-   30
-  ],
-  [
-   "Ethan Burnham Fay",
-   "Thats An Out",
-   19.27,
-   35,
-   11,
-   0,
-   0,
-   0,
-   1,
-   21
-  ],
-  [
-   "Ian Conyers",
-   "Tie And Spye",
-   19.26,
+   "Michael Walton",
+   "Sticky Bandits",
+   22.07,
    49,
    8,
+   11,
+   0,
+   0,
+   0,
+   35
+  ],
+  [
+   "Michael DAccursio",
+   "Sticky Bandits",
+   21.69,
+   49,
+   15,
+   8,
+   0,
+   0,
+   0,
+   43
+  ],
+  [
+   "Todd Palmer",
+   "Double Out",
+   20.82,
+   42,
+   10,
    2,
    0,
    0,
    0,
+   38
+  ],
+  [
+   "Tie Lightle",
+   "Tie And Spye",
+   20.33,
+   56,
+   17,
+   5,
+   0,
+   0,
+   1,
+   36
+  ],
+  [
+   "Ethan Burnham Fay",
+   "Thats An Out",
+   19.58,
+   42,
+   13,
+   0,
+   0,
+   0,
+   1,
+   27
+  ],
+  [
+   "Rob Youdan",
+   "Paint It Black",
+   19.38,
+   49,
+   15,
+   3,
+   0,
+   0,
+   0,
    24
+  ],
+  [
+   "Timothy Kelly",
+   "DartBods",
+   19.35,
+   49,
+   14,
+   2,
+   0,
+   0,
+   0,
+   33
   ],
   [
    "Patrick Lutz",
@@ -571,16 +586,40 @@
    26
   ],
   [
-   "Sarah McKnight",
-   "Double Out",
-   18.1,
-   35,
+   "Ian Conyers",
+   "Tie And Spye",
+   19.07,
+   56,
    8,
    2,
    0,
    0,
    0,
-   13
+   25
+  ],
+  [
+   "Sarah McKnight",
+   "Double Out",
+   18.18,
+   42,
+   10,
+   2,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
+   "Patrick OReilly",
+   "DartBods",
+   18.03,
+   49,
+   10,
+   1,
+   0,
+   0,
+   0,
+   21
   ],
   [
    "Kelli Nash",
@@ -597,38 +636,26 @@
   [
    "Sarah Szewczyk",
    "Pinky And The Brain",
-   17.71,
-   49,
+   17.64,
+   56,
    4,
    3,
    0,
    0,
    0,
-   15
-  ],
-  [
-   "Patrick OReilly",
-   "DartBods",
-   17.51,
-   42,
-   8,
-   0,
-   0,
-   0,
-   0,
-   15
+   17
   ],
   [
    "Jeff Folger",
    "Thats An Out",
-   16.28,
-   7,
+   15.81,
+   14,
+   1,
    0,
    0,
    0,
    0,
-   0,
-   3
+   5
   ],
   [
    "Maria Pirrami",
@@ -1246,5 +1273,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-19T15:19:35Z"
+ "updated": "2026-11-20T03:07:23Z"
 }
