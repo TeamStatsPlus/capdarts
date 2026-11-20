@@ -290,21 +290,6 @@
    0
   ],
   [
-   "Nick Pritchard",
-   "The Four Horseman",
-   2.38,
-   24,
-   14,
-   2,
-   1,
-   1,
-   5,
-   3,
-   5,
-   0,
-   1
-  ],
-  [
    "Mike Murphy",
    "Wrong Hole",
    2.38,
@@ -318,6 +303,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Nick Pritchard",
+   "The Four Horseman",
+   2.38,
+   24,
+   14,
+   2,
+   1,
+   1,
+   5,
+   3,
+   5,
+   0,
+   1
   ],
   [
    "Chris Nesci",
@@ -485,21 +485,6 @@
    0
   ],
   [
-   "Steve Wehry",
-   "RamRod",
-   2.0,
-   21,
-   5,
-   5,
-   1,
-   0,
-   6,
-   1,
-   0,
-   0,
-   1
-  ],
-  [
    "Seann McArdle",
    "Wrong Hole",
    2.0,
@@ -515,6 +500,21 @@
    0
   ],
   [
+   "Steve Wehry",
+   "RamRod",
+   2.0,
+   21,
+   5,
+   5,
+   1,
+   0,
+   6,
+   1,
+   0,
+   0,
+   1
+  ],
+  [
    "Pat Childs",
    "Roasted Shenanigans",
    1.96,
@@ -524,6 +524,21 @@
    0,
    0,
    2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Faucher",
+   "RamRod",
+   1.94,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -543,21 +558,6 @@
    1,
    0,
    1
-  ],
-  [
-   "Brian Faucher",
-   "RamRod",
-   1.94,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
   ],
   [
    "Marc Hinds",
@@ -695,21 +695,6 @@
    0
   ],
   [
-   "Blake Stevenson",
-   "RamRod",
-   1.55,
-   18,
-   8,
-   3,
-   0,
-   0,
-   5,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Sarah McKnight",
    "Take It Out",
    1.55,
@@ -721,6 +706,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Blake Stevenson",
+   "RamRod",
+   1.55,
+   18,
+   8,
+   3,
+   0,
+   0,
+   5,
+   1,
+   2,
    0,
    0
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-20T19:27:25Z"
+ "updated": "2026-11-20T21:10:10Z"
 }
