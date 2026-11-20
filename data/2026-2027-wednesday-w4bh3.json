@@ -101,16 +101,16 @@
  "improved": {
   "c": [
    [
-    "Ron Pierce",
-    "TQMB",
-    1.63,
-    1.75
-   ],
-   [
     "Howie Revans",
     "TQMB",
     1.15,
     1.27
+   ],
+   [
+    "Ron Pierce",
+    "TQMB",
+    1.63,
+    1.75
    ],
    [
     "Matt Rothenburgh",
@@ -367,21 +367,6 @@
    0
   ],
   [
-   "Tim Terborg",
-   "Flight Phucked",
-   2.04,
-   18,
-   6,
-   5,
-   1,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Dominick Posadni",
    "Andycapped",
    2.04,
@@ -393,6 +378,21 @@
    4,
    7,
    1,
+   0,
+   0
+  ],
+  [
+   "Tim Terborg",
+   "Flight Phucked",
+   2.04,
+   18,
+   6,
+   5,
+   1,
+   0,
+   5,
+   1,
+   0,
    0,
    0
   ],
@@ -1671,5 +1671,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-20T03:07:04Z"
+ "updated": "2026-11-20T04:17:55Z"
 }

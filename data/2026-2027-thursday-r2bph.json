@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:07:27Z",
+ "updated": "2026-11-20T04:18:18Z",
  "standings": [
   [
    "No Clue",
@@ -52,14 +52,14 @@
    64
   ],
   [
+   "Never Trust A Dart",
+   52,
+   68
+  ],
+  [
    "Retreat",
    45,
    60
-  ],
-  [
-   "Never Trust A Dart",
-   42,
-   63
   ],
   [
    "Tag Team Tami",
@@ -68,8 +68,8 @@
   ],
   [
    "TakingNamesTakingAim",
-   33,
-   57
+   38,
+   67
   ]
  ],
  "results": [
@@ -88,6 +88,14 @@
    8,
    11,
    4
+  ],
+  [
+   "Never Trust A Dart",
+   "TakingNamesTakingAim",
+   "11/19/2026",
+   8,
+   10,
+   5
   ],
   [
    "Handjobs4thehomeless",
@@ -138,14 +146,6 @@
    9
   ],
   [
-   "Never Trust A Dart",
-   "Revenge",
-   "11/12/2026",
-   7,
-   6,
-   9
-  ],
-  [
    "Wags To Richs",
    "Dart Bags T",
    "11/19/2026",
@@ -154,16 +154,16 @@
    9
   ],
   [
-   "TakingNamesTakingAim",
-   "Dart Bags T",
-   "11/12/2026",
-   7,
-   6,
-   9
-  ],
-  [
    "No Clue",
    "Handjobs4thehomeless",
+   "11/19/2026",
+   8,
+   5,
+   10
+  ],
+  [
+   "TakingNamesTakingAim",
+   "Never Trust A Dart",
    "11/19/2026",
    8,
    5,
@@ -383,21 +383,6 @@
    1
   ],
   [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   2.63,
-   36,
-   15,
-   2,
-   3,
-   0,
-   22,
-   6,
-   5,
-   2,
-   0
-  ],
-  [
    "Kevin DeHollander",
    "Draw Two",
    2.62,
@@ -410,6 +395,21 @@
    7,
    6,
    0,
+   0
+  ],
+  [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   2.61,
+   42,
+   16,
+   2,
+   3,
+   0,
+   25,
+   9,
+   5,
+   2,
    0
   ],
   [
@@ -458,21 +458,6 @@
    0
   ],
   [
-   "Eric Porte",
-   "Never Trust A Dart",
-   2.54,
-   42,
-   14,
-   6,
-   2,
-   1,
-   25,
-   7,
-   4,
-   1,
-   1
-  ],
-  [
    "Mark Sennett",
    "Dart Bags T",
    2.53,
@@ -486,6 +471,21 @@
    4,
    1,
    0
+  ],
+  [
+   "Eric Porte",
+   "Never Trust A Dart",
+   2.51,
+   48,
+   19,
+   7,
+   3,
+   1,
+   30,
+   9,
+   4,
+   1,
+   1
   ],
   [
    "Will Zimmer",
@@ -640,15 +640,15 @@
   [
    "Brandon Wheeler",
    "Never Trust A Dart",
-   2.09,
-   42,
-   11,
-   5,
+   2.13,
+   48,
+   13,
+   8,
    1,
    0,
-   19,
-   7,
-   3,
+   22,
+   10,
+   4,
    0,
    2
   ],
@@ -700,8 +700,8 @@
   [
    "Jessica Mitrano",
    "TakingNamesTakingAim",
-   1.49,
-   24,
+   1.5,
+   30,
    2,
    5,
    0,
@@ -895,6 +895,18 @@
    90
   ],
   [
+   "Erica Wall",
+   "TakingNamesTakingAim",
+   22.24,
+   49,
+   14,
+   8,
+   0,
+   0,
+   1,
+   96
+  ],
+  [
    "Mike Georgetti",
    "No Clue",
    22.05,
@@ -905,18 +917,6 @@
    0,
    1,
    80
-  ],
-  [
-   "Erica Wall",
-   "TakingNamesTakingAim",
-   21.89,
-   42,
-   10,
-   5,
-   0,
-   0,
-   1,
-   82
   ],
   [
    "Shawn Bentley",
@@ -991,18 +991,6 @@
    9
   ],
   [
-   "Archie Donaldson",
-   "Revenge",
-   20.75,
-   56,
-   9,
-   6,
-   0,
-   0,
-   2,
-   77
-  ],
-  [
    "Jason Arena",
    "Throwing Shade",
    20.75,
@@ -1013,6 +1001,18 @@
    0,
    4,
    73
+  ],
+  [
+   "Archie Donaldson",
+   "Revenge",
+   20.75,
+   56,
+   9,
+   6,
+   0,
+   0,
+   2,
+   77
   ],
   [
    "Chris Contrera",
@@ -1039,6 +1039,18 @@
    63
   ],
   [
+   "Eric Porte",
+   "Never Trust A Dart",
+   19.68,
+   56,
+   10,
+   2,
+   0,
+   0,
+   1,
+   55
+  ],
+  [
    "Mike Ronzo",
    "Tag Team Tami",
    19.43,
@@ -1051,28 +1063,16 @@
    43
   ],
   [
-   "Eric Porte",
-   "Never Trust A Dart",
-   19.41,
-   49,
-   9,
-   2,
-   0,
-   0,
-   1,
-   45
-  ],
-  [
    "Brandon Wheeler",
    "Never Trust A Dart",
-   19.33,
-   49,
-   8,
+   18.82,
+   56,
+   10,
    6,
    0,
    0,
    4,
-   51
+   55
   ],
   [
    "Jason Bateman",
@@ -1125,14 +1125,14 @@
   [
    "Jessica Mitrano",
    "TakingNamesTakingAim",
-   14.37,
-   28,
+   13.64,
+   35,
+   0,
+   1,
    0,
    0,
    0,
-   0,
-   0,
-   9
+   11
   ]
  ],
  "improved": {
@@ -1170,10 +1170,10 @@
     21.67
    ],
    [
-    "Carlton Smith",
-    "Revenge",
-    27.92,
-    28.24
+    "Erica Wall",
+    "TakingNamesTakingAim",
+    21.89,
+    22.24
    ]
   ]
  },
