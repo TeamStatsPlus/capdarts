@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Erick Ramos",
-   "Goodlife",
-   2.28,
-   18,
-   9,
-   1,
-   0,
-   0,
-   6,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Peter Rogers",
    "Bad Boys",
    2.28,
@@ -271,6 +256,21 @@
    11,
    2,
    2,
+   0,
+   0
+  ],
+  [
+   "Erick Ramos",
+   "Goodlife",
+   2.28,
+   18,
+   9,
+   1,
+   0,
+   0,
+   6,
+   4,
+   0,
    0,
    0
   ],
@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Dun Goodlife",
-   "Goodlife",
-   1.74,
-   3,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Chris Philbin",
    "Dirty O Boys",
    1.74,
@@ -556,6 +541,21 @@
    5,
    4,
    1,
+   0,
+   0
+  ],
+  [
+   "Dun Goodlife",
+   "Goodlife",
+   1.74,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -635,21 +635,6 @@
    0
   ],
   [
-   "Andrew Bochetto",
-   "Sloppy Darts",
-   1.57,
-   24,
-   2,
-   8,
-   0,
-   0,
-   5,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Chebo Goodlife",
    "Goodlife",
    1.57,
@@ -661,6 +646,21 @@
    0,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Andrew Bochetto",
+   "Sloppy Darts",
+   1.57,
+   24,
+   2,
+   8,
+   0,
+   0,
+   5,
+   3,
+   0,
    0,
    0
   ],
@@ -1204,18 +1204,6 @@
    2
   ],
   [
-   "Robin Guerrieri",
-   "3 Guys And A Girl",
-   15.72,
-   28,
-   4,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Marty Cordy",
    "Dirty O Boys",
    15.72,
@@ -1226,6 +1214,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Robin Guerrieri",
+   "3 Guys And A Girl",
+   15.72,
+   28,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Matthew Griffin",
@@ -1975,5 +1975,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-20T05:26:22Z"
+ "updated": "2026-11-20T07:41:59Z"
 }
