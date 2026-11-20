@@ -507,6 +507,21 @@
    0
   ],
   [
+   "Stephen Popowych",
+   "ProjectileDysfncion",
+   1.58,
+   15,
+   5,
+   3,
+   1,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Stephen Monahan",
    "The Limp Wristers",
    1.58,
@@ -532,21 +547,6 @@
    0,
    6,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Stephen Popowych",
-   "ProjectileDysfncion",
-   1.58,
-   15,
-   5,
-   3,
-   1,
-   0,
-   0,
-   3,
    0,
    0,
    0
@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Danielle Henry",
-   "The Limp Wristers",
-   1.53,
-   21,
-   6,
-   8,
-   0,
-   0,
-   1,
-   1,
-   0,
-   2,
-   0
-  ],
-  [
    "Chris Murgatroyd",
    "Double Deuces",
    1.53,
@@ -624,6 +609,21 @@
    2,
    1,
    0,
+   0
+  ],
+  [
+   "Danielle Henry",
+   "The Limp Wristers",
+   1.53,
+   21,
+   6,
+   8,
+   0,
+   0,
+   1,
+   1,
+   0,
+   2,
    0
   ],
   [
@@ -777,6 +777,21 @@
    0
   ],
   [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Christa Herbst",
    "Cant Close",
    1.35,
@@ -802,21 +817,6 @@
    0,
    2,
    1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
    0,
    0,
    0
@@ -3057,5 +3057,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-20T16:19:37Z"
+ "updated": "2026-11-20T19:28:07Z"
 }

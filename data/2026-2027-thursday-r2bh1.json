@@ -133,16 +133,16 @@
     1.84
    ],
    [
-    "Paul Guadagna",
-    "Tipped Out",
-    1.55,
-    1.59
-   ],
-   [
     "Dan Mousseau Jr",
     "B And D",
     2.54,
     2.58
+   ],
+   [
+    "Paul Guadagna",
+    "Tipped Out",
+    1.55,
+    1.59
    ]
   ],
   "x": [
@@ -273,21 +273,6 @@
    0
   ],
   [
-   "Dan Carroll",
-   "Not These Guys Again",
-   2.0,
-   30,
-   10,
-   5,
-   1,
-   0,
-   7,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Joe Scalise",
    "2 Guys 1 Bull",
    2.0,
@@ -297,6 +282,21 @@
    1,
    0,
    4,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dan Carroll",
+   "Not These Guys Again",
+   2.0,
+   30,
+   10,
+   5,
+   1,
+   0,
+   7,
    1,
    0,
    0,
@@ -363,21 +363,6 @@
    0
   ],
   [
-   "Jon Green",
-   "Split Decision",
-   1.8,
-   42,
-   7,
-   14,
-   0,
-   0,
-   9,
-   4,
-   2,
-   0,
-   0
-  ],
-  [
    "Brian Pintagro",
    "Dave N Buster",
    1.8,
@@ -389,6 +374,21 @@
    4,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Jon Green",
+   "Split Decision",
+   1.8,
+   42,
+   7,
+   14,
+   0,
+   0,
+   9,
+   4,
+   2,
    0,
    0
   ],
@@ -1527,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-20T18:16:24Z"
+ "updated": "2026-11-20T19:28:31Z"
 }

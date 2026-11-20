@@ -126,10 +126,10 @@
     2.39
    ],
    [
-    "Nick Pritchard",
-    "The Four Horseman",
-    2.35,
-    2.38
+    "Tim Olmsted",
+    "Dartbags",
+    1.72,
+    1.75
    ]
   ],
   "x": [
@@ -290,21 +290,6 @@
    0
   ],
   [
-   "Mike Murphy",
-   "Wrong Hole",
-   2.38,
-   3,
-   1,
-   0,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Nick Pritchard",
    "The Four Horseman",
    2.38,
@@ -318,6 +303,21 @@
    5,
    0,
    1
+  ],
+  [
+   "Mike Murphy",
+   "Wrong Hole",
+   2.38,
+   3,
+   1,
+   0,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "Chris Nesci",
@@ -485,21 +485,6 @@
    0
   ],
   [
-   "Seann McArdle",
-   "Wrong Hole",
-   2.0,
-   3,
-   1,
-   1,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Steve Wehry",
    "RamRod",
    2.0,
@@ -513,6 +498,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Seann McArdle",
+   "Wrong Hole",
+   2.0,
+   3,
+   1,
+   1,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Pat Childs",
@@ -695,21 +695,6 @@
    0
   ],
   [
-   "Sarah McKnight",
-   "Take It Out",
-   1.55,
-   3,
-   2,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Blake Stevenson",
    "RamRod",
    1.55,
@@ -721,6 +706,21 @@
    5,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Sarah McKnight",
+   "Take It Out",
+   1.55,
+   3,
+   2,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -740,21 +740,6 @@
    0
   ],
   [
-   "Angie Coville",
-   "Roasted Shenanigans",
-   1.41,
-   21,
-   3,
-   4,
-   0,
-   0,
-   5,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Harrison",
    "Connor And The Jets",
    1.41,
@@ -766,6 +751,21 @@
    4,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Angie Coville",
+   "Roasted Shenanigans",
+   1.41,
+   21,
+   3,
+   4,
+   0,
+   0,
+   5,
+   0,
+   1,
    0,
    0
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-20T18:15:16Z"
+ "updated": "2026-11-20T19:27:25Z"
 }
