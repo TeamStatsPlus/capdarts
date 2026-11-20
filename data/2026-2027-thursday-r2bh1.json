@@ -10,14 +10,14 @@
    25
   ],
   [
-   "2 Guys 1 Bull",
-   49,
-   29
-  ],
-  [
    "B And D",
    47,
    31
+  ],
+  [
+   "2 Guys 1 Bull",
+   54,
+   37
   ],
   [
    "Not These Guys Again",
@@ -26,8 +26,8 @@
   ],
   [
    "Split Decision",
-   44,
-   34
+   52,
+   39
   ],
   [
    "Top Shottas",
@@ -93,19 +93,19 @@
   ],
   [
    "Split Decision",
-   "Not These Guys Again",
-   "11/12/2026",
-   7,
-   5,
-   8
+   "2 Guys 1 Bull",
+   "11/19/2026",
+   8,
+   8,
+   5
   ],
   [
    "2 Guys 1 Bull",
-   "The Nobodys",
-   "11/12/2026",
-   7,
-   4,
-   9
+   "Split Decision",
+   "11/19/2026",
+   8,
+   5,
+   8
   ],
   [
    "Top Shottas",
@@ -125,48 +125,25 @@
   ]
  ],
  "improved": {
-  "c": [
-   [
-    "Dan Carroll",
-    "Not These Guys Again",
-    1.96,
-    2.0
-   ],
-   [
-    "Colin Mousseau",
-    "The Nobodys",
-    1.89,
-    1.93
-   ],
-   [
-    "Rowdy Woodworth",
-    "The Nobodys",
-    2.25,
-    2.28
-   ]
-  ],
-  "x": [
-   [
-    "Dan Carroll",
-    "Not These Guys Again",
-    18.02,
-    19.2
-   ],
-   [
-    "Rowdy Woodworth",
-    "The Nobodys",
-    17.91,
-    18.11
-   ],
-   [
-    "Andrew Casciani",
-    "Not These Guys Again",
-    16.93,
-    17.06
-   ]
-  ]
+  "c": [],
+  "x": []
  },
  "cricket": [
+  [
+   "Cory Humphries",
+   "Split Decision",
+   2.88,
+   6,
+   3,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   1
+  ],
   [
    "Dan Mousseau Jr",
    "B And D",
@@ -243,21 +220,6 @@
    0
   ],
   [
-   "Joe Scalise",
-   "2 Guys 1 Bull",
-   2.03,
-   30,
-   11,
-   8,
-   1,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jack Ruppert",
    "Tipped Out",
    2.02,
@@ -269,6 +231,21 @@
    3,
    3,
    2,
+   0,
+   0
+  ],
+  [
+   "Joe Scalise",
+   "2 Guys 1 Bull",
+   2.0,
+   36,
+   12,
+   9,
+   1,
+   0,
+   4,
+   1,
+   0,
    0,
    0
   ],
@@ -333,32 +310,32 @@
    0
   ],
   [
-   "Matt Cortese",
-   "2 Guys 1 Bull",
+   "Jon Green",
+   "Split Decision",
    1.8,
-   18,
-   5,
+   42,
    7,
+   14,
    0,
    0,
-   3,
+   9,
+   4,
    2,
-   0,
    0,
    0
   ],
   [
-   "Jon Green",
-   "Split Decision",
-   1.8,
-   36,
+   "Matt Cortese",
+   "2 Guys 1 Bull",
+   1.78,
+   24,
    6,
-   11,
-   0,
-   0,
    8,
+   0,
+   0,
    4,
    2,
+   1,
    0,
    0
   ],
@@ -438,21 +415,6 @@
    0
   ],
   [
-   "Holden Sandlar",
-   "Split Decision",
-   1.49,
-   36,
-   11,
-   6,
-   0,
-   0,
-   6,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Lutomski",
    "Top Shottas",
    1.49,
@@ -464,6 +426,21 @@
    6,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Holden Sandlar",
+   "Split Decision",
+   1.49,
+   36,
+   11,
+   6,
+   0,
+   0,
+   6,
+   0,
+   0,
    0,
    0
   ],
@@ -527,6 +504,18 @@
    40
   ],
   [
+   "Cory Humphries",
+   "Split Decision",
+   23.64,
+   7,
+   4,
+   1,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
    "David Benwell",
    "Top Shottas",
    21.1,
@@ -587,18 +576,6 @@
    3
   ],
   [
-   "Matt Cortese",
-   "2 Guys 1 Bull",
-   18.61,
-   21,
-   8,
-   1,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Brian Pintagro",
    "Dave N Buster",
    18.47,
@@ -609,6 +586,18 @@
    0,
    0,
    28
+  ],
+  [
+   "Matt Cortese",
+   "2 Guys 1 Bull",
+   18.34,
+   28,
+   9,
+   1,
+   0,
+   0,
+   0,
+   12
   ],
   [
    "Colin Mousseau",
@@ -623,18 +612,6 @@
    19
   ],
   [
-   "Jon Green",
-   "Split Decision",
-   18.23,
-   42,
-   9,
-   4,
-   0,
-   0,
-   0,
-   24
-  ],
-  [
    "Rowdy Woodworth",
    "The Nobodys",
    18.11,
@@ -647,16 +624,28 @@
    20
   ],
   [
+   "Jon Green",
+   "Split Decision",
+   17.85,
+   49,
+   9,
+   4,
+   0,
+   0,
+   0,
+   27
+  ],
+  [
    "Joe Scalise",
    "2 Guys 1 Bull",
-   18.02,
-   35,
-   8,
+   17.74,
+   42,
+   10,
    1,
    0,
    0,
    0,
-   14
+   17
   ],
   [
    "Andrew Casciani",
@@ -1500,5 +1489,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-20T00:01:59Z"
+ "updated": "2026-11-20T01:32:41Z"
 }
