@@ -702,21 +702,6 @@
    0
   ],
   [
-   "Dave Falconieri",
-   "Squeekertips",
-   1.42,
-   6,
-   2,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "John Waud",
    "Shart Shooters",
    1.42,
@@ -726,6 +711,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Falconieri",
+   "Squeekertips",
+   1.42,
+   6,
+   2,
+   2,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -777,21 +777,6 @@
    0
   ],
   [
-   "Christa Herbst",
-   "Cant Close",
-   1.35,
-   12,
-   5,
-   4,
-   0,
-   0,
-   3,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Tyler CannonBailey",
    "Squeekertips",
    1.35,
@@ -816,6 +801,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Christa Herbst",
+   "Cant Close",
+   1.35,
+   12,
+   5,
+   4,
+   0,
+   0,
+   3,
    0,
    0,
    0,
@@ -1182,21 +1182,6 @@
    0
   ],
   [
-   "Jill Calvert",
-   "Squeekertips",
-   0.98,
-   15,
-   3,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jamie Brown",
    "Tips Dont Lie",
    0.98,
@@ -1207,6 +1192,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jill Calvert",
+   "Squeekertips",
+   0.98,
+   15,
+   3,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1415,18 +1415,6 @@
    13
   ],
   [
-   "Eric Porte",
-   "Throwgasms",
-   17.42,
-   8,
-   3,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Stephen Popowych",
    "ProjectileDysfncion",
    17.42,
@@ -1437,6 +1425,18 @@
    0,
    0,
    10
+  ],
+  [
+   "Eric Porte",
+   "Throwgasms",
+   17.42,
+   8,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "James Simpson",
@@ -3057,5 +3057,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-20T21:10:53Z"
+ "updated": "2026-11-20T22:09:08Z"
 }

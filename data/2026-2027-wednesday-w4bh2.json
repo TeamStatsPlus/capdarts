@@ -274,6 +274,21 @@
    0
   ],
   [
+   "BJ Ashford",
+   "Rizm With The Tizm",
+   2.19,
+   24,
+   6,
+   6,
+   0,
+   0,
+   5,
+   6,
+   2,
+   0,
+   1
+  ],
+  [
    "Matthew Nesbitt",
    "ReDarted",
    2.19,
@@ -304,21 +319,6 @@
    0
   ],
   [
-   "BJ Ashford",
-   "Rizm With The Tizm",
-   2.19,
-   24,
-   6,
-   6,
-   0,
-   0,
-   5,
-   6,
-   2,
-   0,
-   1
-  ],
-  [
    "Kurt Krahenbuhl",
    "Rizm With The Tizm",
    2.14,
@@ -334,21 +334,6 @@
    0
   ],
   [
-   "Eric Porter",
-   "Liquor Box",
-   2.12,
-   24,
-   10,
-   8,
-   2,
-   0,
-   6,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Dave Robinson",
    "Dart Vaders",
    2.12,
@@ -359,6 +344,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Eric Porter",
+   "Liquor Box",
+   2.12,
+   24,
+   10,
+   8,
+   2,
+   0,
+   6,
+   4,
    0,
    0,
    0
@@ -454,6 +454,21 @@
    0
   ],
   [
+   "Robert Macomber",
+   "Ask Bobby",
+   1.9,
+   15,
+   3,
+   3,
+   0,
+   1,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Frank Bancroft",
    "Dart Vaders",
    1.9,
@@ -480,21 +495,6 @@
    4,
    2,
    1,
-   0,
-   0
-  ],
-  [
-   "Robert Macomber",
-   "Ask Bobby",
-   1.9,
-   15,
-   3,
-   3,
-   0,
-   1,
-   2,
-   1,
-   0,
    0,
    0
   ],
@@ -574,21 +574,6 @@
    0
   ],
   [
-   "Brian Lawler",
-   "Ask Bobby",
-   1.83,
-   21,
-   3,
-   6,
-   0,
-   0,
-   6,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Juan Rosado",
    "Liquor Box",
    1.83,
@@ -615,6 +600,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Brian Lawler",
+   "Ask Bobby",
+   1.83,
+   21,
+   3,
+   6,
+   0,
+   0,
+   6,
+   2,
+   1,
    0,
    0
   ],
@@ -679,21 +679,6 @@
    0
   ],
   [
-   "Matthew Griffith",
-   "Rizm With The Tizm",
-   1.78,
-   24,
-   7,
-   5,
-   0,
-   0,
-   3,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Aaron Meeks",
    "Bullshots",
    1.78,
@@ -705,6 +690,21 @@
    4,
    4,
    1,
+   0,
+   0
+  ],
+  [
+   "Matthew Griffith",
+   "Rizm With The Tizm",
+   1.78,
+   24,
+   7,
+   5,
+   0,
+   0,
+   3,
+   2,
+   0,
    0,
    0
   ],
@@ -754,21 +754,6 @@
    0
   ],
   [
-   "Adam Northrup",
-   "Wrong Hole",
-   1.69,
-   21,
-   6,
-   4,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Hale",
    "Id Hit That",
    1.69,
@@ -779,6 +764,21 @@
    0,
    2,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Adam Northrup",
+   "Wrong Hole",
+   1.69,
+   21,
+   6,
+   4,
+   0,
+   0,
+   4,
+   0,
    0,
    0,
    0
@@ -1521,18 +1521,6 @@
    10
   ],
   [
-   "Thomas Macomber",
-   "Ask Bobby",
-   16.98,
-   28,
-   9,
-   1,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Rick Nelson",
    "Toasted Darts",
    16.98,
@@ -1543,6 +1531,18 @@
    0,
    0,
    10
+  ],
+  [
+   "Thomas Macomber",
+   "Ask Bobby",
+   16.98,
+   28,
+   9,
+   1,
+   0,
+   0,
+   0,
+   7
   ],
   [
    "Brian Lawler",
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-20T21:10:59Z"
+ "updated": "2026-11-20T22:09:12Z"
 }
