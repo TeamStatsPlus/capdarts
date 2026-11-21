@@ -912,21 +912,6 @@
    0
   ],
   [
-   "Tyler Voellinger",
-   "Struggle Bus",
-   1.26,
-   15,
-   3,
-   3,
-   0,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Howie Klick",
    "Emerald Society",
    1.26,
@@ -938,6 +923,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Tyler Voellinger",
+   "Struggle Bus",
+   1.26,
+   15,
+   3,
+   3,
+   0,
+   0,
+   0,
+   2,
+   1,
    0,
    0
   ],
@@ -1017,21 +1017,6 @@
    0
   ],
   [
-   "John Inzinna",
-   "Cant Close",
-   1.13,
-   21,
-   2,
-   9,
-   0,
-   0,
-   2,
-   0,
-   0,
-   1,
-   0
-  ],
-  [
    "Jacob Post",
    "Struggle Bus",
    1.13,
@@ -1044,6 +1029,21 @@
    0,
    0,
    0,
+   0
+  ],
+  [
+   "John Inzinna",
+   "Cant Close",
+   1.13,
+   21,
+   2,
+   9,
+   0,
+   0,
+   2,
+   0,
+   0,
+   1,
    0
   ],
   [
@@ -1212,21 +1212,6 @@
    0
   ],
   [
-   "Lydia Wheeler",
-   "Shart Shooters",
-   0.97,
-   21,
-   1,
-   5,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Carly Kostiw",
    "Squeekertips",
    0.97,
@@ -1237,6 +1222,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Lydia Wheeler",
+   "Shart Shooters",
+   0.97,
+   21,
+   1,
+   5,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1257,21 +1257,6 @@
    0
   ],
   [
-   "Hayley Perine",
-   "Throwgasms",
-   0.91,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Tracy Waud",
    "Shart Shooters",
    0.91,
@@ -1281,6 +1266,21 @@
    0,
    0,
    4,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Hayley Perine",
+   "Throwgasms",
+   0.91,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -1415,18 +1415,6 @@
    13
   ],
   [
-   "Stephen Popowych",
-   "ProjectileDysfncion",
-   17.42,
-   20,
-   6,
-   0,
-   0,
-   0,
-   0,
-   10
-  ],
-  [
    "Eric Porte",
    "Throwgasms",
    17.42,
@@ -1437,6 +1425,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Stephen Popowych",
+   "ProjectileDysfncion",
+   17.42,
+   20,
+   6,
+   0,
+   0,
+   0,
+   0,
+   10
   ],
   [
    "James Simpson",
@@ -1715,18 +1715,6 @@
    5
   ],
   [
-   "Stephanie Carlson",
-   "The Limp Wristers",
-   14.42,
-   12,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Geoff Milunich",
    "Tips Dont Lie",
    14.42,
@@ -1737,6 +1725,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Stephanie Carlson",
+   "The Limp Wristers",
+   14.42,
+   12,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Jason Post",
@@ -3057,5 +3057,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-21T20:01:43Z"
+ "updated": "2026-11-21T21:00:36Z"
 }
