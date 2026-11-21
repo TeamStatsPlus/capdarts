@@ -740,21 +740,6 @@
    0
   ],
   [
-   "Dennis Manning",
-   "Almost There",
-   1.31,
-   15,
-   2,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Kupicha",
    "Anotha One",
    1.31,
@@ -765,6 +750,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dennis Manning",
+   "Almost There",
+   1.31,
+   15,
+   2,
+   1,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -1888,5 +1888,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-21T08:23:59Z"
+ "updated": "2026-11-21T10:08:27Z"
 }
