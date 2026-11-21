@@ -274,21 +274,6 @@
    0
   ],
   [
-   "Matthew Nesbitt",
-   "ReDarted",
-   2.19,
-   18,
-   8,
-   4,
-   0,
-   0,
-   5,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Toby Affronti",
    "RRP Crew",
    2.19,
@@ -317,6 +302,21 @@
    2,
    0,
    1
+  ],
+  [
+   "Matthew Nesbitt",
+   "ReDarted",
+   2.19,
+   18,
+   8,
+   4,
+   0,
+   0,
+   5,
+   3,
+   1,
+   0,
+   0
   ],
   [
    "Kurt Krahenbuhl",
@@ -364,21 +364,6 @@
    0
   ],
   [
-   "Chris Tapscott",
-   "ReDarted",
-   2.1,
-   21,
-   5,
-   4,
-   0,
-   0,
-   3,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
    "Tony Villani",
    "Wrong Hole",
    2.1,
@@ -390,6 +375,21 @@
    7,
    2,
    3,
+   0,
+   0
+  ],
+  [
+   "Chris Tapscott",
+   "ReDarted",
+   2.1,
+   21,
+   5,
+   4,
+   0,
+   0,
+   3,
+   4,
+   1,
    0,
    0
   ],
@@ -454,6 +454,21 @@
    0
   ],
   [
+   "Brian Keefe",
+   "Average Joes",
+   1.9,
+   18,
+   6,
+   6,
+   0,
+   0,
+   4,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
    "Robert Macomber",
    "Ask Bobby",
    1.9,
@@ -479,21 +494,6 @@
    0,
    5,
    1,
-   1,
-   0,
-   0
-  ],
-  [
-   "Brian Keefe",
-   "Average Joes",
-   1.9,
-   18,
-   6,
-   6,
-   0,
-   0,
-   4,
-   2,
    1,
    0,
    0
@@ -829,21 +829,6 @@
    0
   ],
   [
-   "Chester Mathis",
-   "Toasted Darts",
-   1.6,
-   24,
-   5,
-   9,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   1
-  ],
-  [
    "Miguel Carmona",
    "RRP Crew",
    1.6,
@@ -857,6 +842,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Chester Mathis",
+   "Toasted Darts",
+   1.6,
+   24,
+   5,
+   9,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   1
   ],
   [
    "Jeff Bush",
@@ -1557,18 +1557,6 @@
    7
   ],
   [
-   "Dean Affronti",
-   "RRP Crew",
-   16.53,
-   20,
-   0,
-   0,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Nick Maguire",
    "Team Stinky",
    16.53,
@@ -1579,6 +1567,18 @@
    0,
    0,
    15
+  ],
+  [
+   "Dean Affronti",
+   "RRP Crew",
+   16.53,
+   20,
+   0,
+   0,
+   0,
+   0,
+   0,
+   8
   ],
   [
    "Jon Nolte",
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-21T16:04:01Z"
+ "updated": "2026-11-21T17:05:13Z"
 }

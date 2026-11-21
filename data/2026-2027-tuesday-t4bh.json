@@ -126,10 +126,10 @@
     1.33
    ],
    [
-    "Lou Sanchez",
-    "Team Name",
-    1.13,
-    1.18
+    "Brad Wight",
+    "Thunderbuddies",
+    1.87,
+    1.92
    ]
   ],
   "x": [
@@ -380,21 +380,6 @@
    0
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   1.74,
-   18,
-   4,
-   6,
-   0,
-   0,
-   8,
-   2,
-   1,
-   1,
-   0
-  ],
-  [
    "Phil Warney",
    "Gettin Looped",
    1.74,
@@ -407,6 +392,21 @@
    1,
    1,
    0,
+   0
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   1.74,
+   18,
+   4,
+   6,
+   0,
+   0,
+   8,
+   2,
+   1,
+   1,
    0
   ],
   [
@@ -425,21 +425,6 @@
    0
   ],
   [
-   "Mike Angora",
-   "No Sleep",
-   1.69,
-   3,
-   0,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Scott Fry",
    "Thunderbuddies",
    1.69,
@@ -451,6 +436,21 @@
    8,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Mike Angora",
+   "No Sleep",
+   1.69,
+   3,
+   0,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -755,21 +755,6 @@
    0
   ],
   [
-   "Lou Sanchez",
-   "Team Name",
-   1.18,
-   24,
-   1,
-   8,
-   0,
-   0,
-   5,
-   0,
-   2,
-   0,
-   0
-  ],
-  [
    "Mike Garrity",
    "Thats Bullshoot",
    1.18,
@@ -781,6 +766,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Lou Sanchez",
+   "Team Name",
+   1.18,
+   24,
+   1,
+   8,
+   0,
+   0,
+   5,
+   0,
+   2,
    0,
    0
   ],
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-21T16:03:26Z"
+ "updated": "2026-11-21T17:04:39Z"
 }
