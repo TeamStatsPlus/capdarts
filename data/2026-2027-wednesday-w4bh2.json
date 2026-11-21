@@ -274,21 +274,6 @@
    0
   ],
   [
-   "Matthew Nesbitt",
-   "ReDarted",
-   2.19,
-   18,
-   8,
-   4,
-   0,
-   0,
-   5,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Toby Affronti",
    "RRP Crew",
    2.19,
@@ -317,6 +302,21 @@
    2,
    0,
    1
+  ],
+  [
+   "Matthew Nesbitt",
+   "ReDarted",
+   2.19,
+   18,
+   8,
+   4,
+   0,
+   0,
+   5,
+   3,
+   1,
+   0,
+   0
   ],
   [
    "Kurt Krahenbuhl",
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-20T23:07:11Z"
+ "updated": "2026-11-21T00:05:24Z"
 }

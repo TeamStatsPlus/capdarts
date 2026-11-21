@@ -878,18 +878,6 @@
    25
   ],
   [
-   "David Caesar",
-   "Night Shot",
-   19.33,
-   56,
-   15,
-   4,
-   0,
-   0,
-   0,
-   31
-  ],
-  [
    "Kenny Williams",
    "Glass N Stache",
    19.33,
@@ -900,6 +888,18 @@
    0,
    0,
    29
+  ],
+  [
+   "David Caesar",
+   "Night Shot",
+   19.33,
+   56,
+   15,
+   4,
+   0,
+   0,
+   0,
+   31
   ],
   [
    "Neal Kenyon",
@@ -2258,5 +2258,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-20T23:05:35Z"
+ "updated": "2026-11-21T00:03:56Z"
 }
