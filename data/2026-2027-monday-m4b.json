@@ -308,21 +308,6 @@
    0
   ],
   [
-   "Brian Wemett",
-   "Good Smoke BBQ",
-   2.38,
-   21,
-   12,
-   4,
-   1,
-   0,
-   8,
-   4,
-   0,
-   0,
-   1
-  ],
-  [
    "David Wills",
    "Tegridy",
    2.38,
@@ -349,6 +334,21 @@
    7,
    1,
    3,
+   0,
+   1
+  ],
+  [
+   "Brian Wemett",
+   "Good Smoke BBQ",
+   2.38,
+   21,
+   12,
+   4,
+   1,
+   0,
+   8,
+   4,
+   0,
    0,
    1
   ],
@@ -383,21 +383,6 @@
    0
   ],
   [
-   "Jon Vallone",
-   "Good Smoke BBQ",
-   2.25,
-   24,
-   7,
-   8,
-   0,
-   0,
-   10,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Ben Kulikowski",
    "Good Smoke BBQ",
    2.25,
@@ -409,6 +394,21 @@
    9,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Jon Vallone",
+   "Good Smoke BBQ",
+   2.25,
+   24,
+   7,
+   8,
+   0,
+   0,
+   10,
+   1,
+   1,
    0,
    0
   ],
@@ -983,21 +983,6 @@
    0
   ],
   [
-   "Kevin Rowland",
-   "Off Target",
-   1.6,
-   21,
-   1,
-   5,
-   0,
-   0,
-   1,
-   2,
-   2,
-   0,
-   0
-  ],
-  [
    "Dickie Rowland",
    "ChJokers",
    1.6,
@@ -1009,6 +994,21 @@
    1,
    3,
    0,
+   0,
+   0
+  ],
+  [
+   "Kevin Rowland",
+   "Off Target",
+   1.6,
+   21,
+   1,
+   5,
+   0,
+   0,
+   1,
+   2,
+   2,
    0,
    0
   ],
@@ -1624,18 +1624,6 @@
    15
   ],
   [
-   "Ben Kulikowski",
-   "Good Smoke BBQ",
-   19.72,
-   28,
-   6,
-   0,
-   0,
-   0,
-   1,
-   17
-  ],
-  [
    "Steve Wright",
    "Wired",
    19.72,
@@ -1645,6 +1633,18 @@
    0,
    0,
    0,
+   17
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   19.72,
+   28,
+   6,
+   0,
+   0,
+   0,
+   1,
    17
   ],
   [
@@ -3141,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-21T15:06:34Z"
+ "updated": "2026-11-21T16:03:04Z"
 }

@@ -274,21 +274,6 @@
    0
   ],
   [
-   "BJ Ashford",
-   "Rizm With The Tizm",
-   2.19,
-   24,
-   6,
-   6,
-   0,
-   0,
-   5,
-   6,
-   2,
-   0,
-   1
-  ],
-  [
    "Matthew Nesbitt",
    "ReDarted",
    2.19,
@@ -317,6 +302,21 @@
    1,
    0,
    0
+  ],
+  [
+   "BJ Ashford",
+   "Rizm With The Tizm",
+   2.19,
+   24,
+   6,
+   6,
+   0,
+   0,
+   5,
+   6,
+   2,
+   0,
+   1
   ],
   [
    "Kurt Krahenbuhl",
@@ -364,21 +364,6 @@
    0
   ],
   [
-   "Tony Villani",
-   "Wrong Hole",
-   2.1,
-   24,
-   7,
-   4,
-   0,
-   0,
-   7,
-   2,
-   3,
-   0,
-   0
-  ],
-  [
    "Chris Tapscott",
    "ReDarted",
    2.1,
@@ -390,6 +375,21 @@
    3,
    4,
    1,
+   0,
+   0
+  ],
+  [
+   "Tony Villani",
+   "Wrong Hole",
+   2.1,
+   24,
+   7,
+   4,
+   0,
+   0,
+   7,
+   2,
+   3,
    0,
    0
   ],
@@ -679,21 +679,6 @@
    0
   ],
   [
-   "Aaron Meeks",
-   "Bullshots",
-   1.78,
-   24,
-   8,
-   7,
-   0,
-   0,
-   4,
-   4,
-   1,
-   0,
-   0
-  ],
-  [
    "Matthew Griffith",
    "Rizm With The Tizm",
    1.78,
@@ -705,6 +690,21 @@
    3,
    2,
    0,
+   0,
+   0
+  ],
+  [
+   "Aaron Meeks",
+   "Bullshots",
+   1.78,
+   24,
+   8,
+   7,
+   0,
+   0,
+   4,
+   4,
+   1,
    0,
    0
   ],
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-21T15:07:27Z"
+ "updated": "2026-11-21T16:04:01Z"
 }
