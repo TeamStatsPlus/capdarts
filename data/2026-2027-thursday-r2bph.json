@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:08:04Z",
+ "updated": "2026-11-21T12:02:38Z",
  "standings": [
   [
    "No Clue",
@@ -503,21 +503,6 @@
    0
   ],
   [
-   "Alexander Blake",
-   "Dart Bags T",
-   2.44,
-   48,
-   14,
-   13,
-   2,
-   0,
-   20,
-   11,
-   8,
-   0,
-   1
-  ],
-  [
    "Jason Bateman",
    "Retreat",
    2.44,
@@ -531,6 +516,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Alexander Blake",
+   "Dart Bags T",
+   2.44,
+   48,
+   14,
+   13,
+   2,
+   0,
+   20,
+   11,
+   8,
+   0,
+   1
   ],
   [
    "Archie Donaldson",
@@ -991,18 +991,6 @@
    9
   ],
   [
-   "Archie Donaldson",
-   "Revenge",
-   20.75,
-   56,
-   9,
-   6,
-   0,
-   0,
-   2,
-   77
-  ],
-  [
    "Jason Arena",
    "Throwing Shade",
    20.75,
@@ -1013,6 +1001,18 @@
    0,
    4,
    73
+  ],
+  [
+   "Archie Donaldson",
+   "Revenge",
+   20.75,
+   56,
+   9,
+   6,
+   0,
+   0,
+   2,
+   77
   ],
   [
    "Chris Contrera",
