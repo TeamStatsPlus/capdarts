@@ -172,16 +172,16 @@
     2.02
    ],
    [
-    "Jake Preston",
-    "Show Your Tips",
-    1.81,
-    1.9
-   ],
-   [
     "Desmond Parris",
     "Fat Bastards",
     2.22,
     2.31
+   ],
+   [
+    "Jake Preston",
+    "Show Your Tips",
+    1.81,
+    1.9
    ]
   ],
   "x": [
@@ -387,21 +387,6 @@
    0
   ],
   [
-   "Alex Riley",
-   "New Wave",
-   2.08,
-   18,
-   7,
-   7,
-   1,
-   0,
-   5,
-   0,
-   4,
-   0,
-   0
-  ],
-  [
    "John Bailey",
    "Chicks And Dicks",
    2.08,
@@ -417,17 +402,17 @@
    0
   ],
   [
-   "Michael Bell",
-   "Is It In",
-   2.05,
-   21,
+   "Alex Riley",
+   "New Wave",
+   2.08,
+   18,
+   7,
+   7,
+   1,
+   0,
    5,
-   8,
-   2,
    0,
-   3,
-   3,
-   0,
+   4,
    0,
    0
   ],
@@ -443,6 +428,21 @@
    3,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Michael Bell",
+   "Is It In",
+   2.05,
+   21,
+   5,
+   8,
+   2,
+   0,
+   3,
+   3,
+   0,
    0,
    0
   ],
@@ -627,21 +627,6 @@
    0
   ],
   [
-   "Jamie Rialdi",
-   "Show Your Tips",
-   1.83,
-   21,
-   3,
-   6,
-   0,
-   0,
-   8,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Kevin Moses",
    "Is It In",
    1.83,
@@ -652,6 +637,21 @@
    0,
    5,
    3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Jamie Rialdi",
+   "Show Your Tips",
+   1.83,
+   21,
+   3,
+   6,
+   0,
+   0,
+   8,
+   2,
    1,
    0,
    0
@@ -762,21 +762,6 @@
    0
   ],
   [
-   "Jim Oneill",
-   "Points And Pints",
-   1.69,
-   21,
-   3,
-   6,
-   0,
-   0,
-   3,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Joe Tortora",
    "Points And Pints",
    1.69,
@@ -803,6 +788,21 @@
    0,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   1.69,
+   21,
+   3,
+   6,
+   0,
+   0,
+   3,
+   3,
+   1,
    0,
    0
   ],
@@ -852,21 +852,6 @@
    0
   ],
   [
-   "Ken Geer",
-   "Chicks And Dicks",
-   1.58,
-   3,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Eric Smith",
    "Show Your Tips",
    1.58,
@@ -877,6 +862,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Ken Geer",
+   "Chicks And Dicks",
+   1.58,
+   3,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -2715,5 +2715,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-21T21:59:22Z"
+ "updated": "2026-11-21T22:58:52Z"
 }
