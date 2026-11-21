@@ -428,21 +428,6 @@
    0
   ],
   [
-   "Shondell Kirton",
-   "IDF NightCaps",
-   2.19,
-   21,
-   7,
-   4,
-   0,
-   0,
-   2,
-   7,
-   1,
-   0,
-   1
-  ],
-  [
    "Chad Pike",
    "Here 4 The Beer",
    2.19,
@@ -456,6 +441,21 @@
    2,
    0,
    0
+  ],
+  [
+   "Shondell Kirton",
+   "IDF NightCaps",
+   2.19,
+   21,
+   7,
+   4,
+   0,
+   0,
+   2,
+   7,
+   1,
+   0,
+   1
   ],
   [
    "Joe Soriano",
@@ -563,21 +563,6 @@
    0
   ],
   [
-   "Shawn Hodgeman",
-   "Here 4 The Beer",
-   2.05,
-   24,
-   7,
-   10,
-   1,
-   0,
-   6,
-   1,
-   3,
-   0,
-   0
-  ],
-  [
    "Joe Scalise",
    "Off Target",
    2.05,
@@ -589,6 +574,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Shawn Hodgeman",
+   "Here 4 The Beer",
+   2.05,
+   24,
+   7,
+   10,
+   1,
+   0,
+   6,
+   1,
+   3,
    0,
    0
   ],
@@ -893,21 +893,6 @@
    0
   ],
   [
-   "Chuck Marchbanks",
-   "Wired",
-   1.68,
-   3,
-   1,
-   2,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Wemett",
    "Good Smoke BBQ",
    1.68,
@@ -918,6 +903,21 @@
    0,
    4,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chuck Marchbanks",
+   "Wired",
+   1.68,
+   3,
+   1,
+   2,
+   0,
+   0,
+   1,
+   1,
    0,
    0,
    0
@@ -953,6 +953,21 @@
    0
   ],
   [
+   "Steve Strowbridge",
+   "Off Target",
+   1.61,
+   21,
+   6,
+   3,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Judson Brown",
    "Wired",
    1.61,
@@ -968,16 +983,16 @@
    0
   ],
   [
-   "Steve Strowbridge",
-   "Off Target",
-   1.61,
-   21,
-   6,
-   3,
+   "Dickie Rowland",
+   "ChJokers",
+   1.6,
+   24,
+   7,
+   7,
    0,
    0,
-   3,
    1,
+   3,
    0,
    0,
    0
@@ -998,16 +1013,16 @@
    0
   ],
   [
-   "Dickie Rowland",
-   "ChJokers",
-   1.6,
+   "Chuck Coates",
+   "Wired",
+   1.58,
    24,
-   7,
-   7,
+   2,
+   8,
    0,
    0,
+   6,
    1,
-   3,
    0,
    0,
    0
@@ -1022,21 +1037,6 @@
    0,
    0,
    2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Chuck Coates",
-   "Wired",
-   1.58,
-   24,
-   2,
-   8,
-   0,
-   0,
-   6,
    1,
    0,
    0,
@@ -3141,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-21T01:36:58Z"
+ "updated": "2026-11-21T03:06:17Z"
 }
