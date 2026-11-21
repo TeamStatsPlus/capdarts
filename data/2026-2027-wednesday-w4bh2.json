@@ -829,21 +829,6 @@
    0
   ],
   [
-   "Chester Mathis",
-   "Toasted Darts",
-   1.6,
-   24,
-   5,
-   9,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   1
-  ],
-  [
    "Miguel Carmona",
    "RRP Crew",
    1.6,
@@ -857,6 +842,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Chester Mathis",
+   "Toasted Darts",
+   1.6,
+   24,
+   5,
+   9,
+   0,
+   0,
+   5,
+   1,
+   0,
+   0,
+   1
   ],
   [
    "Jeff Bush",
@@ -1521,18 +1521,6 @@
    10
   ],
   [
-   "Thomas Macomber",
-   "Ask Bobby",
-   16.98,
-   28,
-   9,
-   1,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Rick Nelson",
    "Toasted Darts",
    16.98,
@@ -1543,6 +1531,18 @@
    0,
    0,
    10
+  ],
+  [
+   "Thomas Macomber",
+   "Ask Bobby",
+   16.98,
+   28,
+   9,
+   1,
+   0,
+   0,
+   0,
+   7
   ],
   [
    "Brian Lawler",
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-21T10:08:38Z"
+ "updated": "2026-11-21T11:07:32Z"
 }

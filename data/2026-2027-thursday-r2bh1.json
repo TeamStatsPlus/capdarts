@@ -133,16 +133,16 @@
     1.84
    ],
    [
-    "Paul Guadagna",
-    "Tipped Out",
-    1.55,
-    1.59
-   ],
-   [
     "Dan Mousseau Jr",
     "B And D",
     2.54,
     2.58
+   ],
+   [
+    "Paul Guadagna",
+    "Tipped Out",
+    1.55,
+    1.59
    ]
   ],
   "x": [
@@ -453,21 +453,6 @@
    0
   ],
   [
-   "Holden Sandlar",
-   "Split Decision",
-   1.49,
-   36,
-   11,
-   6,
-   0,
-   0,
-   6,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Lutomski",
    "Top Shottas",
    1.49,
@@ -479,6 +464,21 @@
    6,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Holden Sandlar",
+   "Split Decision",
+   1.49,
+   36,
+   11,
+   6,
+   0,
+   0,
+   6,
+   0,
+   0,
    0,
    0
   ],
@@ -1527,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-21T08:24:28Z"
+ "updated": "2026-11-21T11:07:52Z"
 }
