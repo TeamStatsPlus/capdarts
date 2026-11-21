@@ -345,21 +345,6 @@
    0
   ],
   [
-   "Vinny Cardinale",
-   "Bull Shitters",
-   1.74,
-   48,
-   9,
-   12,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   1
-  ],
-  [
    "John Tubiolo",
    "Bull Shitters",
    1.74,
@@ -373,6 +358,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Vinny Cardinale",
+   "Bull Shitters",
+   1.74,
+   48,
+   9,
+   12,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   1
   ],
   [
    "Syrica Story",
@@ -465,21 +465,6 @@
    0
   ],
   [
-   "Sean Robertson",
-   "Pointless",
-   1.47,
-   48,
-   10,
-   10,
-   0,
-   0,
-   6,
-   4,
-   3,
-   0,
-   0
-  ],
-  [
    "Kelly Hodgkins",
    "Girls Night",
    1.47,
@@ -491,6 +476,21 @@
    7,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Sean Robertson",
+   "Pointless",
+   1.47,
+   48,
+   10,
+   10,
+   0,
+   0,
+   6,
+   4,
+   3,
    0,
    0
   ],
@@ -1821,5 +1821,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-21T01:37:33Z"
+ "updated": "2026-11-21T04:15:11Z"
 }
