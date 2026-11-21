@@ -126,10 +126,10 @@
     1.33
    ],
    [
-    "Brad Wight",
-    "Thunderbuddies",
-    1.87,
-    1.92
+    "Lou Sanchez",
+    "Team Name",
+    1.13,
+    1.18
    ]
   ],
   "x": [
@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Emily Chard",
-   "Thats Bullshoot",
-   1.46,
-   21,
-   5,
-   4,
-   0,
-   0,
-   2,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Jimmy Mietus",
    "Team Name",
    1.46,
@@ -556,6 +541,21 @@
    1,
    0,
    1,
+   0,
+   0
+  ],
+  [
+   "Emily Chard",
+   "Thats Bullshoot",
+   1.46,
+   21,
+   5,
+   4,
+   0,
+   0,
+   2,
+   3,
+   0,
    0,
    0
   ],
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-21T19:12:13Z"
+ "updated": "2026-11-21T20:01:14Z"
 }
