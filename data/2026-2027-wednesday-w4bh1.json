@@ -312,21 +312,6 @@
    0
   ],
   [
-   "Grant Busler",
-   "Cant Close",
-   1.84,
-   21,
-   6,
-   9,
-   2,
-   0,
-   4,
-   1,
-   3,
-   0,
-   0
-  ],
-  [
    "Brent Flynn",
    "Tips Dont Lie",
    1.84,
@@ -336,6 +321,21 @@
    0,
    0,
    7,
+   1,
+   3,
+   0,
+   0
+  ],
+  [
+   "Grant Busler",
+   "Cant Close",
+   1.84,
+   21,
+   6,
+   9,
+   2,
+   0,
+   4,
    1,
    3,
    0,
@@ -1077,12 +1077,12 @@
    0
   ],
   [
-   "Brandon Shampoe",
-   "Struggle Bus",
+   "Katy Carges",
+   "Throwgasms",
    1.06,
    15,
    1,
-   2,
+   3,
    0,
    0,
    1,
@@ -1092,12 +1092,12 @@
    0
   ],
   [
-   "Katy Carges",
-   "Throwgasms",
+   "Brandon Shampoe",
+   "Struggle Bus",
    1.06,
    15,
    1,
-   3,
+   2,
    0,
    0,
    1,
@@ -3057,5 +3057,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-21T13:23:00Z"
+ "updated": "2026-11-21T15:07:22Z"
 }

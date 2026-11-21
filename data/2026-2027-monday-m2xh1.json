@@ -406,21 +406,6 @@
    0
   ],
   [
-   "Jessica Zimmerman",
-   "Dark Sharts",
-   1.41,
-   48,
-   8,
-   22,
-   0,
-   0,
-   4,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Ted Temple",
    "No Bulls",
    1.41,
@@ -432,6 +417,21 @@
    6,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Jessica Zimmerman",
+   "Dark Sharts",
+   1.41,
+   48,
+   8,
+   22,
+   0,
+   0,
+   4,
+   2,
+   0,
    0,
    0
   ],
@@ -1623,5 +1623,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-21T12:00:58Z"
+ "updated": "2026-11-21T15:06:24Z"
 }
