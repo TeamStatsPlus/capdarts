@@ -126,10 +126,10 @@
     1.33
    ],
    [
-    "Lou Sanchez",
-    "Team Name",
-    1.13,
-    1.18
+    "Brad Wight",
+    "Thunderbuddies",
+    1.87,
+    1.92
    ]
   ],
   "x": [
@@ -200,21 +200,6 @@
    0
   ],
   [
-   "Jim Barnard",
-   "4 Of Clubs",
-   1.94,
-   3,
-   3,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Jordan Kiessling",
    "Thats Bullshoot",
    1.94,
@@ -226,6 +211,21 @@
    3,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Jim Barnard",
+   "4 Of Clubs",
+   1.94,
+   3,
+   3,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -380,21 +380,6 @@
    0
   ],
   [
-   "Chris DiStasio",
-   "No Sleep",
-   1.74,
-   18,
-   4,
-   6,
-   0,
-   0,
-   8,
-   2,
-   1,
-   1,
-   0
-  ],
-  [
    "Phil Warney",
    "Gettin Looped",
    1.74,
@@ -407,6 +392,21 @@
    1,
    1,
    0,
+   0
+  ],
+  [
+   "Chris DiStasio",
+   "No Sleep",
+   1.74,
+   18,
+   4,
+   6,
+   0,
+   0,
+   8,
+   2,
+   1,
+   1,
    0
   ],
   [
@@ -530,21 +530,6 @@
    0
   ],
   [
-   "Jimmy Mietus",
-   "Team Name",
-   1.46,
-   21,
-   4,
-   2,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Emily Chard",
    "Thats Bullshoot",
    1.46,
@@ -556,6 +541,21 @@
    2,
    3,
    0,
+   0,
+   0
+  ],
+  [
+   "Jimmy Mietus",
+   "Team Name",
+   1.46,
+   21,
+   4,
+   2,
+   0,
+   0,
+   1,
+   0,
+   1,
    0,
    0
   ],
@@ -635,6 +635,21 @@
    0
   ],
   [
+   "Tom Solorzano",
+   "4 Of Clubs",
+   1.33,
+   24,
+   6,
+   8,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Kevin Rowland",
    "Team Name",
    1.33,
@@ -660,21 +675,6 @@
    0,
    2,
    2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Tom Solorzano",
-   "4 Of Clubs",
-   1.33,
-   24,
-   6,
-   8,
-   0,
-   0,
-   2,
-   0,
    0,
    0,
    0
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-21T17:59:22Z"
+ "updated": "2026-11-21T19:12:13Z"
 }

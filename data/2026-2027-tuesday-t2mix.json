@@ -218,12 +218,6 @@
  "improved": {
   "c": [
    [
-    "Mark Dalberth",
-    "And Then There Was 2",
-    1.82,
-    1.89
-   ],
-   [
     "Melissa Wallace",
     "Turtle Time",
     2.43,
@@ -234,6 +228,12 @@
     "Dartaholicz",
     1.48,
     1.55
+   ],
+   [
+    "Mark Dalberth",
+    "And Then There Was 2",
+    1.82,
+    1.89
    ]
   ],
   "x": [
@@ -679,21 +679,6 @@
    1
   ],
   [
-   "Katrina ReedMullen",
-   "Pointless",
-   1.7,
-   48,
-   9,
-   8,
-   1,
-   0,
-   15,
-   7,
-   2,
-   0,
-   0
-  ],
-  [
    "Grace Maracle",
    "Big And Little",
    1.7,
@@ -705,6 +690,21 @@
    6,
    3,
    3,
+   0,
+   0
+  ],
+  [
+   "Katrina ReedMullen",
+   "Pointless",
+   1.7,
+   48,
+   9,
+   8,
+   1,
+   0,
+   15,
+   7,
+   2,
    0,
    0
   ],
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-21T17:59:11Z"
+ "updated": "2026-11-21T19:12:03Z"
 }
