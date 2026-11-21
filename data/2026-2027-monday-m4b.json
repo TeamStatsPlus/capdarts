@@ -308,6 +308,21 @@
    0
   ],
   [
+   "David Wills",
+   "Tegridy",
+   2.38,
+   21,
+   10,
+   4,
+   1,
+   0,
+   8,
+   2,
+   3,
+   0,
+   0
+  ],
+  [
    "Mark Quill",
    "Money Shot",
    2.38,
@@ -336,21 +351,6 @@
    0,
    0,
    1
-  ],
-  [
-   "David Wills",
-   "Tegridy",
-   2.38,
-   21,
-   10,
-   4,
-   1,
-   0,
-   8,
-   2,
-   3,
-   0,
-   0
   ],
   [
    "Eric Westrich",
@@ -653,6 +653,21 @@
    0
   ],
   [
+   "Dave Biedrzycki",
+   "Here 4 The Beer",
+   1.95,
+   24,
+   9,
+   3,
+   0,
+   0,
+   8,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
    "Rory Doran",
    "Bad News Beers",
    1.95,
@@ -679,21 +694,6 @@
    2,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Dave Biedrzycki",
-   "Here 4 The Beer",
-   1.95,
-   24,
-   9,
-   3,
-   0,
-   0,
-   8,
-   4,
-   0,
    0,
    0
   ],
@@ -803,21 +803,6 @@
    1
   ],
   [
-   "Bill Greenough",
-   "Slow Mother Chuckers",
-   1.75,
-   24,
-   7,
-   9,
-   1,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jason Sherman",
    "The Shockers",
    1.75,
@@ -827,6 +812,21 @@
    0,
    0,
    5,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Bill Greenough",
+   "Slow Mother Chuckers",
+   1.75,
+   24,
+   7,
+   9,
+   1,
+   0,
+   4,
    1,
    0,
    0,
@@ -1624,18 +1624,6 @@
    15
   ],
   [
-   "Ben Kulikowski",
-   "Good Smoke BBQ",
-   19.72,
-   28,
-   6,
-   0,
-   0,
-   0,
-   1,
-   17
-  ],
-  [
    "Steve Wright",
    "Wired",
    19.72,
@@ -1645,6 +1633,18 @@
    0,
    0,
    0,
+   17
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   19.72,
+   28,
+   6,
+   0,
+   0,
+   0,
+   1,
    17
   ],
   [
@@ -3141,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-21T12:01:08Z"
+ "updated": "2026-11-21T13:22:07Z"
 }

@@ -166,16 +166,16 @@
  "improved": {
   "c": [
    [
-    "Kelly Hodgkins",
-    "Girls Night",
-    1.46,
-    1.47
-   ],
-   [
     "Melissa Wallace",
     "Girls Night",
     2.2,
     2.21
+   ],
+   [
+    "Kelly Hodgkins",
+    "Girls Night",
+    1.46,
+    1.47
    ]
   ],
   "x": [
@@ -345,21 +345,6 @@
    0
   ],
   [
-   "Vinny Cardinale",
-   "Bull Shitters",
-   1.74,
-   48,
-   9,
-   12,
-   0,
-   0,
-   2,
-   0,
-   1,
-   0,
-   1
-  ],
-  [
    "John Tubiolo",
    "Bull Shitters",
    1.74,
@@ -373,6 +358,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Vinny Cardinale",
+   "Bull Shitters",
+   1.74,
+   48,
+   9,
+   12,
+   0,
+   0,
+   2,
+   0,
+   1,
+   0,
+   1
   ],
   [
    "Syrica Story",
@@ -1821,5 +1821,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-21T12:01:39Z"
+ "updated": "2026-11-21T13:22:39Z"
 }
