@@ -453,21 +453,6 @@
    0
   ],
   [
-   "Holden Sandlar",
-   "Split Decision",
-   1.49,
-   36,
-   11,
-   6,
-   0,
-   0,
-   6,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Bill Lutomski",
    "Top Shottas",
    1.49,
@@ -479,6 +464,21 @@
    6,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Holden Sandlar",
+   "Split Decision",
+   1.49,
+   36,
+   11,
+   6,
+   0,
+   0,
+   6,
+   0,
+   0,
    0,
    0
   ],
@@ -1527,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-22T11:43:59Z"
+ "updated": "2026-11-22T19:51:59Z"
 }

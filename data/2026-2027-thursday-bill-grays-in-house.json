@@ -275,21 +275,6 @@
    0
   ],
   [
-   "MIKE",
-   "{Substitutes}",
-   1.62,
-   4,
-   2,
-   1,
-   0,
-   0,
-   2,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Pat Just The Tip",
    "Just The Tip",
    1.62,
@@ -301,6 +286,21 @@
    2,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "MIKE",
+   "{Substitutes}",
+   1.62,
+   4,
+   2,
+   1,
+   0,
+   0,
+   2,
+   1,
+   1,
    0,
    0
   ],
@@ -706,18 +706,6 @@
    10
   ],
   [
-   "Michael Trass",
-   "Nuch And Rich",
-   15.44,
-   5,
-   2,
-   0,
-   0,
-   0,
-   0,
-   2
-  ],
-  [
    "Austin Julian",
    "Austin And Joe",
    15.44,
@@ -728,6 +716,18 @@
    0,
    0,
    8
+  ],
+  [
+   "Michael Trass",
+   "Nuch And Rich",
+   15.44,
+   5,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Michael Hynes",
@@ -894,7 +894,7 @@
    "address": "964 Ridge Rd., Webster, NY 14580"
   }
  ],
- "updated": "2026-11-21T22:59:40Z",
+ "updated": "2026-11-22T19:51:54Z",
  "teams": [
   {
    "name": "Alex And Lawlor",
