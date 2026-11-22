@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T22:59:57Z",
+ "updated": "2026-11-22T03:18:38Z",
  "standings": [
   [
    "No Clue",
@@ -398,21 +398,6 @@
    0
   ],
   [
-   "Shawn Bentley",
-   "Throwing Shade",
-   2.61,
-   48,
-   18,
-   11,
-   3,
-   1,
-   28,
-   13,
-   13,
-   0,
-   0
-  ],
-  [
    "Erica Wall",
    "TakingNamesTakingAim",
    2.61,
@@ -425,6 +410,21 @@
    9,
    5,
    2,
+   0
+  ],
+  [
+   "Shawn Bentley",
+   "Throwing Shade",
+   2.61,
+   48,
+   18,
+   11,
+   3,
+   1,
+   28,
+   13,
+   13,
+   0,
    0
   ],
   [
@@ -1164,16 +1164,16 @@
     23.98
    ],
    [
-    "Erica Wall",
-    "TakingNamesTakingAim",
-    21.89,
-    22.24
-   ],
-   [
     "Shawn Bentley",
     "Throwing Shade",
     21.32,
     21.67
+   ],
+   [
+    "Erica Wall",
+    "TakingNamesTakingAim",
+    21.89,
+    22.24
    ]
   ]
  },
