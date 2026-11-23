@@ -11,8 +11,8 @@
   ],
   [
    "We Dem Boyz",
-   54,
-   24
+   58,
+   33
   ],
   [
    "Tintins",
@@ -20,7 +20,7 @@
    34
   ],
   [
-   "Brothas",
+   "Docs Crew",
    51,
    40
   ],
@@ -30,19 +30,24 @@
    35
   ],
   [
-   "Docs Crew",
-   43,
-   35
+   "Brothas",
+   57,
+   47
   ],
   [
    "Night Shot",
-   56,
-   48
+   63,
+   54
   ],
   [
    "Team Titos",
-   54,
-   50
+   61,
+   56
+  ],
+  [
+   "Fing The Neighbors",
+   38,
+   40
   ],
   [
    "Glass N Stache",
@@ -50,53 +55,32 @@
    40
   ],
   [
-   "Fing The Neighbors",
-   31,
-   34
-  ],
-  [
    "Ones Are Closed",
    36,
    55
   ],
   [
-   "Double 1s",
+   "Talk Darty To Me",
    41,
    63
   ],
   [
-   "Talk Darty To Me",
-   35,
-   56
-  ],
-  [
-   "Tires And Soda",
-   33,
+   "Double 1s",
+   46,
    71
   ],
   [
    "The Dartbags",
-   23,
-   55
+   32,
+   59
+  ],
+  [
+   "Tires And Soda",
+   39,
+   78
   ]
  ],
  "results": [
-  [
-   "We Dem Boyz",
-   "Fing The Neighbors",
-   "11/15/2026",
-   8,
-   11,
-   2
-  ],
-  [
-   "Brothas",
-   "Glass N Stache",
-   "11/15/2026",
-   8,
-   10,
-   3
-  ],
   [
    "One Hole Off",
    "Night Shot",
@@ -106,10 +90,10 @@
    3
   ],
   [
-   "Double 1s",
-   "Team Titos",
-   "11/15/2026",
-   8,
+   "The Dartbags",
+   "We Dem Boyz",
+   "11/22/2026",
+   9,
    9,
    4
   ],
@@ -123,41 +107,73 @@
   ],
   [
    "Docs Crew",
-   "Tires And Soda",
-   "11/15/2026",
-   8,
+   "Double 1s",
+   "11/22/2026",
+   9,
    8,
    5
   ],
   [
-   "The Dartbags",
+   "Fing The Neighbors",
+   "Talk Darty To Me",
+   "11/22/2026",
+   9,
+   7,
+   6
+  ],
+  [
+   "Team Titos",
+   "Brothas",
+   "11/22/2026",
+   9,
+   7,
+   6
+  ],
+  [
+   "TWINS",
+   "Talk Darty To Me",
+   "11/15/2026",
+   8,
+   7,
+   6
+  ],
+  [
    "Night Shot",
-   "11/08/2026",
-   7,
-   7,
-   6
-  ],
-  [
-   "TWINS",
-   "Talk Darty To Me",
-   "11/15/2026",
-   8,
+   "Tires And Soda",
+   "11/22/2026",
+   9,
    7,
    6
   ],
   [
    "Talk Darty To Me",
-   "TWINS",
-   "11/15/2026",
-   8,
+   "Fing The Neighbors",
+   "11/22/2026",
+   9,
+   6,
+   7
+  ],
+  [
+   "Brothas",
+   "Team Titos",
+   "11/22/2026",
+   9,
    6,
    7
   ],
   [
    "Tires And Soda",
+   "Night Shot",
+   "11/22/2026",
+   9,
+   6,
+   7
+  ],
+  [
+   "Double 1s",
    "Docs Crew",
-   "11/15/2026",
-   8,
+   "11/22/2026",
+   9,
    5,
    8
   ],
@@ -170,10 +186,10 @@
    9
   ],
   [
-   "Team Titos",
-   "Double 1s",
-   "11/15/2026",
-   8,
+   "We Dem Boyz",
+   "The Dartbags",
+   "11/22/2026",
+   9,
    4,
    9
   ],
@@ -184,63 +200,47 @@
    8,
    3,
    10
-  ],
-  [
-   "Night Shot",
-   "One Hole Off",
-   "11/15/2026",
-   8,
-   3,
-   10
-  ],
-  [
-   "Fing The Neighbors",
-   "We Dem Boyz",
-   "11/15/2026",
-   8,
-   2,
-   11
   ]
  ],
  "improved": {
   "c": [
    [
-    "Steve Bauman",
-    "Docs Crew",
-    2.08,
-    2.19
+    "Charles Adger",
+    "Team Titos",
+    1.57,
+    1.66
    ],
    [
-    "James Lee",
-    "Double 1s",
-    1.58,
-    1.67
+    "Dave Heschke",
+    "Fing The Neighbors",
+    1.83,
+    1.88
    ],
    [
-    "Karl Taylor",
-    "Tires And Soda",
-    1.79,
-    1.87
+    "Dave Coin",
+    "We Dem Boyz",
+    2.51,
+    2.54
    ]
   ],
   "x": [
    [
-    "TJ Vay",
-    "Tintins",
-    18.4,
-    19.16
+    "Adam Martinez",
+    "Talk Darty To Me",
+    19.0,
+    19.48
    ],
    [
-    "Kenny Williams",
-    "Glass N Stache",
-    18.81,
-    19.33
+    "Enzo Maiola",
+    "Docs Crew",
+    24.57,
+    24.83
    ],
    [
-    "Neal Kenyon",
-    "One Hole Off",
-    18.86,
-    19.32
+    "Jason Miles",
+    "Fing The Neighbors",
+    17.52,
+    17.78
    ]
   ]
  },
@@ -263,14 +263,14 @@
   [
    "Dave Coin",
    "We Dem Boyz",
-   2.51,
-   30,
-   12,
-   8,
+   2.54,
+   36,
+   14,
+   9,
    1,
    0,
-   13,
-   6,
+   15,
+   8,
    4,
    0,
    0
@@ -278,14 +278,14 @@
   [
    "Enzo Maiola",
    "Docs Crew",
-   2.42,
-   36,
-   12,
+   2.4,
+   42,
+   14,
    9,
    2,
    0,
-   10,
-   5,
+   12,
+   7,
    5,
    0,
    1
@@ -293,14 +293,14 @@
   [
    "John Salamone",
    "Brothas",
-   2.39,
-   42,
-   12,
+   2.36,
+   48,
+   14,
    14,
    2,
    0,
    17,
-   11,
+   12,
    6,
    0,
    1
@@ -353,32 +353,17 @@
   [
    "Claude Yeoumas",
    "Brothas",
-   2.2,
-   42,
+   2.22,
+   48,
    14,
-   12,
+   14,
    1,
    1,
    14,
-   7,
-   3,
+   8,
+   4,
    0,
    0
-  ],
-  [
-   "Steve Bauman",
-   "Docs Crew",
-   2.19,
-   30,
-   7,
-   8,
-   0,
-   0,
-   3,
-   4,
-   5,
-   0,
-   1
   ],
   [
    "James Davis",
@@ -396,42 +381,72 @@
    0
   ],
   [
-   "David Caesar",
-   "Night Shot",
-   2.15,
-   48,
-   16,
-   11,
+   "Sean Crowell",
+   "The Dartbags",
+   2.17,
+   42,
+   12,
    2,
    0,
-   16,
-   7,
+   0,
+   15,
+   2,
    4,
    0,
    0
   ],
   [
-   "Sean Crowell",
-   "The Dartbags",
-   2.14,
-   36,
-   10,
-   1,
-   0,
-   0,
-   12,
+   "David Caesar",
+   "Night Shot",
+   2.17,
+   54,
+   17,
+   13,
    2,
+   0,
+   19,
+   10,
    4,
    0,
    0
+  ],
+  [
+   "Steve Bauman",
+   "Docs Crew",
+   2.13,
+   36,
+   7,
+   10,
+   0,
+   0,
+   4,
+   5,
+   6,
+   0,
+   1
+  ],
+  [
+   "Jason Miles",
+   "Fing The Neighbors",
+   1.99,
+   36,
+   9,
+   9,
+   0,
+   0,
+   10,
+   2,
+   1,
+   0,
+   1
   ],
   [
    "Robyn Ralston",
    "We Dem Boyz",
-   2.02,
-   30,
-   8,
-   12,
+   1.99,
+   36,
+   9,
+   14,
    1,
    0,
    10,
@@ -439,21 +454,6 @@
    3,
    1,
    0
-  ],
-  [
-   "Jason Miles",
-   "Fing The Neighbors",
-   2.02,
-   30,
-   8,
-   7,
-   0,
-   0,
-   9,
-   2,
-   1,
-   0,
-   1
   ],
   [
    "TJ Vay",
@@ -473,15 +473,30 @@
   [
    "Cameron Giles",
    "Team Titos",
-   1.9,
-   42,
-   14,
-   5,
+   1.91,
+   48,
+   17,
+   6,
    1,
    0,
-   6,
+   7,
    3,
    0,
+   0,
+   0
+  ],
+  [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   1.88,
+   36,
+   9,
+   9,
+   0,
+   0,
+   7,
+   0,
+   1,
    0,
    0
   ],
@@ -489,12 +504,12 @@
    "Karl Taylor",
    "Tires And Soda",
    1.87,
-   42,
-   10,
-   6,
-   2,
+   48,
+   11,
+   8,
+   3,
    0,
-   15,
+   17,
    3,
    2,
    0,
@@ -531,17 +546,32 @@
    0
   ],
   [
-   "Dave Heschke",
-   "Fing The Neighbors",
-   1.83,
-   30,
-   7,
-   8,
+   "Evan Caufield",
+   "The Dartbags",
+   1.8,
+   6,
+   1,
+   2,
+   1,
    0,
-   0,
-   3,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Chaz Carley",
+   "Night Shot",
+   1.8,
+   54,
+   13,
+   17,
+   1,
+   0,
+   10,
+   6,
+   2,
    0,
    0
   ],
@@ -549,12 +579,12 @@
    "Adam Martinez",
    "Talk Darty To Me",
    1.79,
-   36,
-   6,
-   9,
+   42,
+   8,
+   10,
    3,
    0,
-   5,
+   6,
    4,
    1,
    0,
@@ -563,30 +593,15 @@
   [
    "Donovan Caraballo",
    "Talk Darty To Me",
-   1.77,
-   36,
-   9,
-   6,
-   0,
-   0,
-   9,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
-   "Chaz Carley",
-   "Night Shot",
-   1.77,
-   48,
-   11,
-   16,
-   1,
-   0,
+   1.78,
+   42,
    10,
-   4,
-   1,
+   8,
+   0,
+   0,
+   9,
+   2,
+   2,
    0,
    0
   ],
@@ -608,10 +623,10 @@
   [
    "Jeff Bush",
    "Tires And Soda",
-   1.7,
-   42,
-   6,
-   10,
+   1.71,
+   48,
+   8,
+   11,
    1,
    0,
    8,
@@ -623,15 +638,30 @@
   [
    "James Lee",
    "Double 1s",
-   1.67,
-   36,
-   9,
-   3,
+   1.68,
+   42,
+   12,
+   4,
    0,
    0,
    7,
-   3,
-   1,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Charles Adger",
+   "Team Titos",
+   1.66,
+   48,
+   6,
+   17,
+   0,
+   0,
+   10,
+   6,
+   2,
    0,
    0
   ],
@@ -666,27 +696,12 @@
    0
   ],
   [
-   "Charles Adger",
-   "Team Titos",
-   1.57,
-   42,
-   5,
-   14,
-   0,
-   0,
-   9,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Tyler Bishop",
    "Double 1s",
-   1.46,
-   36,
-   3,
-   9,
+   1.48,
+   42,
+   4,
+   12,
    0,
    0,
    6,
@@ -758,6 +773,18 @@
  ],
  "x01": [
   [
+   "Enzo Maiola",
+   "Docs Crew",
+   24.83,
+   49,
+   17,
+   16,
+   0,
+   0,
+   0,
+   54
+  ],
+  [
    "Justin Southwick",
    "Tintins",
    24.68,
@@ -770,40 +797,40 @@
    56
   ],
   [
-   "Enzo Maiola",
-   "Docs Crew",
-   24.57,
-   42,
-   12,
-   14,
+   "Evan Caufield",
+   "The Dartbags",
+   23.24,
+   7,
+   3,
+   1,
    0,
    0,
    0,
-   44
+   6
   ],
   [
    "John Salamone",
    "Brothas",
-   23.2,
-   49,
+   22.95,
+   56,
+   10,
    8,
-   8,
    0,
    0,
    0,
-   50
+   54
   ],
   [
    "Dave Coin",
    "We Dem Boyz",
-   22.59,
-   35,
-   13,
+   21.97,
+   42,
+   14,
    7,
    0,
    0,
    0,
-   29
+   31
   ],
   [
    "Andrew Williams",
@@ -820,14 +847,26 @@
   [
    "Steve Bauman",
    "Docs Crew",
-   21.47,
-   35,
-   9,
+   21.03,
+   42,
+   10,
    0,
    0,
    0,
    0,
-   29
+   33
+  ],
+  [
+   "Sean Crowell",
+   "The Dartbags",
+   19.7,
+   49,
+   11,
+   2,
+   0,
+   0,
+   0,
+   42
   ],
   [
    "James Davis",
@@ -842,16 +881,28 @@
    30
   ],
   [
-   "Sean Crowell",
-   "The Dartbags",
-   19.61,
-   42,
-   8,
-   2,
+   "Adam Martinez",
+   "Talk Darty To Me",
+   19.48,
+   49,
+   11,
+   3,
    0,
    0,
    0,
-   36
+   37
+  ],
+  [
+   "David Caesar",
+   "Night Shot",
+   19.47,
+   63,
+   19,
+   5,
+   0,
+   0,
+   0,
+   34
   ],
   [
    "Brian Kea",
@@ -864,30 +915,6 @@
    0,
    0,
    21
-  ],
-  [
-   "Donovan Caraballo",
-   "Talk Darty To Me",
-   19.35,
-   42,
-   11,
-   4,
-   0,
-   0,
-   1,
-   25
-  ],
-  [
-   "David Caesar",
-   "Night Shot",
-   19.33,
-   56,
-   15,
-   4,
-   0,
-   0,
-   0,
-   31
   ],
   [
    "Kenny Williams",
@@ -914,6 +941,18 @@
    26
   ],
   [
+   "Donovan Caraballo",
+   "Talk Darty To Me",
+   19.32,
+   49,
+   12,
+   4,
+   0,
+   0,
+   1,
+   26
+  ],
+  [
    "Tony Maiola",
    "Docs Crew",
    19.26,
@@ -926,16 +965,16 @@
    6
   ],
   [
-   "Claude Yeoumas",
-   "Brothas",
-   19.22,
-   49,
+   "Cameron Giles",
+   "Team Titos",
+   19.23,
+   56,
    17,
-   2,
+   12,
    0,
    0,
    0,
-   27
+   33
   ],
   [
    "TJ Vay",
@@ -950,76 +989,64 @@
    9
   ],
   [
-   "Cameron Giles",
-   "Team Titos",
-   19.15,
-   49,
-   14,
-   10,
+   "Claude Yeoumas",
+   "Brothas",
+   18.9,
+   56,
+   19,
+   2,
    0,
    0,
    0,
-   31
-  ],
-  [
-   "Adam Martinez",
-   "Talk Darty To Me",
-   19.0,
-   42,
-   9,
-   3,
-   0,
-   0,
-   0,
-   30
-  ],
-  [
-   "Robyn Ralston",
-   "We Dem Boyz",
-   17.99,
-   35,
-   8,
-   3,
-   0,
-   0,
-   0,
-   16
+   32
   ],
   [
    "Karl Taylor",
    "Tires And Soda",
-   17.91,
-   49,
+   17.78,
+   56,
    8,
    0,
    0,
    0,
    0,
-   22
+   26
   ],
   [
    "Jason Miles",
    "Fing The Neighbors",
-   17.52,
-   35,
-   11,
+   17.78,
+   42,
+   14,
    1,
    0,
    0,
-   1,
-   11
+   2,
+   14
   ],
   [
    "Jeff Bush",
    "Tires And Soda",
-   17.44,
-   49,
-   9,
+   17.61,
+   56,
+   12,
    4,
    0,
    0,
    0,
-   15
+   21
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   17.41,
+   42,
+   8,
+   3,
+   0,
+   0,
+   0,
+   18
   ],
   [
    "Dustin Nelson",
@@ -1034,28 +1061,28 @@
    9
   ],
   [
+   "Dave Heschke",
+   "Fing The Neighbors",
+   16.92,
+   42,
+   6,
+   1,
+   0,
+   0,
+   1,
+   10
+  ],
+  [
    "Chaz Carley",
    "Night Shot",
-   16.82,
-   56,
+   16.75,
+   63,
    14,
    3,
    0,
    0,
    0,
-   23
-  ],
-  [
-   "Dave Heschke",
-   "Fing The Neighbors",
-   16.77,
-   35,
-   5,
-   1,
-   0,
-   0,
-   1,
-   9
+   24
   ],
   [
    "Ethan Glashauser",
@@ -1072,14 +1099,14 @@
   [
    "Charles Adger",
    "Team Titos",
-   15.87,
-   49,
+   15.94,
+   56,
    8,
    2,
    0,
    0,
    0,
-   20
+   21
   ],
   [
    "Nolan Manahan",
@@ -1096,8 +1123,8 @@
   [
    "James Lee",
    "Double 1s",
-   15.74,
-   42,
+   15.64,
+   49,
    15,
    0,
    0,
@@ -1108,9 +1135,9 @@
   [
    "Tyler Bishop",
    "Double 1s",
-   14.97,
-   42,
-   14,
+   15.14,
+   49,
+   15,
    0,
    0,
    0,
@@ -2258,5 +2285,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-23T00:57:46Z"
+ "updated": "2026-11-23T09:12:46Z"
 }

@@ -15,6 +15,11 @@
    24
   ],
   [
+   "Straight 2 The Point",
+   83,
+   52
+  ],
+  [
    "Ghost Bear",
    62,
    43
@@ -23,11 +28,6 @@
    "Rich And Tom",
    60,
    45
-  ],
-  [
-   "Straight 2 The Point",
-   68,
-   52
   ],
   [
    "Water Off",
@@ -40,37 +40,37 @@
    62
   ],
   [
-   "Black And Brown",
-   43,
-   62
+   "Brown Viper",
+   60,
+   75
   ],
   [
-   "Brown Viper",
-   46,
-   74
+   "Black And Brown",
+   44,
+   76
   ],
   [
    "Not Ready 4Primetime",
    4,
-   116
+   131
   ]
  ],
  "results": [
   [
-   "Black And Brown",
+   "Straight 2 The Point",
    "Not Ready 4Primetime",
-   "11/15/2026",
-   8,
-   14,
-   1
+   "11/22/2026",
+   9,
+   15,
+   0
   ],
   [
-   "Straight 2 The Point",
-   "Rich And Tom",
-   "11/15/2026",
-   8,
-   11,
-   4
+   "Brown Viper",
+   "Black And Brown",
+   "11/22/2026",
+   9,
+   14,
+   1
   ],
   [
    "Here For The BEER",
@@ -113,14 +113,6 @@
    10
   ],
   [
-   "Brown Viper",
-   "Water Off",
-   "11/15/2026",
-   8,
-   5,
-   10
-  ],
-  [
    "Rich And Tom",
    "Straight 2 The Point",
    "11/15/2026",
@@ -129,53 +121,61 @@
    11
   ],
   [
-   "Not Ready 4Primetime",
    "Black And Brown",
-   "11/15/2026",
-   8,
+   "Brown Viper",
+   "11/22/2026",
+   9,
    1,
    14
+  ],
+  [
+   "Not Ready 4Primetime",
+   "Straight 2 The Point",
+   "11/22/2026",
+   9,
+   0,
+   15
   ]
  ],
  "improved": {
   "c": [
    [
-    "Branden Daniels",
-    "Black And Brown",
-    2.1,
-    2.16
-   ],
-   [
     "Judson Brown",
     "Brown Viper",
-    2.36,
-    2.39
+    2.39,
+    2.47
    ],
    [
-    "Archie Donaldson",
-    "Box Chevy",
-    2.62,
-    2.64
+    "Fred James",
+    "Brown Viper",
+    2.83,
+    2.88
+   ],
+   [
+    "Zach Morgan",
+    "Not Ready 4Primetime",
+    1.62,
+    1.65
    ]
   ],
   "x": [
    [
-    "Branden Daniels",
-    "Black And Brown",
-    19.51,
-    20.29
-   ],
-   [
-    "Chris Nesci",
-    "Black And Brown",
-    22.92,
-    23.44
-   ],
-   [
     "Carlton Smith",
     "Straight 2 The Point",
-    26.15,
-    26.46
+    26.46,
+    26.63
+   ],
+   [
+    "Judson Brown",
+    "Brown Viper",
+    21.94,
+    22.09
+   ],
+   [
+    "Zach Morgan",
+    "Not Ready 4Primetime",
+    15.39,
+    15.48
    ]
   ]
  },
@@ -286,21 +286,6 @@
    1
   ],
   [
-   "Tashawn Rucker",
-   "Straight 2 The Point",
-   3.21,
-   48,
-   18,
-   6,
-   4,
-   1,
-   33,
-   14,
-   20,
-   0,
-   4
-  ],
-  [
    "Devan Wilson",
    "Here For The BEER",
    3.2,
@@ -316,17 +301,32 @@
    0
   ],
   [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   3.15,
+   54,
+   21,
+   9,
+   4,
+   1,
+   34,
+   16,
+   20,
+   0,
+   4
+  ],
+  [
    "Carlton Smith",
    "Straight 2 The Point",
    3.09,
-   48,
-   16,
-   11,
+   54,
+   21,
+   12,
    4,
    0,
-   35,
-   17,
-   12,
+   38,
+   18,
+   14,
    1,
    1
   ],
@@ -361,6 +361,21 @@
    1
   ],
   [
+   "Fred James",
+   "Brown Viper",
+   2.88,
+   54,
+   20,
+   6,
+   4,
+   0,
+   29,
+   20,
+   13,
+   0,
+   1
+  ],
+  [
    "Justin Smith",
    "Box Chevy",
    2.88,
@@ -374,21 +389,6 @@
    16,
    0,
    0
-  ],
-  [
-   "Fred James",
-   "Brown Viper",
-   2.83,
-   48,
-   16,
-   4,
-   4,
-   0,
-   22,
-   16,
-   12,
-   0,
-   1
   ],
   [
    "Mike Nicholls",
@@ -483,30 +483,30 @@
   [
    "Efrain Figueroa",
    "Black And Brown",
-   2.61,
-   42,
+   2.58,
+   48,
    15,
    3,
-   2,
+   3,
    0,
-   31,
-   10,
-   6,
+   33,
+   11,
+   7,
    0,
    1
   ],
   [
    "Judson Brown",
    "Brown Viper",
-   2.39,
-   48,
-   8,
-   8,
+   2.47,
+   54,
+   12,
+   10,
    3,
    0,
-   21,
-   8,
-   5,
+   24,
+   11,
+   9,
    1,
    1
   ],
@@ -528,14 +528,14 @@
   [
    "Branden Daniels",
    "Black And Brown",
-   2.16,
-   24,
+   2.12,
+   30,
    6,
    4,
    0,
    0,
-   13,
-   2,
+   14,
+   4,
    1,
    0,
    0
@@ -543,14 +543,14 @@
   [
    "Micheal Morgan",
    "Not Ready 4Primetime",
-   1.82,
-   48,
+   1.8,
+   54,
    3,
    0,
    0,
    0,
    11,
-   2,
+   3,
    5,
    0,
    0
@@ -558,13 +558,13 @@
   [
    "Zach Morgan",
    "Not Ready 4Primetime",
-   1.62,
-   48,
+   1.65,
+   54,
    0,
    2,
    2,
    0,
-   4,
+   5,
    6,
    0,
    0,
@@ -621,6 +621,18 @@
    77
   ],
   [
+   "Carlton Smith",
+   "Straight 2 The Point",
+   26.63,
+   63,
+   23,
+   22,
+   0,
+   0,
+   2,
+   109
+  ],
+  [
    "Ryan OFlynn",
    "Box Chevy",
    26.51,
@@ -633,30 +645,6 @@
    11
   ],
   [
-   "Carlton Smith",
-   "Straight 2 The Point",
-   26.46,
-   56,
-   19,
-   19,
-   0,
-   0,
-   2,
-   95
-  ],
-  [
-   "Tashawn Rucker",
-   "Straight 2 The Point",
-   26.03,
-   56,
-   15,
-   16,
-   0,
-   0,
-   1,
-   92
-  ],
-  [
    "Glenn Wilson",
    "Here For The BEER",
    25.74,
@@ -667,6 +655,18 @@
    1,
    3,
    58
+  ],
+  [
+   "Tashawn Rucker",
+   "Straight 2 The Point",
+   25.4,
+   63,
+   18,
+   18,
+   0,
+   0,
+   1,
+   97
   ],
   [
    "Devan Wilson",
@@ -755,14 +755,14 @@
   [
    "Fred James",
    "Brown Viper",
-   22.93,
-   56,
-   13,
-   17,
+   22.96,
+   63,
+   16,
+   20,
    0,
    0,
    1,
-   73
+   85
   ],
   [
    "Dashay Earlsey",
@@ -801,6 +801,18 @@
    13
   ],
   [
+   "Judson Brown",
+   "Brown Viper",
+   22.09,
+   63,
+   12,
+   10,
+   1,
+   0,
+   2,
+   59
+  ],
+  [
    "Tom Ralston",
    "Rich And Tom",
    22.05,
@@ -815,38 +827,26 @@
   [
    "Efrain Figueroa",
    "Black And Brown",
-   21.95,
-   49,
-   14,
+   21.65,
+   56,
+   15,
    13,
    0,
    0,
    0,
-   68
-  ],
-  [
-   "Judson Brown",
-   "Brown Viper",
-   21.94,
-   56,
-   9,
-   8,
-   1,
-   0,
-   2,
-   52
+   76
   ],
   [
    "Branden Daniels",
    "Black And Brown",
-   20.29,
-   28,
+   19.99,
+   35,
    4,
    6,
    0,
    0,
-   0,
-   28
+   1,
+   33
   ],
   [
    "Andy Mitrano",
@@ -863,26 +863,26 @@
   [
    "Micheal Morgan",
    "Not Ready 4Primetime",
-   16.33,
-   56,
+   16.27,
+   63,
    1,
    2,
    0,
    0,
    1,
-   27
+   28
   ],
   [
    "Zach Morgan",
    "Not Ready 4Primetime",
-   15.39,
-   56,
+   15.48,
+   63,
+   0,
+   1,
    0,
    0,
    0,
-   0,
-   0,
-   26
+   28
   ]
  ],
  "teams": [
@@ -1509,5 +1509,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-23T00:57:50Z"
+ "updated": "2026-11-23T09:12:51Z"
 }

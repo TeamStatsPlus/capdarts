@@ -1624,18 +1624,6 @@
    15
   ],
   [
-   "Ben Kulikowski",
-   "Good Smoke BBQ",
-   19.72,
-   28,
-   6,
-   0,
-   0,
-   0,
-   1,
-   17
-  ],
-  [
    "Steve Wright",
    "Wired",
    19.72,
@@ -1645,6 +1633,18 @@
    0,
    0,
    0,
+   17
+  ],
+  [
+   "Ben Kulikowski",
+   "Good Smoke BBQ",
+   19.72,
+   28,
+   6,
+   0,
+   0,
+   0,
+   1,
    17
   ],
   [
@@ -3141,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-23T00:58:08Z"
+ "updated": "2026-11-23T09:13:14Z"
 }
