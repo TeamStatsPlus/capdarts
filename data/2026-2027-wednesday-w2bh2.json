@@ -120,16 +120,16 @@
     2.12
    ],
    [
-    "John Lehman",
-    "BullsDeep",
-    1.66,
-    1.67
-   ],
-   [
     "John Lyn",
     "Cant Hit Bull",
     1.62,
     1.63
+   ],
+   [
+    "John Lehman",
+    "BullsDeep",
+    1.66,
+    1.67
    ]
   ],
   "x": [
@@ -335,21 +335,6 @@
    0
   ],
   [
-   "Ruben Lowery",
-   "BYE INCOMPLETE",
-   1.79,
-   6,
-   1,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Patrick Reilly",
    "Aiming Fluid Needed",
    1.79,
@@ -361,6 +346,21 @@
    3,
    4,
    1,
+   0,
+   0
+  ],
+  [
+   "Ruben Lowery",
+   "BYE INCOMPLETE",
+   1.79,
+   6,
+   1,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -1306,5 +1306,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-23T00:58:42Z"
+ "updated": "2026-11-23T21:32:59Z"
 }

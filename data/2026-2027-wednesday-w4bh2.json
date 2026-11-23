@@ -334,21 +334,6 @@
    0
   ],
   [
-   "Dave Robinson",
-   "Dart Vaders",
-   2.12,
-   6,
-   2,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Eric Porter",
    "Liquor Box",
    2.12,
@@ -359,6 +344,21 @@
    0,
    6,
    4,
+   0,
+   0,
+   0
+  ],
+  [
+   "Dave Robinson",
+   "Dart Vaders",
+   2.12,
+   6,
+   2,
+   2,
+   0,
+   0,
+   2,
+   0,
    0,
    0,
    0
@@ -829,21 +829,6 @@
    0
   ],
   [
-   "Miguel Carmona",
-   "RRP Crew",
-   1.6,
-   21,
-   6,
-   3,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Chester Mathis",
    "Toasted Darts",
    1.6,
@@ -857,6 +842,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Miguel Carmona",
+   "RRP Crew",
+   1.6,
+   21,
+   6,
+   3,
+   0,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
   ],
   [
    "Jeff Bush",
@@ -1521,18 +1521,6 @@
    10
   ],
   [
-   "Rick Nelson",
-   "Toasted Darts",
-   16.98,
-   32,
-   6,
-   0,
-   0,
-   0,
-   0,
-   10
-  ],
-  [
    "Thomas Macomber",
    "Ask Bobby",
    16.98,
@@ -1543,6 +1531,18 @@
    0,
    0,
    7
+  ],
+  [
+   "Rick Nelson",
+   "Toasted Darts",
+   16.98,
+   32,
+   6,
+   0,
+   0,
+   0,
+   0,
+   10
   ],
   [
    "Brian Lawler",
@@ -2683,5 +2683,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-23T09:14:17Z"
+ "updated": "2026-11-23T21:33:19Z"
 }
