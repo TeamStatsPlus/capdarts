@@ -170,21 +170,6 @@
    0
   ],
   [
-   "Willie Szabo",
-   "Yearoff",
-   2.44,
-   21,
-   6,
-   9,
-   0,
-   0,
-   8,
-   4,
-   4,
-   0,
-   0
-  ],
-  [
    "Tom Armstrong",
    "Yearoff",
    2.44,
@@ -200,17 +185,17 @@
    0
   ],
   [
-   "Jojo Goodrell",
-   "Gameday",
-   2.42,
-   3,
-   1,
-   1,
-   1,
+   "Willie Szabo",
+   "Yearoff",
+   2.44,
+   21,
+   6,
+   9,
    0,
-   1,
-   1,
    0,
+   8,
+   4,
+   4,
    0,
    0
   ],
@@ -221,6 +206,21 @@
    3,
    1,
    2,
+   1,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jojo Goodrell",
+   "Gameday",
+   2.42,
+   3,
+   1,
+   1,
    1,
    0,
    1,
@@ -395,21 +395,6 @@
    0
   ],
   [
-   "Brian Kea",
-   "BullsHitters",
-   2.03,
-   24,
-   7,
-   6,
-   0,
-   0,
-   9,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Mike Kelly",
    "OGs",
    2.03,
@@ -420,6 +405,21 @@
    0,
    4,
    4,
+   2,
+   0,
+   0
+  ],
+  [
+   "Brian Kea",
+   "BullsHitters",
+   2.03,
+   24,
+   7,
+   6,
+   0,
+   0,
+   9,
+   1,
    2,
    0,
    0
@@ -515,8 +515,8 @@
    0
   ],
   [
-   "JOHN FRAZER",
-   "{Substitutes}",
+   "John Frazer",
+   "Tip Deep",
    1.73,
    3,
    2,
@@ -740,21 +740,6 @@
    0
   ],
   [
-   "Kevin Kupicha",
-   "Anotha One",
-   1.31,
-   21,
-   2,
-   4,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Dennis Manning",
    "Almost There",
    1.31,
@@ -765,6 +750,21 @@
    0,
    2,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Kupicha",
+   "Anotha One",
+   1.31,
+   21,
+   2,
+   4,
+   0,
+   0,
+   2,
+   1,
    0,
    0,
    0
@@ -979,8 +979,8 @@
    14
   ],
   [
-   "JOHN FRAZER",
-   "{Substitutes}",
+   "John Frazer",
+   "Tip Deep",
    18.58,
    4,
    0,
@@ -1888,5 +1888,5 @@
    "address": "989 S Clinton Ave., Rochester, NY 14620"
   }
  ],
- "updated": "2026-11-24T06:09:51Z"
+ "updated": "2026-11-24T17:56:50Z"
 }
