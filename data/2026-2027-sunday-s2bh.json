@@ -26,8 +26,8 @@
   ],
   [
    "TWINS",
-   43,
-   35
+   50,
+   41
   ],
   [
    "Brothas",
@@ -56,8 +56,8 @@
   ],
   [
    "Ones Are Closed",
-   36,
-   55
+   42,
+   62
   ],
   [
    "Talk Darty To Me",
@@ -131,9 +131,9 @@
   ],
   [
    "TWINS",
-   "Talk Darty To Me",
-   "11/15/2026",
-   8,
+   "Ones Are Closed",
+   "11/23/2026",
+   9,
    7,
    6
   ],
@@ -144,6 +144,14 @@
    9,
    7,
    6
+  ],
+  [
+   "Ones Are Closed",
+   "TWINS",
+   "11/23/2026",
+   9,
+   6,
+   7
   ],
   [
    "Talk Darty To Me",
@@ -178,14 +186,6 @@
    8
   ],
   [
-   "Ones Are Closed",
-   "Tintins",
-   "11/15/2026",
-   8,
-   4,
-   9
-  ],
-  [
    "We Dem Boyz",
    "The Dartbags",
    "11/22/2026",
@@ -211,30 +211,30 @@
     1.66
    ],
    [
+    "Dustin Nelson",
+    "TWINS",
+    1.63,
+    1.69
+   ],
+   [
     "Dave Heschke",
     "Fing The Neighbors",
     1.83,
     1.88
-   ],
-   [
-    "Dave Coin",
-    "We Dem Boyz",
-    2.51,
-    2.54
    ]
   ],
   "x": [
+   [
+    "Dustin Nelson",
+    "TWINS",
+    17.21,
+    18.01
+   ],
    [
     "Adam Martinez",
     "Talk Darty To Me",
     19.0,
     19.48
-   ],
-   [
-    "Jason Miles",
-    "Fing The Neighbors",
-    17.52,
-    17.78
    ],
    [
     "Enzo Maiola",
@@ -366,6 +366,21 @@
    0
   ],
   [
+   "Sean Crowell",
+   "The Dartbags",
+   2.17,
+   42,
+   12,
+   2,
+   0,
+   0,
+   15,
+   2,
+   4,
+   0,
+   0
+  ],
+  [
    "David Caesar",
    "Night Shot",
    2.17,
@@ -384,29 +399,14 @@
    "James Davis",
    "Ones Are Closed",
    2.17,
-   42,
-   10,
+   48,
+   11,
    3,
+   1,
    0,
-   0,
-   16,
+   17,
    4,
    2,
-   0,
-   0
-  ],
-  [
-   "Sean Crowell",
-   "The Dartbags",
-   2.17,
-   42,
-   12,
-   2,
-   0,
-   0,
-   15,
-   2,
-   4,
    0,
    0
   ],
@@ -426,21 +426,6 @@
    1
   ],
   [
-   "Robyn Ralston",
-   "We Dem Boyz",
-   1.99,
-   36,
-   9,
-   14,
-   1,
-   0,
-   10,
-   1,
-   3,
-   1,
-   0
-  ],
-  [
    "Jason Miles",
    "Fing The Neighbors",
    1.99,
@@ -454,6 +439,21 @@
    1,
    0,
    1
+  ],
+  [
+   "Robyn Ralston",
+   "We Dem Boyz",
+   1.99,
+   36,
+   9,
+   14,
+   1,
+   0,
+   10,
+   1,
+   3,
+   1,
+   0
   ],
   [
    "TJ Vay",
@@ -519,13 +519,13 @@
    "Brian Kea",
    "TWINS",
    1.86,
-   30,
-   7,
-   7,
+   36,
+   10,
+   9,
    0,
    0,
-   5,
-   5,
+   7,
+   6,
    0,
    0,
    0
@@ -546,21 +546,6 @@
    0
   ],
   [
-   "Evan Caufield",
-   "The Dartbags",
-   1.8,
-   6,
-   1,
-   2,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Chaz Carley",
    "Night Shot",
    1.8,
@@ -572,6 +557,21 @@
    10,
    6,
    2,
+   0,
+   0
+  ],
+  [
+   "Evan Caufield",
+   "The Dartbags",
+   1.8,
+   6,
+   1,
+   2,
+   1,
+   0,
+   0,
+   1,
+   0,
    0,
    0
   ],
@@ -636,6 +636,21 @@
    0
   ],
   [
+   "Dustin Nelson",
+   "TWINS",
+   1.69,
+   36,
+   9,
+   10,
+   1,
+   0,
+   3,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
    "James Lee",
    "Double 1s",
    1.68,
@@ -646,21 +661,6 @@
    0,
    7,
    4,
-   2,
-   0,
-   0
-  ],
-  [
-   "Charles Adger",
-   "Team Titos",
-   1.66,
-   48,
-   6,
-   17,
-   0,
-   0,
-   10,
-   6,
    2,
    0,
    0
@@ -681,17 +681,17 @@
    0
   ],
   [
-   "Dustin Nelson",
-   "TWINS",
-   1.63,
-   30,
-   7,
-   7,
-   1,
+   "Charles Adger",
+   "Team Titos",
+   1.66,
+   48,
+   6,
+   17,
    0,
-   3,
-   1,
-   1,
+   0,
+   10,
+   6,
+   2,
    0,
    0
   ],
@@ -743,10 +743,10 @@
   [
    "Ken Azzarello",
    "Ones Are Closed",
-   1.31,
-   30,
+   1.28,
+   36,
    3,
-   8,
+   9,
    0,
    0,
    4,
@@ -857,6 +857,18 @@
    33
   ],
   [
+   "James Davis",
+   "Ones Are Closed",
+   19.84,
+   56,
+   24,
+   3,
+   0,
+   0,
+   0,
+   38
+  ],
+  [
    "Sean Crowell",
    "The Dartbags",
    19.7,
@@ -867,18 +879,6 @@
    0,
    0,
    42
-  ],
-  [
-   "James Davis",
-   "Ones Are Closed",
-   19.61,
-   49,
-   19,
-   3,
-   0,
-   0,
-   0,
-   30
   ],
   [
    "Adam Martinez",
@@ -905,18 +905,6 @@
    34
   ],
   [
-   "Brian Kea",
-   "TWINS",
-   19.44,
-   35,
-   9,
-   3,
-   0,
-   0,
-   0,
-   21
-  ],
-  [
    "Kenny Williams",
    "Glass N Stache",
    19.33,
@@ -929,24 +917,24 @@
    29
   ],
   [
-   "Donovan Caraballo",
-   "Talk Darty To Me",
-   19.32,
-   49,
-   12,
-   4,
-   0,
-   0,
-   1,
-   26
-  ],
-  [
    "Neal Kenyon",
    "One Hole Off",
    19.32,
    42,
    14,
    3,
+   0,
+   0,
+   1,
+   26
+  ],
+  [
+   "Donovan Caraballo",
+   "Talk Darty To Me",
+   19.32,
+   49,
+   12,
+   4,
    0,
    0,
    1,
@@ -1001,6 +989,30 @@
    32
   ],
   [
+   "Brian Kea",
+   "TWINS",
+   18.89,
+   42,
+   10,
+   3,
+   0,
+   0,
+   0,
+   26
+  ],
+  [
+   "Dustin Nelson",
+   "TWINS",
+   18.01,
+   42,
+   8,
+   2,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
    "Karl Taylor",
    "Tires And Soda",
    17.78,
@@ -1047,18 +1059,6 @@
    0,
    0,
    18
-  ],
-  [
-   "Dustin Nelson",
-   "TWINS",
-   17.21,
-   35,
-   7,
-   1,
-   0,
-   0,
-   0,
-   9
   ],
   [
    "Dave Heschke",
@@ -1171,8 +1171,8 @@
   [
    "Ken Azzarello",
    "Ones Are Closed",
-   13.6,
-   35,
+   13.51,
+   42,
    4,
    0,
    0,
@@ -2285,5 +2285,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-23T21:32:02Z"
+ "updated": "2026-11-24T06:08:35Z"
 }

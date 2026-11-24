@@ -218,6 +218,12 @@
  "improved": {
   "c": [
    [
+    "Jametta Boston",
+    "Dartaholicz",
+    1.48,
+    1.55
+   ],
+   [
     "Mark Dalberth",
     "And Then There Was 2",
     1.82,
@@ -228,12 +234,6 @@
     "Turtle Time",
     2.43,
     2.5
-   ],
-   [
-    "Jametta Boston",
-    "Dartaholicz",
-    1.48,
-    1.55
    ]
   ],
   "x": [
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-23T21:32:35Z"
+ "updated": "2026-11-24T06:09:15Z"
 }

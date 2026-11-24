@@ -5,14 +5,14 @@
  },
  "standings": [
   [
-   "Galactic Platypus",
-   63,
-   41
+   "Oh Look Butterflies",
+   64,
+   40
   ],
   [
-   "Oh Look Butterflies",
-   54,
-   37
+   "Galactic Platypus",
+   71,
+   46
   ],
   [
    "Kookeez Krumble",
@@ -36,16 +36,24 @@
   ],
   [
    "Snuggs Snipers",
-   40,
-   64
+   45,
+   72
   ],
   [
    "Game Of Throws",
-   28,
-   50
+   31,
+   60
   ]
  ],
  "results": [
+  [
+   "Oh Look Butterflies",
+   "Game Of Throws",
+   "11/23/2026",
+   9,
+   10,
+   3
+  ],
   [
    "CHEERS",
    "APA",
@@ -55,16 +63,16 @@
    5
   ],
   [
-   "Kookeez Krumble",
    "Galactic Platypus",
-   "11/16/2026",
+   "Snuggs Snipers",
+   "11/23/2026",
+   9,
    8,
-   7,
-   6
+   5
   ],
   [
-   "Snuggs Snipers",
-   "Oh Look Butterflies",
+   "Kookeez Krumble",
+   "Galactic Platypus",
    "11/16/2026",
    8,
    7,
@@ -79,77 +87,69 @@
    7
   ],
   [
-   "Galactic Platypus",
-   "Kookeez Krumble",
-   "11/16/2026",
-   8,
-   6,
-   7
-  ],
-  [
-   "Oh Look Butterflies",
-   "Snuggs Snipers",
-   "11/16/2026",
-   8,
-   6,
-   7
-  ],
-  [
-   "Game Of Throws",
-   "Snuggs Snipers",
-   "11/09/2026",
-   7,
-   6,
-   7
-  ],
-  [
    "APA",
    "CHEERS",
    "11/16/2026",
    8,
    5,
    8
+  ],
+  [
+   "Snuggs Snipers",
+   "Galactic Platypus",
+   "11/23/2026",
+   9,
+   5,
+   8
+  ],
+  [
+   "Game Of Throws",
+   "Oh Look Butterflies",
+   "11/23/2026",
+   9,
+   3,
+   10
   ]
  ],
  "improved": {
   "c": [
    [
-    "Shaun Stocking",
-    "CHEERS",
-    3.05,
-    3.13
+    "Dillen Malone",
+    "Oh Look Butterflies",
+    2.83,
+    2.9
    ],
    [
-    "Todd Keller",
-    "CHEERS",
-    2.21,
-    2.26
+    "Alli Distler",
+    "Galactic Platypus",
+    2.17,
+    2.21
    ],
    [
-    "Desmond Parris",
-    "Kookeez Krumble",
-    2.37,
-    2.41
+    "Shawn Laffin",
+    "Snuggs Snipers",
+    1.93,
+    1.95
    ]
   ],
   "x": [
    [
-    "Alli Distler",
-    "Galactic Platypus",
-    19.48,
-    20.2
-   ],
-   [
-    "Desmond Parris",
-    "Kookeez Krumble",
-    24.72,
-    25.15
-   ],
-   [
     "Rowdy Woodworth",
     "Snuggs Snipers",
-    18.24,
-    18.59
+    18.59,
+    18.84
+   ],
+   [
+    "Will Zimmer",
+    "Game Of Throws",
+    24.34,
+    24.45
+   ],
+   [
+    "Alli Distler",
+    "Galactic Platypus",
+    20.2,
+    20.22
    ]
   ]
  },
@@ -172,45 +172,45 @@
   [
    "Dillen Malone",
    "Oh Look Butterflies",
-   2.83,
-   42,
-   15,
-   16,
+   2.9,
+   48,
+   18,
+   19,
    2,
    0,
-   21,
-   10,
-   9,
+   24,
+   12,
+   12,
    0,
-   1
+   2
   ],
   [
    "Mike Infantino",
    "Galactic Platypus",
    2.69,
-   48,
-   19,
-   12,
-   6,
-   0,
-   23,
+   54,
+   20,
+   15,
    7,
-   6,
+   0,
+   26,
+   8,
+   8,
    1,
    2
   ],
   [
    "Jim Gangarossa",
    "Oh Look Butterflies",
-   2.6,
-   42,
-   16,
-   15,
+   2.61,
+   48,
+   19,
+   18,
    3,
    0,
-   18,
+   19,
    10,
-   7,
+   8,
    0,
    1
   ],
@@ -245,6 +245,21 @@
    0
   ],
   [
+   "Todd Guichard",
+   "ApologiseNow",
+   2.41,
+   42,
+   10,
+   7,
+   0,
+   0,
+   8,
+   10,
+   5,
+   0,
+   0
+  ],
+  [
    "Desmond Parris",
    "Kookeez Krumble",
    2.41,
@@ -262,30 +277,15 @@
   [
    "Will Zimmer",
    "Game Of Throws",
-   2.41,
-   36,
+   2.39,
+   42,
    5,
    8,
-   1,
+   2,
    0,
-   19,
+   22,
    6,
    7,
-   0,
-   0
-  ],
-  [
-   "Todd Guichard",
-   "ApologiseNow",
-   2.41,
-   42,
-   10,
-   7,
-   0,
-   0,
-   8,
-   10,
-   5,
    0,
    0
   ],
@@ -307,15 +307,15 @@
   [
    "Alli Distler",
    "Galactic Platypus",
-   2.17,
-   48,
-   12,
-   19,
+   2.21,
+   54,
+   15,
+   20,
    0,
    0,
    20,
-   6,
-   2,
+   8,
+   4,
    0,
    0
   ],
@@ -352,13 +352,28 @@
   [
    "Rowdy Woodworth",
    "Snuggs Snipers",
-   2.04,
-   48,
-   8,
-   8,
+   2.05,
+   54,
+   9,
+   9,
    1,
    1,
-   10,
+   13,
+   5,
+   2,
+   0,
+   0
+  ],
+  [
+   "Shawn Laffin",
+   "Snuggs Snipers",
+   1.95,
+   54,
+   9,
+   9,
+   0,
+   0,
+   12,
    5,
    1,
    0,
@@ -367,30 +382,15 @@
   [
    "Jamie Rialdi",
    "Game Of Throws",
-   1.96,
-   36,
+   1.92,
+   42,
    8,
    5,
    0,
    0,
    11,
-   3,
+   4,
    2,
-   0,
-   0
-  ],
-  [
-   "Shawn Laffin",
-   "Snuggs Snipers",
-   1.93,
-   48,
-   8,
-   8,
-   0,
-   0,
-   9,
-   5,
-   1,
    0,
    0
   ]
@@ -412,37 +412,25 @@
    "Dillen Malone",
    "Oh Look Butterflies",
    26.56,
-   49,
-   14,
-   13,
+   56,
+   16,
+   15,
    0,
    0,
    0,
-   50
+   60
   ],
   [
    "Mike Infantino",
    "Galactic Platypus",
-   25.76,
-   56,
-   16,
+   25.73,
+   63,
+   18,
    13,
    0,
    0,
    2,
-   66
-  ],
-  [
-   "Jim Gangarossa",
-   "Oh Look Butterflies",
-   25.34,
-   49,
-   9,
-   15,
-   1,
-   0,
-   3,
-   42
+   77
   ],
   [
    "Desmond Parris",
@@ -457,16 +445,28 @@
    60
   ],
   [
+   "Jim Gangarossa",
+   "Oh Look Butterflies",
+   24.86,
+   56,
+   11,
+   17,
+   1,
+   0,
+   3,
+   48
+  ],
+  [
    "Will Zimmer",
    "Game Of Throws",
-   24.34,
-   42,
-   9,
-   6,
+   24.45,
+   49,
+   11,
+   8,
    0,
    0,
    0,
-   41
+   48
   ],
   [
    "Hector Hernandez",
@@ -517,18 +517,6 @@
    30
   ],
   [
-   "Jamie Rialdi",
-   "Game Of Throws",
-   20.66,
-   42,
-   6,
-   1,
-   0,
-   0,
-   0,
-   29
-  ],
-  [
    "Todd Keller",
    "CHEERS",
    20.61,
@@ -543,38 +531,50 @@
   [
    "Alli Distler",
    "Galactic Platypus",
-   20.2,
-   56,
-   16,
-   5,
+   20.22,
+   63,
+   18,
+   7,
    0,
    0,
    1,
-   33
+   37
+  ],
+  [
+   "Jamie Rialdi",
+   "Game Of Throws",
+   20.04,
+   49,
+   7,
+   1,
+   0,
+   0,
+   0,
+   30
   ],
   [
    "Shawn Laffin",
    "Snuggs Snipers",
-   19.43,
-   56,
-   8,
+   19.13,
+   63,
+   11,
    3,
    0,
    0,
    0,
-   29
+   31
   ],
   [
    "Rowdy Woodworth",
    "Snuggs Snipers",
-   18.59,
-   56,
+   18.84,
+   63,
    16,
    1,
    0,
    0,
    0,
-   31
+   37
   ],
   [
    "Matt Ferugia",
@@ -1204,5 +1204,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-23T09:13:08Z"
+ "updated": "2026-11-24T06:08:58Z"
 }
