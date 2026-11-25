@@ -198,16 +198,16 @@
     2.13
    ],
    [
-    "Dave Cortese",
-    "Off Target",
-    1.06,
-    1.11
-   ],
-   [
     "John Seward",
     "RedEye",
     1.39,
     1.44
+   ],
+   [
+    "Kevin Rowland",
+    "Off Target",
+    1.6,
+    1.65
    ]
   ],
   "x": [
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Dean Nicosia",
-   "Money Shot",
-   1.95,
-   6,
-   2,
-   4,
-   0,
-   0,
-   2,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dave Biedrzycki",
    "Here 4 The Beer",
    1.95,
@@ -681,6 +666,21 @@
    0,
    0,
    1
+  ],
+  [
+   "Dean Nicosia",
+   "Money Shot",
+   1.95,
+   6,
+   2,
+   4,
+   0,
+   0,
+   2,
+   1,
+   1,
+   0,
+   0
   ],
   [
    "David Caesar",
@@ -1058,21 +1058,6 @@
    0
   ],
   [
-   "Orion Wilkerson",
-   "IDF NightCaps",
-   1.54,
-   21,
-   3,
-   6,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Ed Rowland",
    "ChJokers",
    1.54,
@@ -1098,6 +1083,21 @@
    0,
    2,
    2,
+   0,
+   0,
+   0
+  ],
+  [
+   "Orion Wilkerson",
+   "IDF NightCaps",
+   1.54,
+   21,
+   3,
+   6,
+   0,
+   0,
+   3,
+   1,
    0,
    0,
    0
@@ -3141,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-25T02:35:45Z"
+ "updated": "2026-11-25T13:10:56Z"
 }

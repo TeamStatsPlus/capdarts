@@ -126,10 +126,10 @@
     1.84
    ],
    [
-    "Tony Villani",
-    "Wrong Hole",
-    2.11,
-    2.18
+    "Bailey Plummer",
+    "Dartbags",
+    1.94,
+    2.01
    ]
   ],
   "x": [
@@ -290,21 +290,6 @@
    1
   ],
   [
-   "Mike Murphy",
-   "Wrong Hole",
-   2.38,
-   3,
-   1,
-   0,
-   0,
-   0,
-   3,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Chris Jones",
    "Right There",
    2.38,
@@ -316,6 +301,21 @@
    10,
    10,
    2,
+   0,
+   0
+  ],
+  [
+   "Mike Murphy",
+   "Wrong Hole",
+   2.38,
+   3,
+   1,
+   0,
+   0,
+   0,
+   3,
+   1,
+   0,
    0,
    0
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-25T02:35:51Z"
+ "updated": "2026-11-25T13:11:03Z"
 }

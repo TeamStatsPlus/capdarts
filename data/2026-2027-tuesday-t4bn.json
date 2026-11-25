@@ -36,13 +36,18 @@
   ],
   [
    "Chicks And Dicks",
-   30,
-   35
+   37,
+   41
   ],
   [
    "Truckin Bulls",
-   48,
-   56
+   55,
+   62
+  ],
+  [
+   "Points And Pints",
+   41,
+   63
   ],
   [
    "Aiming Fluid",
@@ -55,14 +60,9 @@
    64
   ],
   [
-   "Points And Pints",
-   35,
-   56
-  ],
-  [
    "Peppers And Onions",
-   8,
-   96
+   14,
+   103
   ]
  ],
  "results": [
@@ -92,9 +92,17 @@
   ],
   [
    "Chicks And Dicks",
+   "Peppers And Onions",
+   "11/24/2026",
+   9,
+   7,
+   6
+  ],
+  [
    "Truckin Bulls",
-   "10/27/2026",
-   5,
+   "Points And Pints",
+   "11/24/2026",
+   9,
    7,
    6
   ],
@@ -105,6 +113,14 @@
    9,
    7,
    6
+  ],
+  [
+   "Peppers And Onions",
+   "Chicks And Dicks",
+   "11/24/2026",
+   9,
+   6,
+   7
   ],
   [
    "Dartbags",
@@ -115,20 +131,12 @@
    7
   ],
   [
-   "Truckin Bulls",
-   "Trippin On Trips",
-   "11/17/2026",
-   8,
-   5,
-   8
-  ],
-  [
    "Points And Pints",
-   "Aiming Fluid",
-   "11/17/2026",
-   8,
-   5,
-   8
+   "Truckin Bulls",
+   "11/24/2026",
+   9,
+   6,
+   7
   ],
   [
    "New Wave",
@@ -153,14 +161,6 @@
    9,
    3,
    10
-  ],
-  [
-   "Peppers And Onions",
-   "Is It In",
-   "11/17/2026",
-   8,
-   0,
-   13
   ]
  ],
  "improved": {
@@ -172,16 +172,16 @@
     2.18
    ],
    [
-    "Will Zimmer",
-    "AM Lumber",
-    2.23,
-    2.32
-   ],
-   [
     "Mike Fischer",
     "Show Your Tips",
     1.08,
     1.17
+   ],
+   [
+    "Will Zimmer",
+    "AM Lumber",
+    2.23,
+    2.32
    ]
   ],
   "x": [
@@ -192,16 +192,16 @@
     16.97
    ],
    [
-    "Mike Coyle",
-    "Fat Bastards",
-    17.38,
-    17.75
+    "Scott Stipulski",
+    "Chicks And Dicks",
+    19.23,
+    19.85
    ],
    [
-    "Jasen Torres",
-    "Trippin On Trips",
-    19.27,
-    19.64
+    "Lauri Earle",
+    "Peppers And Onions",
+    13.52,
+    13.99
    ]
   ]
  },
@@ -357,21 +357,6 @@
    0
   ],
   [
-   "Jose Santiago",
-   "Dartbags",
-   2.1,
-   24,
-   9,
-   4,
-   2,
-   0,
-   5,
-   5,
-   2,
-   0,
-   0
-  ],
-  [
    "Tyler Giorgione",
    "Trippin On Trips",
    2.1,
@@ -387,17 +372,17 @@
    0
   ],
   [
-   "Michael Bell",
-   "Is It In",
-   2.08,
+   "Jose Santiago",
+   "Dartbags",
+   2.1,
    24,
-   6,
    9,
+   4,
    2,
    0,
-   3,
-   3,
-   0,
+   5,
+   5,
+   2,
    0,
    0
   ],
@@ -432,6 +417,21 @@
    0
   ],
   [
+   "Michael Bell",
+   "Is It In",
+   2.08,
+   24,
+   6,
+   9,
+   2,
+   0,
+   3,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "Alex Riley",
    "New Wave",
    2.04,
@@ -443,36 +443,6 @@
    5,
    1,
    4,
-   0,
-   0
-  ],
-  [
-   "David Rogers",
-   "Truckin Bulls",
-   2.02,
-   24,
-   8,
-   5,
-   0,
-   0,
-   6,
-   4,
-   2,
-   0,
-   0
-  ],
-  [
-   "Mike Bisig",
-   "Trippin On Trips",
-   2.01,
-   24,
-   11,
-   8,
-   1,
-   0,
-   9,
-   1,
-   2,
    0,
    0
   ],
@@ -492,17 +462,17 @@
    0
   ],
   [
-   "Brad Paradise",
-   "Dartbags",
-   1.98,
+   "Mike Bisig",
+   "Trippin On Trips",
+   2.01,
    24,
+   11,
    8,
-   10,
-   0,
-   0,
-   7,
-   0,
    1,
+   0,
+   9,
+   1,
+   2,
    0,
    0
   ],
@@ -522,17 +492,32 @@
    0
   ],
   [
-   "Dave Grouse",
-   "New Wave",
-   1.96,
-   15,
-   3,
+   "Brad Paradise",
+   "Dartbags",
+   1.98,
+   24,
+   8,
+   10,
+   0,
+   0,
+   7,
+   0,
+   1,
+   0,
+   0
+  ],
+  [
+   "David Rogers",
+   "Truckin Bulls",
+   1.97,
+   27,
+   9,
    5,
    0,
    0,
-   4,
+   7,
+   5,
    2,
-   1,
    0,
    0
   ],
@@ -552,16 +537,31 @@
    0
   ],
   [
-   "Kevin Adams",
-   "Aiming Fluid",
-   1.94,
-   9,
+   "Dave Grouse",
+   "New Wave",
+   1.96,
+   15,
+   3,
+   5,
+   0,
+   0,
    4,
    2,
+   1,
+   0,
+   0
+  ],
+  [
+   "RUDY LATTA",
+   "{Substitutes}",
+   1.95,
+   6,
+   3,
+   1,
    0,
    0,
    0,
-   0,
+   2,
    0,
    0,
    0
@@ -576,6 +576,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Kevin Adams",
+   "Aiming Fluid",
+   1.94,
+   9,
+   4,
+   2,
+   0,
+   0,
+   0,
    0,
    0,
    0,
@@ -642,17 +657,17 @@
    0
   ],
   [
-   "Christopher Welling",
+   "Scott Stipulski",
    "Chicks And Dicks",
    1.84,
-   3,
+   18,
+   5,
+   2,
    0,
+   0,
+   7,
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
+   1,
    0,
    0
   ],
@@ -687,27 +702,12 @@
    0
   ],
   [
-   "Scott Stipulski",
-   "Chicks And Dicks",
-   1.78,
-   15,
-   2,
-   2,
-   0,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Dale Pickens",
    "Points And Pints",
    1.77,
-   21,
+   24,
    4,
-   7,
+   9,
    0,
    0,
    1,
@@ -715,21 +715,6 @@
    2,
    0,
    1
-  ],
-  [
-   "RUDY LATTA",
-   "{Substitutes}",
-   1.74,
-   3,
-   1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
   ],
   [
    "Pat Turco",
@@ -750,43 +735,13 @@
    "Dan Spencer",
    "Peppers And Onions",
    1.7,
-   18,
-   2,
-   1,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
-   "Jim Oneill",
-   "Points And Pints",
-   1.69,
    21,
-   3,
-   6,
-   0,
-   0,
-   3,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
-   "Joe Tortora",
-   "Points And Pints",
-   1.69,
-   21,
-   7,
-   1,
    2,
-   0,
-   0,
    1,
+   0,
+   0,
+   3,
+   2,
    1,
    0,
    0
@@ -824,15 +779,45 @@
   [
    "Brian Leach",
    "Truckin Bulls",
-   1.66,
-   24,
-   5,
+   1.64,
+   27,
+   6,
    7,
    0,
    0,
    3,
    1,
    2,
+   0,
+   0
+  ],
+  [
+   "Jim Oneill",
+   "Points And Pints",
+   1.64,
+   24,
+   3,
+   6,
+   0,
+   0,
+   3,
+   3,
+   1,
+   0,
+   0
+  ],
+  [
+   "Joe Tortora",
+   "Points And Pints",
+   1.64,
+   24,
+   8,
+   2,
+   2,
+   0,
+   0,
+   1,
+   1,
    0,
    0
   ],
@@ -897,12 +882,27 @@
    0
   ],
   [
+   "Christopher Welling",
+   "Chicks And Dicks",
+   1.55,
+   6,
+   0,
+   3,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Joel Mattison",
    "Truckin Bulls",
-   1.56,
-   21,
+   1.54,
+   24,
    5,
-   1,
+   4,
    0,
    0,
    3,
@@ -929,9 +929,9 @@
   [
    "Bill Bradburn",
    "Truckin Bulls",
-   1.53,
-   21,
-   1,
+   1.5,
+   24,
+   2,
    3,
    0,
    0,
@@ -1002,6 +1002,36 @@
    0
   ],
   [
+   "Rob Earl",
+   "Peppers And Onions",
+   1.39,
+   27,
+   2,
+   2,
+   0,
+   0,
+   6,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joey Tortora",
+   "Points And Pints",
+   1.38,
+   24,
+   6,
+   4,
+   1,
+   0,
+   2,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Tricia Busardo",
    "Aiming Fluid",
    1.38,
@@ -1017,18 +1047,18 @@
    0
   ],
   [
-   "Rob Earl",
-   "Peppers And Onions",
+   "Julie Stipulski",
+   "Chicks And Dicks",
    1.36,
-   24,
-   2,
-   2,
+   18,
+   1,
+   6,
    0,
    0,
-   4,
+   1,
    0,
-   0,
-   0,
+   1,
+   1,
    0
   ],
   [
@@ -1047,42 +1077,12 @@
    0
   ],
   [
-   "Joey Tortora",
-   "Points And Pints",
-   1.34,
-   21,
-   4,
-   4,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
-   "Julie Stipulski",
-   "Chicks And Dicks",
-   1.31,
-   15,
-   1,
-   4,
-   0,
-   0,
-   1,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Greg Cotchiti",
    "Peppers And Onions",
-   1.23,
-   21,
+   1.24,
+   24,
    0,
-   1,
+   2,
    0,
    0,
    2,
@@ -1095,8 +1095,8 @@
    "Lauri Earle",
    "Peppers And Onions",
    1.2,
-   21,
-   0,
+   24,
+   1,
    0,
    0,
    0,
@@ -1322,6 +1322,18 @@
    18
   ],
   [
+   "Scott Stipulski",
+   "Chicks And Dicks",
+   19.85,
+   24,
+   10,
+   0,
+   0,
+   0,
+   0,
+   13
+  ],
+  [
    "Jasen Torres",
    "Trippin On Trips",
    19.64,
@@ -1344,18 +1356,6 @@
    0,
    0,
    16
-  ],
-  [
-   "RUDY LATTA",
-   "{Substitutes}",
-   19.46,
-   4,
-   1,
-   0,
-   0,
-   0,
-   0,
-   4
   ],
   [
    "Ken Geer",
@@ -1394,18 +1394,6 @@
    12
   ],
   [
-   "Scott Stipulski",
-   "Chicks And Dicks",
-   19.23,
-   20,
-   10,
-   0,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Mike Bisig",
    "Trippin On Trips",
    19.16,
@@ -1442,30 +1430,6 @@
    11
   ],
   [
-   "Dale Pickens",
-   "Points And Pints",
-   18.18,
-   28,
-   5,
-   0,
-   0,
-   0,
-   0,
-   9
-  ],
-  [
-   "David Rogers",
-   "Truckin Bulls",
-   18.15,
-   32,
-   9,
-   0,
-   0,
-   0,
-   0,
-   16
-  ],
-  [
    "Barry Barklund",
    "Dartbags",
    18.13,
@@ -1478,16 +1442,28 @@
    17
   ],
   [
-   "Brian Leach",
+   "RUDY LATTA",
+   "{Substitutes}",
+   18.01,
+   8,
+   3,
+   0,
+   0,
+   0,
+   0,
+   4
+  ],
+  [
+   "David Rogers",
    "Truckin Bulls",
-   18.02,
-   32,
-   10,
+   17.87,
+   36,
+   9,
    0,
    0,
    0,
    0,
-   15
+   16
   ],
   [
    "Dave Grouse",
@@ -1500,6 +1476,18 @@
    0,
    0,
    9
+  ],
+  [
+   "Brian Leach",
+   "Truckin Bulls",
+   17.84,
+   36,
+   11,
+   0,
+   0,
+   0,
+   0,
+   17
   ],
   [
    "Paul Cottingham",
@@ -1526,6 +1514,18 @@
    10
   ],
   [
+   "Dale Pickens",
+   "Points And Pints",
+   17.7,
+   32,
+   7,
+   0,
+   0,
+   0,
+   0,
+   11
+  ],
+  [
    "Jake Preston",
    "Show Your Tips",
    17.52,
@@ -1548,18 +1548,6 @@
    0,
    0,
    11
-  ],
-  [
-   "Christopher Welling",
-   "Chicks And Dicks",
-   17.35,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1
   ],
   [
    "Jamie Rialdi",
@@ -1624,31 +1612,7 @@
   [
    "Dan Spencer",
    "Peppers And Onions",
-   16.59,
-   24,
-   2,
-   0,
-   0,
-   0,
-   0,
-   3
-  ],
-  [
-   "Jim Oneill",
-   "Points And Pints",
-   16.13,
-   28,
-   5,
-   0,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
-   "Bill Bradburn",
-   "Truckin Bulls",
-   16.09,
+   16.85,
    28,
    4,
    0,
@@ -1656,6 +1620,30 @@
    0,
    0,
    6
+  ],
+  [
+   "Bill Bradburn",
+   "Truckin Bulls",
+   16.38,
+   32,
+   5,
+   0,
+   0,
+   0,
+   0,
+   6
+  ],
+  [
+   "Joe Tortora",
+   "Points And Pints",
+   16.18,
+   32,
+   4,
+   0,
+   0,
+   0,
+   0,
+   11
   ],
   [
    "TJ Leverett",
@@ -1670,16 +1658,40 @@
    6
   ],
   [
-   "Joe Tortora",
+   "Jim Oneill",
    "Points And Pints",
-   15.94,
-   28,
-   3,
+   16.0,
+   32,
+   5,
    0,
    0,
    0,
    0,
-   10
+   8
+  ],
+  [
+   "Christopher Welling",
+   "Chicks And Dicks",
+   15.97,
+   8,
+   0,
+   0,
+   0,
+   0,
+   0,
+   2
+  ],
+  [
+   "Joel Mattison",
+   "Truckin Bulls",
+   15.84,
+   32,
+   6,
+   0,
+   0,
+   0,
+   0,
+   9
   ],
   [
    "Chris New Wave",
@@ -1694,18 +1706,6 @@
    1
   ],
   [
-   "Joel Mattison",
-   "Truckin Bulls",
-   15.66,
-   28,
-   4,
-   0,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Kevin Moses",
    "Is It In",
    15.54,
@@ -1716,18 +1716,6 @@
    0,
    0,
    6
-  ],
-  [
-   "Julie Stipulski",
-   "Chicks And Dicks",
-   15.5,
-   20,
-   1,
-   0,
-   0,
-   0,
-   0,
-   3
   ],
   [
    "Pal New Wave",
@@ -1744,14 +1732,26 @@
   [
    "Joey Tortora",
    "Points And Pints",
-   15.03,
-   28,
+   15.23,
+   32,
    3,
    0,
    0,
    0,
    0,
-   4
+   5
+  ],
+  [
+   "Julie Stipulski",
+   "Chicks And Dicks",
+   15.05,
+   24,
+   1,
+   0,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "John Dole",
@@ -1792,14 +1792,26 @@
   [
    "Rob Earl",
    "Peppers And Onions",
-   14.09,
+   14.24,
+   36,
+   3,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  [
+   "Lauri Earle",
+   "Peppers And Onions",
+   13.99,
    32,
+   1,
    1,
    0,
    0,
    0,
-   0,
-   0
+   4
   ],
   [
    "Kev Peppers And Onions",
@@ -1812,18 +1824,6 @@
    0,
    0,
    1
-  ],
-  [
-   "Lauri Earle",
-   "Peppers And Onions",
-   13.52,
-   28,
-   1,
-   0,
-   0,
-   0,
-   0,
-   2
   ],
   [
    "Sean New Wave",
@@ -1874,6 +1874,18 @@
    0
   ],
   [
+   "Greg Cotchiti",
+   "Peppers And Onions",
+   13.13,
+   32,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Luke Leach",
    "Truckin Bulls",
    13.07,
@@ -1896,18 +1908,6 @@
    0,
    0,
    2
-  ],
-  [
-   "Greg Cotchiti",
-   "Peppers And Onions",
-   12.86,
-   28,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
   ]
  ],
  "teams": [
@@ -2742,5 +2742,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-25T02:36:09Z"
+ "updated": "2026-11-25T13:11:25Z"
 }

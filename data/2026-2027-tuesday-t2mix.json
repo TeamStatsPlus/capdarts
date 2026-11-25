@@ -15,14 +15,19 @@
    29
   ],
   [
-   "Highmark Hitters",
-   52,
-   23
-  ],
-  [
    "Turtle Time",
    91,
    44
+  ],
+  [
+   "Highmark Hitters",
+   56,
+   34
+  ],
+  [
+   "Wags To Richs",
+   70,
+   50
   ],
   [
    "Sprinkles On Top",
@@ -35,17 +40,12 @@
    53
   ],
   [
-   "Wags To Richs",
-   58,
-   47
+   "Ya Know What I Mean",
+   65,
+   55
   ],
   [
    "Big And Little",
-   54,
-   51
-  ],
-  [
-   "Ya Know What I Mean",
    54,
    51
   ],
@@ -76,8 +76,8 @@
   ],
   [
    "And Then There Was 2",
-   24,
-   81
+   27,
+   93
   ],
   [
    "Squeaky Wheel",
@@ -101,6 +101,22 @@
    9,
    12,
    3
+  ],
+  [
+   "Wags To Richs",
+   "And Then There Was 2",
+   "11/24/2026",
+   9,
+   12,
+   3
+  ],
+  [
+   "Ya Know What I Mean",
+   "Highmark Hitters",
+   "11/24/2026",
+   9,
+   11,
+   4
   ],
   [
    "Sprinkles On Top",
@@ -135,22 +151,6 @@
    7
   ],
   [
-   "Wags To Richs",
-   "One Hole Away",
-   "11/17/2026",
-   8,
-   8,
-   7
-  ],
-  [
-   "And Then There Was 2",
-   "Dartaholicz",
-   "11/17/2026",
-   8,
-   7,
-   8
-  ],
-  [
    "Drunken Squids",
    "Turtle Time",
    "11/24/2026",
@@ -167,14 +167,6 @@
    9
   ],
   [
-   "Highmark Hitters",
-   "Sprinkles On Top",
-   "11/03/2026",
-   6,
-   5,
-   10
-  ],
-  [
    "BetR WallaceMaloney",
    "Sprinkles On Top",
    "11/24/2026",
@@ -183,16 +175,24 @@
    10
   ],
   [
+   "Highmark Hitters",
    "Ya Know What I Mean",
-   "Turtle Time",
-   "11/17/2026",
-   8,
+   "11/24/2026",
+   9,
    4,
    11
   ],
   [
    "Right There",
    "Better Together",
+   "11/24/2026",
+   9,
+   3,
+   12
+  ],
+  [
+   "And Then There Was 2",
+   "Wags To Richs",
    "11/24/2026",
    9,
    3,
@@ -250,10 +250,10 @@
     12.74
    ],
    [
-    "Chris Maloney",
-    "Turtle Time",
-    28.07,
-    28.4
+    "Jamie Labbate",
+    "Ya Know What I Mean",
+    21.44,
+    21.8
    ]
   ]
  },
@@ -366,15 +366,15 @@
   [
    "Rich Allen",
    "Wags To Richs",
-   3.04,
-   42,
-   19,
+   2.98,
+   48,
+   25,
    5,
-   3,
+   4,
    1,
-   26,
-   11,
-   6,
+   30,
+   12,
+   7,
    1,
    1
   ],
@@ -396,15 +396,15 @@
   [
    "Justin Burdett",
    "Highmark Hitters",
-   2.77,
-   30,
+   2.71,
+   36,
    19,
-   4,
+   5,
+   1,
    0,
-   0,
-   16,
+   20,
    9,
-   8,
+   9,
    0,
    0
   ],
@@ -426,15 +426,15 @@
   [
    "Jamie Labbate",
    "Ya Know What I Mean",
-   2.48,
-   42,
-   17,
-   5,
+   2.49,
+   48,
+   21,
+   6,
    3,
    0,
-   26,
-   13,
-   5,
+   28,
+   14,
+   6,
    0,
    0
   ],
@@ -636,13 +636,13 @@
   [
    "Mark Dalberth",
    "And Then There Was 2",
-   1.89,
-   36,
-   7,
+   1.87,
+   42,
+   8,
    2,
    0,
    0,
-   3,
+   4,
    3,
    2,
    0,
@@ -666,14 +666,14 @@
   [
    "Carol Bartell",
    "Wags To Richs",
-   1.82,
-   42,
+   1.79,
+   48,
+   11,
+   13,
+   0,
+   0,
    10,
-   9,
-   0,
-   0,
-   9,
-   4,
+   7,
    0,
    0,
    1
@@ -681,14 +681,14 @@
   [
    "Sue Dalton",
    "Ya Know What I Mean",
-   1.69,
-   42,
-   9,
-   11,
+   1.7,
+   48,
+   12,
+   13,
    1,
    0,
-   15,
-   1,
+   21,
+   2,
    2,
    0,
    0
@@ -739,21 +739,6 @@
    0
   ],
   [
-   "Alyssa Ham",
-   "Highmark Hitters",
-   1.52,
-   30,
-   8,
-   11,
-   0,
-   0,
-   5,
-   5,
-   0,
-   0,
-   0
-  ],
-  [
    "Sylvan Hemingway",
    "Squeaky Wheel",
    1.49,
@@ -764,6 +749,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Alyssa Ham",
+   "Highmark Hitters",
+   1.47,
+   36,
+   9,
+   11,
+   0,
+   0,
+   5,
+   5,
    0,
    0,
    0
@@ -786,14 +786,14 @@
   [
    "Julie DiGrazia",
    "And Then There Was 2",
-   1.42,
-   42,
+   1.39,
+   48,
    5,
    4,
    0,
    0,
-   4,
    5,
+   6,
    0,
    0,
    0
@@ -908,14 +908,14 @@
   [
    "Rich Allen",
    "Wags To Richs",
-   27.31,
-   49,
-   25,
-   38,
-   0,
+   26.99,
+   56,
+   29,
+   41,
    0,
    1,
-   121
+   2,
+   136
   ],
   [
    "Dan Freese",
@@ -944,14 +944,14 @@
   [
    "Justin Burdett",
    "Highmark Hitters",
-   24.34,
-   35,
-   18,
-   16,
+   24.17,
+   42,
+   21,
+   19,
    0,
    0,
    0,
-   83
+   99
   ],
   [
    "Tom Ralston",
@@ -980,14 +980,14 @@
   [
    "Jamie Labbate",
    "Ya Know What I Mean",
-   21.44,
-   49,
-   24,
-   19,
+   21.8,
+   56,
+   28,
+   21,
    0,
    0,
    0,
-   80
+   95
   ],
   [
    "Michael Ryder",
@@ -1100,14 +1100,14 @@
   [
    "Mark Dalberth",
    "And Then There Was 2",
-   16.94,
-   42,
-   9,
+   16.99,
+   49,
+   11,
    1,
    0,
    0,
    0,
-   35
+   42
   ],
   [
    "Ashley Gault",
@@ -1122,6 +1122,18 @@
    40
   ],
   [
+   "Sue Dalton",
+   "Ya Know What I Mean",
+   15.94,
+   56,
+   4,
+   4,
+   0,
+   0,
+   0,
+   38
+  ],
+  [
    "Brian Zicari",
    "Pointless",
    15.91,
@@ -1132,18 +1144,6 @@
    0,
    1,
    45
-  ],
-  [
-   "Sue Dalton",
-   "Ya Know What I Mean",
-   15.85,
-   49,
-   4,
-   4,
-   0,
-   0,
-   0,
-   33
   ],
   [
    "Kelli Nash",
@@ -1208,26 +1208,26 @@
   [
    "Carol Bartell",
    "Wags To Richs",
-   14.1,
-   49,
-   4,
-   0,
-   0,
-   0,
-   0,
-   26
-  ],
-  [
-   "Alyssa Ham",
-   "Highmark Hitters",
-   13.64,
-   35,
+   14.22,
+   56,
    5,
    0,
    0,
    0,
    0,
-   11
+   30
+  ],
+  [
+   "Alyssa Ham",
+   "Highmark Hitters",
+   13.66,
+   42,
+   5,
+   0,
+   0,
+   0,
+   0,
+   13
   ],
   [
    "Tyler CannonBailey",
@@ -1256,14 +1256,14 @@
   [
    "Julie DiGrazia",
    "And Then There Was 2",
-   13.21,
-   49,
+   13.18,
+   56,
+   1,
    1,
    0,
    0,
    0,
-   0,
-   11
+   13
   ],
   [
    "Jill Calvert",
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-25T02:35:55Z"
+ "updated": "2026-11-25T13:11:10Z"
 }
