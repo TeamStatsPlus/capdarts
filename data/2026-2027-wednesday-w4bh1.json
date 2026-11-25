@@ -507,6 +507,21 @@
    0
   ],
   [
+   "Stephen Monahan",
+   "The Limp Wristers",
+   1.58,
+   21,
+   5,
+   9,
+   0,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
    "Mike Loucks",
    "3some Plus 1",
    1.58,
@@ -532,21 +547,6 @@
    0,
    0,
    3,
-   0,
-   0,
-   0
-  ],
-  [
-   "Stephen Monahan",
-   "The Limp Wristers",
-   1.58,
-   21,
-   5,
-   9,
-   0,
-   0,
-   0,
-   4,
    0,
    0,
    0
@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.53,
-   18,
-   5,
-   5,
-   0,
-   0,
-   2,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Danielle Henry",
    "The Limp Wristers",
    1.53,
@@ -624,6 +609,21 @@
    1,
    0,
    2,
+   0
+  ],
+  [
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.53,
+   18,
+   5,
+   5,
+   0,
+   0,
+   2,
+   2,
+   1,
+   0,
    0
   ],
   [
@@ -777,6 +777,21 @@
    0
   ],
   [
+   "Christa Herbst",
+   "Cant Close",
+   1.35,
+   12,
+   5,
+   4,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
    "Tyler CannonBailey",
    "Squeekertips",
    1.35,
@@ -801,21 +816,6 @@
    0,
    0,
    0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Christa Herbst",
-   "Cant Close",
-   1.35,
-   12,
-   5,
-   4,
-   0,
-   0,
-   3,
    0,
    0,
    0,
@@ -912,21 +912,6 @@
    0
   ],
   [
-   "Tyler Voellinger",
-   "Struggle Bus",
-   1.26,
-   15,
-   3,
-   3,
-   0,
-   0,
-   0,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Howie Klick",
    "Emerald Society",
    1.26,
@@ -938,6 +923,21 @@
    1,
    0,
    0,
+   0,
+   0
+  ],
+  [
+   "Tyler Voellinger",
+   "Struggle Bus",
+   1.26,
+   15,
+   3,
+   3,
+   0,
+   0,
+   0,
+   2,
+   1,
    0,
    0
   ],
@@ -1107,21 +1107,6 @@
    0
   ],
   [
-   "Shawn Double Deuces",
-   "Double Deuces",
-   1.05,
-   6,
-   0,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Adam Phillips",
    "Struggle Bus",
    1.05,
@@ -1132,6 +1117,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Shawn Double Deuces",
+   "Double Deuces",
+   1.05,
+   6,
+   0,
+   4,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1182,21 +1182,6 @@
    0
   ],
   [
-   "Jamie Brown",
-   "Tips Dont Lie",
-   0.98,
-   9,
-   1,
-   2,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jill Calvert",
    "Squeekertips",
    0.98,
@@ -1207,6 +1192,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Jamie Brown",
+   "Tips Dont Lie",
+   0.98,
+   9,
+   1,
+   2,
+   0,
+   0,
+   0,
+   1,
    0,
    0,
    0
@@ -1415,18 +1415,6 @@
    13
   ],
   [
-   "Stephen Popowych",
-   "ProjectileDysfncion",
-   17.42,
-   20,
-   6,
-   0,
-   0,
-   0,
-   0,
-   10
-  ],
-  [
    "Eric Porte",
    "Throwgasms",
    17.42,
@@ -1437,6 +1425,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Stephen Popowych",
+   "ProjectileDysfncion",
+   17.42,
+   20,
+   6,
+   0,
+   0,
+   0,
+   0,
+   10
   ],
   [
    "James Simpson",
@@ -3057,5 +3057,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-25T13:11:52Z"
+ "updated": "2026-11-25T22:38:34Z"
 }

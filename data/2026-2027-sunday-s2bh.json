@@ -366,6 +366,21 @@
    0
   ],
   [
+   "James Davis",
+   "Ones Are Closed",
+   2.17,
+   48,
+   11,
+   3,
+   1,
+   0,
+   17,
+   4,
+   2,
+   0,
+   0
+  ],
+  [
    "Sean Crowell",
    "The Dartbags",
    2.17,
@@ -392,21 +407,6 @@
    19,
    10,
    4,
-   0,
-   0
-  ],
-  [
-   "James Davis",
-   "Ones Are Closed",
-   2.17,
-   48,
-   11,
-   3,
-   1,
-   0,
-   17,
-   4,
-   2,
    0,
    0
   ],
@@ -546,21 +546,6 @@
    0
   ],
   [
-   "Chaz Carley",
-   "Night Shot",
-   1.8,
-   54,
-   13,
-   17,
-   1,
-   0,
-   10,
-   6,
-   2,
-   0,
-   0
-  ],
-  [
    "Evan Caufield",
    "The Dartbags",
    1.8,
@@ -572,6 +557,21 @@
    0,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Chaz Carley",
+   "Night Shot",
+   1.8,
+   54,
+   13,
+   17,
+   1,
+   0,
+   10,
+   6,
+   2,
    0,
    0
   ],
@@ -666,21 +666,6 @@
    0
   ],
   [
-   "Nolan Manahan",
-   "Glass N Stache",
-   1.66,
-   6,
-   2,
-   1,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Charles Adger",
    "Team Titos",
    1.66,
@@ -692,6 +677,21 @@
    10,
    6,
    2,
+   0,
+   0
+  ],
+  [
+   "Nolan Manahan",
+   "Glass N Stache",
+   1.66,
+   6,
+   2,
+   1,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -917,24 +917,24 @@
    29
   ],
   [
-   "Neal Kenyon",
-   "One Hole Off",
-   19.32,
-   42,
-   14,
-   3,
-   0,
-   0,
-   1,
-   26
-  ],
-  [
    "Donovan Caraballo",
    "Talk Darty To Me",
    19.32,
    49,
    12,
    4,
+   0,
+   0,
+   1,
+   26
+  ],
+  [
+   "Neal Kenyon",
+   "One Hole Off",
+   19.32,
+   42,
+   14,
+   3,
    0,
    0,
    1,
@@ -2285,5 +2285,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-25T13:10:32Z"
+ "updated": "2026-11-25T22:37:11Z"
 }
