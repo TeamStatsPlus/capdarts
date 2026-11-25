@@ -6,33 +6,33 @@
  "standings": [
   [
    "AM Lumber",
-   55,
-   23
+   65,
+   26
   ],
   [
    "Trippin On Trips",
-   64,
-   27
-  ],
-  [
-   "Is It In",
-   63,
-   28
-  ],
-  [
-   "Dartbags",
-   60,
+   73,
    31
   ],
   [
+   "Is It In",
+   70,
+   34
+  ],
+  [
+   "Dartbags",
+   66,
+   38
+  ],
+  [
    "Fat Bastards",
-   54,
-   37
+   64,
+   40
   ],
   [
    "New Wave",
-   49,
-   42
+   53,
+   51
   ],
   [
    "Chicks And Dicks",
@@ -46,13 +46,13 @@
   ],
   [
    "Aiming Fluid",
-   43,
-   61
+   46,
+   71
   ],
   [
    "Show Your Tips",
-   37,
-   54
+   40,
+   64
   ],
   [
    "Points And Pints",
@@ -67,52 +67,28 @@
  ],
  "results": [
   [
-   "Is It In",
-   "Peppers And Onions",
-   "11/17/2026",
-   8,
-   13,
-   0
-  ],
-  [
-   "New Wave",
-   "Peppers And Onions",
-   "11/10/2026",
-   7,
-   11,
-   2
-  ],
-  [
    "Fat Bastards",
+   "Aiming Fluid",
+   "11/24/2026",
+   9,
+   10,
+   3
+  ],
+  [
+   "AM Lumber",
    "Show Your Tips",
-   "11/17/2026",
-   8,
+   "11/24/2026",
+   9,
+   10,
+   3
+  ],
+  [
+   "Trippin On Trips",
+   "New Wave",
+   "11/24/2026",
+   9,
    9,
    4
-  ],
-  [
-   "Aiming Fluid",
-   "Points And Pints",
-   "11/17/2026",
-   8,
-   8,
-   5
-  ],
-  [
-   "Trippin On Trips",
-   "Truckin Bulls",
-   "11/17/2026",
-   8,
-   8,
-   5
-  ],
-  [
-   "Dartbags",
-   "Trippin On Trips",
-   "11/10/2026",
-   7,
-   8,
-   5
   ],
   [
    "Chicks And Dicks",
@@ -123,12 +99,20 @@
    6
   ],
   [
-   "AM Lumber",
    "Is It In",
-   "11/10/2026",
-   7,
+   "Dartbags",
+   "11/24/2026",
+   9,
    7,
    6
+  ],
+  [
+   "Dartbags",
+   "Is It In",
+   "11/24/2026",
+   9,
+   6,
+   7
   ],
   [
    "Truckin Bulls",
@@ -147,12 +131,28 @@
    8
   ],
   [
-   "Show Your Tips",
-   "Fat Bastards",
-   "11/17/2026",
-   8,
+   "New Wave",
+   "Trippin On Trips",
+   "11/24/2026",
+   9,
    4,
    9
+  ],
+  [
+   "Aiming Fluid",
+   "Fat Bastards",
+   "11/24/2026",
+   9,
+   3,
+   10
+  ],
+  [
+   "Show Your Tips",
+   "AM Lumber",
+   "11/24/2026",
+   9,
+   3,
+   10
   ],
   [
    "Peppers And Onions",
@@ -166,42 +166,42 @@
  "improved": {
   "c": [
    [
-    "David Rogers",
-    "Truckin Bulls",
-    1.89,
-    2.02
+    "Mike Mucci",
+    "Dartbags",
+    2.05,
+    2.18
    ],
    [
-    "Jake Preston",
+    "Will Zimmer",
+    "AM Lumber",
+    2.23,
+    2.32
+   ],
+   [
+    "Mike Fischer",
     "Show Your Tips",
-    1.81,
-    1.9
-   ],
-   [
-    "Desmond Parris",
-    "Fat Bastards",
-    2.22,
-    2.31
+    1.08,
+    1.17
    ]
   ],
   "x": [
    [
-    "Hector Hernandez",
-    "Fat Bastards",
-    20.77,
-    21.91
-   ],
-   [
-    "Mike Bisig",
+    "Pat Turco",
     "Trippin On Trips",
-    18.57,
-    19.43
+    15.97,
+    16.97
    ],
    [
-    "Jamie Rialdi",
-    "Show Your Tips",
-    16.2,
-    16.97
+    "Mike Coyle",
+    "Fat Bastards",
+    17.38,
+    17.75
+   ],
+   [
+    "Jasen Torres",
+    "Trippin On Trips",
+    19.27,
+    19.64
    ]
   ]
  },
@@ -222,31 +222,46 @@
    0
   ],
   [
-   "Ricky Karre",
-   "Is It In",
-   2.51,
+   "Andy Horton",
+   "AM Lumber",
+   2.5,
    21,
+   7,
+   11,
+   0,
+   1,
    8,
    7,
-   1,
-   0,
-   13,
-   2,
    3,
    0,
    0
   ],
   [
-   "Andy Horton",
-   "AM Lumber",
-   2.5,
-   18,
+   "Ricky Karre",
+   "Is It In",
+   2.47,
+   24,
+   9,
    7,
-   8,
-   0,
    1,
-   8,
+   0,
+   13,
+   3,
+   3,
+   0,
+   0
+  ],
+  [
+   "Will Zimmer",
+   "AM Lumber",
+   2.32,
+   21,
+   10,
    7,
+   3,
+   0,
+   16,
+   5,
    1,
    0,
    0
@@ -254,9 +269,9 @@
   [
    "Tino Aiming Fluid",
    "Aiming Fluid",
-   2.34,
-   15,
-   6,
+   2.31,
+   18,
+   7,
    1,
    2,
    0,
@@ -267,30 +282,15 @@
    0
   ],
   [
-   "Mike Tantalo",
-   "AM Lumber",
-   2.33,
-   6,
-   2,
-   2,
-   0,
-   0,
-   1,
-   2,
-   0,
-   0,
-   0
-  ],
-  [
    "Desmond Parris",
    "Fat Bastards",
-   2.31,
-   21,
-   6,
-   6,
-   0,
-   0,
+   2.29,
+   24,
    7,
+   7,
+   0,
+   0,
+   8,
    2,
    1,
    0,
@@ -299,14 +299,14 @@
   [
    "Hector Hernandez",
    "Fat Bastards",
-   2.29,
-   21,
-   9,
-   5,
+   2.28,
+   24,
+   11,
+   6,
    1,
    0,
-   8,
-   1,
+   10,
+   2,
    3,
    0,
    0
@@ -327,32 +327,47 @@
    0
   ],
   [
-   "Will Zimmer",
-   "AM Lumber",
-   2.23,
-   18,
-   9,
-   6,
-   3,
-   0,
-   14,
-   3,
+   "Mike Mucci",
+   "Dartbags",
+   2.18,
+   24,
+   11,
+   7,
    1,
+   1,
+   4,
+   1,
+   3,
    0,
    0
   ],
   [
    "Zach Zeek Smith",
    "Is It In",
-   2.2,
-   21,
+   2.17,
+   24,
    14,
-   2,
+   3,
    0,
    0,
-   2,
+   3,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Jose Santiago",
+   "Dartbags",
+   2.1,
+   24,
+   9,
+   4,
+   2,
+   0,
+   5,
+   5,
+   2,
    0,
    0
   ],
@@ -372,17 +387,32 @@
    0
   ],
   [
-   "Jose Santiago",
-   "Dartbags",
-   2.09,
-   21,
-   8,
-   4,
+   "Michael Bell",
+   "Is It In",
+   2.08,
+   24,
+   6,
+   9,
    2,
    0,
-   4,
-   5,
+   3,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Mike Tantalo",
+   "AM Lumber",
+   2.08,
+   9,
+   3,
+   3,
+   0,
+   0,
    2,
+   2,
+   1,
    0,
    0
   ],
@@ -404,75 +434,15 @@
   [
    "Alex Riley",
    "New Wave",
-   2.08,
-   18,
-   7,
-   7,
-   1,
-   0,
-   5,
-   0,
-   4,
-   0,
-   0
-  ],
-  [
-   "Michael Bell",
-   "Is It In",
-   2.05,
-   21,
-   5,
-   8,
-   2,
-   0,
-   3,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
-   "Mike Mucci",
-   "Dartbags",
-   2.05,
-   21,
-   10,
-   5,
-   1,
-   0,
-   3,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
-   "Brad Paradise",
-   "Dartbags",
    2.04,
    21,
    7,
-   9,
-   0,
-   0,
    7,
-   0,
    1,
    0,
-   0
-  ],
-  [
-   "Scott Tartaglia",
-   "New Wave",
-   2.02,
-   21,
-   6,
-   7,
-   0,
-   0,
-   6,
-   3,
-   0,
+   5,
+   1,
+   4,
    0,
    0
   ],
@@ -492,28 +462,13 @@
    0
   ],
   [
-   "Dave Grouse",
-   "New Wave",
-   2.01,
-   12,
-   3,
-   4,
-   0,
-   0,
-   4,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Mike Bisig",
    "Trippin On Trips",
-   2.0,
-   21,
-   9,
+   2.01,
+   24,
+   11,
    8,
-   0,
+   1,
    0,
    9,
    1,
@@ -524,44 +479,74 @@
   [
    "Barry Barklund",
    "Dartbags",
-   1.98,
-   21,
+   2.01,
+   24,
+   4,
+   11,
+   0,
+   0,
+   4,
+   1,
    3,
+   0,
+   0
+  ],
+  [
+   "Brad Paradise",
+   "Dartbags",
+   1.98,
+   24,
+   8,
    10,
    0,
    0,
-   3,
+   7,
+   0,
    1,
+   0,
+   0
+  ],
+  [
+   "Jasen Torres",
+   "Trippin On Trips",
+   1.98,
+   24,
+   12,
+   7,
+   0,
+   0,
+   2,
+   3,
    2,
    0,
    0
   ],
   [
-   "Zack Fee",
-   "Trippin On Trips",
+   "Dave Grouse",
+   "New Wave",
    1.96,
-   9,
-   2,
+   15,
+   3,
    5,
    0,
    0,
-   2,
    4,
-   0,
+   2,
+   1,
    0,
    0
   ],
   [
-   "Anthony Kelly",
-   "AM Lumber",
-   1.94,
+   "Scott Tartaglia",
+   "New Wave",
+   1.96,
+   24,
+   6,
+   7,
+   0,
+   0,
+   6,
    3,
-   0,
-   3,
-   0,
-   0,
-   1,
-   0,
    0,
    0,
    0
@@ -582,17 +567,17 @@
    0
   ],
   [
-   "Jasen Torres",
-   "Trippin On Trips",
-   1.91,
-   21,
-   11,
-   5,
+   "Anthony Kelly",
+   "AM Lumber",
+   1.94,
+   3,
+   0,
+   3,
    0,
    0,
-   2,
-   2,
-   2,
+   1,
+   0,
+   0,
    0,
    0
   ],
@@ -612,6 +597,51 @@
    1
   ],
   [
+   "Kevin Moses",
+   "Is It In",
+   1.88,
+   24,
+   1,
+   11,
+   0,
+   0,
+   5,
+   3,
+   2,
+   0,
+   0
+  ],
+  [
+   "Paul Cottingham",
+   "AM Lumber",
+   1.88,
+   15,
+   5,
+   3,
+   0,
+   0,
+   3,
+   5,
+   0,
+   0,
+   0
+  ],
+  [
+   "Zack Fee",
+   "Trippin On Trips",
+   1.87,
+   12,
+   3,
+   6,
+   0,
+   0,
+   2,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
    "Christopher Welling",
    "Chicks And Dicks",
    1.84,
@@ -627,10 +657,25 @@
    0
   ],
   [
+   "Chris Laloggia",
+   "Fat Bastards",
+   1.82,
+   24,
+   5,
+   9,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Jamie Rialdi",
    "Show Your Tips",
-   1.83,
-   21,
+   1.8,
+   24,
    3,
    6,
    0,
@@ -638,36 +683,6 @@
    8,
    2,
    1,
-   0,
-   0
-  ],
-  [
-   "Kevin Moses",
-   "Is It In",
-   1.83,
-   21,
-   1,
-   11,
-   0,
-   0,
-   5,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
-   "Paul Cottingham",
-   "AM Lumber",
-   1.8,
-   12,
-   2,
-   3,
-   0,
-   0,
-   2,
-   5,
-   0,
    0,
    0
   ],
@@ -702,15 +717,15 @@
    1
   ],
   [
-   "Chris Laloggia",
-   "Fat Bastards",
-   1.75,
-   21,
-   5,
-   7,
-   0,
-   0,
+   "RUDY LATTA",
+   "{Substitutes}",
+   1.74,
    3,
+   1,
+   0,
+   0,
+   0,
+   0,
    1,
    0,
    0,
@@ -719,31 +734,16 @@
   [
    "Pat Turco",
    "Trippin On Trips",
-   1.72,
-   15,
-   3,
-   9,
-   0,
-   0,
-   2,
+   1.71,
+   18,
+   4,
+   11,
+   1,
    0,
    2,
    1,
-   0
-  ],
-  [
-   "Mike Coyle",
-   "Fat Bastards",
-   1.71,
-   21,
-   3,
-   5,
-   0,
-   0,
-   3,
-   4,
-   0,
-   0,
+   2,
+   1,
    0
   ],
   [
@@ -837,19 +837,49 @@
    0
   ],
   [
+   "Mike Coyle",
+   "Fat Bastards",
+   1.64,
+   24,
+   4,
+   5,
+   0,
+   0,
+   3,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
    "TJ Leverett",
    "New Wave",
-   1.61,
-   21,
-   7,
+   1.63,
+   24,
+   8,
    5,
    0,
    0,
    5,
-   2,
+   3,
    2,
    0,
    0
+  ],
+  [
+   "Eric Smith",
+   "Show Your Tips",
+   1.61,
+   24,
+   6,
+   4,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0,
+   1
   ],
   [
    "Ken Geer",
@@ -862,21 +892,6 @@
    0,
    1,
    0,
-   0,
-   0,
-   0
-  ],
-  [
-   "Eric Smith",
-   "Show Your Tips",
-   1.58,
-   21,
-   6,
-   3,
-   0,
-   0,
-   0,
-   3,
    0,
    0,
    0
@@ -957,10 +972,25 @@
    0
   ],
   [
+   "Jennifer Wright",
+   "Aiming Fluid",
+   1.43,
+   27,
+   5,
+   4,
+   1,
+   0,
+   2,
+   3,
+   0,
+   0,
+   0
+  ],
+  [
    "John Dole",
    "Aiming Fluid",
-   1.44,
-   24,
+   1.42,
+   27,
    1,
    6,
    0,
@@ -972,17 +1002,17 @@
    0
   ],
   [
-   "Jennifer Wright",
+   "Tricia Busardo",
    "Aiming Fluid",
    1.38,
-   24,
-   4,
-   4,
-   1,
+   27,
+   2,
+   6,
    0,
-   1,
-   3,
    0,
+   4,
+   2,
+   1,
    0,
    0
   ],
@@ -1013,21 +1043,6 @@
    0,
    0,
    0,
-   0,
-   0
-  ],
-  [
-   "Tricia Busardo",
-   "Aiming Fluid",
-   1.35,
-   24,
-   2,
-   4,
-   0,
-   0,
-   4,
-   2,
-   1,
    0,
    0
   ],
@@ -1109,8 +1124,8 @@
   [
    "Mike Fischer",
    "Show Your Tips",
-   1.08,
-   15,
+   1.17,
+   18,
    2,
    3,
    0,
@@ -1153,50 +1168,38 @@
   [
    "Desmond Parris",
    "Fat Bastards",
-   24.08,
-   28,
-   13,
-   5,
+   23.93,
+   32,
+   16,
+   6,
    0,
    0,
    0,
-   28
-  ],
-  [
-   "Mike Tantalo",
-   "AM Lumber",
-   23.42,
-   8,
-   2,
-   1,
-   0,
-   0,
-   0,
-   3
+   31
   ],
   [
    "Tino Aiming Fluid",
    "Aiming Fluid",
-   23.32,
-   20,
+   23.18,
+   24,
    11,
-   3,
-   0,
-   0,
-   0,
-   18
-  ],
-  [
-   "Ricky Karre",
-   "Is It In",
-   22.41,
-   28,
-   11,
-   2,
+   4,
    0,
    0,
    0,
    21
+  ],
+  [
+   "Ricky Karre",
+   "Is It In",
+   22.35,
+   32,
+   14,
+   2,
+   0,
+   0,
+   0,
+   23
   ],
   [
    "Tyler Giorgione",
@@ -1211,28 +1214,28 @@
    13
   ],
   [
+   "Andy Horton",
+   "AM Lumber",
+   21.88,
+   28,
+   10,
+   2,
+   0,
+   0,
+   0,
+   17
+  ],
+  [
    "Hector Hernandez",
    "Fat Bastards",
-   21.91,
-   28,
+   21.49,
+   32,
    6,
    5,
    0,
    0,
    0,
-   15
-  ],
-  [
-   "Andy Horton",
-   "AM Lumber",
-   21.69,
-   24,
-   9,
-   2,
-   0,
-   0,
-   0,
-   13
+   16
   ],
   [
    "John Bailey",
@@ -1249,14 +1252,14 @@
   [
    "Will Zimmer",
    "AM Lumber",
-   21.03,
-   24,
-   7,
+   21.33,
+   28,
+   10,
    2,
    0,
    0,
    0,
-   12
+   15
   ],
   [
    "Chris Contrera",
@@ -1273,62 +1276,86 @@
   [
    "Alex Riley",
    "New Wave",
-   20.75,
-   24,
-   8,
-   1,
+   20.67,
+   28,
+   9,
+   2,
    0,
    0,
    1,
-   15
+   16
+  ],
+  [
+   "Mike Tantalo",
+   "AM Lumber",
+   20.54,
+   12,
+   2,
+   1,
+   0,
+   0,
+   0,
+   3
   ],
   [
    "Michael Bell",
    "Is It In",
-   20.34,
-   28,
-   7,
+   20.48,
+   32,
+   9,
    3,
-   0,
-   0,
-   0,
-   14
-  ],
-  [
-   "Mike Mucci",
-   "Dartbags",
-   20.28,
-   28,
-   12,
-   1,
    0,
    0,
    0,
    18
   ],
   [
-   "Zack Fee",
-   "Trippin On Trips",
-   19.86,
-   12,
-   3,
+   "Mike Mucci",
+   "Dartbags",
+   20.11,
+   32,
+   13,
+   2,
    0,
    0,
    0,
-   0,
-   6
+   18
   ],
   [
-   "Jose Santiago",
-   "Dartbags",
-   19.72,
-   28,
-   6,
+   "Jasen Torres",
+   "Trippin On Trips",
+   19.64,
+   32,
+   8,
+   4,
+   0,
+   0,
+   0,
+   18
+  ],
+  [
+   "Zach Zeek Smith",
+   "Is It In",
+   19.56,
+   32,
+   12,
    1,
    0,
    0,
    0,
-   9
+   16
+  ],
+  [
+   "RUDY LATTA",
+   "{Substitutes}",
+   19.46,
+   4,
+   1,
+   0,
+   0,
+   0,
+   0,
+   4
   ],
   [
    "Ken Geer",
@@ -1343,40 +1370,28 @@
    0
   ],
   [
-   "Mike Bisig",
+   "Zack Fee",
    "Trippin On Trips",
-   19.43,
-   28,
-   9,
+   19.33,
+   16,
    3,
    0,
    0,
    0,
-   13
+   0,
+   8
   ],
   [
-   "Zach Zeek Smith",
-   "Is It In",
-   19.36,
-   28,
-   12,
+   "Jose Santiago",
+   "Dartbags",
+   19.29,
+   32,
+   7,
    1,
    0,
    0,
    0,
-   14
-  ],
-  [
-   "Jasen Torres",
-   "Trippin On Trips",
-   19.27,
-   28,
-   7,
-   3,
-   0,
-   0,
-   0,
-   15
+   12
   ],
   [
    "Scott Stipulski",
@@ -1391,40 +1406,40 @@
    8
   ],
   [
-   "Scott Tartaglia",
-   "New Wave",
-   18.96,
-   28,
-   6,
-   0,
+   "Mike Bisig",
+   "Trippin On Trips",
+   19.16,
+   32,
+   10,
+   3,
    0,
    0,
    0,
    13
   ],
   [
+   "Scott Tartaglia",
+   "New Wave",
+   18.63,
+   32,
+   6,
+   0,
+   0,
+   0,
+   0,
+   14
+  ],
+  [
    "Brad Paradise",
    "Dartbags",
-   18.54,
-   28,
+   18.35,
+   32,
    7,
    2,
    0,
    0,
    0,
    11
-  ],
-  [
-   "Barry Barklund",
-   "Dartbags",
-   18.23,
-   28,
-   7,
-   1,
-   0,
-   0,
-   0,
-   16
   ],
   [
    "Dale Pickens",
@@ -1439,18 +1454,6 @@
    9
   ],
   [
-   "Paul Cottingham",
-   "AM Lumber",
-   18.17,
-   16,
-   4,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "David Rogers",
    "Truckin Bulls",
    18.15,
@@ -1461,6 +1464,18 @@
    0,
    0,
    16
+  ],
+  [
+   "Barry Barklund",
+   "Dartbags",
+   18.13,
+   32,
+   7,
+   1,
+   0,
+   0,
+   0,
+   17
   ],
   [
    "Brian Leach",
@@ -1477,14 +1492,38 @@
   [
    "Dave Grouse",
    "New Wave",
-   17.84,
-   16,
-   6,
+   17.85,
+   20,
+   7,
+   1,
+   0,
+   0,
+   0,
+   9
+  ],
+  [
+   "Paul Cottingham",
+   "AM Lumber",
+   17.8,
+   20,
+   5,
    0,
    0,
    0,
    0,
-   8
+   5
+  ],
+  [
+   "Mike Coyle",
+   "Fat Bastards",
+   17.75,
+   32,
+   8,
+   0,
+   0,
+   0,
+   0,
+   10
   ],
   [
    "Jake Preston",
@@ -1499,28 +1538,16 @@
    8
   ],
   [
-   "Mike Coyle",
-   "Fat Bastards",
-   17.38,
-   28,
-   6,
-   0,
-   0,
-   0,
-   0,
-   8
-  ],
-  [
    "Eric Smith",
    "Show Your Tips",
-   17.36,
-   28,
+   17.42,
+   32,
    3,
    0,
    0,
    0,
    0,
-   9
+   11
   ],
   [
    "Christopher Welling",
@@ -1535,16 +1562,16 @@
    1
   ],
   [
-   "Jennifer Wright",
-   "Aiming Fluid",
-   17.18,
+   "Jamie Rialdi",
+   "Show Your Tips",
+   17.26,
    32,
-   7,
+   6,
+   1,
    0,
    0,
    0,
-   0,
-   11
+   14
   ],
   [
    "Chris Show Your Tips",
@@ -1561,26 +1588,38 @@
   [
    "Chris Laloggia",
    "Fat Bastards",
-   17.04,
-   28,
-   6,
-   2,
+   17.02,
+   32,
+   7,
+   3,
    0,
    0,
    0,
-   9
+   10
   ],
   [
-   "Jamie Rialdi",
-   "Show Your Tips",
+   "Pat Turco",
+   "Trippin On Trips",
    16.97,
-   28,
-   5,
+   24,
+   6,
    1,
    0,
    0,
+   1,
+   7
+  ],
+  [
+   "Jennifer Wright",
+   "Aiming Fluid",
+   16.88,
+   36,
+   7,
    0,
-   12
+   0,
+   0,
+   0,
+   11
   ],
   [
    "Dan Spencer",
@@ -1619,16 +1658,16 @@
    6
   ],
   [
-   "Pat Turco",
-   "Trippin On Trips",
-   15.97,
-   20,
-   4,
+   "TJ Leverett",
+   "New Wave",
+   16.01,
+   32,
+   3,
    1,
    0,
    0,
-   1,
-   3
+   0,
+   6
   ],
   [
    "Joe Tortora",
@@ -1655,18 +1694,6 @@
    1
   ],
   [
-   "TJ Leverett",
-   "New Wave",
-   15.71,
-   28,
-   2,
-   1,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Joel Mattison",
    "Truckin Bulls",
    15.66,
@@ -1677,6 +1704,18 @@
    0,
    0,
    7
+  ],
+  [
+   "Kevin Moses",
+   "Is It In",
+   15.54,
+   32,
+   5,
+   0,
+   0,
+   0,
+   0,
+   6
   ],
   [
    "Julie Stipulski",
@@ -1691,18 +1730,6 @@
    3
   ],
   [
-   "Kevin Moses",
-   "Is It In",
-   15.49,
-   28,
-   5,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Pal New Wave",
    "New Wave",
    15.47,
@@ -1713,18 +1740,6 @@
    0,
    0,
    4
-  ],
-  [
-   "John Dole",
-   "Aiming Fluid",
-   15.3,
-   32,
-   4,
-   0,
-   0,
-   0,
-   0,
-   5
   ],
   [
    "Joey Tortora",
@@ -1739,10 +1754,22 @@
    4
   ],
   [
+   "John Dole",
+   "Aiming Fluid",
+   14.98,
+   36,
+   4,
+   0,
+   0,
+   0,
+   0,
+   5
+  ],
+  [
    "Mike Fischer",
    "Show Your Tips",
-   14.82,
-   20,
+   14.44,
+   24,
    4,
    0,
    0,
@@ -1754,8 +1781,8 @@
    "Tricia Busardo",
    "Aiming Fluid",
    14.35,
-   32,
-   1,
+   36,
+   2,
    1,
    0,
    0,
@@ -2715,5 +2742,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-24T17:56:30Z"
+ "updated": "2026-11-25T02:36:09Z"
 }

@@ -126,10 +126,10 @@
     1.84
    ],
    [
-    "Bailey Plummer",
-    "Dartbags",
-    1.94,
-    2.01
+    "Tony Villani",
+    "Wrong Hole",
+    2.11,
+    2.18
    ]
   ],
   "x": [
@@ -485,21 +485,6 @@
    0
   ],
   [
-   "Bailey Plummer",
-   "Dartbags",
-   2.01,
-   27,
-   7,
-   6,
-   1,
-   0,
-   12,
-   4,
-   1,
-   0,
-   1
-  ],
-  [
    "Steve Wehry",
    "RamRod",
    2.01,
@@ -511,6 +496,21 @@
    8,
    1,
    0,
+   0,
+   1
+  ],
+  [
+   "Bailey Plummer",
+   "Dartbags",
+   2.01,
+   27,
+   7,
+   6,
+   1,
+   0,
+   12,
+   4,
+   1,
    0,
    1
   ],
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-24T17:56:12Z"
+ "updated": "2026-11-25T02:35:51Z"
 }

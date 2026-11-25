@@ -361,21 +361,6 @@
    1
   ],
   [
-   "Justin Smith",
-   "Box Chevy",
-   2.88,
-   42,
-   16,
-   5,
-   5,
-   1,
-   20,
-   18,
-   16,
-   0,
-   0
-  ],
-  [
    "Fred James",
    "Brown Viper",
    2.88,
@@ -389,6 +374,21 @@
    13,
    0,
    1
+  ],
+  [
+   "Justin Smith",
+   "Box Chevy",
+   2.88,
+   42,
+   16,
+   5,
+   5,
+   1,
+   20,
+   18,
+   16,
+   0,
+   0
   ],
   [
    "Mike Nicholls",
@@ -1509,5 +1509,5 @@
    "address": "111 Park Ave., Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-24T17:55:43Z"
+ "updated": "2026-11-25T02:35:22Z"
 }

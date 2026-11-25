@@ -6,13 +6,8 @@
  "standings": [
   [
    "Lady And The Tramps",
-   55,
-   36
-  ],
-  [
-   "Thunderbuddies",
-   60,
-   44
+   61,
+   43
   ],
   [
    "4 Of Clubs",
@@ -20,9 +15,14 @@
    44
   ],
   [
+   "Thunderbuddies",
+   67,
+   50
+  ],
+  [
    "Gettin Looped",
-   55,
-   49
+   60,
+   57
   ],
   [
    "Team Name",
@@ -31,8 +31,8 @@
   ],
   [
    "The Critters",
-   47,
-   57
+   55,
+   62
   ],
   [
    "Thats Bullshoot",
@@ -55,12 +55,12 @@
    2
   ],
   [
-   "Lady And The Tramps",
-   "Thats Bullshoot",
-   "11/10/2026",
-   7,
+   "The Critters",
+   "Gettin Looped",
+   "11/24/2026",
    9,
-   4
+   8,
+   5
   ],
   [
    "Team Name",
@@ -71,18 +71,18 @@
    5
   ],
   [
-   "Gettin Looped",
    "Thunderbuddies",
-   "11/17/2026",
-   8,
+   "Lady And The Tramps",
+   "11/24/2026",
+   9,
    7,
    6
   ],
   [
+   "Lady And The Tramps",
    "Thunderbuddies",
-   "Gettin Looped",
-   "11/17/2026",
-   8,
+   "11/24/2026",
+   9,
    6,
    7
   ],
@@ -95,61 +95,61 @@
    8
   ],
   [
+   "Gettin Looped",
+   "The Critters",
+   "11/24/2026",
+   9,
+   5,
+   8
+  ],
+  [
    "No Sleep",
    "The Critters",
    "11/10/2026",
    7,
    3,
    10
-  ],
-  [
-   "The Critters",
-   "4 Of Clubs",
-   "11/17/2026",
-   8,
-   2,
-   11
   ]
  ],
  "improved": {
   "c": [
    [
-    "Sue Fuhry",
-    "4 Of Clubs",
-    1.23,
-    1.33
-   ],
-   [
-    "Tom Solorzano",
-    "4 Of Clubs",
-    1.27,
-    1.33
-   ],
-   [
-    "Lou Sanchez",
-    "Team Name",
-    1.13,
-    1.18
-   ]
-  ],
-  "x": [
-   [
-    "Lou Sanchez",
-    "Team Name",
-    12.93,
-    13.36
-   ],
-   [
-    "David Pearce",
-    "Thunderbuddies",
-    12.84,
-    13.26
+    "Ben Vassallo",
+    "Lady And The Tramps",
+    1.6,
+    1.73
    ],
    [
     "Rick Ernst",
     "Gettin Looped",
-    17.99,
-    18.3
+    1.87,
+    1.94
+   ],
+   [
+    "Casey Birch",
+    "The Critters",
+    1.38,
+    1.45
+   ]
+  ],
+  "x": [
+   [
+    "Debbie Olyer",
+    "Gettin Looped",
+    14.42,
+    14.99
+   ],
+   [
+    "Brian Sloan",
+    "The Critters",
+    18.66,
+    18.94
+   ],
+   [
+    "Brad Wight",
+    "Thunderbuddies",
+    17.85,
+    17.99
    ]
   ]
  },
@@ -172,10 +172,10 @@
   [
    "Ben Deuel",
    "Thunderbuddies",
-   1.98,
-   21,
+   1.96,
+   24,
    6,
-   5,
+   6,
    0,
    0,
    5,
@@ -188,13 +188,13 @@
    "Travis Hall",
    "Lady And The Tramps",
    1.95,
-   21,
-   8,
+   24,
    9,
+   10,
    0,
    0,
-   2,
-   2,
+   3,
+   3,
    0,
    0,
    0
@@ -215,6 +215,21 @@
    0
   ],
   [
+   "Rick Ernst",
+   "Gettin Looped",
+   1.94,
+   27,
+   9,
+   4,
+   2,
+   0,
+   2,
+   6,
+   1,
+   0,
+   0
+  ],
+  [
    "Jim Barnard",
    "4 Of Clubs",
    1.94,
@@ -225,6 +240,21 @@
    0,
    1,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.92,
+   27,
+   8,
+   4,
+   3,
+   0,
+   7,
+   4,
    0,
    0,
    0
@@ -247,30 +277,15 @@
   [
    "Brad Wight",
    "Thunderbuddies",
-   1.92,
-   24,
-   11,
+   1.9,
+   27,
+   12,
    6,
    0,
    0,
    6,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Brian Sloan",
-   "The Critters",
-   1.88,
-   24,
-   7,
-   2,
-   2,
-   0,
-   6,
-   3,
-   0,
    0,
    0
   ],
@@ -290,47 +305,17 @@
    0
   ],
   [
-   "Rick Ernst",
-   "Gettin Looped",
-   1.87,
-   24,
-   8,
-   4,
-   1,
-   0,
-   1,
-   3,
-   1,
-   0,
-   0
-  ],
-  [
    "Ian Heath",
    "Lady And The Tramps",
    1.85,
-   18,
-   12,
-   2,
+   21,
+   13,
+   3,
    0,
    0,
-   1,
+   3,
    6,
    0,
-   0,
-   0
-  ],
-  [
-   "John Clark",
-   "Lady And The Tramps",
-   1.83,
-   18,
-   3,
-   7,
-   0,
-   0,
-   5,
-   2,
-   1,
    0,
    0
   ],
@@ -365,6 +350,21 @@
    0
   ],
   [
+   "Phil Warney",
+   "Gettin Looped",
+   1.79,
+   24,
+   6,
+   3,
+   1,
+   0,
+   10,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
    "Michael Justis",
    "4 Of Clubs",
    1.78,
@@ -380,16 +380,16 @@
    0
   ],
   [
-   "Phil Warney",
-   "Gettin Looped",
-   1.74,
+   "John Clark",
+   "Lady And The Tramps",
+   1.77,
    21,
-   6,
    3,
-   0,
-   0,
    10,
-   1,
+   0,
+   0,
+   5,
+   2,
    1,
    0,
    0
@@ -425,6 +425,21 @@
    0
   ],
   [
+   "Ben Vassallo",
+   "Lady And The Tramps",
+   1.73,
+   9,
+   4,
+   3,
+   0,
+   0,
+   3,
+   2,
+   0,
+   0,
+   0
+  ],
+  [
    "Mike Angora",
    "No Sleep",
    1.69,
@@ -440,10 +455,25 @@
    0
   ],
   [
+   "Skylar DAmico",
+   "The Critters",
+   1.69,
+   27,
+   8,
+   4,
+   0,
+   0,
+   6,
+   2,
+   2,
+   0,
+   0
+  ],
+  [
    "Scott Fry",
    "Thunderbuddies",
-   1.69,
-   24,
+   1.65,
+   27,
    4,
    9,
    0,
@@ -451,36 +481,6 @@
    8,
    3,
    1,
-   0,
-   0
-  ],
-  [
-   "Skylar DAmico",
-   "The Critters",
-   1.64,
-   24,
-   6,
-   3,
-   0,
-   0,
-   5,
-   2,
-   2,
-   0,
-   0
-  ],
-  [
-   "Ben Vassallo",
-   "Lady And The Tramps",
-   1.6,
-   6,
-   1,
-   3,
-   0,
-   0,
-   0,
-   2,
-   0,
    0,
    0
   ],
@@ -518,13 +518,13 @@
    "Tony Jackson",
    "Gettin Looped",
    1.47,
-   24,
+   27,
    4,
    11,
    0,
    0,
    6,
-   0,
+   1,
    0,
    0,
    0
@@ -590,30 +590,30 @@
    0
   ],
   [
-   "Debbie Olyer",
-   "Gettin Looped",
-   1.41,
+   "Casey Birch",
+   "The Critters",
+   1.45,
    24,
+   1,
+   7,
+   0,
+   0,
    5,
-   6,
-   0,
-   0,
-   2,
    1,
    0,
    0,
    0
   ],
   [
-   "Casey Birch",
-   "The Critters",
-   1.38,
-   21,
-   0,
-   6,
-   0,
-   0,
+   "Debbie Olyer",
+   "Gettin Looped",
+   1.41,
+   27,
    5,
+   7,
+   0,
+   0,
+   3,
    1,
    0,
    0,
@@ -742,10 +742,10 @@
   [
    "Rik Sawyer",
    "The Critters",
-   1.2,
-   21,
-   2,
-   5,
+   1.24,
+   24,
+   3,
+   6,
    0,
    0,
    1,
@@ -787,8 +787,8 @@
   [
    "David Pearce",
    "Thunderbuddies",
-   1.14,
-   21,
+   1.12,
+   24,
    4,
    9,
    0,
@@ -883,28 +883,28 @@
    3
   ],
   [
+   "Brian Sloan",
+   "The Critters",
+   18.94,
+   36,
+   16,
+   2,
+   0,
+   0,
+   0,
+   21
+  ],
+  [
    "Ian Heath",
    "Lady And The Tramps",
-   18.67,
-   24,
-   7,
+   18.56,
+   28,
+   8,
    2,
    0,
    0,
    1,
-   13
-  ],
-  [
-   "Brian Sloan",
-   "The Critters",
-   18.66,
-   32,
-   14,
-   1,
-   0,
-   0,
-   0,
-   16
+   14
   ],
   [
    "Kevin Rowland",
@@ -921,20 +921,8 @@
   [
    "Rick Ernst",
    "Gettin Looped",
-   18.3,
-   32,
-   7,
-   0,
-   0,
-   0,
-   0,
-   13
-  ],
-  [
-   "Phil Warney",
-   "Gettin Looped",
-   18.21,
-   28,
+   18.36,
+   36,
    7,
    0,
    0,
@@ -943,24 +931,12 @@
    14
   ],
   [
-   "Ben Deuel",
-   "Thunderbuddies",
-   17.93,
-   28,
-   9,
-   1,
-   0,
-   0,
-   0,
-   15
-  ],
-  [
-   "Skylar DAmico",
-   "The Critters",
-   17.88,
+   "Phil Warney",
+   "Gettin Looped",
+   18.29,
    32,
    9,
-   1,
+   0,
    0,
    0,
    0,
@@ -969,14 +945,38 @@
   [
    "Brad Wight",
    "Thunderbuddies",
-   17.85,
-   32,
+   17.99,
+   36,
    12,
    3,
    0,
    0,
    0,
-   12
+   15
+  ],
+  [
+   "Skylar DAmico",
+   "The Critters",
+   17.86,
+   36,
+   9,
+   1,
+   0,
+   0,
+   0,
+   19
+  ],
+  [
+   "Ben Deuel",
+   "Thunderbuddies",
+   17.69,
+   32,
+   12,
+   1,
+   0,
+   0,
+   0,
+   17
   ],
   [
    "Jim Barnard",
@@ -1029,14 +1029,14 @@
   [
    "Scott Fry",
    "Thunderbuddies",
-   16.7,
-   32,
-   6,
+   16.79,
+   36,
+   8,
    0,
    0,
    0,
    0,
-   10
+   11
   ],
   [
    "Michael Justis",
@@ -1053,26 +1053,26 @@
   [
    "John Clark",
    "Lady And The Tramps",
-   16.65,
-   24,
+   16.49,
+   28,
    4,
    0,
    0,
    0,
    0,
-   9
+   11
   ],
   [
    "Travis Hall",
    "Lady And The Tramps",
-   16.42,
-   28,
+   16.46,
+   32,
    8,
    0,
    0,
    0,
    0,
-   10
+   12
   ],
   [
    "Jordan Kiessling",
@@ -1135,22 +1135,22 @@
    8
   ],
   [
-   "Ben Vassallo",
-   "Lady And The Tramps",
+   "Debbie Olyer",
+   "Gettin Looped",
    14.99,
-   8,
-   2,
+   36,
+   6,
    0,
    0,
    0,
    0,
-   2
+   7
   ],
   [
    "Casey Birch",
    "The Critters",
-   14.74,
-   28,
+   14.85,
+   32,
    3,
    0,
    0,
@@ -1174,7 +1174,7 @@
    "Tony Jackson",
    "Gettin Looped",
    14.7,
-   32,
+   36,
    11,
    1,
    0,
@@ -1193,6 +1193,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Ben Vassallo",
+   "Lady And The Tramps",
+   14.65,
+   12,
+   2,
+   0,
+   0,
+   0,
+   0,
+   2
   ],
   [
    "Star Mattice",
@@ -1219,18 +1231,6 @@
    9
   ],
   [
-   "Debbie Olyer",
-   "Gettin Looped",
-   14.42,
-   32,
-   4,
-   0,
-   0,
-   0,
-   0,
-   4
-  ],
-  [
    "Mike Lewis",
    "Gettin Looped",
    14.25,
@@ -1241,18 +1241,6 @@
    0,
    0,
    1
-  ],
-  [
-   "Rik Sawyer",
-   "The Critters",
-   14.17,
-   28,
-   4,
-   0,
-   0,
-   0,
-   1,
-   6
   ],
   [
    "Fiona Nelson",
@@ -1277,6 +1265,18 @@
    0,
    0,
    4
+  ],
+  [
+   "Rik Sawyer",
+   "The Critters",
+   14.06,
+   32,
+   5,
+   0,
+   0,
+   0,
+   1,
+   6
   ],
   [
    "Debbie Lillie",
@@ -1341,9 +1341,9 @@
   [
    "David Pearce",
    "Thunderbuddies",
-   13.26,
-   28,
-   3,
+   13.24,
+   32,
+   4,
    0,
    0,
    0,
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-24T17:56:25Z"
+ "updated": "2026-11-25T02:36:05Z"
 }
