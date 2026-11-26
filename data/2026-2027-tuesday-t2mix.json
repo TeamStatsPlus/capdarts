@@ -574,6 +574,21 @@
    0
   ],
   [
+   "Tyler CannonBailey",
+   "Squeaky Wheel",
+   1.96,
+   6,
+   1,
+   0,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Robyn Ralston",
    "Sprinkles On Top",
    1.96,
@@ -600,21 +615,6 @@
    18,
    6,
    3,
-   0,
-   0
-  ],
-  [
-   "Tyler CannonBailey",
-   "Squeaky Wheel",
-   1.96,
-   6,
-   1,
-   0,
-   0,
-   0,
-   1,
-   1,
-   0,
    0,
    0
   ],
@@ -2121,5 +2121,5 @@
    "address": "4670 Dewey Ave, Rochester, NY 14612"
   }
  ],
- "updated": "2026-11-25T13:11:10Z"
+ "updated": "2026-11-26T05:10:36Z"
 }

@@ -133,16 +133,16 @@
     1.84
    ],
    [
-    "Paul Guadagna",
-    "Tipped Out",
-    1.55,
-    1.59
-   ],
-   [
     "Dan Mousseau Jr",
     "B And D",
     2.54,
     2.58
+   ],
+   [
+    "Paul Guadagna",
+    "Tipped Out",
+    1.55,
+    1.59
    ]
   ],
   "x": [
@@ -273,21 +273,6 @@
    0
   ],
   [
-   "Joe Scalise",
-   "2 Guys 1 Bull",
-   2.0,
-   36,
-   12,
-   9,
-   1,
-   0,
-   4,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Dan Carroll",
    "Not These Guys Again",
    2.0,
@@ -297,6 +282,21 @@
    1,
    0,
    7,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Joe Scalise",
+   "2 Guys 1 Bull",
+   2.0,
+   36,
+   12,
+   9,
+   1,
+   0,
+   4,
    1,
    0,
    0,
@@ -1527,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-25T22:39:00Z"
+ "updated": "2026-11-26T05:11:43Z"
 }

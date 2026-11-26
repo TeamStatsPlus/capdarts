@@ -126,10 +126,10 @@
     1.84
    ],
    [
-    "Tony Villani",
-    "Wrong Hole",
-    2.11,
-    2.18
+    "Bailey Plummer",
+    "Dartbags",
+    1.94,
+    2.01
    ]
   ],
   "x": [
@@ -350,21 +350,6 @@
    0
   ],
   [
-   "Sean Grimes",
-   "Wrong Hole",
-   2.27,
-   24,
-   7,
-   4,
-   3,
-   0,
-   7,
-   5,
-   3,
-   0,
-   0
-  ],
-  [
    "Sean Clarke",
    "Dartbags",
    2.27,
@@ -377,6 +362,21 @@
    4,
    2,
    1,
+   0
+  ],
+  [
+   "Sean Grimes",
+   "Wrong Hole",
+   2.27,
+   24,
+   7,
+   4,
+   3,
+   0,
+   7,
+   5,
+   3,
+   0,
    0
   ],
   [
@@ -560,21 +560,6 @@
    0
   ],
   [
-   "Marc Hinds",
-   "Roasted Shenanigans",
-   1.91,
-   6,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Matt Kraft",
    "Wrong Hole",
    1.91,
@@ -585,6 +570,21 @@
    0,
    6,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Marc Hinds",
+   "Roasted Shenanigans",
+   1.91,
+   6,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1894,5 +1894,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-25T22:37:46Z"
+ "updated": "2026-11-26T05:10:28Z"
 }
