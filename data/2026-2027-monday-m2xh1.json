@@ -146,16 +146,16 @@
     2.2
    ],
    [
-    "Zach Gooding",
-    "Ballsagna",
-    1.95,
-    1.98
-   ],
-   [
     "Carrie Shaw",
     "Couples Terapy",
     1.47,
     1.5
+   ],
+   [
+    "Lou Sanchez",
+    "Double Trouble",
+    1.2,
+    1.23
    ]
   ],
   "x": [
@@ -256,21 +256,6 @@
    0
   ],
   [
-   "Benjamin Gill",
-   "Who Darted",
-   1.78,
-   42,
-   17,
-   12,
-   0,
-   0,
-   10,
-   4,
-   2,
-   0,
-   0
-  ],
-  [
    "Jordyn Sullivan",
    "Girls Wanna Have Fun",
    1.78,
@@ -283,6 +268,21 @@
    5,
    2,
    1,
+   0
+  ],
+  [
+   "Benjamin Gill",
+   "Who Darted",
+   1.78,
+   42,
+   17,
+   12,
+   0,
+   0,
+   10,
+   4,
+   2,
+   0,
    0
   ],
   [
@@ -406,21 +406,6 @@
    0
   ],
   [
-   "Alyssa Rank",
-   "Dark Sharts",
-   1.43,
-   54,
-   23,
-   10,
-   0,
-   0,
-   6,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Ted Temple",
    "No Bulls",
    1.43,
@@ -430,6 +415,21 @@
    0,
    0,
    7,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Alyssa Rank",
+   "Dark Sharts",
+   1.43,
+   54,
+   23,
+   10,
+   0,
+   0,
+   6,
    1,
    2,
    0,
@@ -1650,5 +1650,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-26T05:10:11Z"
+ "updated": "2026-11-26T15:27:45Z"
 }

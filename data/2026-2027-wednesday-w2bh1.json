@@ -166,16 +166,16 @@
  "improved": {
   "c": [
    [
-    "Melissa Wallace",
-    "Girls Night",
-    2.2,
-    2.21
-   ],
-   [
     "Kelly Hodgkins",
     "Girls Night",
     1.46,
     1.47
+   ],
+   [
+    "Melissa Wallace",
+    "Girls Night",
+    2.2,
+    2.21
    ]
   ],
   "x": [
@@ -1821,5 +1821,5 @@
    "address": "49 N Main St, Fairport, NY 14610"
   }
  ],
- "updated": "2026-11-26T05:10:57Z"
+ "updated": "2026-11-26T15:28:34Z"
 }
