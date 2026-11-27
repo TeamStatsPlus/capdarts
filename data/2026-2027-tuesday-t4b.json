@@ -410,21 +410,6 @@
    0
   ],
   [
-   "Goel Adinoel",
-   "Goodlife",
-   1.93,
-   21,
-   3,
-   4,
-   0,
-   0,
-   6,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Jon Novitsky",
    "Dirty O Boys",
    1.93,
@@ -434,6 +419,21 @@
    0,
    0,
    3,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
+   "Goel Adinoel",
+   "Goodlife",
+   1.93,
+   21,
+   3,
+   4,
+   0,
+   0,
+   6,
    2,
    1,
    0,
@@ -1366,18 +1366,6 @@
    1
   ],
   [
-   "Jamey Trembley",
-   "Bad News Beers",
-   13.93,
-   28,
-   2,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Chyanel Adinoel",
    "Goodlife",
    13.93,
@@ -1388,6 +1376,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Jamey Trembley",
+   "Bad News Beers",
+   13.93,
+   28,
+   2,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Bryan McCarrell",
@@ -2029,5 +2029,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-26T05:10:40Z"
+ "updated": "2026-11-27T00:40:20Z"
 }

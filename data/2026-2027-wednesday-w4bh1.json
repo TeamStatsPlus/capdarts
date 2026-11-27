@@ -507,21 +507,6 @@
    0
   ],
   [
-   "Stephen Monahan",
-   "The Limp Wristers",
-   1.58,
-   21,
-   5,
-   9,
-   0,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Loucks",
    "3some Plus 1",
    1.58,
@@ -547,6 +532,21 @@
    0,
    0,
    3,
+   0,
+   0,
+   0
+  ],
+  [
+   "Stephen Monahan",
+   "The Limp Wristers",
+   1.58,
+   21,
+   5,
+   9,
+   0,
+   0,
+   0,
+   4,
    0,
    0,
    0
@@ -3057,5 +3057,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-26T15:28:57Z"
+ "updated": "2026-11-27T00:40:59Z"
 }

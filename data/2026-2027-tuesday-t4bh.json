@@ -120,16 +120,16 @@
     1.73
    ],
    [
-    "Casey Birch",
-    "The Critters",
-    1.38,
-    1.45
-   ],
-   [
     "Rick Ernst",
     "Gettin Looped",
     1.87,
     1.94
+   ],
+   [
+    "Casey Birch",
+    "The Critters",
+    1.38,
+    1.45
    ]
   ],
   "x": [
@@ -515,21 +515,6 @@
    0
   ],
   [
-   "Tony Jackson",
-   "Gettin Looped",
-   1.47,
-   27,
-   4,
-   11,
-   0,
-   0,
-   6,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Jimmy Mietus",
    "Team Name",
    1.47,
@@ -545,15 +530,15 @@
    0
   ],
   [
-   "Casey Birch",
-   "The Critters",
-   1.45,
-   24,
-   1,
-   7,
+   "Tony Jackson",
+   "Gettin Looped",
+   1.47,
+   27,
+   4,
+   11,
    0,
    0,
-   5,
+   6,
    1,
    0,
    0,
@@ -585,6 +570,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Casey Birch",
+   "The Critters",
+   1.45,
+   24,
+   1,
+   7,
+   0,
+   0,
+   5,
+   1,
    0,
    0,
    0
@@ -650,21 +650,6 @@
    0
   ],
   [
-   "Edward Gschrey",
-   "Team Name",
-   1.33,
-   18,
-   1,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Rowland",
    "Team Name",
    1.33,
@@ -674,6 +659,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   1.33,
+   18,
+   1,
+   2,
+   0,
+   0,
+   2,
    0,
    0,
    0,
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-26T15:28:23Z"
+ "updated": "2026-11-27T00:40:26Z"
 }

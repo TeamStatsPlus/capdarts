@@ -198,16 +198,16 @@
     2.13
    ],
    [
-    "Kevin Rowland",
-    "Off Target",
-    1.6,
-    1.65
-   ],
-   [
     "Dave Cortese",
     "Off Target",
     1.06,
     1.11
+   ],
+   [
+    "John Seward",
+    "RedEye",
+    1.39,
+    1.44
    ]
   ],
   "x": [
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Dave Biedrzycki",
-   "Here 4 The Beer",
-   1.95,
-   24,
-   9,
-   3,
-   0,
-   0,
-   8,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Rory Doran",
    "Bad News Beers",
    1.95,
@@ -683,17 +668,17 @@
    0
   ],
   [
-   "Matt Cortese",
-   "Off Target",
-   1.94,
-   18,
-   4,
-   1,
-   0,
-   0,
-   4,
+   "Dave Biedrzycki",
+   "Here 4 The Beer",
+   1.95,
+   24,
+   9,
    3,
-   1,
+   0,
+   0,
+   8,
+   4,
+   0,
    0,
    0
   ],
@@ -709,6 +694,21 @@
    3,
    1,
    4,
+   0,
+   0
+  ],
+  [
+   "Matt Cortese",
+   "Off Target",
+   1.94,
+   18,
+   4,
+   1,
+   0,
+   0,
+   4,
+   3,
+   1,
    0,
    0
   ],
@@ -833,21 +833,6 @@
    0
   ],
   [
-   "Scott Musial",
-   "The Shockers",
-   1.74,
-   27,
-   5,
-   4,
-   0,
-   0,
-   0,
-   6,
-   0,
-   0,
-   1
-  ],
-  [
    "Ryan Cuer",
    "RedEye",
    1.74,
@@ -861,6 +846,21 @@
    2,
    0,
    0
+  ],
+  [
+   "Scott Musial",
+   "The Shockers",
+   1.74,
+   27,
+   5,
+   4,
+   0,
+   0,
+   0,
+   6,
+   0,
+   0,
+   1
   ],
   [
    "Whitney Sawyer",
@@ -1058,6 +1058,21 @@
    0
   ],
   [
+   "Orion Wilkerson",
+   "IDF NightCaps",
+   1.54,
+   21,
+   3,
+   6,
+   0,
+   0,
+   3,
+   1,
+   0,
+   0,
+   0
+  ],
+  [
    "Ed Rowland",
    "ChJokers",
    1.54,
@@ -1083,21 +1098,6 @@
    0,
    2,
    2,
-   0,
-   0,
-   0
-  ],
-  [
-   "Orion Wilkerson",
-   "IDF NightCaps",
-   1.54,
-   21,
-   3,
-   6,
-   0,
-   0,
-   3,
-   1,
    0,
    0,
    0
@@ -1148,21 +1148,6 @@
    0
   ],
   [
-   "Amanda Paige",
-   "The Happy Accidents",
-   1.44,
-   24,
-   1,
-   6,
-   0,
-   0,
-   5,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "John Seward",
    "RedEye",
    1.44,
@@ -1172,6 +1157,21 @@
    0,
    0,
    2,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Amanda Paige",
+   "The Happy Accidents",
+   1.44,
+   24,
+   1,
+   6,
+   0,
+   0,
+   5,
    1,
    1,
    0,
@@ -3141,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-26T15:27:57Z"
+ "updated": "2026-11-27T00:40:02Z"
 }
