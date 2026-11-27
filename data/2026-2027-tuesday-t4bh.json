@@ -245,21 +245,6 @@
    0
   ],
   [
-   "Brian Sloan",
-   "The Critters",
-   1.92,
-   27,
-   8,
-   4,
-   3,
-   0,
-   7,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Philip Rowland",
    "Team Name",
    1.92,
@@ -270,6 +255,21 @@
    0,
    1,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Brian Sloan",
+   "The Critters",
+   1.92,
+   27,
+   8,
+   4,
+   3,
+   0,
+   7,
+   4,
    0,
    0,
    0
@@ -650,21 +650,6 @@
    0
   ],
   [
-   "Edward Gschrey",
-   "Team Name",
-   1.33,
-   18,
-   1,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Rowland",
    "Team Name",
    1.33,
@@ -674,6 +659,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   1.33,
+   18,
+   1,
+   2,
+   0,
+   0,
+   2,
    0,
    0,
    0,
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-27T09:45:03Z"
+ "updated": "2026-11-27T19:32:21Z"
 }
