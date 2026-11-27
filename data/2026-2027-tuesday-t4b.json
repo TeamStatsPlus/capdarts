@@ -410,21 +410,6 @@
    0
   ],
   [
-   "Jon Novitsky",
-   "Dirty O Boys",
-   1.93,
-   12,
-   6,
-   2,
-   0,
-   0,
-   3,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Goel Adinoel",
    "Goodlife",
    1.93,
@@ -440,17 +425,17 @@
    0
   ],
   [
-   "Jonathan Ling",
-   "Caps N Plaids",
-   1.91,
+   "Jon Novitsky",
+   "Dirty O Boys",
+   1.93,
+   12,
    6,
-   0,
    2,
    0,
    0,
+   3,
+   2,
    1,
-   1,
-   0,
    0,
    0
   ],
@@ -466,6 +451,21 @@
    2,
    1,
    3,
+   0,
+   0
+  ],
+  [
+   "Jonathan Ling",
+   "Caps N Plaids",
+   1.91,
+   6,
+   0,
+   2,
+   0,
+   0,
+   1,
+   1,
+   0,
    0,
    0
   ],
@@ -2029,5 +2029,5 @@
    "address": "630 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-27T00:40:20Z"
+ "updated": "2026-11-27T09:44:58Z"
 }

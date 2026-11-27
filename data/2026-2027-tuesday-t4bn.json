@@ -172,16 +172,16 @@
     2.18
    ],
    [
-    "Mike Fischer",
-    "Show Your Tips",
-    1.08,
-    1.17
-   ],
-   [
     "Will Zimmer",
     "AM Lumber",
     2.23,
     2.32
+   ],
+   [
+    "Mike Fischer",
+    "Show Your Tips",
+    1.08,
+    1.17
    ]
   ],
   "x": [
@@ -402,21 +402,6 @@
    0
   ],
   [
-   "Michael Bell",
-   "Is It In",
-   2.08,
-   24,
-   6,
-   9,
-   2,
-   0,
-   3,
-   3,
-   0,
-   0,
-   0
-  ],
-  [
    "Mike Tantalo",
    "AM Lumber",
    2.08,
@@ -443,6 +428,21 @@
    3,
    1,
    1,
+   0,
+   0
+  ],
+  [
+   "Michael Bell",
+   "Is It In",
+   2.08,
+   24,
+   6,
+   9,
+   2,
+   0,
+   3,
+   3,
+   0,
    0,
    0
   ],
@@ -492,21 +492,6 @@
    0
   ],
   [
-   "Brad Paradise",
-   "Dartbags",
-   1.98,
-   24,
-   8,
-   10,
-   0,
-   0,
-   7,
-   0,
-   1,
-   0,
-   0
-  ],
-  [
    "Jasen Torres",
    "Trippin On Trips",
    1.98,
@@ -518,6 +503,21 @@
    2,
    3,
    2,
+   0,
+   0
+  ],
+  [
+   "Brad Paradise",
+   "Dartbags",
+   1.98,
+   24,
+   8,
+   10,
+   0,
+   0,
+   7,
+   0,
+   1,
    0,
    0
   ],
@@ -792,6 +792,21 @@
    0
   ],
   [
+   "Mike Coyle",
+   "Fat Bastards",
+   1.64,
+   24,
+   4,
+   5,
+   0,
+   0,
+   3,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
    "Brian Leach",
    "Truckin Bulls",
    1.64,
@@ -833,21 +848,6 @@
    0,
    1,
    1,
-   0,
-   0
-  ],
-  [
-   "Mike Coyle",
-   "Fat Bastards",
-   1.64,
-   24,
-   4,
-   5,
-   0,
-   0,
-   3,
-   4,
-   0,
    0,
    0
   ],
@@ -912,21 +912,6 @@
    0
   ],
   [
-   "Sean New Wave",
-   "New Wave",
-   1.54,
-   3,
-   2,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Joel Mattison",
    "Truckin Bulls",
    1.54,
@@ -937,6 +922,21 @@
    0,
    3,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Sean New Wave",
+   "New Wave",
+   1.54,
+   3,
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1032,21 +1032,6 @@
    0
   ],
   [
-   "Joey Tortora",
-   "Points And Pints",
-   1.38,
-   24,
-   6,
-   4,
-   1,
-   0,
-   2,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Tricia Busardo",
    "Aiming Fluid",
    1.38,
@@ -1058,6 +1043,21 @@
    4,
    2,
    1,
+   0,
+   0
+  ],
+  [
+   "Joey Tortora",
+   "Points And Pints",
+   1.38,
+   24,
+   6,
+   4,
+   1,
+   0,
+   2,
+   1,
+   0,
    0,
    0
   ],
@@ -2769,5 +2769,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-27T00:40:32Z"
+ "updated": "2026-11-27T09:45:07Z"
 }

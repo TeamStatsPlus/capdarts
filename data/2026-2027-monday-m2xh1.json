@@ -146,16 +146,16 @@
     2.2
    ],
    [
+    "Lou Sanchez",
+    "Double Trouble",
+    1.2,
+    1.23
+   ],
+   [
     "Jessica Zimmerman",
     "Dark Sharts",
     1.41,
     1.44
-   ],
-   [
-    "Melissa Cocchiara",
-    "Bulleye Bandits",
-    1.19,
-    1.22
    ]
   ],
   "x": [
@@ -406,21 +406,6 @@
    0
   ],
   [
-   "Alyssa Rank",
-   "Dark Sharts",
-   1.43,
-   54,
-   23,
-   10,
-   0,
-   0,
-   6,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Ted Temple",
    "No Bulls",
    1.43,
@@ -430,6 +415,21 @@
    0,
    0,
    7,
+   1,
+   2,
+   0,
+   0
+  ],
+  [
+   "Alyssa Rank",
+   "Dark Sharts",
+   1.43,
+   54,
+   23,
+   10,
+   0,
+   0,
+   6,
    1,
    2,
    0,
@@ -1650,5 +1650,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-27T00:39:53Z"
+ "updated": "2026-11-27T09:44:30Z"
 }

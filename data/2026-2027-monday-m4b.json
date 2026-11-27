@@ -413,21 +413,6 @@
    0
   ],
   [
-   "Shondell Kirton",
-   "IDF NightCaps",
-   2.19,
-   21,
-   7,
-   4,
-   0,
-   0,
-   2,
-   7,
-   1,
-   0,
-   1
-  ],
-  [
    "Chad Pike",
    "Here 4 The Beer",
    2.19,
@@ -441,6 +426,21 @@
    2,
    0,
    0
+  ],
+  [
+   "Shondell Kirton",
+   "IDF NightCaps",
+   2.19,
+   21,
+   7,
+   4,
+   0,
+   0,
+   2,
+   7,
+   1,
+   0,
+   1
   ],
   [
    "Tim Smith",
@@ -488,21 +488,6 @@
    0
   ],
   [
-   "Steve Wemett",
-   "Good Smoke BBQ",
-   2.13,
-   6,
-   1,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Alan Porteous",
    "Slow Mother Chuckers",
    2.13,
@@ -514,6 +499,21 @@
    12,
    5,
    1,
+   0,
+   0
+  ],
+  [
+   "Steve Wemett",
+   "Good Smoke BBQ",
+   2.13,
+   6,
+   1,
+   2,
+   0,
+   0,
+   2,
+   0,
+   0,
    0,
    0
   ],
@@ -638,21 +638,6 @@
    0
   ],
   [
-   "Rory Doran",
-   "Bad News Beers",
-   1.95,
-   24,
-   10,
-   9,
-   1,
-   0,
-   2,
-   3,
-   0,
-   0,
-   1
-  ],
-  [
    "Dean Nicosia",
    "Money Shot",
    1.95,
@@ -681,6 +666,21 @@
    0,
    0,
    0
+  ],
+  [
+   "Rory Doran",
+   "Bad News Beers",
+   1.95,
+   24,
+   10,
+   9,
+   1,
+   0,
+   2,
+   3,
+   0,
+   0,
+   1
   ],
   [
    "David Caesar",
@@ -2116,18 +2116,6 @@
    1
   ],
   [
-   "Adam Smith",
-   "Halluciminatin",
-   14.99,
-   36,
-   4,
-   0,
-   0,
-   0,
-   0,
-   7
-  ],
-  [
    "Erin Cuer",
    "RedEye",
    14.99,
@@ -2138,6 +2126,18 @@
    0,
    0,
    5
+  ],
+  [
+   "Adam Smith",
+   "Halluciminatin",
+   14.99,
+   36,
+   4,
+   0,
+   0,
+   0,
+   0,
+   7
   ],
   [
    "Dave Cortese",
@@ -3141,5 +3141,5 @@
    "address": "2300 East Main St., Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-27T00:40:02Z"
+ "updated": "2026-11-27T09:44:40Z"
 }

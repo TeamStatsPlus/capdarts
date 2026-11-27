@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:41:35Z",
+ "updated": "2026-11-27T09:46:07Z",
  "standings": [
   [
    "No Clue",
@@ -398,21 +398,6 @@
    0
   ],
   [
-   "Shawn Bentley",
-   "Throwing Shade",
-   2.61,
-   48,
-   18,
-   11,
-   3,
-   1,
-   28,
-   13,
-   13,
-   0,
-   0
-  ],
-  [
    "Erica Wall",
    "TakingNamesTakingAim",
    2.61,
@@ -425,6 +410,21 @@
    9,
    5,
    2,
+   0
+  ],
+  [
+   "Shawn Bentley",
+   "Throwing Shade",
+   2.61,
+   48,
+   18,
+   11,
+   3,
+   1,
+   28,
+   13,
+   13,
+   0,
    0
   ],
   [
@@ -991,18 +991,6 @@
    9
   ],
   [
-   "Archie Donaldson",
-   "Revenge",
-   20.75,
-   56,
-   9,
-   6,
-   0,
-   0,
-   2,
-   77
-  ],
-  [
    "Jason Arena",
    "Throwing Shade",
    20.75,
@@ -1013,6 +1001,18 @@
    0,
    4,
    73
+  ],
+  [
+   "Archie Donaldson",
+   "Revenge",
+   20.75,
+   56,
+   9,
+   6,
+   0,
+   0,
+   2,
+   77
   ],
   [
    "Chris Contrera",
