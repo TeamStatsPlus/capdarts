@@ -372,21 +372,6 @@
    0
   ],
   [
-   "Jose Santiago",
-   "Dartbags",
-   2.1,
-   24,
-   9,
-   4,
-   2,
-   0,
-   5,
-   5,
-   2,
-   0,
-   0
-  ],
-  [
    "Tyler Giorgione",
    "Trippin On Trips",
    2.1,
@@ -402,17 +387,17 @@
    0
   ],
   [
-   "Mike Tantalo",
-   "AM Lumber",
-   2.08,
+   "Jose Santiago",
+   "Dartbags",
+   2.1,
+   24,
    9,
-   3,
-   3,
-   0,
-   0,
+   4,
    2,
+   0,
+   5,
+   5,
    2,
-   1,
    0,
    0
   ],
@@ -447,6 +432,21 @@
    0
   ],
   [
+   "Mike Tantalo",
+   "AM Lumber",
+   2.08,
+   9,
+   3,
+   3,
+   0,
+   0,
+   2,
+   2,
+   1,
+   0,
+   0
+  ],
+  [
    "Alex Riley",
    "New Wave",
    2.04,
@@ -462,21 +462,6 @@
    0
   ],
   [
-   "Mike Bisig",
-   "Trippin On Trips",
-   2.01,
-   24,
-   11,
-   8,
-   1,
-   0,
-   9,
-   1,
-   2,
-   0,
-   0
-  ],
-  [
    "Barry Barklund",
    "Dartbags",
    2.01,
@@ -488,6 +473,21 @@
    4,
    1,
    3,
+   0,
+   0
+  ],
+  [
+   "Mike Bisig",
+   "Trippin On Trips",
+   2.01,
+   24,
+   11,
+   8,
+   1,
+   0,
+   9,
+   1,
+   2,
    0,
    0
   ],
@@ -537,21 +537,6 @@
    0
   ],
   [
-   "Dave Grouse",
-   "New Wave",
-   1.96,
-   15,
-   3,
-   5,
-   0,
-   0,
-   4,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Scott Tartaglia",
    "New Wave",
    1.96,
@@ -567,17 +552,17 @@
    0
   ],
   [
-   "Anthony Kelly",
-   "AM Lumber",
-   1.94,
+   "Dave Grouse",
+   "New Wave",
+   1.96,
+   15,
    3,
+   5,
    0,
-   3,
    0,
-   0,
+   4,
+   2,
    1,
-   0,
-   0,
    0,
    0
   ],
@@ -591,6 +576,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Anthony Kelly",
+   "AM Lumber",
+   1.94,
+   3,
+   0,
+   3,
+   0,
+   0,
+   1,
    0,
    0,
    0,
@@ -792,36 +792,6 @@
    0
   ],
   [
-   "Joe Tortora",
-   "Points And Pints",
-   1.64,
-   24,
-   8,
-   2,
-   2,
-   0,
-   0,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
-   "Mike Coyle",
-   "Fat Bastards",
-   1.64,
-   24,
-   4,
-   5,
-   0,
-   0,
-   3,
-   4,
-   0,
-   0,
-   0
-  ],
-  [
    "Brian Leach",
    "Truckin Bulls",
    1.64,
@@ -848,6 +818,36 @@
    3,
    3,
    1,
+   0,
+   0
+  ],
+  [
+   "Joe Tortora",
+   "Points And Pints",
+   1.64,
+   24,
+   8,
+   2,
+   2,
+   0,
+   0,
+   1,
+   1,
+   0,
+   0
+  ],
+  [
+   "Mike Coyle",
+   "Fat Bastards",
+   1.64,
+   24,
+   4,
+   5,
+   0,
+   0,
+   3,
+   4,
+   0,
    0,
    0
   ],
@@ -1032,21 +1032,6 @@
    0
   ],
   [
-   "Tricia Busardo",
-   "Aiming Fluid",
-   1.38,
-   27,
-   2,
-   6,
-   0,
-   0,
-   4,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Joey Tortora",
    "Points And Pints",
    1.38,
@@ -1058,6 +1043,21 @@
    2,
    1,
    0,
+   0,
+   0
+  ],
+  [
+   "Tricia Busardo",
+   "Aiming Fluid",
+   1.38,
+   27,
+   2,
+   6,
+   0,
+   0,
+   4,
+   2,
+   1,
    0,
    0
   ],
@@ -1865,18 +1865,6 @@
    0
   ],
   [
-   "Justin Ricci",
-   "Show Your Tips",
-   13.47,
-   4,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kathy Bailey",
    "Chicks And Dicks",
    13.47,
@@ -1887,6 +1875,18 @@
    0,
    0,
    1
+  ],
+  [
+   "Justin Ricci",
+   "Show Your Tips",
+   13.47,
+   4,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
   ],
   [
    "Kevin Adams",
@@ -2769,5 +2769,5 @@
    "address": "428 Manitou Rd., Hilton, NY 14468"
   }
  ],
- "updated": "2026-11-28T02:48:03Z"
+ "updated": "2026-11-28T11:59:34Z"
 }

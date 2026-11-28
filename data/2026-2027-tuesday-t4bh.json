@@ -120,16 +120,16 @@
     1.73
    ],
    [
-    "Casey Birch",
-    "The Critters",
-    1.38,
-    1.45
-   ],
-   [
     "Rick Ernst",
     "Gettin Looped",
     1.87,
     1.94
+   ],
+   [
+    "Casey Birch",
+    "The Critters",
+    1.38,
+    1.45
    ]
   ],
   "x": [
@@ -545,21 +545,6 @@
    0
   ],
   [
-   "Casey Birch",
-   "The Critters",
-   1.45,
-   24,
-   1,
-   7,
-   0,
-   0,
-   5,
-   1,
-   0,
-   0,
-   0
-  ],
-  [
    "Mitch Jag",
    "Thats Bullshoot",
    1.45,
@@ -585,6 +570,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Casey Birch",
+   "The Critters",
+   1.45,
+   24,
+   1,
+   7,
+   0,
+   0,
+   5,
+   1,
    0,
    0,
    0
@@ -650,21 +650,6 @@
    0
   ],
   [
-   "Edward Gschrey",
-   "Team Name",
-   1.33,
-   18,
-   1,
-   2,
-   0,
-   0,
-   2,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Kevin Rowland",
    "Team Name",
    1.33,
@@ -674,6 +659,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Edward Gschrey",
+   "Team Name",
+   1.33,
+   18,
+   1,
+   2,
+   0,
+   0,
+   2,
    0,
    0,
    0,
@@ -2008,5 +2008,5 @@
    "address": "18 Bennington Green, Rochester, NY 14616"
   }
  ],
- "updated": "2026-11-28T02:47:58Z"
+ "updated": "2026-11-28T11:59:28Z"
 }

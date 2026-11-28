@@ -133,16 +133,16 @@
     1.84
    ],
    [
-    "Dan Mousseau Jr",
-    "B And D",
-    2.54,
-    2.58
-   ],
-   [
     "Paul Guadagna",
     "Tipped Out",
     1.55,
     1.59
+   ],
+   [
+    "Dan Mousseau Jr",
+    "B And D",
+    2.54,
+    2.58
    ]
   ],
   "x": [
@@ -363,21 +363,6 @@
    0
   ],
   [
-   "Brian Pintagro",
-   "Dave N Buster",
-   1.8,
-   42,
-   12,
-   5,
-   4,
-   0,
-   4,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Jon Green",
    "Split Decision",
    1.8,
@@ -389,6 +374,21 @@
    9,
    4,
    2,
+   0,
+   0
+  ],
+  [
+   "Brian Pintagro",
+   "Dave N Buster",
+   1.8,
+   42,
+   12,
+   5,
+   4,
+   0,
+   4,
+   1,
+   1,
    0,
    0
   ],
@@ -1527,5 +1527,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-28T02:48:57Z"
+ "updated": "2026-11-28T12:00:29Z"
 }
