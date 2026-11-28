@@ -366,6 +366,21 @@
    0
   ],
   [
+   "Sean Crowell",
+   "The Dartbags",
+   2.17,
+   42,
+   12,
+   2,
+   0,
+   0,
+   15,
+   2,
+   4,
+   0,
+   0
+  ],
+  [
    "David Caesar",
    "Night Shot",
    2.17,
@@ -392,21 +407,6 @@
    17,
    4,
    2,
-   0,
-   0
-  ],
-  [
-   "Sean Crowell",
-   "The Dartbags",
-   2.17,
-   42,
-   12,
-   2,
-   0,
-   0,
-   15,
-   2,
-   4,
    0,
    0
   ],
@@ -2285,5 +2285,5 @@
    "address": "510 Monroe Ave, Rochester, NY 14607"
   }
  ],
- "updated": "2026-11-26T05:09:54Z"
+ "updated": "2026-11-28T02:47:03Z"
 }

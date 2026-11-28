@@ -507,6 +507,21 @@
    0
   ],
   [
+   "Stephen Monahan",
+   "The Limp Wristers",
+   1.58,
+   21,
+   5,
+   9,
+   0,
+   0,
+   0,
+   4,
+   0,
+   0,
+   0
+  ],
+  [
    "Mike Loucks",
    "3some Plus 1",
    1.58,
@@ -532,21 +547,6 @@
    0,
    0,
    3,
-   0,
-   0,
-   0
-  ],
-  [
-   "Stephen Monahan",
-   "The Limp Wristers",
-   1.58,
-   21,
-   5,
-   9,
-   0,
-   0,
-   0,
-   4,
    0,
    0,
    0
@@ -597,21 +597,6 @@
    0
   ],
   [
-   "Chris Murgatroyd",
-   "Double Deuces",
-   1.53,
-   18,
-   5,
-   5,
-   0,
-   0,
-   2,
-   2,
-   1,
-   0,
-   0
-  ],
-  [
    "Danielle Henry",
    "The Limp Wristers",
    1.53,
@@ -624,6 +609,21 @@
    1,
    0,
    2,
+   0
+  ],
+  [
+   "Chris Murgatroyd",
+   "Double Deuces",
+   1.53,
+   18,
+   5,
+   5,
+   0,
+   0,
+   2,
+   2,
+   1,
+   0,
    0
   ],
   [
@@ -777,21 +777,6 @@
    0
   ],
   [
-   "Josh Struggle Bus",
-   "Struggle Bus",
-   1.35,
-   3,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Christa Herbst",
    "Cant Close",
    1.35,
@@ -817,6 +802,21 @@
    0,
    2,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Josh Struggle Bus",
+   "Struggle Bus",
+   1.35,
+   3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
    0,
    0,
    0
@@ -1212,21 +1212,6 @@
    0
   ],
   [
-   "Carly Kostiw",
-   "Squeekertips",
-   0.97,
-   18,
-   1,
-   4,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Lydia Wheeler",
    "Shart Shooters",
    0.97,
@@ -1237,6 +1222,21 @@
    0,
    0,
    1,
+   0,
+   0,
+   0
+  ],
+  [
+   "Carly Kostiw",
+   "Squeekertips",
+   0.97,
+   18,
+   1,
+   4,
+   0,
+   0,
+   1,
+   0,
    0,
    0,
    0
@@ -1257,21 +1257,6 @@
    0
   ],
   [
-   "Tracy Waud",
-   "Shart Shooters",
-   0.91,
-   21,
-   2,
-   7,
-   0,
-   0,
-   4,
-   0,
-   0,
-   0,
-   0
-  ],
-  [
    "Hayley Perine",
    "Throwgasms",
    0.91,
@@ -1281,6 +1266,21 @@
    0,
    0,
    0,
+   0,
+   0,
+   0,
+   0
+  ],
+  [
+   "Tracy Waud",
+   "Shart Shooters",
+   0.91,
+   21,
+   2,
+   7,
+   0,
+   0,
+   4,
    0,
    0,
    0,
@@ -1715,18 +1715,6 @@
    5
   ],
   [
-   "Geoff Milunich",
-   "Tips Dont Lie",
-   14.42,
-   24,
-   7,
-   0,
-   0,
-   0,
-   0,
-   5
-  ],
-  [
    "Stephanie Carlson",
    "The Limp Wristers",
    14.42,
@@ -1737,6 +1725,18 @@
    0,
    0,
    0
+  ],
+  [
+   "Geoff Milunich",
+   "Tips Dont Lie",
+   14.42,
+   24,
+   7,
+   0,
+   0,
+   0,
+   0,
+   5
   ],
   [
    "Jason Post",
@@ -1799,8 +1799,8 @@
    2
   ],
   [
-   "Mark Pelcher",
-   "Emerald Society",
+   "Tyler Campbell",
+   "Throwgasms",
    14.15,
    4,
    0,
@@ -1811,8 +1811,8 @@
    1
   ],
   [
-   "Tyler Campbell",
-   "Throwgasms",
+   "Mark Pelcher",
+   "Emerald Society",
    14.15,
    4,
    0,
@@ -3057,5 +3057,5 @@
    "address": "127 Railroad St., Suite 120, Rochester, NY 14609"
   }
  ],
- "updated": "2026-11-27T19:32:54Z"
+ "updated": "2026-11-28T02:48:30Z"
 }

@@ -146,16 +146,16 @@
     2.2
    ],
    [
-    "Lou Sanchez",
-    "Double Trouble",
-    1.2,
-    1.23
+    "Zach Gooding",
+    "Ballsagna",
+    1.95,
+    1.98
    ],
    [
-    "Jessica Zimmerman",
-    "Dark Sharts",
-    1.41,
-    1.44
+    "Carrie Shaw",
+    "Couples Terapy",
+    1.47,
+    1.5
    ]
   ],
   "x": [
@@ -196,21 +196,6 @@
    0
   ],
   [
-   "Chris Wagner",
-   "636ers",
-   1.98,
-   36,
-   13,
-   10,
-   2,
-   0,
-   8,
-   1,
-   1,
-   0,
-   0
-  ],
-  [
    "Zach Gooding",
    "Ballsagna",
    1.98,
@@ -222,6 +207,21 @@
    14,
    2,
    3,
+   0,
+   0
+  ],
+  [
+   "Chris Wagner",
+   "636ers",
+   1.98,
+   36,
+   13,
+   10,
+   2,
+   0,
+   8,
+   1,
+   1,
    0,
    0
   ],
@@ -256,21 +256,6 @@
    0
   ],
   [
-   "Jordyn Sullivan",
-   "Girls Wanna Have Fun",
-   1.78,
-   42,
-   10,
-   8,
-   0,
-   0,
-   6,
-   5,
-   2,
-   1,
-   0
-  ],
-  [
    "Benjamin Gill",
    "Who Darted",
    1.78,
@@ -283,6 +268,21 @@
    4,
    2,
    0,
+   0
+  ],
+  [
+   "Jordyn Sullivan",
+   "Girls Wanna Have Fun",
+   1.78,
+   42,
+   10,
+   8,
+   0,
+   0,
+   6,
+   5,
+   2,
+   1,
    0
   ],
   [
@@ -744,18 +744,6 @@
    30
   ],
   [
-   "Kendra Loya",
-   "Who Darted",
-   16.52,
-   56,
-   17,
-   1,
-   0,
-   0,
-   0,
-   26
-  ],
-  [
    "Ed Rowland",
    "Double Trouble",
    16.52,
@@ -766,6 +754,18 @@
    0,
    0,
    2
+  ],
+  [
+   "Kendra Loya",
+   "Who Darted",
+   16.52,
+   56,
+   17,
+   1,
+   0,
+   0,
+   0,
+   26
   ],
   [
    "Ted Temple",
@@ -1650,5 +1650,5 @@
    "address": "3115 East Henrietta Rd, Rochester, NY 14610"
   }
  ],
- "updated": "2026-11-27T19:31:48Z"
+ "updated": "2026-11-28T02:47:20Z"
 }

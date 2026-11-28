@@ -120,16 +120,16 @@
     2.12
    ],
    [
-    "John Lyn",
-    "Cant Hit Bull",
-    1.62,
-    1.63
-   ],
-   [
     "John Lehman",
     "BullsDeep",
     1.66,
     1.67
+   ],
+   [
+    "John Lyn",
+    "Cant Hit Bull",
+    1.62,
+    1.63
    ]
   ],
   "x": [
@@ -1306,5 +1306,5 @@
    "address": "213 Main St, E. Rochester, NY 14445"
   }
  ],
- "updated": "2026-11-27T19:32:37Z"
+ "updated": "2026-11-28T02:48:13Z"
 }
